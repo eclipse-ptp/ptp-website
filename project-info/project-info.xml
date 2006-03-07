@@ -1,0 +1,37 @@
+<project>
+	<short-name>PTP</short-name>
+	<bugzilla>
+		<product name="PTP"/>
+	</bugzilla>
+	<committers url="/ptp/contributors.html"/>
+	<contributors url="/ptp/contributors.html"/>
+	<leaders url="/ptp/contributors.html"/>
+	
+	<cvs repository="/cvsroot/technology/">
+		<module path="org.eclipse.ptp"/>
+	</cvs>
+
+	<description url="/ptp/description.php" paragraph-url="/ptp/project-info/project-page-paragraph.html"/>
+
+	<summary paragraph-url="/ptp/project-info/executive-summary.html"/>
+
+	<getting-started url="/ptp/faq.html"/>
+
+	<!--
+	<ip-log url=""/>
+	-->
+	
+	<mailing-lists>
+		<list name="ptp-dev"/>
+	</mailing-lists>
+	
+ 	<newsgroups>
+		<newsgroup name="eclipse.technology.ptp"/>
+	</newsgroups>
+
+	<project-plan url="/ptp/docs/plan.html"/>
+	
+	<releases>
+		<release status="scheduled" name="1.0" date="03/2006" download="/ptp/downloads.html"/>
+	</releases>
+</project>
