@@ -1,17 +1,18 @@
 <!doctype html public "-//w3c//dtd html 4.0 transitional//en"><html><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><title>ptp faq</title><link rel="stylesheet" href="../default_style.css" type="text/css"></head><body text="#000000" bgcolor="#ffffff" link="#0000ee" vlink="#551a8b" alink="#ff0000"><table border=0 cellspacing=5 cellpadding=2 width="100%">  <tbody>    <tr>      <td width="69%" class="bannertext">        <font class="indextop style2">ptp faq </font><br>        <font class="indexsub">parallel tools platform subproject </font>      </td>      <td width="31%">        <div align="center">          <img src="../images/Idea.jpg" width="120" height="86" hspace="50" align="middle">        </div>      </td>    </tr>  </tbody></table><table border=0 cellspacing=5 cellpadding=2 width="100%">  <tr>    <td align=left valign=top bgcolor="#0080C0">      <b><font color="#FFFFFF" face="Arial,Helvetica">Frequently Asked Questions</font></b></td>  </tr>  <tr>    <td>      <ul>        <li><a href="#faq1">Q1: How do I download PTP?</a></li>        <li><a href="#faq2">Q2: What version of Eclipse and CDT do I need?</a> </li>        <li><a href="#faq3">Q3: What version of MPI do I need to run PTP?</a> </li>
         <li><a href="#faq4">Q4: What platforms and runtimes are supported by PTP now?</a> </li>
         <li><a href="#faq5">Q5: I'm seeing [strange behavior]...</a> </li>
+        <li><a href="#faq6">Q5: How do I install OpenMPI?</a> </li>
         
         
       </ul>      <hr>    <p><b><font size="3"><a name="faq1" id="faq1"></a>Q1:</font></b> 
-    How do I download PTP? </p>    <p><b><font size="3">A:</font></b> There are currently (Feb. 2006) no releases of the core PTP software. 
-    (That is, the parallel runtime and parallel debugger.)    You can download the PTP source code from the <a href="cvs.html">CVS repository</a>,
-    build it yourself, 
-    and take a look at the current implementation. 
-     PTP also requires
+    How do I download PTP? </p>    <p><b><font size="3">A:</font></b> We finally have (Mar. 2006) the RC3 (Release Candidate 3) release of the core PTP software. 
+    (That is, the parallel runtime and parallel debugger.)
+        <p>
+    You can download it from the <a href="downloads.html">PTP download page</a>; check regularly there for new releases, too. </p>
+    <p>     PTP also requires
     <a href="http://www.open-mpi.org/software/ompi/v1.0/">OpenMPI v1.0.2</a>
     for the core PTP functionality. 
-    <p>    Check the <a href="downloads.html">PTP download page</a> regularly for new releases. </p>    <p>The PTP MPI Development tools, and the Fortran Development Tools, are already available.    See the <a href="downloads.html">PTP download page</a>.    <hr>    
+    <p>The PTP MPI Development tools, and the Fortran Development Tools, are already available.    See the <a href="downloads.html">PTP download page</a>.    <hr>    
     <p><b><font size="3"><a name="faq2" id="faq2"></a>Q2:</font></b> What version of Eclipse and CDT do I need? </p>    <p><b><font size="3">A:</font></b> PTP is designed to work with Eclipse 3.1.     The Fortran Development Tools are designed to work with CDT 3.0,     however we will endeavor to build FDT against the latest milestone releases of CDT. </p>
     The MPI development tools also require CDT 3.0.x.
     <hr>    
@@ -48,7 +49,7 @@ It simply requires any version of MPI (specifically, its header files) to
 aid in the search for MPI artifacts.
     
         <hr>
-    <p><b><font size="3"><a name="faq5" id="faq4"></a>Q5:</font></b>
+    <p><b><font size="3"><a name="faq5" id="faq5"></a>Q5:</font></b>
    I'm seeing (a) not finding many symbols when building PTP, or (b)
    [some incorrect behavior, need to document what the symptoms are] 
    when running PTP. What's wrong?</p>
@@ -56,5 +57,39 @@ aid in the search for MPI artifacts.
     of any other MPI implementation you have installed.
     
         <hr>
+    <p><b><font size="3"><a name="faq6" id="faq6"></a>Q6:</font></b>
+   How do I install OpenMPI?</p>
+    <p><b><font size="3">A:</font></b> Download the latest 1.0.2 version
+    of OpenMPI from <a href="http://www.open-mpi.org/software/ompi/v1.0/">the OpenMPI download site.</a>
     
-    </td>  </tr></table><p>Updated 27 Feb 2006</body></html>
+Currently (March 2006) OpenMPI 1.0.2 is (pending) alpha.    
+Don't worry, it works fine for us.
+<p>
+Be sure to run <code>configure</code> to match how you intend to install PTP.
+<ol>
+<li>If you intend to install PTP from the download site (pre-built), then
+most of the defaults work.
+<pre>
+./configure --prefix=/path/to/your/ompi/install
+make all
+make install
+</pre>
+<li>If you intend to download PTP source from CVS and build it yourself,
+then be sure to run OpenMPI's <code>configure</code> "with development headers"
+<pre>
+./configure --with-devel-headers --prefix=/path/to/your/ompi/install
+make all
+make install
+</pre>
+</ol>
+Be sure and put it in your PATH.
+<p>
+At this point it's a good idea to run a small mpi program to test you have
+installed OpenMPI correctly.
+<pre>
+mpicc helloMPI.c -o hello
+mpirun -np 2 hello
+</pre>
+    
+        <hr>  
+    </td>  </tr></table><p>Updated 9 March 2006</body></html>
