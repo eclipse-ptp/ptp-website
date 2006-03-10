@@ -1,0 +1,143 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en"><html><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><title>PTP Build procedure</title><link rel="stylesheet" href="../default_style.css" type="text/css"></head><body text="#000000" bgcolor="#ffffff" link="#0000ee" vlink="#551a8b" alink="#ff0000"><table border=0 cellspacing=5 cellpadding=2 width="100%">  <tbody>    <tr>      <td width="69%" class="bannertext">        <font class="indextop style2">PTP Build procedure </font><br>        <font class="indexsub">parallel tools platform subproject </font>      </td>      <td width="31%">        <div align="center">          <img src="../images/Idea.jpg" width="120" height="86" hspace="50" align="middle">        </div>      </td>    </tr>  </tbody></table><table border=0 cellspacing=5 cellpadding=2 width="100%">  <tr>    <td align=left valign=top bgcolor="#0080C0">      <b><font color="#FFFFFF" face="Arial,Helvetica">PTP Build Procedure</font></b></td>  </tr>  <tr>    <td>     <h1>Current PTP build Procedure</h1>
+
+     <p>We have had several questions about building PTP from the
+     CVS source. If you are downloading PTP from the
+     <a href="../downloads.html">downloads</a> site, then stop reading,
+     you don't need this.  If, however, you want or need the latest
+     PTP from CVS and want to build it yourself, keep reading.
+     <p>There is also information near the bottom of this page about
+     cleaning up old OpenMPI things between PTP invocations.
+     
+   <ol>
+    <li>Download and build OpenMPI:  See 
+    <a href="../faq.html#faq6">FAQ #6</a>.  Be sure
+    to build <code>--with-devel-headers</code>.
+    <p>&nbsp;
+    <li>Set up to get to eclipse.org CVS via Eclipse.
+    <br>Create a new CVS repository location:
+    <ul>
+    <li>Connection type: pserver</li>
+    <li>User: anonymous</li>
+    <li>Password: (leave blank)</li>
+    <li> Host: dev.eclipse.org</li>
+    <li> Repository path: /cvsroot/technology
+    <li>Use default port
+    </ul>
+    <p>Now open up org.eclipse.ptp under /cvsroot/technology.
+    <p>
+    <li>Build orte_server (Open Run Time Environment server):
+<ol type="a">
+<li> Make sure you have the following PTP projects from CVS, in org.eclipse.ptp, under 'core' folder
+<ul>
+<li><code>org.eclipse.ptp.orte</code>
+<li><code>org.eclipse.ptp.orte.OS.ARCH</code> -       to match your operating system and
+architecture, e.g. org.eclipse.ptp.orte.linux.x86
+<li><code>org.eclipse.ptp.proxy</code>
+<li><code>org.eclipse.ptp.utils</code>
+<br>(get the others that are not other platforms too, if you want.
+You will need them later to build the Eclipse plug-ins.)
+</ul>
+<li> Create and run an external command for 'configure' in the directory
+org.eclipse.ptp.orte (or change to this directory and run './configure'
+manually). This will configure all three directories.
+
+<li>  Run the 'all' make target for org.eclipse.ptp.orte (or change to this
+directory and run 'make all' manually). This will build the proxy and utils
+libraries and the orte_server executable.
+
+<li> Create and run an external command for 'INSTALL' in the directory
+org.eclipse.ptp.orte (or change to this directory and run './INSTALL'
+manually). This will copy the executable to the appropriate location in
+org.eclipse.ptp.orte.OS.ARCH.  
+<br><b>Note:</b> you will probably have to make it
+executable e.g. chmod +x INSTALL
+</ol>
+<p>
+<li>Build SDM (Scalable Debug Manager):
+<ol type="a">
+<li> Make sure you have the following projects from CVS, in org.eclipse.ptp, under 'debug' folder
+<ul>
+<li><code>org.eclipse.ptp.debug.sdm</code>
+<li><code>org.eclipse.ptp.debug.sdm.orte.OS.ARCH</code>
+<br>(get the others that are not other platforms too, if you want.
+You will need them later to build the Eclipse plug-ins.)
+</ul>
+<li> Create and run an external command for 'configure' in the directory
+org.eclipse.ptp.debug.sdm (or change to this directory and run
+'./configure' manually). This will configure all three directories.
+
+<li> Run the 'all' make target for org.eclipse.ptp.debug.sdm (or change to
+this directory and run 'make all' manually). This will build the proxy and
+utils libraries and the sdm executable.
+
+<li> Create and run an external command for 'INSTALL'' in the directory
+org.eclipse.ptp.debug.sdm (or change to this directory and run './INSTALL'
+manually). This will copy the executable to the appropriate location in
+org.eclipse.ptp.debug.sdm.orte.OS.ARCH.   
+<br><b>Note:</b> you will probably have to
+make it executable e.g. chmod +x INSTALL
+</ol>
+<p>
+<li> The rest of the story
+<p>
+The above steps build the C projects that are part of PTP.
+Be sure to also check out the Java/PDE projects to build the Eclipse part
+of PTP.
+Projects to check out include:
+
+<br>--core--
+<ul>
+<li><code>org.eclipse.ptp.core</code>
+<li><code>org.eclipse.ptp.launch</code>
+<li><code>org.eclipse.ptp.help</code>
+<li><code>org.eclipse.ptp.ui</code>
+</ul>
+<br>--debug--
+<ul>
+<li><code>org.eclipse.ptp.debug.core</code>
+<li><code>org.eclipse.ptp.debug.external.core</code>
+<li><code>org.eclipse.ptp.debug.external.ui</code>
+<li><code>org.eclipse.ptp.debug.ui</code>
+</ul>
+
+<br>--doc-- 
+<ul>
+<li><code>org.eclipse.ptp.help</code>
+
+</ul>
+<br>--tools-- (optional)
+<ul>
+<li><code>org.eclipse.ptp.mpi.core</code>
+<li><code>org.eclipse.ptp.mpi.help</code>
+</ul>
+<p>
+<li>Assuming everything builds successfully, then launch an Eclipse
+application with the above plug-ins included, proceed with a
+CDT project and create a source file, and launch a parallel application.
+See the <a href="../documentation/org.eclipse.ptp.help/html/toc.html">PTP help</a> for details on running.
+
+<p>
+<li>Until we resolve some issues with OpenMPI, we suggest doing the
+following before each subsequent invocation of PTP, to kill old ompi things
+hanging around:
+<pre>
+$ cat cleanupOmpi.sh
+#!/bin/sh
+echo openMPI cleanup for PTP...
+echo killing orted processes
+killall -9 orted
+
+echo killing ompi_server processes
+killall -9 orte_server
+
+echo kill dsm or gdb processes if were debugging
+killall -9 sdm gdb
+
+echo Remove any directories starting with openmpi in /tmp
+rm -rf /tmp/openmpi*
+
+echo now try launching PTP again.
+</pre>
+    </ol>
+    </td>  </tr></table>
+     <p>Updated 10 March 2006<p></body></html>
