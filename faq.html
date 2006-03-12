@@ -3,7 +3,7 @@
         <li><a href="#faq5">Q5: I'm seeing [strange behavior]...</a> </li>
         <li><a href="#faq6">Q6: How do I install OpenMPI?</a> </li>
         <li><a href="#faq7">Q7: How do I build PTP myself?</a> </li>
-        
+          <li><a href="#faq8">Q8:  I see the error popup "There was an error staring the OMPI proxy runtime ..."</a> </li>
         
       </ul>      <hr>    <p><b><font size="3"><a name="faq1" id="faq1"></a>Q1:</font></b> 
     How do I download PTP? </p>    <p><b><font size="3">A:</font></b> We finally have (Mar. 2006) the RC3 (Release Candidate 3) release of the core PTP software. 
@@ -103,4 +103,18 @@ mpirun -np 2 hello
  
 
         <hr>  
-    </td>  </tr></table><p>Updated 10 March 2006</body></html>
+            <p><b><font size="3"><a name="faq8" id="faq8"></a>Q8:</font></b>
+   I see the error popup "There was an error staring the OMPI proxy runtime. 
+   The path to 'orte_server' or 'orted' may be incorrect.  The 'orted' binary MUST be
+   in your PATH to be found by 'orte_server.  Try checking the console log or
+   error logs for more detailed information."  
+   <p><b><font size="3">A:</font></b> 
+   If you have tried the things suggested in the error message 
+   (including putting OpenMPI in your PATH), make sure
+   you have also killed any previous ompi or orte processes.
+   See <a href="docs/build.html#cleanupOmpi">instructions for killing old orte/ompi processes with cleanupOmpi</a>.
+    
+ 
+
+        <hr> 
+    </td>  </tr></table><p>Updated 12 March 2006</body></html>
