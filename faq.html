@@ -59,7 +59,7 @@ aid in the search for MPI artifacts.
     <p>Also, see the "Troubleshooting" section of the 
     <a href="docs/releases/release-1.0.html">Release Notes</a>.
     
-        <hr>
+                <hr>
     <p><b><font size="3"><a name="faq6" id="faq6"></a>Q6:</font></b>
    How do I install OpenMPI?</p>
     <p><b><font size="3">A:</font></b> Download the latest 1.0.2 version
@@ -73,25 +73,37 @@ Be sure to run <code>configure</code> to match how you intend to install PTP.
 <li>If you intend to install PTP from the download site (pre-built), then
 most of the defaults work.
 <pre>
-./configure --prefix=/path/to/your/ompi/install
+./configure 
 make all
 make install
 </pre>
 <li>If you intend to download PTP source from CVS and build it yourself,
 then be sure to run OpenMPI's <code>configure</code> "with development headers"
 <pre>
-./configure --with-devel-headers --prefix=/path/to/your/ompi/install
+./configure --with-devel-headers 
 make all
 make install
 </pre>
 </ol>
-Be sure and put it in your PATH.
+<ul><li><b>Install location:</b>
+ The default installation location is /usr/local;
+to modify this, add the <code>--prefix</code> argument.
+
+<pre>./configure --prefix=/path/to/your/ompi/install</pre>
+
+Be sure and add the bin directory to your path, e.g.
+<pre>export PATH=$PATH:/usr/local/bin  
+</pre>
+or
+<pre>export PATH=$PATH:/path/to/your/ompi/install/bin
+</pre>
+</ul>
 <p>
 At this point it's a good idea to run a small mpi program to test you have
 installed OpenMPI correctly.
 <pre>
-mpicc helloMPI.c -o hello
-mpirun -np 2 hello
+mpicc testMPI.c -o testMPI
+mpirun -np 2 testMPI
 </pre>
 
 
