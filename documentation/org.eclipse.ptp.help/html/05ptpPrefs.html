@@ -5,25 +5,30 @@
 <body>
 
 <h1>PTP Preferences</h1>
-<p><!-- TODO: fill in text here -->
-
 <p>
 <ul>
-
 <li><a href="#run">Runtime preferences</a>
 <li><a href="#debug">Debug preferences</a>
 <li><a href="#orte">Open RTE preferences</a>
-<li><a href="#sim">Simulator preferences </a>
+<li><a href="#viewer">Viewer preferences</a>
 </ul>
 <p>To open the Preferences window, select Window > Preferences...
 Then select 'PTP' in the list of preferences pages on the left side.
 <p id="run">The main page has Runtime Preferences.
 
-Runtime systems will eventually let you select between different types
-of external runtimes (e.g. Open MPI, MPICH, etc.) We have separated  
+Runtime systems will  let you select between different types
+of external runtimes (e.g. Open MPI, MPICH, etc.) 
+We have separated  
 control and monitoring for situations where the runtime does not  
 provide both services (e.g. MPICH). At the moment you can only choose  
-'Open Runtime Environment' or 'Simulated'.
+'Open Runtime Environment'.
+<p>
+There is  a
+checkbox indicating if you want to enable Developer
+Mode.  This allows use of the PTP Simulator.
+If you do this, you have to restart PTP to enable simulation mode.  When you restart, you will be able to select
+the Simulation mode from the preferences page.
+
 <p><img src="images/prefsMain.gif">
 <p>
 <p id="debug"> Debug Preferences - (PTP->Debug)
