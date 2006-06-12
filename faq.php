@@ -122,7 +122,7 @@ make all
 make install
 </pre>
 <li>If you intend to download PTP source from CVS and build it yourself,
-then be sure to run OpenMPI&apos;s <code>configure</code> "with development headers"
+then be sure to run OpenMPI&apos;s <code>configure</code> &quot.with development headers&quot.
 <pre>
 ./configure --with-devel-headers 
 make all
@@ -160,10 +160,10 @@ mpirun -np 2 testMPI
 
         <hr>  
             <p><b><font size="3"><a name="faq8" id="faq8"></a>Q8:</font></b>
-   I see the error popup "There was an error staring the OMPI proxy runtime. 
-   The path to 'orte_server' or 'orted' may be incorrect.  The 'orted' binary MUST be
-   in your PATH to be found by 'orte_server.  Try checking the console log or
-   error logs for more detailed information."  
+   I see the error popup &quot;There was an error staring the OMPI proxy runtime. 
+   The path to &apos;orte_server&apos; or &apos;orted&apos; may be incorrect.  The &apos;orted&apos; binary MUST be
+   in your PATH to be found by &apos;orte_server&apos;.  Try checking the console log or
+   error logs for more detailed information.&quot; 
    <p><b><font size="3">A:</font></b> 
    If you have tried the things suggested in the error message 
    (including putting OpenMPI in your PATH), make sure
