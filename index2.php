@@ -86,51 +86,19 @@
 		
 	  <div class="homeitem3col">
 			<h3>What&apos;s New</h3>
-			<table cellSpacing="5" cellPadding="2" width="100%" border="0">
-      
-      
-      <tr>
-          <td vAlign="top" align="left" height="12"><img src="http://eclipse.org/images/Adarrow.gif" border="0" width="16" height="16"></td>
-          <td colspan="2"  valign="top"><strong>April 11, 2006 <img src="../images/new.gif" width="31" height="14">:  
+			<ul>
+			<li>June 2006: Most new information is on the <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki!</a>.
+			<li>April 11, 2006:  
           <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">PTP now has a Wiki!</a> 
           April Planning Meeting minutes are there along with other information.
-          </strong></td>
-        </tr>
-     
-        <tr>
-          <td vAlign="top" align="left" height="12"><img src="http://eclipse.org/images/Adarrow.gif" border="0" width="16" height="16"></td>
-          <td colspan="2"  valign="top"><strong>March 18, 2006: Release 1.0 now available for <a href="downloads.html">download</a>!;
-          Pre-reqs and installation info is on the <a href="docs/releases/release-1.0.html">Release notes</a> page. </strong></td>
-        </tr>
-        <tr>
-          <td vAlign="top" align="left" height="12"><img src="http://eclipse.org/images/Adarrow.gif" border="0" width="16" height="16"></td>
-          <td colspan="2"  valign="top"><strong>March 16, 2006: March Planning Meeting minutes now <a href="meetings.html">available</a> </strong></td>
-        </tr>
-        
-        
-        <tr>
-          <td vAlign="top" align="left" height="12"><img src="http://eclipse.org/images/Adarrow.gif" border="0" width="16" height="16"></td>
-          <td colspan="2"  valign="top"><strong>February 13, 2006: <a href="doc.html">documentation</a> is now available</strong></td>
-        </tr>
-        
-        <tr>
-          <td vAlign="top" align="left" height="12"><img src="http://eclipse.org/images/Adarrow.gif" border="0" width="16" height="16"></td>
-          <td colspan="2"  valign="top"><strong>December 12, 2005: New whitepaper <a href="docs/whitepapers/PTPWPv9.pdf">available</a></strong></td>
-        </tr>
-        
-         <tr>
-          <td vAlign="top" align="left" height="12"><img src="http://eclipse.org/images/Adarrow.gif" border="0" width="16" height="16"></td>
-          <td colspan="2"  valign="top"><strong>September 18, 2005: Version 1.0 release plan <a href="docs/plan.html">available</a> </strong></td>
-        </tr>
-        <tr>
-          <td vAlign="top" align="left" height="12" width="23"> <img src="http://eclipse.org/images/Adarrow.gif" border="0" width="16" height="16"></td>
-          <td colspan="2"  valign="top"> <b>April 20, 2005: FDT 0.9-31M5a available. Please see the <a href="downloads.html">Downloads</a> page for more information  </b></td>
-        </tr>
-        <tr>
-          <td vAlign="top" align="left" height="12" width="23"> <img src="http://eclipse.org/images/Adarrow.gif" border="0" width="16" height="16"></td>
-          <td colspan="2"  valign="top"> <b>April 12 , 2005: <a href="http://eclipse.org/org/press-release/20050412paralleltools.htm">Los Alamos Developing New Eclipse-Based Tools for High-Performance Parallel Computers</a> </b></td>
-        </tr>
-    </table>
+          <li>March 18, 2006: Release 1.0 now available for <a href="downloads.html">download</a>!;
+          Pre-reqs and installation info is on the <a href="docs/releases/release-1.0.html">Release notes</a> page.
+          <li>February 13, 2006: <a href="doc.html">documentation</a> is now available
+          <li>December 12, 2005: New whitepaper <a href="docs/whitepapers/PTPWPv9.pdf">available</a>
+          <li>September 18, 2005: Version 1.0 release plan <a href="docs/plan.html">available</a>
+          <li>April 20, 2005: FDT 0.9-31M5a available. Please see the <a href="downloads.html">Downloads</a>
+          <li>April 12 , 2005: <a href="http://eclipse.org/org/press-release/20050412paralleltools.htm">Los Alamos Developing New Eclipse-Based Tools for High-Performance Parallel Computers</a> 
+			</ul>
 		</div>
 			
 		<div class="homeitem3col">
