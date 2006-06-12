@@ -144,7 +144,7 @@
         <tr>
           <td>&nbsp;</td>
           <td> Documentation<br></td>
-          <td> The PTP User Guide</td>
+          <td> <a href="doc.html">The PTP User Guide</a></td>
         </tr>
         <tr>
           <td></td>
