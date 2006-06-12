@@ -30,7 +30,8 @@
 	# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
 <h1>$pageTitle</h1>
-
+<div class="homeitem3col">
+			<h3>This is a wide column</h3>
  <ul>
         <li><a href="#faq1">Q1: How do I download PTP?</a></li>
         <li><a href="#faq2">Q2: What version of Eclipse and CDT do I need?</a> </li>
@@ -174,6 +175,7 @@ mpirun -np 2 testMPI
  
 
         <hr> 
+        </div>
 
 EOHTML;
 
