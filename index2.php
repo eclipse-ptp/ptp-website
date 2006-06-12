@@ -56,11 +56,12 @@
 		<div class="homeitem3col">
 			<h3>This is a wide column</h3>
 			<ul>
-				<li><a href="main.html">Old main PTP page</a>. Teaser text </li>
-				<li><a href="index.html">Old main PTP page (w/nav)</a>.</li>
-				<li><a href="contributors.html">Contributors</a>.</li>
-				<li><a href="press.html">Press</a>.</li>
-				<li><a href="index.html">Old main PTP page (w/nav)</a>.</li>
+				<li><a href="main.html">Old main PTP page</a></li>
+				<li><a href="index.html">Old main PTP page (w/nav)</a></li>
+				<li><a href="contributors.html">Contributors</a></li>
+				<li><a href="contributors.php">Contributors (new)</a></li>
+				<li><a href="press.html">Press</a></li>
+				<li><a href="index.html">Old main PTP page (w/nav)</a></li>
 				<li><a href="#">Link</a>. Teaser text <a href="#">'Reference'</a><span class="dates">02/05/05</span></li>
 			</ul>
 		</div>
@@ -79,12 +80,12 @@
 	</div>
 	<div id="rightcolumn">
 		<div class="sideitem">
-			<h6>Related links</h6>
+			<h6>PTP Information</h6>
 			<ul>
-				<li><a href="#">Link</a> - descriptive text</li>
-				<li><a href="#">Link</a> - descriptive text</li>
-				<li><a href="#">Link</a> - descriptive text</li>
-				<li><a href="#">Link</a> - descriptive text</li>
+				<li><a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">PTP Wiki</a> </li>
+				<li><a href="http://www.eclipsecon.org/2006/Sub.do?id=265">PTP Presentation at EclipseCon 2006</a> - by Greg Watson</li>
+				<li><a href="http://eclipse.org/ptp/docs/whitepapers/PTPWPv9.pdf">PTP Whitepaper</a> - descriptive text</li>
+				<li><a href="doc.html">PTP Help documention</a> </li>
 				<li><a href="#">Link</a> - descriptive text</li>
 			</ul>
 		</div>
