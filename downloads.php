@@ -43,9 +43,9 @@
   <tr>
     <td align=left valign=top >
         <tr bgcolor="#CCCCCC">
-          <th width="34%"  scope="col">Platform</th>
-          <th width="10%"  scope="col">Release</th>
-          <th width="56%"  scope="col">Download</th>
+          <th width="34%"  scope="col"><div align="left">Platform</div></th>
+          <th width="10%"  scope="col"><div align="left">Release</div></th>
+          <th width="56%"  scope="col"><div align="left">Download</div></th>
         </tr>
         <tr>
           <td>All</td>
