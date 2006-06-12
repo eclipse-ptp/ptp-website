@@ -33,8 +33,6 @@
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>PTP - Parallel Tools Platform</h1>
-		<h2>Section title</h2>
-		<p>Intro text.<br /> <a href="#">more about something &raquo;</a> </p>
 		<div class="homeitem">
 			<h3>Phoenix conversion status</h3>
 			<p>Converted to Phoenix: The faq and downloads pages are converted. 
@@ -43,12 +41,8 @@
 				<li>Need to work on this main page. </li>
 				<li><a href="main.html">Old main PTP page</a></li>
 				<li><a href="index.html">Old main PTP page (w/nav)</a></li>
-				<li><a href="contributors.html">Contributors</a></li>
 				<li><a href="contributors.php">Contributors (new)</a></li>
 				<li><a href="press.html">Press</a></li>
-				<li><a href="index.html">Old main PTP page (w/nav)</a></li>
-				<li><a href="#">Link</a>. Teaser text <a href="#">'Reference'</a><span class="dates">02/05/05</span></li>
-				
 			</ul>
 		</div>
 		<div class="homeitem">
@@ -61,7 +55,7 @@
 			</ul>
 		</div>
 		<div class="homeitem3col">
-	<h2>Project Goals</h2>
+	<h3>Project Goals</h3>
 		<p>The aim of the parallel tools platform project is to produce an open-source industry-strength platform that provides a highly integrated environment specifically designed for parallel application development. The project will provide:</p>
       <ul>
         <li>a standard, portable parallel IDE that supports a wide range of parallel architectures and runtime systems</li>
