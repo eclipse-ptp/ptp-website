@@ -29,6 +29,7 @@
 		
 	# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
+<h1>$pageTitle</h1>
 
  <ul>
         <li><a href="#faq1">Q1: How do I download PTP?</a></li>
