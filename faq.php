@@ -29,8 +29,9 @@
 		
 	# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
+	<div id="maincontent">
 <h1>&nbsp;&nbsp;$pageTitle</h1>
-<div id="maincontent">
+
 			<h3>This is a wide column</h3>
  <ul>
         <li><a href="#faq1">Q1: How do I download PTP?</a></li>
