@@ -14,7 +14,7 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Sample three-column list web page using the new templates";
+	$pageTitle 		= "PTP Frequently Asked Questions";
 	$pageKeywords	= "Type, page, keywords, here";
 	$pageAuthor		= "Type your name here";
 	
@@ -32,7 +32,7 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Sample list page</h2>
+		<h2>List of FAQs</h2>
 		 <ul>
         <li><a href="#faq1">Q1: How do I download PTP?</a></li>
         <li><a href="#faq2">Q2: What version of Eclipse and CDT do I need?</a> </li>
