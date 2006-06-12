@@ -61,7 +61,7 @@
 			</ul>
 		</div>
 		<div class="homeitem3col">
-		<h2>Project Goals</h2>
+	<h2>Project Goals</h2>
 		<p>The aim of the parallel tools platform project is to produce an open-source industry-strength platform that provides a highly integrated environment specifically designed for parallel application development. The project will provide:</p>
       <ul>
         <li>a standard, portable parallel IDE that supports a wide range of parallel architectures and runtime systems</li>
@@ -69,6 +69,7 @@
         <li>support for  the integration of a wide range of parallel tools</li>
         <li>an environment that simplifies the end-user interaction with parallel systems </li>
     </ul>  
+    </div>
     </h2>
     <div class="homeitem3col">
 			<h3>Fortran Development Tools</h3>
