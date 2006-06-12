@@ -55,8 +55,11 @@
 		<div class="homeitem3col">
 			<h3>This is a wide column</h3>
 			<ul>
-				<li><a href="#">Link</a>. Teaser text <a href="#">'Reference'</a><span class="dates">02/05/05</span></li>
-				<li><a href="#">Link</a>. Teaser text <a href="#">'Reference'</a><span class="dates">02/05/05</span></li>
+				<li><a href="main.html">Old main PTP page</a>. Teaser text </li>
+				<li><a href="index.html">Old main PTP page (w/nav)</a>.</li>
+				<li><a href="contributors.html">Contributors</a>.</li>
+				<li><a href="press.html">Press</a>.</li>
+				<li><a href="index.html">Old main PTP page (w/nav)</a>.</li>
 				<li><a href="#">Link</a>. Teaser text <a href="#">'Reference'</a><span class="dates">02/05/05</span></li>
 			</ul>
 		</div>
