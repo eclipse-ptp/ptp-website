@@ -38,9 +38,10 @@
 		<div class="homeitem">
 			<h3>Narrow column</h3>
 			<ul>
-				<li><a href="#">Link</a>. Teaser text <a href="#">'Reference'</a><span class="dates">02/05/05</span></li>
-				<li><a href="#">Link</a>. Teaser text <a href="#">'Reference'</a><span class="dates">02/05/05</span></li>
-				<li><a href="#">Link</a>. Teaser text <a href="#">'Reference'</a><span class="dates">02/05/05</span></li>
+				<li><a href="sample_3col.php">Sample 3 col</a>. Teaser text <a href="#">'Reference'</a><span class="dates">02/05/05</span></li>
+				<li><a href="sample_4col.php">Sample 4 col</a>. Teaser text <a href="#">'Reference'</a><span class="dates">02/05/05</span></li>
+				<li><a href="sample _busypage.php">Sample busy page</a>. Teaser text <a href="#">'Reference'</a><span class="dates">02/05/05</span></li>
+				<li><a href="sample _list.php">Sample busy page</a>. Teaser text <a href="#">'Reference'</a><span class="dates">02/05/05</span></li>
 			</ul>
 		</div>
 		<div class="homeitem">
