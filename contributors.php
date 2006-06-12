@@ -54,7 +54,7 @@
           <TD width="25%" bgColor="#eeeeee">Los Alamos National Laboratory</TD>
         </TR>
         <TR>
-          <TD bgColor="#eeeeee">Greg Watson </TD>
+          <TD bgColor="#eeeeee">Greg Watson (Project Lead)</TD>
           <TD bgColor="#eeeeee"> Los Alamos National Laboratory</TD>
         </TR>
         <TR>
