@@ -41,11 +41,11 @@
   <h3>PTP Core</h3>
   <table>
   <tr>
-    <td align=left valign=top bgcolor="#FFFFFF">
+    <td align=left valign=top >
         <tr bgcolor="#CCCCCC">
-          <th width="34%" bgcolor="#FFFFFF" scope="col"><div align="left">Platform</div></th>
-          <th width="10%" bgcolor="#FFFFFF" scope="col"><div align="left">Release</div></th>
-          <th width="56%" bgcolor="#FFFFFF" scope="col"><div align="left">Download</div></th>
+          <th width="34%"  scope="col"><div align="left">Platform</div></th>
+          <th width="10%"  scope="col"><div align="left">Release</div></th>
+          <th width="56%"  scope="col"><div align="left">Download</div></th>
         </tr>
         <tr>
           <td>All</td>
@@ -58,12 +58,12 @@
   <div class="homeitem3col">
   <h3>PTP Runtime</h3>
   <table>
-    <td align=left valign=top bgcolor="#FFFFFF">
+    <td align=left valign=top >
         <tr bgcolor="#CCCCCC">
-          <th width="12%" bgcolor="#FFFFFF" scope="col"><div align="left">Runtime</div></th>
-          <th width="22%" bgcolor="#FFFFFF" scope="col"><div align="left">Platform</div></th>
-          <th width="10%" bgcolor="#FFFFFF" scope="col"><div align="left">Release</div></th>
-          <th width="56%" bgcolor="#FFFFFF" scope="col"><div align="left">Download</div></th>
+          <th width="12%"  scope="col"><div align="left">Runtime</div></th>
+          <th width="22%"  scope="col"><div align="left">Platform</div></th>
+          <th width="10%"  scope="col"><div align="left">Release</div></th>
+          <th width="56%"  scope="col"><div align="left">Download</div></th>
         </tr>
         <tr>
           <td>OpenRTE</td>
@@ -94,12 +94,12 @@
   <div class="homeitem3col">
    <h3>PTP Debug</h3>
   <table>
-    <td align=left valign=top bgcolor="#FFFFFF">
+    <td align=left valign=top >
     <tr>
-          <th width="12%" bgcolor="#FFFFFF" scope="col"><div align="left">Runtime</div></th>
-          <th width="22%" bgcolor="#FFFFFF" scope="col"><div align="left">Platform</div></th>
-          <th width="10%" bgcolor="#FFFFFF" scope="col"><div align="left">Release</div></th>
-          <th width="56%" bgcolor="#FFFFFF" scope="col"><div align="left">Download</div></th>
+          <th width="12%"  scope="col"><div align="left">Runtime</div></th>
+          <th width="22%"  scope="col"><div align="left">Platform</div></th>
+          <th width="10%"  scope="col"><div align="left">Release</div></th>
+          <th width="56%"  scope="col"><div align="left">Download</div></th>
         </tr>
         <tr>
           <td>OpenRTE</td>
@@ -136,11 +136,11 @@
     <p>Download and install the plugins and features into your Eclipse installation:</p> 
     <table>
   <tr>
-    <td align=left valign=top bgcolor="#FFFFFF">
+    <td align=left valign=top >
         <tr bgcolor="#CCCCCC">
-          <th width="34%" bgcolor="#FFFFFF" scope="col"><div align="left">Platform</div></th>
-          <th width="10%" bgcolor="#FFFFFF" scope="col"><div align="left">Release</div></th>
-          <th width="56%" bgcolor="#FFFFFF" scope="col"><div align="left">Download</div></th>
+          <th width="34%"  scope="col"><div align="left">Platform</div></th>
+          <th width="10%"  scope="col"><div align="left">Release</div></th>
+          <th width="56%"  scope="col"><div align="left">Download</div></th>
         </tr>
         <tr>
           <td>All</td>
@@ -160,11 +160,11 @@
       <p>Download and install the plugins and features into your Eclipse installation:</p>    </tr>
 <table>
   <tr>
-    <td align=left valign=top bgcolor="#FFFFFF">
+    <td align=left valign=top >
           <tr bgcolor="#CCCCCC">
-            <th width="34%" bgcolor="#FFFFFF" scope="col"><div align="left">Description</div></th>
-            <th width="10%" bgcolor="#FFFFFF" scope="col"><div align="left">Release</div></th>
-            <th width="56%" bgcolor="#FFFFFF" scope="col"><div align="left">Download</div></th>
+            <th width="34%"  scope="col"><div align="left">Description</div></th>
+            <th width="10%"  scope="col"><div align="left">Release</div></th>
+            <th width="56%"  scope="col"><div align="left">Download</div></th>
           </tr>
           <tr>
             <td><div align="left">CDT with mixed-language projects </div></td>
