@@ -95,6 +95,7 @@
    <h3>PTP Debug</h3>
   <table>
     <td align=left valign=top bgcolor="#FFFFFF">
+    <tr>
           <th width="12%" bgcolor="#FFFFFF" scope="col"><div align="left">Runtime</div></th>
           <th width="22%" bgcolor="#FFFFFF" scope="col"><div align="left">Platform</div></th>
           <th width="10%" bgcolor="#FFFFFF" scope="col"><div align="left">Release</div></th>
