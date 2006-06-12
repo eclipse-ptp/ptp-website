@@ -20,7 +20,7 @@
 	
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
-	# $Nav->addNavSeparator("My Page Links", 	"downloads.php");
+	 $Nav->addNavSeparator("Contributors", 	"contributors.php");
 	# $Nav->addCustomNav("My Link", "mypage.php", "_self", 3);
 	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
 
@@ -39,7 +39,7 @@
 			<h3>Phoenix conversion status</h3>
 			<p>Converted to Phoenix: The faq and downloads pages are converted. 
 			<ul>
-				<li>The faq and downloads pages are converted, more or less.</li>
+				<li>The faq,downloads, and contributors pages are converted, more or less.</li>
 				<li>Need to work on this main page. </li>
 				<li><a href="main.html">Old main PTP page</a></li>
 				<li><a href="index.html">Old main PTP page (w/nav)</a></li>
