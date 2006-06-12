@@ -41,7 +41,7 @@
 				<li><a href="sample_3col.php">Sample 3 col</a>. </li>
 				<li><a href="sample_4col.php">Sample 4 col</a>.</li>
 				<li><a href="sample_busypage.php">Sample busy page</a>.  </li>
-				<li><a href="sample_list.php">Sample busy page</a>.</li>
+				<li><a href="sample_list.php">Sample list</a>.</li>
 			</ul>
 		</div>
 		<div class="homeitem">
