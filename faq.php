@@ -2,10 +2,10 @@
 
 	#*****************************************************************************
 	#
-	# faq.php
+	# sample_list.php
 	#
-	# Author: 		Beth Tibbitts
-	# Date:			2006-06-11
+	# Author: 		Denis Roy
+	# Date:			2005-11-07
 	#
 	# Description: Type your page comments here - these are not sent to the browser
 	#
@@ -14,7 +14,7 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "PTP Frequently Asked Questions";
+	$pageTitle 		= "Sample three-column list web page using the new templates";
 	$pageKeywords	= "Type, page, keywords, here";
 	$pageAuthor		= "Type your name here";
 	
@@ -29,19 +29,19 @@
 		
 	# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
-	<div id="maincontent">
-<h1>&nbsp;&nbsp;$pageTitle</h1>
 
-			<h3>This is a wide column</h3>
- <ul>
+	<div id="midcolumn">
+		<h1>$pageTitle</h1>
+		<h2>Sample list page</h2>
+		 <ul>
         <li><a href="#faq1">Q1: How do I download PTP?</a></li>
         <li><a href="#faq2">Q2: What version of Eclipse and CDT do I need?</a> </li>
         <li><a href="#faq3">Q3: What version of MPI do I need to run PTP?</a> </li>
         <li><a href="#faq4">Q4: What platforms and runtimes are supported by PTP now?</a> </li>
-        <li><a href="#faq5">Q5: I am seeing [strange behavior]...</a> </li>
+        <li><a href="#faq5">Q5: I&apos;m seeing [strange behavior]...</a> </li>
         <li><a href="#faq6">Q6: How do I install OpenMPI?</a> </li>
         <li><a href="#faq7">Q7: How do I build PTP myself?</a> </li>
-          <li><a href="#faq8">Q8:  I see the error popup "There was an error staring the OMPI proxy runtime ..."</a> </li>
+          <li><a href="#faq8">Q8:  I see the error popup &quot;There was an error staring the OMPI proxy runtime ...&quot;</a> </li>
         
       </ul>
       <hr>
@@ -98,9 +98,9 @@ aid in the search for MPI artifacts.
     
         <hr>
     <p><b><font size="3"><a name="faq5" id="faq5"></a>Q5:</font></b>
-   I am seeing (a) not finding many symbols when building PTP, or (b)
+   I&apos;m seeing (a) not finding many symbols when building PTP, or (b)
    [some incorrect behavior, need to document what the symptoms are] 
-   when running PTP. What is wrong?</p>
+   when running PTP. What&apos;s wrong?</p>
     <p><b><font size="3">A:</font></b> Make sure your PATH has OpenMPI ahead
     of any other MPI implementation you have installed.
     <p>Also, see the "Troubleshooting" section of the 
@@ -125,7 +125,7 @@ make all
 make install
 </pre>
 <li>If you intend to download PTP source from CVS and build it yourself,
-then be sure to run OpenMPI&apos;s <code>configure</code> &quot.with development headers&quot.
+then be sure to run OpenMPI&apos;s <code>configure</code> "with development headers"
 <pre>
 ./configure --with-devel-headers 
 make all
@@ -166,7 +166,7 @@ mpirun -np 2 testMPI
    I see the error popup &quot;There was an error staring the OMPI proxy runtime. 
    The path to &apos;orte_server&apos; or &apos;orted&apos; may be incorrect.  The &apos;orted&apos; binary MUST be
    in your PATH to be found by &apos;orte_server&apos;.  Try checking the console log or
-   error logs for more detailed information.&quot; 
+   error logs for more detailed information.&quot;  
    <p><b><font size="3">A:</font></b> 
    If you have tried the things suggested in the error message 
    (including putting OpenMPI in your PATH), make sure
@@ -176,7 +176,27 @@ mpirun -np 2 testMPI
  
 
         <hr> 
-        </div>
+	</div>
+
+	<!-- remove the entire <div> tag to omit the right column!  -->
+	<div id="rightcolumn">
+		<div class="sideitem">
+			<h6>More PTP Stuff</h6>
+			<ul>
+				<li><a href="#">Item</a></li>
+				<li><a href="#">Item</a></li>
+				<li><a href="#">Item</a></li>
+				<li><a href="#">Item</a></li>
+			</ul>
+		</div>
+		<div class="sideitem">
+			<h6>Another box</h6>
+			<ul>
+				<li><a href="#">Item</a></li>
+				<li><a href="#">Item</a></li>
+			</ul>
+		</div>
+	</div>
 
 EOHTML;
 
