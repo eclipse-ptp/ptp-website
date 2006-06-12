@@ -36,6 +36,14 @@
 		<h2>Section title</h2>
 		<p>Intro text.<br /> <a href="#">more about something &raquo;</a> </p>
 		<div class="homeitem">
+			<h3>Phoenix conversion status</h3>
+			<p>Converted to Phoenix: The faq and downloads pages are converted. 
+			<ul>
+				<li>The faq and downloads pages are converted, more or less.</li>
+				<li>Need to work on this main page. </li>
+			</ul>
+		</div>
+		<div class="homeitem">
 			<h3>Sample PHP pages</h3>
 			<ul>
 				<li><a href="sample_3col.php">Sample 3 col</a>. </li>
@@ -44,14 +52,7 @@
 				<li><a href="sample_list.php">Sample list</a>.</li>
 			</ul>
 		</div>
-		<div class="homeitem">
-			<h3>Narrow column</h3>
-			<ul>
-				<li><a href="#">Link</a>. Teaser text <a href="#">'Reference'</a><span class="dates">02/05/05</span></li>
-				<li><a href="#">Link</a>. Teaser text <a href="#">'Reference'</a><span class="dates">02/05/05</span></li>
-				<li><a href="#">Link</a>. Teaser text <a href="#">'Reference'</a><span class="dates">02/05/05</span></li>
-			</ul>
-		</div>
+		
 		<div class="homeitem3col">
 			<h3>This is a wide column</h3>
 			<ul>
