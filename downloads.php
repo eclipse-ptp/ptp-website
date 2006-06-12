@@ -92,6 +92,7 @@
       </table>  
       </div>
   <div class="homeitem3col">
+   <h3>PTP Debug</h3>
   <table>
     <td align=left valign=top bgcolor="#FFFFFF">
           <th width="12%" bgcolor="#FFFFFF" scope="col"><div align="left">Runtime</div></th>
@@ -127,13 +128,12 @@
 </div>
   <div class="homeitem3col">
   <h3>MPI Development Tools</h3>
-  <table>
-  <tr>
-    <td align=left valign=top bgcolor="#FFFFFF"><p>The files below contain the current release of the MPI Development Tools for PTP. <br>
+  <p>The files below contain the current release of the MPI Development Tools for PTP. <br>
        Please see the <a href="docs/releases/release-1.0.html">
       Release notes</a> for prerequisite and installation information. </p>
 
-    <p>Download and install the plugins and features into your Eclipse installation:</p>  </tr>
+    <p>Download and install the plugins and features into your Eclipse installation:</p> 
+    <table>
   <tr>
     <td align=left valign=top bgcolor="#FFFFFF">
         <tr bgcolor="#CCCCCC">
@@ -152,14 +152,12 @@
     <div class="homeitem3col">
   <h3>Fortran Development Tools</h3>
   <table>
-
-  <tr>
-    <td align=left valign=top bgcolor="#FFFFFF"><p>The files below contain the current release of the Fortran Development Tools for PTP. <br>
+<p>The files below contain the current release of the Fortran Development Tools for PTP. <br>
        Please see the <a href="docs/releases/release-1.0.html">
       Release notes</a> for prerequisite and installation information. </p>
 
       <p>Download and install the plugins and features into your Eclipse installation:</p>    </tr>
-
+<table>
   <tr>
     <td align=left valign=top bgcolor="#FFFFFF">
           <tr bgcolor="#CCCCCC">
@@ -180,15 +178,7 @@
         </table>  
 </div>
  
-<h2>Sample list page</h2>
-		<p>This is some intro text.<br /> <a href="#">more about eclipse &raquo;</a> </p>
-		<h3>This is a title</h3>
-		<hr size="1" />
-		<p>Some text...</p>
 
-		<h3>This is a title</h3>
-		<hr size="1" />
-		<p>Some text...</p>
 	</div>
 
 	<!-- remove the entire <div> tag to omit the right column!  -->
