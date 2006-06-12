@@ -36,12 +36,12 @@
 		<h2>Section title</h2>
 		<p>Intro text.<br /> <a href="#">more about something &raquo;</a> </p>
 		<div class="homeitem">
-			<h3>Narrow column</h3>
+			<h3>Sample PHP pages</h3>
 			<ul>
-				<li><a href="sample_3col.php">Sample 3 col</a>. Teaser text <a href="#">'Reference'</a><span class="dates">02/05/05</span></li>
-				<li><a href="sample_4col.php">Sample 4 col</a>. Teaser text <a href="#">'Reference'</a><span class="dates">02/05/05</span></li>
-				<li><a href="sample _busypage.php">Sample busy page</a>. Teaser text <a href="#">'Reference'</a><span class="dates">02/05/05</span></li>
-				<li><a href="sample _list.php">Sample busy page</a>. Teaser text <a href="#">'Reference'</a><span class="dates">02/05/05</span></li>
+				<li><a href="sample_3col.php">Sample 3 col</a>. </li>
+				<li><a href="sample_4col.php">Sample 4 col</a>.</li>
+				<li><a href="sample_busypage.php">Sample busy page</a>.  </li>
+				<li><a href="sample_list.php">Sample busy page</a>.</li>
 			</ul>
 		</div>
 		<div class="homeitem">
