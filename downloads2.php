@@ -41,7 +41,7 @@
   <h3>PTP Core</h3>
   <table>
   <tr>
-    <td align=left valign=top bgcolor="#FFFFFF"><table width="86%"  border="0" cellspacing="3" cellpadding="0">
+   
         <tr bgcolor="#CCCCCC">
           <th width="34%" bgcolor="#FFFFFF" scope="col"><div align="left">Platform</div></th>
           <th width="10%" bgcolor="#FFFFFF" scope="col"><div align="left">Release</div></th>
