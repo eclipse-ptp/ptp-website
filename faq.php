@@ -29,7 +29,7 @@
 		
 	# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
-<h1>$pageTitle</h1>
+<h1>&nbsp;&nbsp;$pageTitle</h1>
 <div id="maincontent">
 			<h3>This is a wide column</h3>
  <ul>
