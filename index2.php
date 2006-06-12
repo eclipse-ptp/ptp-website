@@ -41,6 +41,14 @@
 			<ul>
 				<li>The faq and downloads pages are converted, more or less.</li>
 				<li>Need to work on this main page. </li>
+				<li><a href="main.html">Old main PTP page</a></li>
+				<li><a href="index.html">Old main PTP page (w/nav)</a></li>
+				<li><a href="contributors.html">Contributors</a></li>
+				<li><a href="contributors.php">Contributors (new)</a></li>
+				<li><a href="press.html">Press</a></li>
+				<li><a href="index.html">Old main PTP page (w/nav)</a></li>
+				<li><a href="#">Link</a>. Teaser text <a href="#">'Reference'</a><span class="dates">02/05/05</span></li>
+				
 			</ul>
 		</div>
 		<div class="homeitem">
@@ -54,15 +62,16 @@
 		</div>
 		
 		<div class="homeitem3col">
-			<h3>This is a wide column</h3>
+			<h3>User Information</h3>
 			<ul>
-				<li><a href="main.html">Old main PTP page</a></li>
-				<li><a href="index.html">Old main PTP page (w/nav)</a></li>
-				<li><a href="contributors.html">Contributors</a></li>
-				<li><a href="contributors.php">Contributors (new)</a></li>
-				<li><a href="press.html">Press</a></li>
-				<li><a href="index.html">Old main PTP page (w/nav)</a></li>
-				<li><a href="#">Link</a>. Teaser text <a href="#">'Reference'</a><span class="dates">02/05/05</span></li>
+			<li><a href="news://eclipse.org/eclipse.technology.ptp">Newsgroup</a> (<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.ptp">web interface</a>)</li>
+				</ul>
+		</div>
+		<div class="homeitem3col">
+			<h3>Developer Information</h3>
+			<ul>
+				<li><a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki</a>   for various developer information</li>
+				<li><a href="http://wiki.eclipse.org/index.php/PTP/planning">Plans</a>   for upcoming PTP releases </li>
 			</ul>
 		</div>
 		<hr class="clearer" />

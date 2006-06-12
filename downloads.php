@@ -4,8 +4,8 @@
 	#
 	# sample_list.php
 	#
-	# Author: 		Denis Roy
-	# Date:			2005-11-07
+	# Author: 		Beth Tibbitts
+	# Date:			2006-06-11
 	#
 	# Description: Type your page comments here - these are not sent to the browser
 	#
@@ -16,7 +16,7 @@
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "PTP Downloads";
 	$pageKeywords	= "Type, page, keywords, here";
-	$pageAuthor		= "Type your name here";
+	$pageAuthor		= "Beth Tibbitts";
 	
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
