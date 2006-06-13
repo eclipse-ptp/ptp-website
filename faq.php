@@ -41,7 +41,7 @@
         <li><a href="#faq5">Q5: I&apos;m seeing [strange behavior]...</a> </li>
         <li><a href="#faq6">Q6: How do I install OpenMPI?</a> </li>
         <li><a href="#faq7">Q7: How do I build PTP myself?</a> </li>
-          <li><a href="#faq8">Q8:  I see the error popup &quot;There was an error staring the OMPI proxy runtime ...&quot;</a> </li>
+          <li><a href="#faq8">Q8:  I see the error popup &quot;There was an error starting the OMPI proxy runtime ...&quot;</a> </li>
         
       </ul>
       <hr>
