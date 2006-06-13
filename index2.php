@@ -57,12 +57,14 @@
         <li>Support for IBM XLF, Intel Fortran, gfortran and other compilers</li>
         <li>Fortran editor with syntax highlighting</li>
         <li>Managed build support</li>
-        <li>Outline view</li>
       </ul>
       <p>The CDT and FDT projects share much in common, and we are working closely with the CDT
        community to minimize overlap and move towards a more language independent model. 
        We will also be working with other organizations towards developing an industry-strength Fortran development environment. 
-       (See also the <a href="http://eclipse.org/photran">Photran</a> project which includes our FDT work.)
+       (See also the <a href="http://eclipse.org/photran">Photran</a>
+       project, which  includes our FDT contribution and is the official home for the  Fortran IDE.
+       
+       
        </p>
 		</div>
 		
@@ -132,22 +134,7 @@
                 <li><a href="contributors.php">Contributors</a> - List of contributors to the PTP project
 			</ul>
 		</div>
-	
- 
-   
-    
-		<hr class="clearer" />
-		<p>Some free text</p>
-		<ul class="midlist">
-			<li>list of items in free text</li>
-			<li>list of items in free text</li>
-			<li>list of items in free text</li>
-		</ul>
-		<ol>
-			<li>Ordered list</li>
-			<li>Ordered list</li>
-			<li>Ordered list</li>
-		</ol>
+		
 	</div>
 	<div id="rightcolumn">
 		<div class="sideitem">
@@ -159,16 +146,7 @@
 				<li><a href="doc.php">PTP Help documention</a> including screen shots.</li>
 			</ul>
 		</div>
-		<div class="sideitem">
-			<h6>Related links</h6>
-			<ul>
-				<li><a href="#">Link</a> - descriptive text</li>
-				<li><a href="#">Link</a> - descriptive text</li>
-				<li><a href="#">Link</a> - descriptive text</li>
-				<li><a href="#">Link</a> - descriptive text</li>
-				<li><a href="#">Link</a> - descriptive text</li>
-			</ul>
-		</div>
+		
 	</div>
 </div>
 
