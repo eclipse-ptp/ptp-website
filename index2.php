@@ -169,7 +169,7 @@
 				<li><a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">PTP Wiki</a> </li>
 				<li><a href="http://www.eclipsecon.org/2006/Sub.do?id=265">PTP Presentation at EclipseCon 2006</a> - by Greg Watson</li>
 				<li><a href="http://eclipse.org/ptp/docs/whitepapers/PTPWPv9.pdf">PTP Whitepaper</a> - descriptive text</li>
-				<li><a href="doc.html">PTP Help documention</a> </li>
+				<li><a href="doc.php">PTP Help documention</a> </li>
 				<li><a href="#">Link</a> - descriptive text</li>
 			</ul>
 		</div>
