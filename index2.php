@@ -108,17 +108,20 @@
 			
 		<div class="homeitem3col">
 		<h3>General Resources</h3>
+		<ul>
+			<li><a href="faq.php">FAQ (Frequently asked Questions about PTP)</a> 
+        	<li>Ask questions about PTP on the <a href="news://eclipse.org/eclipse.technology.ptp">Newsgroup</a> 
+        	       (<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.ptp">web interface</a>)</li>
+        	         	<li>Submit bugs and feature requests on <a href="http://bugs.eclipse.org/bugs">Bugzilla</a> 
+      
+        </ul>
 		</div>
 		
 		<div class="homeitem3col">
 			<h3>User Resources</h3>
 			<ul>
-			<li><a href="faq.php">FAQ (Frequently asked Questions about PTP)</a> 
-        	<li>Ask questions about PTP on the <a href="news://eclipse.org/eclipse.technology.ptp">Newsgroup</a> 
-        	       (<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.ptp">web interface</a>)</li>
-        	<li> <a href="downloads.php">Downloads</a> - Get the latest build
+			<li> <a href="downloads.php">Downloads</a> - Get the latest build
         	<li> Read the  <a href="doc.php">The PTP User Guide</a>
-        	<li>Submit bugs and feature requests on <a href="http://bugs.eclipse.org/bugs">Bugzilla</a> 
         	       
 			</ul>
 		</div>
@@ -144,7 +147,7 @@
 		</div>
 	
  
-    </div>
+   
     
 		<hr class="clearer" />
 		<p>Some free text</p>
