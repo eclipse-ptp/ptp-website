@@ -7,15 +7,15 @@
 	# Author: 		Beth Tibbitts
 	# Date:			2006-06-11
 	#
-	# Description: Type your page comments here - these are not sent to the browser
+	# Description: Main PTP site root page
 	#
 	#
 	#****************************************************************************
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "PTP - PHP/Phoenix samples";
-	$pageKeywords	= "Eclipse, Parallel Programming, Parallel debugger, MPI, OpenMP, OpenMPI, Fortran, C, C++";
+	$pageTitle 		= "PTP - Eclipse Parallel Tools Platform";
+	$pageKeywords	= "Eclipse, Parallel Programming, Parallel debugger, Parallel Tools, MPI, OpenMP, OpenMPI, Fortran, C, C++";
 	$pageAuthor		= "Beth Tibbitts   tibbitts@us.ibm.com";
 	
 	# Add page-specific Nav bars here
