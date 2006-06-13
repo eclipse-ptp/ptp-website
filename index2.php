@@ -14,13 +14,13 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "PTP - Parallel Tools Platform";
+	$pageTitle 		= "PTP - PHP/Phoenix samples";
 	$pageKeywords	= "Eclipse, Parallel Programming, Parallel debugger, MPI, OpenMP, OpenMPI, Fortran, C, C++";
 	$pageAuthor		= "Beth Tibbitts   tibbitts@us.ibm.com";
 	
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
-	 $Nav->addNavSeparator("Contributors", 	"contributors.php");
+#	 $Nav->addNavSeparator("Contributors", 	"contributors.php");
 	# $Nav->addCustomNav("My Link", "mypage.php", "_self", 3);
 	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
 
@@ -33,27 +33,6 @@
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>PTP - Parallel Tools Platform</h1>
-		<div class="homeitem">
-			<h3>Phoenix conversion status</h3>
-			<p>Converted to Phoenix: The faq and downloads pages are converted. 
-			<ul>
-				<li>The faq,downloads, and contributors pages are converted, more or less.</li>
-				<li>Need to work on this main page. </li>
-				<li><a href="main.html">Old main PTP page</a></li>
-				<li><a href="index.html">Old main PTP page (w/nav)</a></li>
-				<li><a href="contributors.php">Contributors (new)</a></li>
-				<li><a href="press.html">Press</a></li>
-			</ul>
-		</div>
-		<div class="homeitem">
-			<h3>Sample PHP pages</h3>
-			<ul>
-				<li><a href="sample_3col.php">Sample 3 col</a>. </li>
-				<li><a href="sample_4col.php">Sample 4 col</a>.</li>
-				<li><a href="sample_busypage.php">Sample busy page</a>.  </li>
-				<li><a href="sample_list.php">Sample list</a>.</li>
-			</ul>
-		</div>
 		
 		<div class="homeitem3col">
 	<h3>Project Goals</h3>

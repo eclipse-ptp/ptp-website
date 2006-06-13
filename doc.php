@@ -32,8 +32,7 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Sample list page</h2>
-	
+		
 <p>The current release of the PTP User Guide (also available from the help plug-ins in the PTP installation) is available here.
 <p>Click on the screen shots below for a full-size image.
 Click on the Help links to read the help on-line.
