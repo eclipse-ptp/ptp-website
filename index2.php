@@ -58,10 +58,10 @@
         <li>Fortran editor with syntax highlighting</li>
         <li>Managed build support</li>
       </ul>
-      <p>The CDT and FDT projects share much in common, and we are working closely with the CDT
+      <p>The <a href="http://eclipse.org/cdt">CDT</a> and FDT projects share much in common, and we are working closely with the CDT
        community to minimize overlap and move towards a more language independent model. 
        We will also be working with other organizations towards developing an industry-strength Fortran development environment. 
-       (See also the <a href="http://eclipse.org/photran">Photran</a>
+       See also the <a href="http://eclipse.org/photran">Photran</a>
        project, which  includes our FDT contribution and is the official home for the  Fortran IDE.
        
        
