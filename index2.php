@@ -90,8 +90,9 @@
 	  <div class="homeitem3col">
 			<h3>What&apos;s New</h3>
 			<ul>
-			<li>June 2006: Most new information is now on the <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki!</a>.
-			    Release 1.1 of PTP is estimated to be available in the Fall of 2006.
+			<li>June 2006: PTP website is now converted to <a href="http://eclipse.org/phoenix">Phoenix</a><br>
+			Most new information is now on the <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki!</a>.
+			  <br>  Release 1.1 of PTP is estimated to be available in the Fall of 2006.
 			<li>April 11, 2006:  
           <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">PTP now has a Wiki!</a> 
           April Planning Meeting minutes are there along with other information.
@@ -112,10 +113,10 @@
 		<div class="homeitem3col">
 			<h3>User Resources</h3>
 			<ul>
-			<li><a href="faq.html">FAQ (Frequently asked Questions about PTP)</a> </td>
+			<li><a href="faq.php">FAQ (Frequently asked Questions about PTP)</a> 
         	<li>Ask questions about PTP on the <a href="news://eclipse.org/eclipse.technology.ptp">Newsgroup</a> 
         	       (<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.ptp">web interface</a>)</li>
-        	<li> <a href="downloads.html">Downloads</a> - Get the latest build
+        	<li> <a href="downloads.php">Downloads</a> - Get the latest build
         	<li> Read the  <a href="doc.php">The PTP User Guide</a>
         	<li>Submit bugs and feature requests on <a href="http://bugs.eclipse.org/bugs">Bugzilla</a> 
         	       
@@ -128,7 +129,7 @@
 				<li><a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki</a>   for various developer information</li>
 				<li><a href="http://wiki.eclipse.org/index.php/PTP/planning">Plans</a>   for upcoming PTP releases </li>
 				<li><a href="http://dev.eclipse.org/viewcvs/index.cgi?cvsroot=Technology_Project">CVS Repository</a> </td>
-                          - View PTP sources using the web interface (Does this still work?)
+                          - View PTP sources using the web interface  
                 <li><a href="http://dev.eclipse.org/mailman/listinfo/ptp-dev">Mailing List</a> -
                        Email developers and get involved with PTP development
                 <li><a href="http://wiki.eclipse.org/index.php/PTP/planning">Plans</a>   - Plans for upcoming PTP releases
@@ -136,7 +137,7 @@
                                  (Note: <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki may be more accurate))
                 <li><a href="work.html">Work tasks</a>  - Outstanding work items on the project 
                                  (Note: <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki may be more accurate))
-                <li><a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Planning Meetings</a> 
+                <li><a href="http://wiki.eclipse.org/index.php/PTP/meetings">Planning Meetings</a> 
                                - Monthly conference call schedule, agendas and minutes 
                 <li><a href="contributors.html">Contributors</a> - List of contributors to the PTP project
 			</ul>
