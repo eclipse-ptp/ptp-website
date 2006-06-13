@@ -13,5 +13,7 @@
 	$Nav->addCustomNav("Downloads", 		"downloads.php", 	"_self", 2);
 	$Nav->addCustomNav("Installation", 		"install.php", 		"_self", 2);
 	$Nav->addCustomNav("FAQ", 				"faq.php", 			"_self", 2);
+	$Nav->addCustomNav("Wiki", 				"http://wiki.eclipse.org/index.php/Parallel_Tools_Platform", "_self", 2);
+	$Nav->addCustomNav("User Guide", 	"doc.php", 			"_self", 2);
 
 ?>
