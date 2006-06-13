@@ -73,13 +73,15 @@ Click on the Help links to read the help on-line.
 Greg Watson and Craig Rasmussen,
 <a href="http://eclipse.org/ptp/docs/whitepapers/PTPWPv9.pdf">
 A Strategy for Addressing the Needs of Advanced Scientific Computing Using Eclipse as a Parallel Tools Platform
-
+<p>&nbsp;
 <li><a href="http://www.computer.org/portal/site/cise/menuitem.92a12adebee18778161489108bcd45f3/index.jsp?&pName=cise_level1_article&TheCat=1001&path=cise/2006/v8n4&file=sci.xml&">
 			  <i>Developing Scientific Applications Using Eclipse</i></a>
 			  by Greg Watson and Nathan Debardeleben of PTP fame, is in this month&apos;s
 			  issue of <a href="http://www.computer.org/portal/site/cise/index.jsp">
 			  Computing in Science &amp; Engineering</a> magazine.
  </ul>
+ <p>&nbsp;
+  <p>&nbsp;
 	</div>
 
 	<!-- remove the entire <div> tag to omit the right column!  -->
