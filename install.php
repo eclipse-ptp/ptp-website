@@ -2,10 +2,10 @@
 
 	#*****************************************************************************
 	#
-	# template.php
+	# install.php
 	#
-	# Author: 		Denis Roy
-	# Date:			2005-06-16
+	# Author: 		Beth Tibbitts
+	# Date:			2006-06-12
 	#
 	# Description: Type your page comments here - these are not sent to the browser
 	#
@@ -16,7 +16,7 @@
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "Sample Phoenix web page using the new templates";
 	$pageKeywords	= "Type, page, keywords, here";
-	$pageAuthor		= "Type your name here";
+	$pageAuthor		= "Beth Tibbitts";
 	
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)

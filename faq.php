@@ -16,7 +16,7 @@
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "PTP Frequently Asked Questions";
 	$pageKeywords	= "Type, page, keywords, here";
-	$pageAuthor		= "Type your name here";
+	$pageAuthor		= "Beth Tibbitts";
 	
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
@@ -47,22 +47,23 @@
       <hr>
     <p><b><font size="3"><a name="faq1" id="faq1"></a>Q1:</font></b> 
     How do I download PTP? </p>
-    <p><b><font size="3">A:</font></b> We finally have (Mar. 2006) the RC3 (Release Candidate 3) release of the core PTP software. 
-    (That is, the parallel runtime and parallel debugger.)
+    <p><b><font size="3">A:</font></b> The 1.0.0  release of the core PTP software 
+    (That is, the parallel runtime and parallel debugger) is available for Linux and Mac OS.
         <p>
     You can download it from the <a href="downloads.html">PTP download page</a>; check regularly there for new releases, too. </p>
     <p>     PTP also requires
     <a href="http://www.open-mpi.org/software/ompi/v1.0/">OpenMPI v1.0.2</a>
     for the core PTP functionality. 
 
-    <p>The PTP MPI Development tools, and the Fortran Development Tools, are available as well.
+    <p>The PTP MPI Development tools, and the Fortran Development Tools, are available as well, on more platforms.
     See the <a href="downloads.html">PTP download page</a>.
     <hr>    
     <p><b><font size="3"><a name="faq2" id="faq2"></a>Q2:</font></b> What version of Eclipse and CDT do I need? </p>
-    <p><b><font size="3">A:</font></b> PTP is designed to work with Eclipse 3.1. 
+    <p><b><font size="3">A:</font></b> PTP 1.0.0 is designed to work with Eclipse 3.1. 
     The Fortran Development Tools are designed to work with CDT 3.0, 
     however we will endeavor to build FDT against the latest milestone releases of CDT. </p>
     The MPI development tools also require CDT 3.0.x.
+    (Note: Upcoming Release 1.1 of PTP is built agains Eclipse 3.2 and CDT 3.1.)
     <hr>    
     <p><b><font size="3"><a name="faq3" id="faq3"></a>Q3:</font></b>
     What version of MPI do I need to run PTP?</p>

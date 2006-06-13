@@ -54,40 +54,50 @@
 				<li><a href="sample_list.php">Sample list</a>.</li>
 			</ul>
 		</div>
+		
 		<div class="homeitem3col">
 	<h3>Project Goals</h3>
-		<p>The aim of the parallel tools platform project is to produce an open-source industry-strength platform that provides a highly integrated environment specifically designed for parallel application development. The project will provide:</p>
+		<p>The aim of the parallel tools platform project is to produce an open-source industry-strength platform that 
+		    provides a highly integrated environment specifically designed for parallel application development. 
+		    The project will provide:</p>
       <ul>
         <li>a standard, portable parallel IDE that supports a wide range of parallel architectures and runtime systems</li>
         <li>a scalable parallel debugger</li>
         <li>support for  the integration of a wide range of parallel tools</li>
         <li>an environment that simplifies the end-user interaction with parallel systems </li>
-    </ul>  
+       </ul>  
     </div>
-    </h2>
+    
+    
     <div class="homeitem3col">
 			<h3>Fortran Development Tools</h3>
-			 <p>Although not an integral part of the parallel tools platform, Fortran language support is an essential tool for the parallel development community. We have provided an intitial version that is based on the CDT 3.0 series and the first release will coincide with the release of CDT 3.0. Features of FDT include:</p>
+			 <p>Although not an integral part of the parallel tools platform, 
+			 Fortran language support is an essential tool for the parallel development community. 
+			 We have provided an intitial version that is based on the CDT 3.0 Release. Features of FDT include:</p>
       <ul>
-        <li>support for IBM XLF, Intel Fortran, gfortran and other compilers</li>
+        <li>Support for IBM XLF, Intel Fortran, gfortran and other compilers</li>
         <li>Fortran editor with syntax highlighting</li>
-        <li>  managed build support</li>
-        <li>outline view</li>
+        <li>Managed build support</li>
+        <li>Outline view</li>
       </ul>
-      <p>The CDT and FDT projects share much in common, and we are working closely with the CDT community to minimize overlap and move towards a more language independent model. We will also be working with other organizations towards developing an industry-strength Fortran development environment. </p>
-
+      <p>The CDT and FDT projects share much in common, and we are working closely with the CDT
+       community to minimize overlap and move towards a more language independent model. 
+       We will also be working with other organizations towards developing an industry-strength Fortran development environment. 
+       (See also the <a href="http://eclipse.org/photran">Photran</a> project which includes our FDT work.)
+       </p>
 		</div>
 		
 	  <div class="homeitem3col">
 			<h3>What&apos;s New</h3>
 			<ul>
-			<li>June 2006: Most new information is on the <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki!</a>.
+			<li>June 2006: Most new information is now on the <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki!</a>.
+			    Release 1.1 of PTP is estimated to be available in the Fall of 2006.
 			<li>April 11, 2006:  
           <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">PTP now has a Wiki!</a> 
           April Planning Meeting minutes are there along with other information.
           <li>March 18, 2006: Release 1.0 now available for <a href="downloads.html">download</a>!;
           Pre-reqs and installation info is on the <a href="docs/releases/release-1.0.html">Release notes</a> page.
-          <li>February 13, 2006: <a href="doc.html">documentation</a> is now available
+          <li>February 13, 2006: <a href="doc.php">documentation</a> is now available
           <li>December 12, 2005: New whitepaper <a href="docs/whitepapers/PTPWPv9.pdf">available</a>
           <li>September 18, 2005: Version 1.0 release plan <a href="docs/plan.html">available</a>
           <li>April 20, 2005: FDT 0.9-31M5a available. Please see the <a href="downloads.html">Downloads</a>
@@ -96,99 +106,43 @@
 		</div>
 			
 		<div class="homeitem3col">
-			<h3>User Information</h3>
-			<ul>
-			<li><a href="news://eclipse.org/eclipse.technology.ptp">Newsgroup</a> (<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.ptp">web interface</a>)</li>
-				</ul>
+		<h3>General Resources</h3>
 		</div>
+		
 		<div class="homeitem3col">
-			<h3>Developer Information</h3>
+			<h3>User Resources</h3>
 			<ul>
-				<li><a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki</a>   for various developer information</li>
-				<li><a href="http://wiki.eclipse.org/index.php/PTP/planning">Plans</a>   for upcoming PTP releases </li>
+			<li><a href="faq.html">FAQ (Frequently asked Questions about PTP)</a> </td>
+        	<li>Ask questions about PTP on the <a href="news://eclipse.org/eclipse.technology.ptp">Newsgroup</a> 
+        	       (<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.ptp">web interface</a>)</li>
+        	<li> <a href="downloads.html">Downloads</a> - Get the latest build
+        	<li> Read the  <a href="doc.php">The PTP User Guide</a>
+        	<li>Submit bugs and feature requests on <a href="http://bugs.eclipse.org/bugs">Bugzilla</a> 
+        	       
 			</ul>
 		</div>
 		
 		<div class="homeitem3col">
-		<h3>Etc.</h3>
-		<table cellSpacing="1" cellPadding="2" width="90%" border="0" id="table1">
-        <tr>
-          <td colspan="2"> <b>General Resources:</b> </td>
-        </tr>
-        <tr>
-          <td>&nbsp;</td>
-          <td> <a href="faq.html">FAQ</a> </td>
-          <td> Frequently asked questions about PTP</td>
-        </tr>
-        <tr>
-          <td width="1%">&nbsp;</td>
-          <td width="19%"> <a href="news://eclipse.org/eclipse.technology.ptp">Newsgroup</a> (<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.ptp">web interface</a>) </td>
-          <td width="80%"> Ask questions about PTP on the Eclipse Technology Newsgroup</td>
-        </tr>
-        <tr>
-          <td>&nbsp;</td>
-          <td> <a href="http://bugs.eclipse.org/bugs">Bugzilla</a> </td>
-          <td> Submit bugs and feature requests</td>
-        </tr>
-        <tr>
-          <td></td>
-        </tr>
-        <tr>
-          <td colspan="2"> <b>User Resources:</b> </td>
-        </tr>
-        <tr>
-          <td>&nbsp;</td>
-          <td> <a href="downloads.html">Downloads</a> </td>
-          <td> Get the latest build</td>
-        </tr>
-        <tr>
-          <td>&nbsp;</td>
-          <td> Documentation<br></td>
-          <td> <a href="doc.html">The PTP User Guide</a></td>
-        </tr>
-        <tr>
-          <td></td>
-        </tr>
-        <tr>
-          <td colspan="2"> <b>Developer Resources:</b> </td>
-        </tr>
-        <tr>
-          <td>&nbsp;</td>
-          <td> <a href="http://dev.eclipse.org/viewcvs/index.cgi?cvsroot=Technology_Project">CVS Repository</a> </td>
-          <td> View PTP sources using the web interface</td>
-        </tr>
-        <tr>
-          <td>&nbsp;</td>
-          <td> <a href="http://dev.eclipse.org/mailman/listinfo/ptp-dev">Mailing List</a> </td>
-          <td> Email developers and get involved with PTP development</td>
-        </tr>
-        <tr>
-          <td>&nbsp;</td>
-          <td> <a href="http://wiki.eclipse.org/index.php/PTP/planning">Plans</a> </td>
-          <td> Plans for upcoming PTP releases</td>
-        </tr>
-       
-        <tr>
-          <td>&nbsp;</td>
-          <td> <a href="docs/design.html">Design</a> </td>
-          <td> PTP design discussion and plans </td>
-        </tr>
-        <tr>
-          <td>&nbsp;</td>
-          <td> <a href="work.html">Work tasks</a> </td>
-          <td> Outstanding work items on the project</td>
-        </tr>
-        <tr>
-          <td>&nbsp;</td>
-          <td><a href="meetings.html">Planning Meetings</a> </td>
-          <td>Monthly conference call schedule, agendas and minutes </td>
-        </tr>
-        <tr>
-          <td>&nbsp;</td>
-          <td> <a href="contributors.html">Contributors</a> </td>
-          <td> List of contributors to the PTP project</td>
-        </tr>
-    </table>
+			<h3>Developer Resources</h3>
+			<ul>
+				<li><a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki</a>   for various developer information</li>
+				<li><a href="http://wiki.eclipse.org/index.php/PTP/planning">Plans</a>   for upcoming PTP releases </li>
+				<li><a href="http://dev.eclipse.org/viewcvs/index.cgi?cvsroot=Technology_Project">CVS Repository</a> </td>
+                          - View PTP sources using the web interface (Does this still work?)
+                <li><a href="http://dev.eclipse.org/mailman/listinfo/ptp-dev">Mailing List</a> -
+                       Email developers and get involved with PTP development
+                <li><a href="http://wiki.eclipse.org/index.php/PTP/planning">Plans</a>   - Plans for upcoming PTP releases
+                <li><a href="docs/design.html">Design</a>  - PTP design discussion and plans 
+                                 (Note: <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki may be more accurate))
+                <li><a href="work.html">Work tasks</a>  - Outstanding work items on the project 
+                                 (Note: <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki may be more accurate))
+                <li><a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Planning Meetings</a> 
+                               - Monthly conference call schedule, agendas and minutes 
+                <li><a href="contributors.html">Contributors</a> - List of contributors to the PTP project
+			</ul>
+		</div>
+	
+ 
     </div>
     
 		<hr class="clearer" />
