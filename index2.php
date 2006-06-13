@@ -121,7 +121,7 @@
                                  (Note: <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki may be more accurate))
                 <li><a href="http://wiki.eclipse.org/index.php/PTP/meetings">Planning Meetings</a> 
                                - Monthly conference call schedule, agendas and minutes 
-                <li><a href="contributors.html">Contributors</a> - List of contributors to the PTP project
+                <li><a href="contributors.php">Contributors</a> - List of contributors to the PTP project
 			</ul>
 		</div>
 	
