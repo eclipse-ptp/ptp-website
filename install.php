@@ -34,7 +34,7 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<h2>Release notes</h2>
-		<p>Some Installation information is in the <a href="releases/release-1.0.html">Release notes </a></p>
+		<p>Some Installation information is in the <a href="docs/releases/release-1.0.html">Release notes </a></p>
 		<p>Some additional information is in the <a href="faq.php">FAQ</a>.
 	
 	
