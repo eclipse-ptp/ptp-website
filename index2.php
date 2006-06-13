@@ -75,12 +75,12 @@
 			<li>April 11, 2006:  
           <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">PTP now has a Wiki!</a> 
           April Planning Meeting minutes are there along with other information.
-          <li>March 18, 2006: Release 1.0 now available for <a href="downloads.html">download</a>!;
+          <li>March 18, 2006: Release 1.0 now available for <a href="downloads.php">download</a>!;
           Pre-reqs and installation info is on the <a href="docs/releases/release-1.0.html">Release notes</a> page.
           <li>February 13, 2006: <a href="doc.php">documentation</a> is now available
           <li>December 12, 2005: New whitepaper <a href="docs/whitepapers/PTPWPv9.pdf">available</a>
           <li>September 18, 2005: Version 1.0 release plan <a href="docs/plan.html">available</a>
-          <li>April 20, 2005: FDT 0.9-31M5a available. Please see the <a href="downloads.html">Downloads</a>
+          <li>April 20, 2005: FDT 0.9-31M5a available. Please see the <a href="downloads.php">Downloads</a>
           <li>April 12 , 2005: <a href="http://eclipse.org/org/press-release/20050412paralleltools.htm">Los Alamos Developing New Eclipse-Based Tools for High-Performance Parallel Computers</a> 
 			</ul>
 		</div>
