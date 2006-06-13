@@ -70,7 +70,7 @@
 			<h3>What&apos;s New</h3>
 			<ul>
 			<li>June 13, 2006: <a href="http://www.computer.org/portal/site/cise/menuitem.92a12adebee18778161489108bcd45f3/index.jsp?&pName=cise_level1_article&TheCat=1001&path=cise/2006/v8n4&file=sci.xml&">
-			  <i>Developing Scientific Applications with Eclipse</i></a>
+			  <i>Developing Scientific Applications Using Eclipse</i></a>
 			  by Greg Watson and Nathan Debardeleben of PTP fame, is in this month&apos.s
 			  issue of <a href="http://www.computer.org/portal/site/cise/index.jsp">
 			  Computing in Science &amp; Engineering</a> magazine.
