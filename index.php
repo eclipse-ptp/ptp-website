@@ -2,7 +2,7 @@
 
 	#*****************************************************************************
 	#
-	# template.php
+	# index.php
 	#
 	# Author: 		Beth Tibbitts
 	# Date:			2006-06-11
@@ -71,21 +71,24 @@
 	  <div class="homeitem3col">
 			<h3>What&apos;s New</h3>
 			<ul>
+			<li>June 19, 2006: PTP website is now converted to <a href="http://eclipse.org/phoenix">Phoenix</a>;
+			The <a href="indexOld.html">old main page is here.</a><br>
+			Most new information is now on the <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki!</a>.
+			  <br>  Release 1.1 of PTP is estimated to be available in the Fall of 2006.
+			  
 			<li>June 13, 2006: <a href="http://www.computer.org/portal/site/cise/menuitem.92a12adebee18778161489108bcd45f3/index.jsp?&pName=cise_level1_article&TheCat=1001&path=cise/2006/v8n4&file=sci.xml&">
 			  <i>Developing Scientific Applications Using Eclipse</i></a>
 			  by Greg Watson and Nathan Debardeleben of PTP fame, is in this month&apos;s
 			  issue of <a href="http://www.computer.org/portal/site/cise/index.jsp">
 			  Computing in Science &amp; Engineering</a> magazine.
-			<li>June 2006: PTP website is now converted to <a href="http://eclipse.org/phoenix">Phoenix</a><br>
-			Most new information is now on the <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki!</a>.
-			  <br>  Release 1.1 of PTP is estimated to be available in the Fall of 2006.
 			  
+			
 			  		 
 			<li>April 11, 2006:  
           <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">PTP now has a Wiki!</a> 
           April Planning Meeting minutes are there along with other information.
           <li>March 18, 2006: Release 1.0 now available for <a href="downloads.php">download</a>!;
-          Pre-reqs and installation info is on the <a href="docs/releases/release-1.0.html">Release notes</a> page.
+          Pre-reqs and installation info is on the <a href="docs/releases/release-1.0.php">Release notes</a> page.
           <li>February 13, 2006: <a href="doc.php">documentation</a> is now available
           <li>December 12, 2005: New whitepaper <a href="docs/whitepapers/PTPWPv9.pdf">available</a>
           <li>September 18, 2005: Version 1.0 release plan <a href="docs/plan.html">available</a>
@@ -118,7 +121,8 @@
 		<div class="homeitem3col">
 			<h3>Developer Resources</h3>
 			<ul>
-				<li><a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki</a>   for various developer information</li>
+				<li>The <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki</a>  is now the best place for the most recent
+				information, especially developer information</li>
 				<li><a href="http://wiki.eclipse.org/index.php/PTP/planning">Plans</a>   for upcoming PTP releases </li>
 				<li><a href="http://dev.eclipse.org/viewcvs/index.cgi?cvsroot=Technology_Project">CVS Repository</a> </td>
                           - View PTP sources using the web interface  

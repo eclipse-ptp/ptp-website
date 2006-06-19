@@ -33,7 +33,7 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<p>Welcome to the downloads page for  the first release of the Parallel Tools Platform. <br>
-    Please see the <a href="docs/releases/release-1.0.html">
+    Please see the <a href="docs/releases/release-1.0.php">
       Release notes</a> for prerequisite and installation information. </p>
     <p>The files below contain the current release of PTP. To install PTP you need to  download the PTP Core component <strong>plus </strong>the  PTP Runtime and PTP Debug components that correspond to your architecture. Download and install the plugins and features into your Eclipse installation.</p>    
      
@@ -130,7 +130,7 @@
   <div class="homeitem3col">
   <h3>MPI Development Tools</h3>
   <p>The files below contain the current release of the MPI Development Tools for PTP. <br>
-       Please see the <a href="docs/releases/release-1.0.html">
+       Please see the <a href="docs/releases/release-1.0.php">
       Release notes</a> for prerequisite and installation information. </p>
 
     <p>Download and install the plugins and features into your Eclipse installation:</p> 
@@ -154,7 +154,7 @@
   <h3>Fortran Development Tools</h3>
   <table>
 <p>The files below contain the current release of the Fortran Development Tools for PTP. <br>
-       Please see the <a href="docs/releases/release-1.0.html">
+       Please see the <a href="docs/releases/release-1.0.php">
       Release notes</a> for prerequisite and installation information. </p>
 
       <p>Download and install the plugins and features into your Eclipse installation:</p>    </tr>
@@ -185,10 +185,10 @@
 	<!-- remove the entire <div> tag to omit the right column!  -->
 	<div id="rightcolumn">
 		<div class="sideitem">
-			<h6>Right column</h6>
+			<h6>Other useful sites</h6>
 			<ul>
-				<li><a href="#">Item</a></li>
-				<li><a href="#">Item</a></li>
+				<li><a href="http://www.open-mpi.org/">OpenMPI</a></li>
+				<li><a href="http://www-unix.mcs.anl.gov/mpi/">MPI</a></li>
 				<li><a href="#">Item</a></li>
 				<li><a href="#">Item</a></li>
 			</ul>

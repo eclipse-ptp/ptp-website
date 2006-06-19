@@ -105,7 +105,7 @@ aid in the search for MPI artifacts.
     <p><b><font size="3">A:</font></b> Make sure your PATH has OpenMPI ahead
     of any other MPI implementation you have installed.
     <p>Also, see the "Troubleshooting" section of the 
-    <a href="docs/releases/release-1.0.html">Release Notes</a>.
+    <a href="docs/releases/release-1.0.php">Release Notes</a>.
     
                 <hr>
     <p><b><font size="3"><a name="faq6" id="faq6"></a>Q6:</font></b>
@@ -164,7 +164,7 @@ mpirun -np 2 testMPI
 
         <hr>  
             <p><b><font size="3"><a name="faq8" id="faq8"></a>Q8:</font></b>
-   I see the error popup &quot;There was an error staring the OMPI proxy runtime. 
+   I see the error popup &quot;There was an error starting the OMPI proxy runtime. 
    The path to &apos;orte_server&apos; or &apos;orted&apos; may be incorrect.  The &apos;orted&apos; binary MUST be
    in your PATH to be found by &apos;orte_server&apos;.  Try checking the console log or
    error logs for more detailed information.&quot;  
@@ -184,9 +184,10 @@ mpirun -np 2 testMPI
 		<div class="sideitem">
 			<h6>More PTP Stuff</h6>
 			<ul>
-				<li><a href="#">Item</a></li>
-				<li><a href="#">Item</a></li>
-				<li><a href="#">Item</a></li>
+				<li><a href="">User Guide and other docs</a></li>
+				<li><a href="http://www.computer.org/portal/site/cise/menuitem.92a12adebee18778161489108bcd45f3/index.jsp?&pName=cise_level1_article&TheCat=1001&path=cise/2006/v8n4&file=sci.xml&">
+				<i>Developing Scientific Applications in Eclipse</i></a> article describes Eclipse and PTP</li>
+				<li><a href="#">Tutorial</a></li>
 				<li><a href="#">Item</a></li>
 			</ul>
 		</div>

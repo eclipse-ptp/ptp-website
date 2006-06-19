@@ -32,59 +32,32 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
+		<p>The PTP Project wishes to acknowledge contributions made by the 
+		following people:
 		 
   <div class="homeitem3col">
-  <h2>Contributors</h2>
-    <h3>Committers</h3>
-  	<table>
-        <TR>
-          <TD width="50%" bgColor="#eeeeee" >Nathan DeBardeleben</TD>
-          <TD width="25%" bgColor="#eeeeee" >Los Alamos National Laboratory </TD>
-        </TR>
-        <TR>
-          <TD width="50%" bgColor="#eeeeee">Clement Chu</TD>
-          <TD width="25%" bgColor="#eeeeee"> Monash Univeristy</TD>
-        </TR>
-        <TR>
-          <TD width="50%" bgColor="#eeeeee">Donny Kurniawan </TD>
-          <TD width="25%" bgColor="#eeeeee"> Monash Univeristy</TD>
-        </TR>
-        <TR>
-          <TD width="50%" bgColor="#eeeeee">Craig Rasmussen </TD>
-          <TD width="25%" bgColor="#eeeeee">Los Alamos National Laboratory</TD>
-        </TR>
-        <TR>
-          <TD bgColor="#eeeeee">Greg Watson (Project Lead)</TD>
-          <TD bgColor="#eeeeee"> Los Alamos National Laboratory</TD>
-        </TR>
-        <TR>
-          <TD width="50%" bgColor="#eeeeee">Beth Tibbitts </TD>
-          <TD width="25%" bgColor="#eeeeee"> IBM Research </TD>
-        </TR>
-        <TR>
-          <TD bgColor="#eeeeee">Tianchao Li </TD>
-          <TD bgColor="#eeeeee">Technische Universit&auml;t M&uuml;nchen </TD>
-        </TR>
-        </table>
+  <h3>Committers</h3>
+  
+		  <ul>
+		  <li>Greg Watson (Project Lead), Los Alamos National Laboratory
+		  <li>Craig Rasmussen, Los Alamos National Laboratory
+		  <li>Nathan DeBardeleben, Los Alamos National Laboratory
+		  <li>Clement Chu, Monash Univeristy
+		  <li>Donny Kurniawan, Monash Univeristy
+		  <li>Beth Tibbitts, IBM Research
+		  <li>Tianchao Li, Technische Universit&auml;t M&uuml;nchen 
+		  </ul>
+		  <p>
+ 
         <h3>Other Contributors</h3>
-        <table>
-        <TR>
-          <TD bgColor="#eeeeee">David Abramson</TD>
-          <TD bgColor="#eeeeee"> Monash University </TD>
-        </TR>
-        <TR>
-          <TD bgColor="#eeeeee">Don Pazel </TD>
-          <TD bgColor="#eeeeee"> IBM Research </TD>
-        </TR>
-        <TR>
-          <TD bgColor="#eeeeee">Bill Chung </TD>
-          <TD bgColor="#eeeeee">IBM Research </span></TD>
-        </TR>
-        <TR>
-          <TD width="50%" bgColor="#eeeeee">Anirban Sinha </TD>
-          <TD width="25%" bgColor="#eeeeee">University of British Columbia </TD>
-        </TR>
-    </TABLE>
+        <ul>
+        <li>David Abramson,  Monash University 
+        <li>Don Pazel, Google
+        <li>Bill Chung, IBM Research
+        <li>Anirban Sinha, University of British Columbia
+        <li>Wyatt Spear, University of Oregon
+        </ul>
+        <p>
     <h3>Supporters</h3>
  
       <p>The following organizations have offered support for the ptp project: </p>
@@ -112,25 +85,6 @@
 
 	</div>
 
-	<!-- remove the entire <div> tag to omit the right column!  -->
-	<div id="rightcolumn">
-		<div class="sideitem">
-			<h6>Right column</h6>
-			<ul>
-				<li><a href="#">Item</a></li>
-				<li><a href="#">Item</a></li>
-				<li><a href="#">Item</a></li>
-				<li><a href="#">Item</a></li>
-			</ul>
-		</div>
-		<div class="sideitem">
-			<h6>Another box</h6>
-			<ul>
-				<li><a href="#">Item</a></li>
-				<li><a href="#">Item</a></li>
-			</ul>
-		</div>
-	</div>
 
 EOHTML;
 
