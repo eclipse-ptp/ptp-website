@@ -187,17 +187,10 @@ mpirun -np 2 testMPI
 				<li><a href="">User Guide and other docs</a></li>
 				<li><a href="http://www.computer.org/portal/site/cise/menuitem.92a12adebee18778161489108bcd45f3/index.jsp?&pName=cise_level1_article&TheCat=1001&path=cise/2006/v8n4&file=sci.xml&">
 				<i>Developing Scientific Applications in Eclipse</i></a> article describes Eclipse and PTP</li>
-				<li><a href="#">Tutorial</a></li>
-				<li><a href="#">Item</a></li>
+				
 			</ul>
 		</div>
-		<div class="sideitem">
-			<h6>Another box</h6>
-			<ul>
-				<li><a href="#">Item</a></li>
-				<li><a href="#">Item</a></li>
-			</ul>
-		</div>
+		
 	</div>
 
 EOHTML;

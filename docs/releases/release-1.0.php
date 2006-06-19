@@ -2,10 +2,10 @@
 
 	#*****************************************************************************
 	#
-	# template.php
+	# release-1.0.php
 	#
-	# Author: 		Denis Roy
-	# Date:			2005-06-16
+	# Author: 		Beth Tibbitts
+	# Date:			2006-06-19 (from original *.html)
 	#
 	# Description: Type your page comments here - these are not sent to the browser
 	#
@@ -64,7 +64,7 @@
           (Note: as of February 2006, this is still a &quot;pending alpha&quot; release
           of OpenMPI 1.0.2, but it works fine for us.)
           If you intend to build PTP from source, instead of downloading it pre-built
-          from the <a href="../../downloads.html">downloads</a> page, 
+          from the <a href="../../downloads.php">downloads</a> page, 
           make sure you supply the <code>--with-devel-headers</code> argument to the <code>configure</code> command.</li>
         <li> Test your MPI installation by running a small MPI job.</li>
         <li>Download PTP core and the runtime and debugger plug-ins that suit your architecture.</li>
@@ -140,7 +140,7 @@
       <h4>Installation</h4>
       <ol>
         <li>Install Eclipse 3.1.x and CDT 3.0.x for your architecture.</li>
-        <li>Download the &apos;MPI Development Tools&apos; distribution from from <a href="http://eclipse.org/ptp/downloads.html">here</a>.</li>
+        <li>Download the &apos;MPI Development Tools&apos; distribution from from <a href="http://eclipse.org/ptp/downloads.php">here</a>.</li>
         <li>Unzip (or un-tar) into same directory into which  Eclipse has been installed (or use the update site).</li>
         <li>Start Eclipse.  (You may need to use the &quot;-clean&quot; parameter to force it to recognize new features and plug-ins).</li>
         <li>You should see the two new &quot;MPI&quot; buttons in the toolbar.</li>
@@ -160,7 +160,7 @@
       <h4>Installation</h4>
       <ol>
       <li>Install Eclipse 3.1.x and CDT 3.0 for your architecture.</li>
-      <li>Download the &apos;CDT with mixed-language projects&apos; and &apos;Fortran Development Tools&apos; distributions from <a href="http://eclipse.org/ptp/downloads.html">here</a>.</li>
+      <li>Download the &apos;CDT with mixed-language projects&apos; and &apos;Fortran Development Tools&apos; distributions from <a href="http://eclipse.org/ptp/downloads.php">here</a>.</li>
       <li>Unzip (or un-tar) into same directory into which  Eclipse has been installed (or use the update site).</li>
       <li>Start Eclipse.  (You may need to use the &quot;-clean&quot; parameter to force it to recognize new features and plug-ins).</li>
       </ol>  
