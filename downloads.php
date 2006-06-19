@@ -189,17 +189,10 @@
 			<ul>
 				<li><a href="http://www.open-mpi.org/">OpenMPI</a></li>
 				<li><a href="http://www-unix.mcs.anl.gov/mpi/">MPI</a></li>
-				<li><a href="#">Item</a></li>
-				<li><a href="#">Item</a></li>
+				
 			</ul>
 		</div>
-		<div class="sideitem">
-			<h6>Another box</h6>
-			<ul>
-				<li><a href="#">Item</a></li>
-				<li><a href="#">Item</a></li>
-			</ul>
-		</div>
+		
 	</div>
 
 EOHTML;
