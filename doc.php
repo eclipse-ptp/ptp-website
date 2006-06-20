@@ -84,25 +84,7 @@ A Strategy for Addressing the Needs of Advanced Scientific Computing Using Eclip
   <p>&nbsp;
 	</div>
 
-	<!-- remove the entire <div> tag to omit the right column!  -->
-	<div id="rightcolumn">
-		<div class="sideitem">
-			<h6>Right column</h6>
-			<ul>
-				<li><a href="#">Item</a></li>
-				<li><a href="#">Item</a></li>
-				<li><a href="#">Item</a></li>
-				<li><a href="#">Item</a></li>
-			</ul>
-		</div>
-		<div class="sideitem">
-			<h6>Another box</h6>
-			<ul>
-				<li><a href="#">Item</a></li>
-				<li><a href="#">Item</a></li>
-			</ul>
-		</div>
-	</div>
+
 
 EOHTML;
 
