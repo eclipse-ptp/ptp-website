@@ -9,11 +9,11 @@
 	# Define your project-wide Nav bars here.
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
 	# these are optional
-	$Nav->addNavSeparator("PTP Home", 	"index.php");
-	$Nav->addCustomNav("Downloads", 		"downloads.php", 	"_self", 2);
-	$Nav->addCustomNav("Installation", 		"install.php", 		"_self", 2);
-	$Nav->addCustomNav("FAQ", 				"faq.php", 			"_self", 2);
+	$Nav->addNavSeparator("PTP Home", 	"/index.php");
+	$Nav->addCustomNav("Downloads", 		"/downloads.php", 	"_self", 2);
+	$Nav->addCustomNav("Installation", 		"/install.php", 		"_self", 2);
+	$Nav->addCustomNav("FAQ", 				"/faq.php", 			"_self", 2);
 	$Nav->addCustomNav("Wiki", 				"http://wiki.eclipse.org/index.php/Parallel_Tools_Platform", "_self", 2);
-	$Nav->addCustomNav("Documentation", 	"doc.php", 			"_self", 2);
+	$Nav->addCustomNav("Documentation", 	"/doc.php", 			"_self", 2);
 
 ?>
