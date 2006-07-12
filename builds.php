@@ -33,9 +33,28 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
     
-    <p>This page has moved <a href="builds.php"> here</a>
+    <p>These files below contain  recent builds of portions of PTP,
+    for early release.
        
  
+  
+
+  <div class="homeitem3col">
+  <h3>PLDT: Parallel Language Development Tools</h3>
+  <p>PLDT contains the MPI Development Tools, plus similar tools for OpenMP.
+
+     <p>
+        <ul>
+          <a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/builds/org.eclipse.ptp.pldt-1.0.0-I200607112207.zip" -->
+          <li>
+          org.eclipse.ptp.pldt-1.0.0-I200607112207.zip</a>
+          <p>Note: the help for PLDT incorrectly states that a fix is required to CDT for 
+          PLDT.  This version of PLDT is  built for Eclipse 3.2 and CDT 3.1, which includes
+          the required change.
+          </ul>
+          <p>&nbsp;
+          
+        
 </div>
  
   

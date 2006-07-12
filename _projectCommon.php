@@ -11,6 +11,7 @@
 	# these are optional
 	$Nav->addNavSeparator("PTP Home", 	"/ptp/index.php");
 	$Nav->addCustomNav("Downloads", 		"/ptp/downloads.php", 	"_self", 2);
+	$Nav->addCustomNav("Builds", 		"/ptp/builds.php", 	"_self", 2);
 	$Nav->addCustomNav("Installation", 		"/ptp/install.php", 		"_self", 2);
 	$Nav->addCustomNav("FAQ", 				"/ptp/faq.php", 			"_self", 2);
 	$Nav->addCustomNav("Wiki", 				"http://wiki.eclipse.org/index.php/Parallel_Tools_Platform", "_self", 2);
