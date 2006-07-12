@@ -114,7 +114,8 @@
 		<div class="homeitem3col">
 			<h3>User Resources</h3>
 			<ul>
-			<li> <a href="downloads.php">Downloads</a> - Get the latest build
+			<li> <a href="downloads.php">Downloads</a> - Get the latest release
+			<li> <a href="builds.php">Builds</a> - Get the latest builds for testing
         	<li> Read the  <a href="doc.php">The PTP User Guide</a> including several
         	screen shots.
         	<li> <a href="news://news.eclipse.org/eclipse.technology.ptp">PTP newsgroup</a>
