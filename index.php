@@ -48,29 +48,13 @@
     </div>
     
     
-    <div class="homeitem3col">
-			<h3>Fortran Development Tools</h3>
-			 <p>Although not an integral part of the parallel tools platform, 
-			 Fortran language support is an essential tool for the parallel development community. 
-			 We have provided an intitial version that is based on the CDT 3.0 Release. Features of FDT include:</p>
-      <ul>
-        <li>Support for IBM XLF, Intel Fortran, gfortran and other compilers</li>
-        <li>Fortran editor with syntax highlighting</li>
-        <li>Managed build support</li>
-      </ul>
-      <p>The <a href="http://eclipse.org/cdt">CDT</a> and FDT projects share much in common, and we are working closely with the CDT
-       community to minimize overlap and move towards a more language independent model. 
-       We will also be working with other organizations towards developing an industry-strength Fortran development environment. 
-       See also the <a href="http://eclipse.org/photran">Photran</a>
-       project, which  includes our FDT contribution and is the official home for the  Fortran IDE.
-       
-       
-       </p>
-		</div>
-		
+   
 	  <div class="homeitem3col">
 			<h3>What&apos;s New</h3>
 			<ul>
+			<li><img src="../images/new.gif">July 11, 2006: <a href="nightlyBuilds.php">Nightly builds page</a> added; early preview of PLDT (Parallel Language Development Tools) made available -
+			This includes the previously available MPI Development Tools, but also
+			includes OpenMP tools as well.
 			<li>June 19, 2006: PTP website is now converted to <a href="http://eclipse.org/phoenix">Phoenix</a>;
 			The <a href="indexOld.html">old main page is here.</a><br>
 			Most new information is now on the <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki!</a>.
@@ -96,7 +80,26 @@
           <li>April 12 , 2005: <a href="http://eclipse.org/org/press-release/20050412paralleltools.htm">Los Alamos Developing New Eclipse-Based Tools for High-Performance Parallel Computers</a> 
 			</ul>
 		</div>
-			
+			 <div class="homeitem3col">
+			<h3>Fortran Development Tools</h3>
+			 <p>Although not an integral part of the parallel tools platform, 
+			 Fortran language support is an essential tool for the parallel development community. 
+			 We have provided an intitial version that is based on the CDT 3.0 Release. Features of FDT include:</p>
+      <ul>
+        <li>Support for IBM XLF, Intel Fortran, gfortran and other compilers</li>
+        <li>Fortran editor with syntax highlighting</li>
+        <li>Managed build support</li>
+      </ul>
+      <p>The <a href="http://eclipse.org/cdt">CDT</a> and FDT projects share much in common, and we are working closely with the CDT
+       community to minimize overlap and move towards a more language independent model. 
+       We will also be working with other organizations towards developing an industry-strength Fortran development environment. 
+       See also the <a href="http://eclipse.org/photran">Photran</a>
+       project, which  includes our FDT contribution and is the official home for the  Fortran IDE.
+       
+       
+       </p>
+		</div>
+		
 		<div class="homeitem3col">
 		<h3>General Resources</h3>
 		<ul>
