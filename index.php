@@ -117,6 +117,9 @@
 			<li> <a href="downloads.php">Downloads</a> - Get the latest build
         	<li> Read the  <a href="doc.php">The PTP User Guide</a> including several
         	screen shots.
+        	<li> <a href="news://news.eclipse.org/eclipse.technology.ptp">PTP newsgroup</a>
+        	for questions about using PTP;
+        	<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.ptp/maillist.html">Web version of newsgroup</a>
         	       
 			</ul>
 		</div>
