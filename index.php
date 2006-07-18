@@ -51,8 +51,8 @@
    
 	  <div class="homeitem3col">
 			<h3>What&apos;s New</h3>
-			<ul>
-			<li><img src="../images/new.gif">July 11, 2006: <a href="builds.php">Builds page</a> added; early preview of PLDT (Parallel Language Development Tools) made available -
+			<ul><img src="../images/new.gif">July 18, 2006: PLDT update on <a href="builds.php">Builds page</a>
+			<li>July 11, 2006: <a href="builds.php">Builds page</a> added; early preview of PLDT (Parallel Language Development Tools) made available -
 			This includes the previously available MPI Development Tools, but also
 			includes OpenMP tools as well.
 			<li>June 19, 2006: PTP website is now converted to <a href="http://eclipse.org/phoenix">Phoenix</a>;
