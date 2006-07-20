@@ -67,12 +67,18 @@ Click on the Help links to read the help on-line.
 </td>
 </tr>
 </table>
+<p>Note: PLDT (Parallel Language Development Tools) combine MPI with OpenMP tools.  It will be included in PTP 1.1 but
+is available in early release form on the <a href="builds.php">builds page</a>.  The PLDT help includes information about
+OpenMP tools.
 <h2>Other PTP Information:</h2>
 <ul>
 <li>Whitepaper written by 
 Greg Watson and Craig Rasmussen,
-<a href="http://eclipse.org/ptp/docs/whitepapers/PTPWPv9.pdf">
+<a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/whitepapers/PTPWPv9.pdf?cvsroot=Technology_Project">
 A Strategy for Addressing the Needs of Advanced Scientific Computing Using Eclipse as a Parallel Tools Platform
+<p>
+<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/PTP-workshop.pdf?cvsroot=Technology_Project">
+PTP Tutorial</a> from Los Alamos Computer Science Institute (Fall 2005)
 <p>&nbsp;
 <li><a href="http://www.computer.org/portal/site/cise/menuitem.92a12adebee18778161489108bcd45f3/index.jsp?&pName=cise_level1_article&TheCat=1001&path=cise/2006/v8n4&file=sci.xml&">
 			  <i>Developing Scientific Applications Using Eclipse</i></a>
