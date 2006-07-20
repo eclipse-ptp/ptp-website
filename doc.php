@@ -79,7 +79,7 @@ A Strategy for Addressing the Needs of Advanced Scientific Computing Using Eclip
 <p>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/PTP-workshop.pdf?cvsroot=Technology_Project">
 PTP Tutorial</a> from Los Alamos Computer Science Institute (Fall 2005)
-<p>&nbsp;
+<p>
 <li><a href="http://www.computer.org/portal/site/cise/menuitem.92a12adebee18778161489108bcd45f3/index.jsp?&pName=cise_level1_article&TheCat=1001&path=cise/2006/v8n4&file=sci.xml&">
 			  <i>Developing Scientific Applications Using Eclipse</i></a>
 			  by Greg Watson and Nathan Debardeleben of PTP fame, is in the July/August 2006
