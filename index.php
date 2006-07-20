@@ -51,7 +51,8 @@
    
 	  <div class="homeitem3col">
 			<h3>What&apos;s New</h3>
-			<ul><img src="../images/new.gif">July 18, 2006: PLDT update on <a href="builds.php">Builds page</a>
+			<ul>
+			<li><img src="../images/new.gif">July 18, 2006: PLDT update on <a href="builds.php">Builds page</a>
 			<li>July 11, 2006: <a href="builds.php">Builds page</a> added; early preview of PLDT (Parallel Language Development Tools) made available -
 			This includes the previously available MPI Development Tools, but also
 			includes OpenMP tools as well.
@@ -159,7 +160,9 @@
 			  <i>Developing Scientific Applications Using Eclipse</i></a>
 			  by Greg Watson and Nathan Debardeleben, in <a href="http://www.computer.org/portal/site/cise/index.jsp">
 			  Computing in Science &amp; Engineering</a> magazine.
-				
+				<li>PTP Tutorial to be presented at 
+				<a href="http://sc06.supercomputing.org/">SC06</a>
+				on Sunday, Nov. 12, 2006. 
 				
 			</ul>
 		</div>
