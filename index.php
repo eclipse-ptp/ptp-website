@@ -52,7 +52,7 @@
 	  <div class="homeitem3col">
 			<h3>What&apos;s New</h3>
 			<ul>
-			<li><img src="../images/new.gif">August 9 2006: PTP Tutorials coming up:
+			<li><img src="../images/new.gif">August 9, 2006: PTP Tutorials coming up:
 			<ul>
 			<li>
 			<a href="http://sc06.supercomputing.org/schedule/event_detail.php?evid=5063">
