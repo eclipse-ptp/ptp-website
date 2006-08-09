@@ -52,7 +52,18 @@
 	  <div class="homeitem3col">
 			<h3>What&apos;s New</h3>
 			<ul>
-			<li><img src="../images/new.gif">July 18, 2006: PLDT update on <a href="builds.php">Builds page</a>
+			<li><img src="../images/new.gif">August 9 2006: PTP Tutorials coming up:
+			<ul>
+			<li>
+			<a href="http://sc06.supercomputing.org/schedule/event_detail.php?evid=5063">
+			Application Development Using Eclipse and the Parallel Tools Platform</a> November 12, 2006
+			at <a href="http://sc06.supercomputing.org/">Supercomputing 2006</a> in Tampa, FL
+			
+			<li><a href="http://lacsi.krellinst.org/draft_agenda.shtml">
+			Scientific Application Development Using Eclipse and the Parallel Tools Platform</a> at LACSI
+			(Los Alamos Computer Science Institute) October 17, 2006 in Santa Fe, NM
+			</ul>
+			<li>July 18, 2006: PLDT update on <a href="builds.php">Builds page</a>
 			<li>July 11, 2006: <a href="builds.php">Builds page</a> added; early preview of PLDT (Parallel Language Development Tools) made available -
 			This includes the previously available MPI Development Tools, but also
 			includes OpenMP tools as well.
