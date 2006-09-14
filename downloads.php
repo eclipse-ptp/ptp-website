@@ -39,7 +39,7 @@
     <p>Note about Eclipse versions:
     <ul>
     <li>PTP 1.0 works with Eclipse 3.1.2, and CDT 3.0.2
-    <li>PTP 1.0 works with Eclipse 3.2, and CDT 3.1.  The MPI Development Tools do not work with CDT 3.2, so
+    <li>PTP 1.0 works with Eclipse 3.2, and CDT 3.1.  The MPI Development Tools do not work with CDT 3.1, so
         instead get the newer build of the PLDT on the <a href="builds.php">Builds page</a>.
     </ul>    
      
