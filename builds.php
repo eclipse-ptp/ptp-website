@@ -42,6 +42,7 @@
   <div class="homeitem3col">
   <h3>PLDT: Parallel Language Development Tools</h3>
   <p>PLDT contains the MPI Development Tools, plus similar tools for OpenMP.
+  <p>PLDT needs Eclipse 3.2 and CDT 3.1.
 
      <p>
         <ul>

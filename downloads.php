@@ -35,7 +35,13 @@
 		<p>Welcome to the downloads page for  the first release of the Parallel Tools Platform. <br>
     Please see the <a href="docs/releases/release-1.0.php">
       Release notes</a> for prerequisite and installation information. </p>
-    <p>The files below contain the current release of PTP. To install PTP you need to  download the PTP Core component <strong>plus </strong>the  PTP Runtime and PTP Debug components that correspond to your architecture. Download and install the plugins and features into your Eclipse installation.</p>    
+    <p>The files below contain the current release of PTP. To install PTP you need to  download the PTP Core component <strong>plus </strong>the  PTP Runtime and PTP Debug components that correspond to your architecture. Download and install the plugins and features into your Eclipse installation.</p>
+    <p>Note about Eclipse versions:
+    <ul>
+    <li>PTP 1.0 works with Eclipse 3.1.2, and CDT 3.0.2
+    <li>PTP 1.0 works with Eclipse 3.2, and CDT 3.1.  The MPI Development Tools do not work with CDT 3.2, so
+        instead get the newer build of the PLDT on the <a href="builds.php">Builds page</a>.
+    </ul>    
      
   <div class="homeitem3col">
   <h3>PTP Core</h3>
