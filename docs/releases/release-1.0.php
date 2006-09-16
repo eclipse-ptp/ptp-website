@@ -53,7 +53,8 @@
       <li>Java 1.4.2 or later</li>
         <li>Eclipse 3.1.x</li>
         <li>CDT 3.0.x</li>
-        <li>OpenMPI 1.0.2 (or greater) </li>
+        <li>OpenMPI 1.0.2</li>
+        <li>gdb 6.3 (earlier versions may also work)</li>
       </ul>    
       <h4>Installation</h4>
       <ol>
