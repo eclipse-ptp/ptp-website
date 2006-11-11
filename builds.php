@@ -40,30 +40,16 @@
     <div class="homeitem3col">
   <h3>PTP Core</h3>
   <p>PTP Core contains the core runtime and debugging support for parallel programs.
-  <p>PTP Core needs Java 1.5, Eclipse 3.2, and CDT 3.1.
+  <p>PTP Core needs Java 1.5, Eclipse 3.2, CDT 3.1 and OpenMPI 1.0.2 or 1.2.
 
      <p>
         <ul>
-        <li>10 November 2006: 
-          <a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/builds/org.eclipse.ptp-1.1.0-I200611101850.tar.gz" >
+        <li>11 November 2006: 
+          <a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/builds/org.eclipse.ptp-1.1.0-I200611111400.tar.gz" >
           
-          org.eclipse.ptp-1.1.0-I200611101850.tar.gz</a>
+          org.eclipse.ptp-1.1.0-I200611111400.tar.gz</a>
           
      </div>   
-     
-    <div class="homeitem3col">
-  <h3>PTP Runtime Source</h3>
-  <p>PTP Runtime contains the source code to the non-Java components that are needed to support the core runtime and debugger.
-  <p>PTP Runtime needs OpenMPI 1.2 or OpenMPI 1.0.2.
-
-     <p>
-        <ul>
-        <li>10 November 2006: 
-          <a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/builds/org.eclipse.ptp-runtime-1.1.0-I200611101918.tar.gz" >
-          
-          org.eclipse.ptp-runtime-1.1.0-I200611101918.tar.gz</a>
-          
-     </div> 
      
   <div class="homeitem3col">
   <h3>PLDT: Parallel Language Development Tools</h3>
