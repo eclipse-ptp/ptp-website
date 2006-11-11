@@ -37,7 +37,19 @@
     for early release.
        
  
-  
+    <div class="homeitem3col">
+  <h3>PTP Core</h3>
+  <p>PTP Core contains the core runtime and debugging support for parallel programs.
+  <p>PTP Core needs Java 1.5, Eclipse 3.2, and CDT 3.1.
+
+     <p>
+        <ul>
+        <li>10 November 2006: 
+          <a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/builds/org.eclipse.ptp-1.1.0-I200611101850.zip" >
+          
+          org.eclipse.ptp-1.1.0-I200611101850.zip</a>
+          
+     </div>   
 
   <div class="homeitem3col">
   <h3>PLDT: Parallel Language Development Tools</h3>
