@@ -45,12 +45,26 @@
      <p>
         <ul>
         <li>10 November 2006: 
-          <a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/builds/org.eclipse.ptp-1.1.0-I200611101850.zip" >
+          <a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/builds/org.eclipse.ptp-1.1.0-I200611101850.tar.gz" >
           
-          org.eclipse.ptp-1.1.0-I200611101850.zip</a>
+          org.eclipse.ptp-1.1.0-I200611101850.tar.gz</a>
           
      </div>   
+     
+    <div class="homeitem3col">
+  <h3>PTP Runtime Source</h3>
+  <p>PTP Runtime contains the source code to the non-Java components that are needed to support the core runtime and debugger.
+  <p>PTP Runtime needs OpenMPI 1.2 or OpenMPI 1.0.2.
 
+     <p>
+        <ul>
+        <li>10 November 2006: 
+          <a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/builds/org.eclipse.ptp-runtime-1.1.0-I200611101918.tar.gz" >
+          
+          org.eclipse.ptp-runtime-1.1.0-I200611101918.tar.gz</a>
+          
+     </div> 
+     
   <div class="homeitem3col">
   <h3>PLDT: Parallel Language Development Tools</h3>
   <p>PLDT contains the MPI Development Tools, plus similar tools for OpenMP.
