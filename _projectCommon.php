@@ -16,5 +16,6 @@
 	$Nav->addCustomNav("FAQ", 				"/ptp/faq.php", 			"_self", 2);
 	$Nav->addCustomNav("Wiki", 				"http://wiki.eclipse.org/index.php/Parallel_Tools_Platform", "_self", 2);
 	$Nav->addCustomNav("Documentation", 	"/ptp/doc.php", 			"_self", 2);
+	$Nav->addCustomNav("Mailing Lists",	"https://dev.eclipse.org/mailman/listinfo", "_self", 2);
 
 ?>
