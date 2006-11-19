@@ -75,14 +75,14 @@
           </ul>
         <li>Test your MPI installation by running a small MPI job.</li>
         <li>Download the PTP plug-in and unzip (or un-tar) into the same directory into which Eclipse has been installed.</li>
-        <li>Locate the plug-in org.eclipse.ptp.<emph>os</emph>.<emph>arch</emph> in the <code>plugins</code> directory, where 
-        <emph>os</emph> and <emph>arch</emph> correspond to your operating system and architecture respectively. Change to this directory.</li>
-        <li>Run the command <code>sh BUILD</code>. This should build and install the executables. If you see any errors here, please
+        <li>Locate the plug-in <code>org.eclipse.ptp.<i>os</i>.<i>arch</i></code> in the <code>plugins</code> directory, where 
+        <code><i>os</i></code> and <code><i>arch</i></code> correspond to your operating system and architecture respectively. Change to this directory.</li>
+        <li>Run the command: <p><code>sh BUILD</code><p> This should build and install the executables. If you see any errors here, please
         refer to the Trouble Shooting section below.
-        <li>Start Eclipse.  (You may need to use the &quot;-clean&quot; parameter to force it to recognize new features and plug-ins).</li>
+        <li>Start Eclipse.  (You may need to use the <code>-clean</code> parameter to force it to recognize new features and plug-ins).</li>
         <li>Open the PTP Runtime perspective (Window&gt;Open Perspective&gt;Other...). This should automatically select the Open MPI runtime preference and start the runtime service. 
         If you have a problem here, please refer to the Trouble Shooting section. </li>
-        <li>More details on using PTP can be found  in Help  &gt; Help Contents.  Click on &quot;PTP: Parallel Tools Platform &quot;. </li>
+        <li>More details on using PTP can be found  in Help&gt;Help Contents.  Click on &quot;PTP: Parallel Tools Platform &quot;. </li>
       </ol>
       <h4>Trouble Shooting</h4>
       <p><b>
@@ -90,15 +90,6 @@
       <p>This is usually one of the following things:
       
       <ol>
-          <li>OpenMPI lock problem: (See also a <a href="../build.html#cleanupOmpi">handy shell script for doing this cleanup</a>)
-            <ul>
-              <li>Quit out of Eclipse </li>
-              <li>Check there are no orted, orte_server or sdm programs running with the &apos;ps ax&apos; command.</li>
-              <li>If there are, kill them off.</li>
-              <li>Check for any directories in /tmp starting with &apos;openmpi-sessions-&lt;username&gt;&apos; . Remove the directory and all its contents.</li>
-              <li>Restart Eclipse</li>
-            </ul>
-        </li>
         <li>Unable to locate OpenMPI libraries:
           <ul>
             <li>The orte_server is dynamically linked against the OpenMPI libraries, so needs to be able to locate your OpenMPI installation to run.</li>
