@@ -43,9 +43,9 @@
 
       <p>The PTP plug-in provides the following functionality</p>
       <ul>
-        <li>the PTP Runtime perspective, including an abstract parallel machine view, jobs view and parallel launch configuration</li>
-        <li>the PTP Debug perspective, Parallel Debug view and scalable debug manager (SDM)</li>
-        <li>parallel language development tools (PLDT) [Note: these tools are installed as a separate plug-in below]</li>
+        <li>The PTP Runtime perspective, including an abstract parallel machine view, jobs view and parallel launch configuration</li>
+        <li>The PTP Debug perspective, Parallel Debug view and scalable debug manager (SDM)</li>
+        <li>Parallel Language Development Tools (PLDT) [Note: these tools are installed as a separate plug-in below]</li>
       </ul>
       <h4>Prerequisites</h4>
       <ul>
@@ -67,9 +67,9 @@
           developer version available, then you will need to build from source instead.</li>
         <li>Configure, build and install OpenMPI (if necessary)
           <ul>
-          	<li>In the main OpenMPI source directory, run the configure command:
-          	<code>./configure --with-devel-headers</code> and any other options required for your installation.</li>
-          	<li>Build and install OpenMPI using: <code>make install</code></li>
+          	<li>In the main OpenMPI source directory, run the configure command:<br>
+          	<code>./configure --with-devel-headers</code><br> and any other options required for your installation.</li>
+          	<li>Build and install OpenMPI using: <br><code>make install</code></li>
           </ul>
         <li>Test your MPI installation by running a small MPI job.</li>
         <li>Download the PTP plug-in and unzip (or un-tar) into the same directory into which Eclipse has been installed.</li>
@@ -149,7 +149,7 @@
       <h4>Installation</h4>
       <ol>
         <li>Install Eclipse 3.2.x and CDT 3.1.x for your architecture.</li>
-        <li>Download the &apos;Parallel Language Development Tools&apos; distribution from from <a href="http://eclipse.org/ptp/downloads.php">here</a>.</li>
+        <li>Download the &apos;Parallel Language Development Tools&apos; distribution.</li>
         <li>Unzip (or un-tar) into same directory into which  Eclipse has been installed (or use the update site).</li>
         <li>Start Eclipse.  (You may need to use the &quot;-clean&quot; parameter to force it to recognize new features and plug-ins).</li>
         <li>You should see the two new &quot;MPI&quot; buttons in the toolbar.</li>
@@ -163,12 +163,13 @@
 
       <h4>Prerequisites</h4>
       <ul>
-      <li>Eclipse 3.1.x</li>
-      <li>CDT 3.0</li>
+      <li>Eclipse 3.2.x</li>
+      <li>CDT 3.1.x</li>
+      <li>Photran 1.0</li>
       </ul>
       <h4>Installation</h4>
       <ol>
-      <li>Install Eclipse 3.1.x and CDT 3.0 for your architecture.</li>
+      <li>Install Eclipse 3.2.x and CDT 3.1.x for your architecture.</li>
       <li>Download the &apos;CDT with mixed-language projects&apos; and &apos;Fortran Development Tools&apos; distributions from <a href="http://eclipse.org/ptp/downloads.php">here</a>.</li>
       <li>Unzip (or un-tar) into same directory into which  Eclipse has been installed (or use the update site).</li>
       <li>Start Eclipse.  (You may need to use the &quot;-clean&quot; parameter to force it to recognize new features and plug-ins).</li>
