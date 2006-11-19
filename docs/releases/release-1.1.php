@@ -67,9 +67,10 @@
           developer version available, then you will need to build from source instead.</li>
         <li>Configure, build and install OpenMPI (if necessary)
           <ul>
-          	<li>In the main OpenMPI source directory, run the configure command:<br>
+          	<li>In the main OpenMPI source directory, run the configure command:
+          	<p>
           	<code>./configure --with-devel-headers</code><br> and any other options required for your installation.</li>
-          	<li>Build and install OpenMPI using: <br><code>make install</code></li>
+          	<li>Build and install OpenMPI using: <p><code>make install</code></li>
           </ul>
         <li>Test your MPI installation by running a small MPI job.</li>
         <li>Download the PTP plug-in and unzip (or un-tar) into the same directory into which Eclipse has been installed.</li>
