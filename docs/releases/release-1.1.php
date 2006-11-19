@@ -69,7 +69,8 @@
           <ul>
           	<li>In the main OpenMPI source directory, run the configure command:
           	<p>
-          	<code>./configure --with-devel-headers</code><br> and any other options required for your installation.</li>
+          	<code>./configure --with-devel-headers</code>
+          	<p> and any other options required for your installation.</li>
           	<li>Build and install OpenMPI using: <p><code>make install</code></li>
           </ul>
         <li>Test your MPI installation by running a small MPI job.</li>
