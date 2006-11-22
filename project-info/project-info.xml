@@ -1,37 +1,41 @@
 <project>
+	<name>Parallel Tools Platform</name>
 	<short-name>PTP</short-name>
 	<bugzilla>
 		<product name="PTP"/>
 	</bugzilla>
-	<committers url="/ptp/contributors.html"/>
-	<contributors url="/ptp/contributors.html"/>
-	<leaders url="/ptp/contributors.html"/>
-	
+	<team url="/ptp/contributors.html"/>
 	<cvs repository="/cvsroot/technology/">
 		<module path="org.eclipse.ptp"/>
 	</cvs>
-
-	<description url="/ptp/description.php" paragraph-url="/ptp/project-info/project-page-paragraph.html"/>
-
+	<description paragraph-url="/ptp/project-info/project-page-paragraph.html"/>
 	<summary paragraph-url="/ptp/project-info/executive-summary.html"/>
-
-	<getting-started url="/ptp/faq.html"/>
-
-	<!--
-	<ip-log url=""/>
-	-->
-	
+	<getting-started url="/ptp/faq.php"/>
+	<contributing />
+	<ip-log />
 	<mailing-lists>
 		<list name="ptp-dev"/>
 	</mailing-lists>
-	
  	<newsgroups>
 		<newsgroup name="eclipse.technology.ptp"/>
 	</newsgroups>
-
-	<project-plan url="/ptp/docs/plan.html"/>
-	
+	<articles>
+    	<article url="http://www.computer.org/portal/site/cise/menuitem.92a12adebee18778161489108bcd45f3/index.jsp?&pName=cise_level1_article&TheCat=1001&path=cise/2006/v8n4&file=sci.xml&"/>
+    	<article url="http://www-128.ibm.com/developerworks/edu/os-dw-os-ecl-ptp.html"/>
+ 	</articles>
+	<project-plan url="http://wiki.eclipse.org/index.php/PTP/designs"/>
 	<releases>
-		<release status="scheduled" name="1.0" date="03/2006" download="/ptp/downloads.html"/>
+		<release name="1.0" 
+			status="completed" 
+			date="08/2006" 
+			download="http://download.eclipse.org/technology/ptp/releases"/>
+		<release  name="1.1"
+			status="planned" 
+			date="12/2006" 
+			plan="http://wiki.eclipse.org/index.php/PTP/planning/1.1"/>
+		<release  name="2.0"
+			status="planned" 
+			date="07/2007" 
+			plan="http://wiki.eclipse.org/index.php/PTP/planning/2.0"/>
 	</releases>
 </project>
