@@ -45,6 +45,11 @@
 
      <p>
         <ul>
+        <li>24 November 2006: 
+          <a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/builds/org.eclipse.ptp-1.1.0-I200611240900.tar.gz" >
+          
+          org.eclipse.ptp-1.1.0-I200611240900.tar.gz</a>
+        
         <li>11 November 2006: 
           <a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/builds/org.eclipse.ptp-1.1.0-I200611111400.tar.gz" >
           
