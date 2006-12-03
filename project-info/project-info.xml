@@ -4,17 +4,20 @@
 	<bugzilla>
 		<product name="PTP"/>
 	</bugzilla>
-	<team url="/ptp/contributors.html"/>
+	<team url="/ptp/contributors.php"/>
 	<cvs repository="/cvsroot/technology/">
 		<module path="org.eclipse.ptp"/>
 	</cvs>
-	<description paragraph-url="/ptp/project-info/project-page-paragraph.html"/>
+	<description url="/ptp/" 
+		paragraph-url="/ptp/project-info/project-page-paragraph.html"/>
 	<summary paragraph-url="/ptp/project-info/executive-summary.html"/>
 	<getting-started url="/ptp/faq.php"/>
 	<contributing />
 	<ip-log />
 	<mailing-lists>
+		<list name="ptp-announce"/>
 		<list name="ptp-dev"/>
+		<list name="ptp-users"/>
 	</mailing-lists>
  	<newsgroups>
 		<newsgroup name="eclipse.technology.ptp"/>

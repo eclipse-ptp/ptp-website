@@ -150,7 +150,6 @@
                           - View PTP sources using the web interface  
                 <li><a href="http://dev.eclipse.org/mailman/listinfo/ptp-dev">Mailing List</a> -
                        Email developers and get involved with PTP development
-                <li><a href="http://wiki.eclipse.org/index.php/PTP/planning">Plans</a>   - Plans for upcoming PTP releases
                 <li><a href="docs/design.html">Design</a>  - PTP design discussion and plans 
                                  (Note: <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki may be more accurate))
                 <li><a href="work.html">Work tasks</a>  - Outstanding work items on the project 
