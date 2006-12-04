@@ -64,13 +64,7 @@
 
      <p>
         <ul>
-        <li>11 July 2006: 
-          <a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/builds/org.eclipse.ptp.pldt-1.0.0-I200607112207.zip" >
-          
-          org.eclipse.ptp.pldt-1.0.0-I200607112207.zip</a>
-          <p>Note: the help for PLDT incorrectly states that a fix is required to CDT for 
-          PLDT.  This version of PLDT is  built for Eclipse 3.2 and CDT 3.1, which includes
-          the required change.
+
         <li>18 July 2006:
           <a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/builds/org.eclipse.ptp.pldt-1.0.0-I200607181525.zip" >
           org.eclipse.ptp.pldt-1.0.0-I200607181525.zip</a>
