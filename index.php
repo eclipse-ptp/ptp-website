@@ -52,6 +52,10 @@
 	  <div class="homeitem3col">
 			<h3>What&apos;s New</h3>
 			<ul>
+			<li><img src="../images/new.gif">December 4, 2006: New PTP mailing lists added. We now have mailing lists
+			for general annoucements <a href="http://dev.eclipse.org/mailman/listinfo/ptp-announce">ptp-announce</a> and
+			for user discussions <a href="http://dev.eclipse.org/mailman/listinfo/ptp-user">ptp-user</a> 
+			that are not related to development issues.
 			<li><img src="../images/new.gif">December 4, 2006: PTP tutorials
 			were given at SC06 and LACSI conferences (see below); PTP release
 			1.1 is imminent... stay tuned.
