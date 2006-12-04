@@ -135,6 +135,9 @@
 </div>
   <div class="homeitem3col">
   <h3>MPI Development Tools</h3>
+  <p>Note: the MPI Development tools for 1.0 are being replaced with the 
+  Parallel Language Development Tools (PLDT) for 1.1.  See the
+  <a href="builds.php"> Builds page</a> for an early version of this.
   <p>The files below contain the current release of the MPI Development Tools for PTP. <br>
        Please see the <a href="docs/releases/release-1.0.php">
       Release notes</a> for prerequisite and installation information. </p>
