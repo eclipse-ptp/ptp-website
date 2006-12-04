@@ -52,7 +52,10 @@
 	  <div class="homeitem3col">
 			<h3>What&apos;s New</h3>
 			<ul>
-			<li><img src="../images/new.gif">August 16, 2006: PTP passes
+			<li><img src="../images/new.gif">December 4, 2006: PTP tutorials
+			were given at SC06 and LACSI conferences (see below); PTP release
+			1.1 is imminent... stay tuned.
+			<li>August 16, 2006: PTP passes
 			the <a href="http://wiki.eclipse.org/index.php/PTP/meetings/10releaseReview">Eclipse Foundation Release review
 			</a> for our 1.0 release
 			<li>August 9, 2006: PTP Tutorials coming up:
