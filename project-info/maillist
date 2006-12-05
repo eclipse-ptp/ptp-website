@@ -1,4 +1,4 @@
 ::ptp-announce::Mailing list for announcements about the Eclipse Parallel Tools Platform Project.
-::ptp-cvs::Mailing list for CVS commit messages. Developer use only.
+::ptp-cvs-commit::Mailing list for CVS commit messages. Developer use only.
 ::ptp-dev::Mailing list for developers of the Eclipse Parallel Tools Platform Project. See what committers and contributors are discussing and be part of this community!
 ::ptp-user::Mailing list for users of the Eclipse Parallel Tools Platform. Use this forum for questions about using PTP in your environment.
