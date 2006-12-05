@@ -25,7 +25,7 @@
 		<newsgroup name="eclipse.technology.ptp"/>
 	</newsgroups>
 	<articles>
-    	<article url="http://www.computer.org/portal/site/cise/menuitem.92a12adebee18778161489108bcd45f3/index.jsp?&pName=cise_level1_article&TheCat=1001&path=cise/2006/v8n4&file=sci.xml&"/>
+    	<article url="http://www.computer.org/portal/site/cise/menuitem.92a12adebee18778161489108bcd45f3/index.jsp?&amp;pName=cise_level1_article&amp;TheCat=1001&amp;path=cise/2006/v8n4&amp;file=sci.xml&amp;"/>
     	<article url="http://www-128.ibm.com/developerworks/edu/os-dw-os-ecl-ptp.html"/>
  	</articles>
 	<project-plan url="http://wiki.eclipse.org/index.php/PTP/designs"/>
