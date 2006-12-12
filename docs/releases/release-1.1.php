@@ -85,10 +85,11 @@
         <li>More details on using PTP can be found  in Help&gt;Help Contents.  Click on &quot;PTP: Parallel Tools Platform &quot;. </li>
       </ol>
       <h4>Trouble Shooting</h4>
-      <ul><b>I get lots of error messages about missing include files when running the <code>BUILD</code> script.<b>
+      <ul>
+      <li><b>I get lots of error messages about missing include files when running the <code>BUILD</code> script.</b>
       <p>This is usually because OpenMPI was not configured to include the development headers. 
 
-		PTP session hangs in &apos;Refresh runtime system&apos; dialog. </b>
+	  <li><b>PTP session hangs in &apos;Refresh runtime system&apos; dialog. </b>
       <p>This is usually one of the following things:
       
       <ol>
@@ -126,7 +127,8 @@
             </li>
           </ul>
         </li>
-  </ol>   
+  		</ol> 
+  		</ul> 
   </div>
 		 
 		<div class="homeitem3col">
