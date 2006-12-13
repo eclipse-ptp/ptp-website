@@ -69,7 +69,13 @@
 
      <p>
         <ul>
-
+		<li>13 December 2006:
+          <a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/builds/org.eclipse.ptp.pldt-1.1.0-I200612131333.zip" >
+          org.eclipse.ptp.pldt-1.1.0-I200612131333.zip</a>
+          <p>More info when cannot find artifacts; finds artifacts altered by preprocessor defines; MPI constants now found again; 
+          remembers selection in navigator better.  Hopefully one more build will come on Friday.
+          </ul>
+          <p>&nbsp;
         <li>18 July 2006:
           <a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/builds/org.eclipse.ptp.pldt-1.0.0-I200607181525.zip" >
           org.eclipse.ptp.pldt-1.0.0-I200607181525.zip</a>
