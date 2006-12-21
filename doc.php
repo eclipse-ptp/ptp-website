@@ -72,6 +72,8 @@ is available in early release form on the <a href="builds.php">builds page</a>. 
 OpenMP tools.
 <h2>Other PTP Information:</h2>
 <ul>
+<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/SC2006.pdf?cvsroot=Technology_Project">
+PTP Tutorial</a> from SC 2006 in Tampa, FL
 <li>Whitepaper written by 
 Greg Watson and Craig Rasmussen,
 <a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/whitepapers/PTPWPv9.pdf?cvsroot=Technology_Project">
