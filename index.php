@@ -52,6 +52,10 @@
 	  <div class="homeitem3col">
 		<h3>What&apos;s New</h3>
 		<ul>
+			<li><img src="../images/new.gif">December 21, 2006: PTP is now officially part of the Tools project! The PTP Move
+			Review (slides <a href="http://www.eclipse.org/projects/slides/PTP%20Move%20Review.pdf">here</a>) was successful, and we will be transitioning the web site and CVS repostiory to the Tools over
+			the coming weeks.
+			
 			<li><img src="../images/new.gif">December 20, 2006: The SC 2006 PTP tutorial is now available for download from 
 			<a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/SC2006.pdf?cvsroot=Technology_Project">here</a>
 
