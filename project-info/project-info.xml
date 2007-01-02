@@ -18,7 +18,7 @@
 	<ip-log />
 	<mailing-lists url="/mail/index_project.php">
 		<list name="ptp-announce"/>
-		<list name="ptp-cvs"/>
+		<list name="ptp-cvs-commit"/>
 		<list name="ptp-dev"/>
 		<list name="ptp-users"/>
 	</mailing-lists>
