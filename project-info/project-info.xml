@@ -13,6 +13,7 @@
 		paragraph-url="/ptp/project-info/project-page-paragraph.html"/>
 	<summary paragraph-url="/ptp/project-info/executive-summary.html"/>
 	<getting-started url="/ptp/doc.php"/>
+	<downloads url="/ptp/downloads.php"/>
 	<contributing />
 	<ip-log />
 	<mailing-lists>
