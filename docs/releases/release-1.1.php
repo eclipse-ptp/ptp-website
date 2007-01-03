@@ -87,16 +87,19 @@
       <h4>Trouble Shooting</h4>
       <ul>
       <li><b>I get lots of error messages about missing include files when running the <code>BUILD</code> script.</b>
-      <p>This is usually because OpenMPI was not configured to include the development headers. 
+      <p>This is because OpenMPI was not configured to include the development headers. You need to re-run the configure command
+      for the OpenMPI installation specifying the <code>--with-devel-headers</code> option.
 
-	  <li><b>PTP session hangs in &apos;Refresh runtime system&apos; dialog. </b>
+	  <li><b>PTP session hangs in a dialog with &apos;Starting OMPI proxy runtime...&apos; dialog. </b>
       <p>This is usually one of the following things:
       
       <ol>
         <li>Unable to locate OpenMPI libraries:
           <ul>
-            <li>The orte_server is dynamically linked against the OpenMPI libraries, so needs to be able to locate your OpenMPI installation to run.</li>
-            <li>You can check this by manually running the orte_server. If you see anything other than the message &quot;<code>proxy_svr_connect returned.</code>&quot; then this is likely to be the problem.</li>
+            <li>The proxy server is dynamically linked against the OpenMPI libraries, so needs to be able to locate your OpenMPI installation to run.</li>
+            <li>You can check this by manually running the proxy server using the command <code>plugins/org.eclipse.ptp.<i>os</i>.<i>arch</i>/bin/ptp_orte_proxy (replace
+            <code><i>os</i></code> and <code><i>arch</i></code> with your operating system and architecture respectively).
+             If you see anything other than the message &quot;<code>proxy_svr_connect returned.</code>&quot; then this is likely to be the problem.</li>
             <li>On Linux, make sure the OpenMPI libraries are  located in /usr/local/lib, /usr/lib or /lib, or you have set your LD_LIBRARY_PATH correctly.</li>
             <li>On Mac OS X, make sure the OpenMPI libraries are located in $(HOME)/lib, /usr/local/lib, /usr/lib or /lib, or you have set your DYLD_LIBRARY_PATH correctly. </li>
           </ul>
