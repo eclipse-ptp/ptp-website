@@ -91,7 +91,7 @@
 			includes OpenMP tools as well.
 	
 			<li>June 19, 2006: PTP website is now converted to <a href="http://eclipse.org/phoenix">Phoenix</a>;
-			The <a href="indexOld.html">old main page is here.</a><br>
+			The <a href="html/indexOld.html">old main page is here.</a><br>
 			Most new information is now on the <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki!</a>.
 			<br>  Release 1.1 of PTP is estimated to be available in the Fall of 2006.
 		  
@@ -176,7 +176,7 @@
                        Email developers and get involved with PTP development
                 <li><a href="docs/design.html">Design</a>  - PTP design discussion and plans 
                                  (Note: <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki may be more accurate))
-                <li><a href="work.html">Work tasks</a>  - Outstanding work items on the project 
+                <li><a href="html/work.html">Work tasks</a>  - Outstanding work items on the project 
                                  (Note: <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki may be more accurate))
                 <li><a href="http://wiki.eclipse.org/index.php/PTP/meetings">Planning Meetings</a> 
                                - Monthly conference call schedule, agendas and minutes 
