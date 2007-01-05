@@ -139,17 +139,18 @@
             If you are starting Eclipse from the MacOS X window manager (Aqua), the PATH must be set by creating a file called 
             <code>environment.plist</code> in a directory called <code>.MacOSX</code> in 
             your home directory.
-            <p>The file should look like this, with [path_to_ompi_binaries] replaced with the correct path:
-                  <pre>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;<br>
-                  &lt;!DOCTYPE plist PUBLIC &quot;-//Apple Computer//DTD PLIST 1.0//EN&quot;<br>
-                  &quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&quot;&gt;<br>
-                  &lt;plist version=&quot;1.0&quot;&gt;
-                  <br>&lt;dict&gt;<br>
-                    &lt;key&gt;PATH&lt;/key&gt;<br>
-                    &lt;string&gt;[path_to_ompi_binaries]&lt;/string&gt;<br>
-                    &lt;/dict&gt;<br>
-                    &lt;/plist&gt;
-                  </pre>
+            <p>The file should look like this, with <code>[path_to_ompi_binaries]</code> replaced with the correct path:
+               <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE plist PUBLIC &quot;-//Apple Computer//DTD PLIST 1.0//EN&quot;
+&quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&quot;&gt;
+&lt;plist version=&quot;1.0&quot;&gt;
+&lt;dict&gt;
+  &lt;key&gt;PATH&lt;/key&gt;
+  &lt;string&gt;[path_to_ompi_binaries]&lt;/string&gt;
+  &lt;/dict&gt;
+&lt;/plist&gt;
+               </pre>
           </li>
         </ol>
      </li>
