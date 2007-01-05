@@ -56,7 +56,7 @@
         <li>gdb 6.3 or later (earlier versions may also work)</li>
       </ul>    
       <h4>Installation</h4>
-      <ol>
+      <ul>
         <li>Install 
           <a href="http://eclipse.org/downloads">Eclipse SDK 3.2.x</a>
           and <a href="http://www.eclipse.org/cdt/downloads.php">CDT 3.1.x</a> for your architecture.</li>
@@ -83,27 +83,27 @@
         <li>Open the PTP Runtime perspective (Window&gt;Open Perspective&gt;Other...). This should automatically select the Open MPI runtime preference and start the runtime service. 
         If you have a problem here, please refer to the Trouble Shooting section. </li>
         <li>More details on using PTP can be found  in Help&gt;Help Contents.  Click on &quot;PTP: Parallel Tools Platform &quot;. </li>
-      </ol>
+      </ul>
       <h4>Trouble Shooting</h4>
       <ul>
       <li>
         <b>I get lots of error messages about missing include files when running the <code>BUILD</code> script.</b>
         <p>This is because OpenMPI was not configured to include the development headers. You need to re-run the configure command
-        for the OpenMPI installation specifying the <code>--with-devel-headers</code> option.
+        for the OpenMPI installation specifying the <code>--with-devel-headers</code> option.</p>
       </li>
 
 	  <li>
 	    <b>Switching to the PTP Runtime perspective hangs in a dialog with &apos;Starting OMPI proxy runtime...&apos; dialog. </b>
         <p>This is almost always a problem with the location of the OpenMPI shared libraries on Linux systems. 
         The proxy server is dynamically linked against the OpenMPI libraries, so needs to be able to locate your 
-        OpenMPI libraries in order to run.
+        OpenMPI libraries in order to run.</p>
         <p>You can check this by manually running the proxy server using the command 
         <code><i>eclipse</i>/plugins/org.eclipse.ptp.<i>os</i>.<i>arch</i>/bin/ptp_orte_proxy</code> (replace <code><i>eclipse</i></code> with
         the locatation of your Eclipse installation and <code><i>os</i></code> and <code><i>arch</i></code> with your operating system and 
         architecture respectively). If you see anything other than the message &quot;<code>proxy_svr_connect returned.</code>&quot; then this 
-        is likely to be the problem.
+        is likely to be the problem.</p>
 
-	    <ol>
+	    <ul>
 	      <li>
 	        If you are starting Eclipse from a shell make sure the OpenMPI libraries are located in 
 	        <code>/usr/local/lib</code>, <code>/usr/lib</code> or <code>/lib</code>,
@@ -116,17 +116,17 @@
             mean that the window manager is set up correctly. Consult your window manager documentation for information on how
             to set environment variables.
           </li>
-        </ol>
+        </ul>
       </li>
       
       <li>
         <b>Switching to the PTP Runtime perspective results in a dialog with the message:
         <p>There was an error starting the OMPI proxy runtime. The path to &apos;ptp_orte_proxy&apos; or &apos;orted&apos; may have 
         been incorrect. The &apos;orted&apos; binary MUST be in your PATH to be found by &apos;ptp_orte_proxy&apos;. Try checking the
-        console log or error logs for more detailed information.</b>
+        console log or error logs for more detailed information.</p></b>
         <p>This is a similar problem to the shared library issue above. Make sure that your PATH is set to correctly include the location
-        of the OpenMPI <code>bin</code> directory.
- 	    <ol>
+        of the OpenMPI <code>bin</code> directory.</p>
+ 	    <ul>
 	      <li>
 	        If you are starting Eclipse from a shell add the path to the OpenMPI binaries to the PATH environment variable in your
 	        login script.
@@ -150,9 +150,9 @@
   &lt;string&gt;[path_to_ompi_binaries]&lt;/string&gt;
   &lt;/dict&gt;
 &lt;/plist&gt;
-               </pre>
+               </pre></p>
           </li>
-        </ol>
+        </ul>
      </li>
      </ul> 
   </div>
