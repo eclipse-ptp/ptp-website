@@ -60,7 +60,7 @@
         <li>Install 
           <a href="http://eclipse.org/downloads">Eclipse SDK 3.2.x</a>
           and <a href="http://www.eclipse.org/cdt/downloads.php">CDT 3.1.x</a> for your architecture.</li>
-        <li>Download and unpack<a href="http://www.open-mpi.org/software/ompi/v1.2/">OpenMPI 1.2</a>. 
+        <li>Download and unpack <a href="http://www.open-mpi.org/software/ompi/v1.2/">OpenMPI 1.2</a>. 
           (Note: as of November 2006, this is still a &quot;pending beta&quot; release
           of OpenMPI 1.2, but it works fine for us.)
           If you download the pre-built binary for OpenMPI, you MUST obtain the developer version. If there is no
@@ -86,52 +86,68 @@
       </ol>
       <h4>Trouble Shooting</h4>
       <ul>
-      <li><b>I get lots of error messages about missing include files when running the <code>BUILD</code> script.</b>
-      <p>This is because OpenMPI was not configured to include the development headers. You need to re-run the configure command
-      for the OpenMPI installation specifying the <code>--with-devel-headers</code> option.
+      <li>
+        <b>I get lots of error messages about missing include files when running the <code>BUILD</code> script.</b>
+        <p>This is because OpenMPI was not configured to include the development headers. You need to re-run the configure command
+        for the OpenMPI installation specifying the <code>--with-devel-headers</code> option.
+      </li>
 
-	  <li><b>PTP session hangs in a dialog with &apos;Starting OMPI proxy runtime...&apos; dialog. </b>
-      <p>This is usually one of the following things:
+	  <li>
+	    <b>PTP session hangs in a dialog with &apos;Starting OMPI proxy runtime...&apos; dialog. </b>
+        <p>This is almost always a problem with the location of the OpenMPI shared libraries on Linux systems. 
+        The proxy server is dynamically linked against the OpenMPI libraries, so needs to be able to locate your 
+        OpenMPI libraries in order to run.
+        <p>You can check this by manually running the proxy server using the command 
+        <code><i>eclipse</i>/plugins/org.eclipse.ptp.<i>os</i>.<i>arch</i>/bin/ptp_orte_proxy</code> (replace <code><i>eclipse</i></code> with
+        the locatation of your Eclipse installation and <code><i>os</i></code> and <code><i>arch</i></code> with your operating system and 
+        architecture respectively). If you see anything other than the message &quot;<code>proxy_svr_connect returned.</code>&quot; then this 
+        is likely to be the problem.
+
+	    <ol>
+	      <li>
+	        If you are starting Eclipse from a shell make sure the OpenMPI libraries are located in 
+	        <code>/usr/local/lib</code>, <code>/usr/lib</code> or <code>/lib</code>,
+            or you have set your <code>LD_LIBRARY_PATH</code> environment variable correctly.
+          </li>
+          <li>
+            If you are starting Eclipse from a window manager (Gnome, KDE, etc.) then it is usual that the window manager and shell get 
+            their environment from different places. This means that setting the <code>LD_LIBRARY_PATH</code> in you <code>.profile</code> may not
+            be sufficient; even if you can run an MPI program using <code>mpirun</code> successfully from a shell it does not necessarily
+            mean that the window manager is set up correctly. Consult your window manager documentation for information on how
+            to set environment variables.
+          </li>
+        </ol>
+      </li>
       
-      <ol>
-        <li>Unable to locate OpenMPI libraries:
-          <ul>
-            <li>The proxy server is dynamically linked against the OpenMPI libraries, so needs to be able to locate your OpenMPI installation to run.</li>
-            <li>You can check this by manually running the proxy server using the command <code>plugins/org.eclipse.ptp.<i>os</i>.<i>arch</i>/bin/ptp_orte_proxy (replace
-            <code><i>os</i></code> and <code><i>arch</i></code> with your operating system and architecture respectively).
-             If you see anything other than the message &quot;<code>proxy_svr_connect returned.</code>&quot; then this is likely to be the problem.</li>
-            <li>On Linux, make sure the OpenMPI libraries are  located in /usr/local/lib, /usr/lib or /lib, or you have set your LD_LIBRARY_PATH correctly.</li>
-            <li>On Mac OS X, make sure the OpenMPI libraries are located in $(HOME)/lib, /usr/local/lib, /usr/lib or /lib, or you have set your DYLD_LIBRARY_PATH correctly. </li>
-          </ul>
-        </li>
-        <li>Window manager path problem:
-          <ul>
-            <li>The window manager and shell get their paths from different places. </li>
-            <li>If you are launching Eclipse using a window manager, you need to make sure that the OpenMPI installation is in the window manager path.</li>
-            <li>Even if you can use &apos;mpirun&apos; successfully from a shell it does not necessary mean that the window manager path is correct.</li>
-            <li>Mac OS X:
-              <ul>
-                <li>The path is set by creating an environment.plist file in a directory called .MacOSX in your home directory. </li>
-                <li>The file should look like this, with [path_including_ompi_installation] replaced with the correct path:
-                  <pre>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;<br>&lt;!DOCTYPE plist PUBLIC &quot;-//Apple Computer//DTD PLIST 1.0//EN&quot; &quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&quot;&gt;<br>&lt;plist version=&quot;1.0&quot;&gt;<br>&lt;dict&gt;<br>        &lt;key&gt;PATH&lt;/key&gt;<br>        &lt;string&gt;[path_including_ompi_installation]&lt;/string&gt;<br>&lt;/dict&gt;<br>&lt;/plist&gt;</pre>
-                </li>
-              </ul>
-            </li>
-            <li>Linux/KDE:
-              <ul>
-                <li>Anybody know? </li>
-              </ul>
-            </li>
-            <li>Linux/Gnome:
-              <ul>
-                <li>Anybody know? <br>
-                </li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-  		</ol> 
-  		</ul> 
+      <li>
+        <b>There was an error starting the OMPI proxy runtime. The path to &apos;ptp_orte_proxy&apos; or &apos;orted&apos; may have 
+        been incorrect. The &apos;orted&apos; binary MUST be in your PATH to be found by &apos;ptp_orte_proxy&apos;. Try checking the
+        console log or error logs for more detailed information.</b>
+        <p>This is a similar problem to the shared library issue above. Make sure that your PATH is set to correctly include the location
+        of the OpenMPI <code>bin</code> directory.
+ 	    <ol>
+	      <li>
+	        If you are starting Eclipse from a shell add the path to the OpenMPI binaries to the PATH environment variable in your
+	        login script.
+          </li>
+          <li>
+            If you are starting Eclipse from a Linux window manager (Gnome, KDE, etc.) then consult your window manager documentation 
+            for information on how to set environment variables.
+          </li>
+          <li>
+            If you are starting Eclipse from the MacOS X window manager (Aqua), the PATH must be set by creating a file called 
+            <code>environment.plist</code> in a directory called <code>.MacOSX</code> in 
+            your home directory.
+            <p>The file should look like this, with [path_to_ompi_binaries] replaced with the correct path:
+                  <pre>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;<br>
+                  &lt;!DOCTYPE plist PUBLIC &quot;-//Apple Computer//DTD PLIST 1.0//EN&quot; &quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&quot;&gt;<br>&lt;plist version=&quot;1.0&quot;&gt;<br>&lt;dict&gt;<br>
+                          &lt;key&gt;PATH&lt;/key&gt;<br>
+                          &lt;string&gt;[path_to_ompi_binaries]&lt;/string&gt;<br>
+                          &lt;/dict&gt;<br>&lt;/plist&gt;</pre>
+          </li>
+        </ol>
+     </li>
+     </ul> 
   </div>
 		 
 		<div class="homeitem3col">
