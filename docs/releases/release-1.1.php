@@ -93,7 +93,7 @@
       </li>
 
 	  <li>
-	    <b>PTP session hangs in a dialog with &apos;Starting OMPI proxy runtime...&apos; dialog. </b>
+	    <b>Switching to the PTP Runtime perspective hangs in a dialog with &apos;Starting OMPI proxy runtime...&apos; dialog. </b>
         <p>This is almost always a problem with the location of the OpenMPI shared libraries on Linux systems. 
         The proxy server is dynamically linked against the OpenMPI libraries, so needs to be able to locate your 
         OpenMPI libraries in order to run.
@@ -120,7 +120,8 @@
       </li>
       
       <li>
-        <b>There was an error starting the OMPI proxy runtime. The path to &apos;ptp_orte_proxy&apos; or &apos;orted&apos; may have 
+        <b>Switching to the PTP Runtime perspective results in a dialog with the message:
+        <p>There was an error starting the OMPI proxy runtime. The path to &apos;ptp_orte_proxy&apos; or &apos;orted&apos; may have 
         been incorrect. The &apos;orted&apos; binary MUST be in your PATH to be found by &apos;ptp_orte_proxy&apos;. Try checking the
         console log or error logs for more detailed information.</b>
         <p>This is a similar problem to the shared library issue above. Make sure that your PATH is set to correctly include the location
@@ -140,10 +141,15 @@
             your home directory.
             <p>The file should look like this, with [path_to_ompi_binaries] replaced with the correct path:
                   <pre>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;<br>
-                  &lt;!DOCTYPE plist PUBLIC &quot;-//Apple Computer//DTD PLIST 1.0//EN&quot; &quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&quot;&gt;<br>&lt;plist version=&quot;1.0&quot;&gt;<br>&lt;dict&gt;<br>
-                          &lt;key&gt;PATH&lt;/key&gt;<br>
-                          &lt;string&gt;[path_to_ompi_binaries]&lt;/string&gt;<br>
-                          &lt;/dict&gt;<br>&lt;/plist&gt;</pre>
+                  &lt;!DOCTYPE plist PUBLIC &quot;-//Apple Computer//DTD PLIST 1.0//EN&quot;<br>
+                  &quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&quot;&gt;<br>
+                  &lt;plist version=&quot;1.0&quot;&gt;
+                  <br>&lt;dict&gt;<br>
+                    &lt;key&gt;PATH&lt;/key&gt;<br>
+                    &lt;string&gt;[path_to_ompi_binaries]&lt;/string&gt;<br>
+                    &lt;/dict&gt;<br>
+                    &lt;/plist&gt;
+                  </pre>
           </li>
         </ol>
      </li>
