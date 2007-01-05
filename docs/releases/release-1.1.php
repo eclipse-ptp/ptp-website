@@ -85,7 +85,7 @@
         <li>More details on using PTP can be found  in Help&gt;Help Contents.  Click on &quot;PTP: Parallel Tools Platform &quot;. </li>
       </ul>
       <h4>Trouble Shooting</h4>
-      <ul>
+      <ul class="midlist">
       <li>
         <b>I get lots of error messages about missing include files when running the <code>BUILD</code> script.</b>
         <p>This is because OpenMPI was not configured to include the development headers. You need to re-run the configure command
@@ -93,7 +93,9 @@
       </li>
 
 	  <li>
-	    <b>Switching to the PTP Runtime perspective hangs in a dialog with &apos;Starting OMPI proxy runtime...&apos; dialog. </b>
+	    <b>Switching to the PTP Runtime perspective hangs in a dialog with the message:
+	    
+	    &apos;Starting OMPI proxy runtime...&apos; dialog.</b>
         <p>This is almost always a problem with the location of the OpenMPI shared libraries on Linux systems. 
         The proxy server is dynamically linked against the OpenMPI libraries, so needs to be able to locate your 
         OpenMPI libraries in order to run.</p>
