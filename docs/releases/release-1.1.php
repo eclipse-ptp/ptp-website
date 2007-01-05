@@ -96,8 +96,7 @@
       </li>
 
 	  <li>
-	    <b>Switching to the PTP Runtime perspective hangs in a dialog with the message:</b>
-	    <p><b>&apos;Starting OMPI proxy runtime...&apos; dialog.</b></p>
+	    <b>Switching to the PTP Runtime perspective hangs in a dialog with the message &apos;Starting OMPI proxy runtime...&apos;</b>
         <p>This is almost always a problem with the location of the OpenMPI shared libraries on Linux systems. 
         The proxy server is dynamically linked against the OpenMPI libraries, so needs to be able to locate your 
         OpenMPI libraries in order to run.</p>
@@ -125,9 +124,9 @@
       
       <li>
         <b>Switching to the PTP Runtime perspective results in a dialog with the message:
-        <p>There was an error starting the OMPI proxy runtime. The path to &apos;ptp_orte_proxy&apos; or &apos;orted&apos; may have 
+        <p>&quot;There was an error starting the OMPI proxy runtime. The path to &apos;ptp_orte_proxy&apos; or &apos;orted&apos; may have 
         been incorrect. The &apos;orted&apos; binary MUST be in your PATH to be found by &apos;ptp_orte_proxy&apos;. Try checking the
-        console log or error logs for more detailed information.</p></b>
+        console log or error logs for more detailed information.&quot;</p></b>
         <p>This is a similar problem to the shared library issue above. Make sure that your PATH is set to correctly include the location
         of the OpenMPI <code>bin</code> directory.</p>
  	    <ul>
