@@ -47,6 +47,7 @@
         <li>The PTP Debug perspective, Parallel Debug view and scalable debug manager (SDM)</li>
         <li>Parallel Language Development Tools (PLDT) [Note: these tools are installed as a separate plug-in below]</li>
       </ul>
+      <p>
       <h4>Prerequisites</h4>
       <ul>
       <li>Java 1.5 or later</li>
@@ -54,7 +55,8 @@
         <li>CDT 3.1.x</li>
         <li>OpenMPI 1.2 (the earlier 1.0.2 version is also supported)</li>
         <li>gdb 6.3 or later (earlier versions may also work)</li>
-      </ul>    
+      </ul> 
+      <p>   
       <h4>Installation</h4>
       <ul>
         <li>Install 
@@ -84,6 +86,7 @@
         If you have a problem here, please refer to the Trouble Shooting section. </li>
         <li>More details on using PTP can be found  in Help&gt;Help Contents.  Click on &quot;PTP: Parallel Tools Platform &quot;. </li>
       </ul>
+      <p>
       <h4>Trouble Shooting</h4>
       <ul class="midlist">
       <li>
@@ -93,9 +96,8 @@
       </li>
 
 	  <li>
-	    <b>Switching to the PTP Runtime perspective hangs in a dialog with the message:
-	    
-	    &apos;Starting OMPI proxy runtime...&apos; dialog.</b>
+	    <b>Switching to the PTP Runtime perspective hangs in a dialog with the message:</b>
+	    <p><b>&apos;Starting OMPI proxy runtime...&apos; dialog.</b></p>
         <p>This is almost always a problem with the location of the OpenMPI shared libraries on Linux systems. 
         The proxy server is dynamically linked against the OpenMPI libraries, so needs to be able to locate your 
         OpenMPI libraries in order to run.</p>
