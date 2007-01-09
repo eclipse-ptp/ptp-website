@@ -70,7 +70,7 @@
 
      <p>
         <ul>
-		<li>08 January 2007::
+		<li>08 January 2007:
           <a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/builds/org.eclipse.ptp.pldt-1.1.0-I200701082248.zip" >
           org.eclipse.ptp.pldt-1.1.0-I200701082248.zip</a>
           <p>Progress monitor improved; option to not show popup confirmation dialog.
