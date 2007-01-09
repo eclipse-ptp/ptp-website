@@ -45,6 +45,7 @@
 
      <p>
         <ul>
+
         <li>11 December 2006: 
           <a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/builds/org.eclipse.ptp-1.1.0-I200612111900.tar.gz" >
           
@@ -69,7 +70,11 @@
 
      <p>
         <ul>
-		<li>13 December 2006:
+		<li>08 January 2007::
+          <a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/builds/org.eclipse.ptp.pldt-1.1.0-200701082248.zip" >
+          org.eclipse.ptp.pldt-1.1.0-200701082248.zip</a>
+          <p>Progress monitor improved; option to not show popup confirmation dialog.
+      	<li>13 December 2006:
           <a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/builds/org.eclipse.ptp.pldt-1.1.0-I200612131333.zip" >
           org.eclipse.ptp.pldt-1.1.0-I200612131333.zip</a>
           <p>More info when cannot find artifacts; finds artifacts altered by preprocessor defines; MPI constants now found again; 
