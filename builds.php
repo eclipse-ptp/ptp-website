@@ -33,14 +33,13 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
     
-    <p>These files below contain  recent builds of portions of PTP,
-    for early release.
-       
+    <p>These files below contain recent builds of PTP and PLDT
+    <p>Please see the <a href="docs/releases/release-1.1.php">release notes</a> for information on how to install this release of PTP and PLDT.
+ 
  
     <div class="homeitem3col">
   <h3>PTP Core</h3>
-  <p>PTP Core contains the core runtime and debugging support for parallel programs. Release notes
-  describing how to install PTP can be found <a href="docs/releases/release-1.1.php">here</a>.
+  <p>PTP Core contains the core runtime and debugging support for parallel programs. 
   <p>PTP Core needs Java 1.5, Eclipse 3.2, CDT 3.1 and OpenMPI 1.2 or 1.0.2.
 
      <p>
