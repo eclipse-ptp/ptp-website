@@ -59,6 +59,12 @@
       <p>   
       <h4>Installation</h4>
       <ul>
+      	<li>If you are using the Linux operating system, download and install either the 
+      	<a href="http://java.sun.com/javase/downloads/index_jdk5.jsp">Sun Java Runtime Environment</a>
+      	 or the 
+        <a href="http://www-128.ibm.com/developerworks/java/jdk/linux/download.html">IBM Java Runtime Environment</a>. 
+        The version of Java that ships with Linux <b>will not work</b> with PTP. See the Trouble Shooting
+        section for more information.
         <li>Install 
           <a href="http://eclipse.org/downloads">Eclipse SDK 3.2.x</a>
           and <a href="http://www.eclipse.org/cdt/downloads.php">CDT 3.1.x</a> for your architecture.</li>
@@ -97,7 +103,10 @@
 
 	  <li>
 	    <b>Switching to the PTP Runtime perspective hangs in a dialog with the message &apos;Starting OMPI proxy runtime...&apos;</b>
-        <p>This is almost always a problem with the location of the OpenMPI shared libraries on Linux systems. 
+        <p>If this dialog is replaced with an error dialog after a delay, and you are running PTP on
+        a Linux system, then it is likely that you have not installed either the Sun or IBM Java Runtime
+        Environments. The Java that is shipped with Linux will not work with PTP.
+        <p>In all other cases, this is almost always a problem with the location of the OpenMPI shared libraries on Linux systems. 
         The proxy server is dynamically linked against the OpenMPI libraries, so needs to be able to locate your 
         OpenMPI libraries in order to run.</p>
         <p>You can check this by manually running the proxy server using the command 
