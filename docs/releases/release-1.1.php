@@ -63,7 +63,7 @@
       	<a href="http://java.sun.com/javase/downloads/index_jdk5.jsp">Sun Java Runtime Environment</a>
       	 or the 
         <a href="http://www-128.ibm.com/developerworks/java/jdk/linux/download.html">IBM Java Runtime Environment</a>. 
-        The version of Java that ships with Linux <b>will not work</b> with PTP. See the Trouble Shooting
+        The version of Java that ships with Linux <i>will not work</i> with PTP. See the Trouble Shooting
         section for more information.
         <li>Install 
           <a href="http://eclipse.org/downloads">Eclipse SDK 3.2.x</a>
