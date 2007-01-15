@@ -15,7 +15,7 @@
 	<getting-started url="/ptp/doc.php"/>
 	<downloads url="/ptp/downloads.php"/>
 	<contributing />
-	<ip-log />
+	<ip-log url="/ptp/project-info/project_log.csv"/>
 	<mailing-lists url="/mail/index_project.php">
 		<list name="ptp-announce"/>
 		<list name="ptp-cvs-commit"/>
