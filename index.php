@@ -57,7 +57,7 @@
 			the coming weeks.
 			
 			<li><img src="../images/new.gif">December 20, 2006: The SC 2006 PTP tutorial is now available for download from 
-			<a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/SC2006.pdf?cvsroot=Technology_Project">here</a>
+			<a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/SC2006.pdf?cvsroot=Tools_Project">here</a>
 
 			<li>December 4, 2006: Two new PTP mailing lists have been added. We now have the 
 			<a href="http://dev.eclipse.org/mailman/listinfo/ptp-announce">ptp-announce</a> mailing list
@@ -143,8 +143,7 @@
 		<h3>General Resources</h3>
 		<ul>
 			<li><a href="faq.php">FAQ (Frequently asked Questions about PTP)</a> 
-        	<li>Ask questions about PTP on the <a href="news://eclipse.org/eclipse.technology.ptp">Newsgroup</a> 
-        	       (<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.ptp">web interface</a>)</li>
+        	<li>Ask questions about PTP on the <a href="http://dev.eclipse.org/mailman/listinfo">PTP mailing lists</li>
         	         	<li>Submit bugs and feature requests on <a href="http://bugs.eclipse.org/bugs">Bugzilla</a> 
       
         </ul>
@@ -157,10 +156,8 @@
 			<li> <a href="builds.php">Builds</a> - Get the latest builds for testing
         	<li> Read the  <a href="doc.php">The PTP User Guide</a> including several
         	screen shots.
-        	<li> <a href="news://news.eclipse.org/eclipse.technology.ptp">PTP newsgroup</a>
-        	for questions about using PTP;
-        	<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.ptp/maillist.html">Web version of newsgroup</a>
-        	       
+        	<li> <a href="http://dev.eclipse.org/mailman/listinfo/ptp-user">PTP user mailing list</a>
+        	for questions about using PTP       	       
 			</ul>
 		</div>
 		
@@ -170,7 +167,7 @@
 				<li>The <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki</a>  is now the best place for the most recent
 				information, especially developer information</li>
 				<li><a href="http://wiki.eclipse.org/index.php/PTP/planning">Plans</a>   for upcoming PTP releases </li>
-				<li><a href="http://dev.eclipse.org/viewcvs/index.cgi?cvsroot=Technology_Project">CVS Repository</a> </td>
+				<li><a href="http://dev.eclipse.org/viewcvs/index.cgi?cvsroot=Tools_Project">CVS Repository</a> </td>
                           - View PTP sources using the web interface  
                 <li><a href="http://dev.eclipse.org/mailman/listinfo/ptp-dev">Mailing List</a> -
                        Email developers and get involved with PTP development
@@ -191,7 +188,7 @@
 			<ul>
 				<li><a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">PTP Wiki</a> </li>
 				<li><a href="http://www.eclipsecon.org/2006/Sub.do?id=265">PTP Presentation at EclipseCon 2006</a> - by Greg Watson</li>
-				<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/whitepapers/PTPWPv9.pdf?cvsroot=Technology_Project">
+				<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/whitepapers/PTPWPv9.pdf?cvsroot=Tools_Project">
                    PTP Whitepaper</a></li>
 				<li><a href="doc.php">PTP Help documention</a> including screen shots.</li>
 				<li><a href="http://www.computer.org/portal/site/cise/menuitem.92a12adebee18778161489108bcd45f3/index.jsp?&pName=cise_level1_article&TheCat=1001&path=cise/2006/v8n4&file=sci.xml&">

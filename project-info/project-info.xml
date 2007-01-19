@@ -6,7 +6,7 @@
 		<product name="PTP"/>
 	</bugzilla>
 	<team url="/ptp/contributors.php"/>
-	<cvs repository="/cvsroot/technology/">
+	<cvs repository="/cvsroot/tools/">
 		<module path="org.eclipse.ptp"/>
 	</cvs>
 	<description url="/ptp/" 
@@ -23,7 +23,6 @@
 		<list name="ptp-users"/>
 	</mailing-lists>
  	<newsgroups>
-		<newsgroup name="eclipse.technology.ptp"/>
 	</newsgroups>
 	<articles>
     	<article url="http://www.computer.org/portal/site/cise/menuitem.92a12adebee18778161489108bcd45f3/index.jsp?&amp;pName=cise_level1_article&amp;TheCat=1001&amp;path=cise/2006/v8n4&amp;file=sci.xml&amp;"/>
@@ -34,7 +33,7 @@
 		<release name="1.0" 
 			status="completed" 
 			date="08/2006" 
-			download="http://download.eclipse.org/technology/ptp/releases"/>
+			download="http://download.eclipse.org/tools/ptp/releases"/>
 		<release  name="1.1"
 			status="planned" 
 			date="12/2006" 

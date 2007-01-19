@@ -57,7 +57,7 @@
         <tr>
           <td>All</td>
           <td><div align="left">1.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/releases/org.eclipse.ptp-1.0.0.tar.gz">org.eclipse.ptp-1.0.0.tar.gz</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp-1.0.0.tar.gz">org.eclipse.ptp-1.0.0.tar.gz</a></div></td>
         </tr>
 
       </table>   
@@ -76,13 +76,13 @@
           <td>OpenRTE</td>
           <td>Linux (x86) </td>
           <td><div align="left">1.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/releases/org.eclipse.ptp.orte-linux-x86-1.0.0.tar.gz">org.eclipse.ptp.orte-linux-x86-1.0.0.tar.gz</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp.orte-linux-x86-1.0.0.tar.gz">org.eclipse.ptp.orte-linux-x86-1.0.0.tar.gz</a></div></td>
         </tr>
         <tr>
           <td>OpenRTE</td>
           <td>Linux (x86_64) </td>
           <td><div align="left">1.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/releases/org.eclipse.ptp.orte-linux-x86_64-1.0.0.tar.gz">org.eclipse.ptp.orte-linux-x86_64-1.0.0.tar.gz</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp.orte-linux-x86_64-1.0.0.tar.gz">org.eclipse.ptp.orte-linux-x86_64-1.0.0.tar.gz</a></div></td>
         </tr>
         <tr>
           <td>OpenRTE</td>
@@ -94,7 +94,7 @@
           <td>OpenRTE</td>
           <td>Mac OS X (ppc) </td>
           <td><div align="left">1.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/releases/org.eclipse.ptp.orte-macosx-ppc-1.0.0.tar.gz">org.eclipse.ptp.orte-macosx-ppc-1.0.0.tar.gz</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp.orte-macosx-ppc-1.0.0.tar.gz">org.eclipse.ptp.orte-macosx-ppc-1.0.0.tar.gz</a></div></td>
         </tr>
       </table>  
       </div>
@@ -112,13 +112,13 @@
           <td>OpenRTE</td>
           <td>Linux (x86) </td>
           <td><div align="left">1.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/releases/org.eclipse.ptp.debug-orte-linux-x86-1.0.0.tar.gz">org.eclipse.ptp.debug-orte-linux-x86-1.0.0.tar.gz</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp.debug-orte-linux-x86-1.0.0.tar.gz">org.eclipse.ptp.debug-orte-linux-x86-1.0.0.tar.gz</a></div></td>
         </tr>
         <tr>
           <td>OpenRTE</td>
           <td>Linux (x86_64) </td>
           <td><div align="left">1.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/releases/org.eclipse.ptp.debug-orte-linux-x86_64-1.0.0.tar.gz">org.eclipse.ptp.debug-orte-linux-x86_64-1.0.0.tar.gz</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp.debug-orte-linux-x86_64-1.0.0.tar.gz">org.eclipse.ptp.debug-orte-linux-x86_64-1.0.0.tar.gz</a></div></td>
         </tr>
         <tr>
           <td>OpenRTE</td>
@@ -130,7 +130,7 @@
           <td>OpenRTE</td>
           <td>Mac OS X (ppc) </td>
           <td><div align="left">1.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/releases/org.eclipse.ptp.debug-orte-macosx-ppc-1.0.0.tar.gz">org.eclipse.ptp.debug-orte-macosx-ppc-1.0.0.tar.gz</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp.debug-orte-macosx-ppc-1.0.0.tar.gz">org.eclipse.ptp.debug-orte-macosx-ppc-1.0.0.tar.gz</a></div></td>
         </tr>
       </table>  
 </div>
@@ -155,7 +155,7 @@
         <tr>
           <td>All</td>
           <td><div align="left">1.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/releases/org.eclipse.ptp.mpi-1.0.tar.gz">org.eclipse.ptp-mpi-1.0.tar.gz</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp.mpi-1.0.tar.gz">org.eclipse.ptp-mpi-1.0.tar.gz</a></div></td>
         </tr>
       </table>  
 </div>
@@ -179,12 +179,12 @@
           <tr>
             <td><div align="left">CDT with mixed-language projects </div></td>
             <td><div align="left">1.0</div></td>
-            <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/releases/org.eclipse.cdt-make-1.0.tar.gz">org.eclipse.cdt-make-1.0.tar.gz</a></div></td>
+            <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.cdt-make-1.0.tar.gz">org.eclipse.cdt-make-1.0.tar.gz</a></div></td>
           </tr>
           <tr>
             <td><div align="left">Fortran Development Tools </div></td>
             <td><div align="left">1.0</div></td>
-            <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/technology/ptp/releases/org.eclipse.fdt-1.0.tar.gz">org.eclipse.fdt-1.0.tar.gz</a></div></td>
+            <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.fdt-1.0.tar.gz">org.eclipse.fdt-1.0.tar.gz</a></div></td>
           </tr>
         </table>  
 </div>

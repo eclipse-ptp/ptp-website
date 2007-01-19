@@ -7,7 +7,7 @@
 	$theme = "";
 
 	require_once($_SERVER['DOCUMENT_ROOT'] . "/projects/common/project-info.class.php");
-	$projectInfo = new ProjectInfo("technology.ptp");
+	$projectInfo = new ProjectInfo("tools.ptp");
 	
 	function add2users() {
 		global $Nav;
