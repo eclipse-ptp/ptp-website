@@ -2,10 +2,10 @@
 
 	#*****************************************************************************
 	#
-	# sample_list.php
+	# mailing_lists.php
 	#
-	# Author: 		Denis Roy
-	# Date:			2005-11-07
+	# Author: 		Beth Tibbitts
+	# Date:			2006-07-11
 	#
 	# Description: Type your page comments here - these are not sent to the browser
 	#
@@ -14,9 +14,9 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Sample three-column list web page using the new templates";
+	$pageTitle 		= "PTP Mailing Lists";
 	$pageKeywords	= "Type, page, keywords, here";
-	$pageAuthor		= "Type your name here";
+	$pageAuthor		= "Greg Watson";
 	
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
@@ -32,36 +32,36 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Sample list page</h2>
-		<p>This is some intro text.<br /> <a href="#">more about eclipse &raquo;</a> </p>
-		<h3>This is a title</h3>
-		<hr size="1" />
-		<p>Some text...</p>
+    
+    <p>The following mailing lists are available for users and contributors to the PTP project,
+    or for people just wishing to keep informed of upcoming PTP events.
+    <p>Note that we no longer uses a newsgroup for PTP user discussions. Please use the ptp-user
+    mailing list instead.
+ 
+ 
+    <div class="homeitem3col">
+  <h3>PTP Mailing Lists</h3>
+     <p>
+        <ul>
 
-		<h3>This is a title</h3>
-		<hr size="1" />
-		<p>Some text...</p>
-	</div>
+        <li><a href="http://dev.eclipse.org/mailman/listinfo/ptp-user">ptp-user</a>: 
+          For questions or information about using PTP.
 
-	<!-- remove the entire <div> tag to omit the right column!  -->
-	<div id="rightcolumn">
-		<div class="sideitem">
-			<h6>Right column</h6>
-			<ul>
-				<li><a href="#">Item</a></li>
-				<li><a href="#">Item</a></li>
-				<li><a href="#">Item</a></li>
-				<li><a href="#">Item</a></li>
-			</ul>
-		</div>
-		<div class="sideitem">
-			<h6>Another box</h6>
-			<ul>
-				<li><a href="#">Item</a></li>
-				<li><a href="#">Item</a></li>
-			</ul>
-		</div>
-	</div>
+        <li><a href="http://dev.eclipse.org/mailman/listinfo/ptp-dev">ptp-dev</a>: 
+          For discussions relating to the development of PTP and related components.
+
+        <li><a href="http://dev.eclipse.org/mailman/listinfo/ptp-announce">ptp-announce</a>: 
+          For announcements about forthcoming PTP releases and other significant events.
+
+        <li><a href="http://dev.eclipse.org/mailman/listinfo/ptp-cvs-commit">ptp-cvs-commit</a>: 
+          For CVS individual commit notification. Recommended for committers only.
+          
+     </div>   
+     
+
+    </div>
+ 
+  
 
 EOHTML;
 

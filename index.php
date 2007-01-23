@@ -52,11 +52,15 @@
 	  <div class="homeitem3col">
 		<h3>What&apos;s New</h3>
 		<ul>
-			<li><img src="../images/new.gif">December 21, 2006: PTP is now officially part of the Tools project! The PTP Move
-			Review (slides <a href="http://www.eclipse.org/projects/slides/PTP%20Move%20Review.pdf">here</a>) was successful, and we will be transitioning the web site and CVS repostiory to the Tools over
+			<li><img src="../images/new.gif">January 19, 2007: The PTP web site and CVS repository have now been transitioned
+			to the Tools project. Please let us know if anything is not working!
+			
+			<li>December 21, 2006: PTP is now officially part of the Tools project! The PTP Move
+			Review (slides <a href="http://www.eclipse.org/projects/slides/PTP%20Move%20Review.pdf">here</a>) was successful, and we will be 
+			transitioning the web site and CVS repository to the Tools over
 			the coming weeks.
 			
-			<li><img src="../images/new.gif">December 20, 2006: The SC 2006 PTP tutorial is now available for download from 
+			<li>December 20, 2006: The SC 2006 PTP tutorial is now available for download from 
 			<a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/SC2006.pdf?cvsroot=Tools_Project">here</a>
 
 			<li>December 4, 2006: Two new PTP mailing lists have been added. We now have the 
@@ -67,55 +71,6 @@
 			<li>December 4, 2006: PTP tutorials
 			were given at SC06 and LACSI conferences (see below); PTP release
 			1.1 is imminent... stay tuned.
-			
-			<li>August 16, 2006: PTP passes
-			the <a href="http://wiki.eclipse.org/index.php/PTP/meetings/10releaseReview">Eclipse Foundation Release review
-			</a> for our 1.0 release
-		
-			<li>August 9, 2006: PTP Tutorials coming up:
-				<ul>
-					<li>
-					<a href="http://sc06.supercomputing.org/schedule/event_detail.php?evid=5063">
-					Application Development Using Eclipse and the Parallel Tools Platform</a> November 12, 2006
-					at <a href="http://sc06.supercomputing.org/">Supercomputing 2006</a> in Tampa, FL
-		
-					<li><a href="http://lacsi.krellinst.org/draft_agenda.shtml">
-					Scientific Application Development Using Eclipse and the Parallel Tools Platform</a> at LACSI
-					(Los Alamos Computer Science Institute) October 17, 2006 in Santa Fe, NM
-				</ul>
-		
-			<li>July 18, 2006: PLDT update on <a href="builds.php">Builds page</a>
-		
-			<li>July 11, 2006: <a href="builds.php">Builds page</a> added; early preview of PLDT (Parallel Language Development Tools) made available -
-			This includes the previously available MPI Development Tools, but also
-			includes OpenMP tools as well.
-	
-			<li>June 19, 2006: PTP website is now converted to <a href="http://eclipse.org/phoenix">Phoenix</a>;
-			The <a href="html/indexOld.html">old main page is here.</a><br>
-			Most new information is now on the <a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">Wiki!</a>.
-			<br>  Release 1.1 of PTP is estimated to be available in the Fall of 2006.
-		  
-			<li>June 13, 2006: <a href="http://www.computer.org/portal/site/cise/menuitem.92a12adebee18778161489108bcd45f3/index.jsp?&pName=cise_level1_article&TheCat=1001&path=cise/2006/v8n4&file=sci.xml&">
-			<i>Developing Scientific Applications Using Eclipse</i></a>
-			by Greg Watson and Nathan Debardeleben of PTP fame, is in this month&apos;s
-			issue of <a href="http://www.computer.org/portal/site/cise/index.jsp">
-			Computing in Science &amp; Engineering</a> magazine.
-		  
-			<li>April 11, 2006:  
-      		<a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">PTP now has a Wiki!</a> 
-      		April Planning Meeting minutes are there along with other information.
-      
-      		<li>March 18, 2006: Release 1.0 now available for <a href="downloads.php">download</a>!;
-      		Pre-reqs and installation info is on the <a href="docs/releases/release-1.0.php">Release notes</a> page.
-      
-      		<li>February 13, 2006: <a href="doc.php">documentation</a> is now available
-      
-      		<li>December 12, 2005: New whitepaper <a href="docs/whitepapers/PTPWPv9.pdf">available</a>
-     
-			<li>September 18, 2005: Version 1.0 release plan <a href="docs/plan.html">available</a>
-      
-      		<li>April 20, 2005: FDT 0.9-31M5a available. Please see the <a href="downloads.php">Downloads</a>
-      		<li>April 12 , 2005: <a href="http://eclipse.org/org/press-release/20050412paralleltools.htm">Los Alamos Developing New Eclipse-Based Tools for High-Performance Parallel Computers</a> 
 		</ul>
 		</div>
 		

@@ -16,13 +16,13 @@
 	<downloads url="/ptp/downloads.php"/>
 	<contributing />
 	<ip-log url="/ptp/project-info/project_log.csv"/>
-	<mailing-lists url="/mail/index_project.php">
+	<mailing-lists url="/ptp/mailing_lists.php">
 		<list name="ptp-announce"/>
 		<list name="ptp-cvs-commit"/>
 		<list name="ptp-dev"/>
 		<list name="ptp-users"/>
 	</mailing-lists>
- 	<newsgroups>
+ 	<newsgroups url="/ptp/mailing_lists.php">
 	</newsgroups>
 	<articles>
     	<article url="http://www.computer.org/portal/site/cise/menuitem.92a12adebee18778161489108bcd45f3/index.jsp?&amp;pName=cise_level1_article&amp;TheCat=1001&amp;path=cise/2006/v8n4&amp;file=sci.xml&amp;"/>
