@@ -52,7 +52,7 @@
         <h3>Other Contributors</h3>
         <ul>
         <li>David Abramson,  Monash University 
-        <li>Don Pazel, Google
+        <li>Don Pazel, Google Inc.
         <li>Bill Chung, IBM Research
         <li>Anirban Sinha, University of British Columbia
         <li>Wyatt Spear, University of Oregon
