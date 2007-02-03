@@ -40,7 +40,7 @@
     <div class="homeitem3col">
   <h3>PTP Core</h3>
   <p>PTP Core contains the core runtime and debugging support for parallel programs. 
-  <p>PTP Core needs Java 1.5, Eclipse 3.2, CDT 3.1 and OpenMPI 1.2 or 1.0.2.
+  <p>PTP Core needs Java 1.5, Eclipse 3.2, CDT 3.1 and OpenMPI 1.2 (b3 or later) or 1.0.2.
 
      <p>
         <ul>
