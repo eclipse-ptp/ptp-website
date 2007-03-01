@@ -67,9 +67,9 @@ Click on the Help links to read the help on-line.
 </td>
 </tr>
 </table>
-<p><a href="documentation/org.eclipse.ptp.help/toc.html">PTP 1.1 help TOC</a> | 
-<a href="documentation/org.eclipse.ptp.help/newNoteworthy.html">New and Noteworthy</a> | 
-<a href="documentation/org.eclipse.ptp.pldt.help/toc.html">PLDT 1.1 help</a> | 
+<p><a href="documentation/org.eclipse.ptp.help/html/toc.html">PTP 1.1 help TOC</a> | 
+<a href="documentation/org.eclipse.ptp.help/html/newNoteworthy.html">New and Noteworthy</a> | 
+<a href="documentation/org.eclipse.ptp.pldt.help/html/toc.html">PLDT 1.1 help</a> | 
 
 <p>Note: PLDT (Parallel Language Development Tools) combine MPI with OpenMP tools.  It will be included in PTP 1.1 but
 is available in early release form on the <a href="builds.php">builds page</a>.  The PLDT help includes information about
