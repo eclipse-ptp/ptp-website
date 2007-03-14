@@ -85,7 +85,6 @@
  
     <div class="homeitem3col">
   <h3>Fortran Development Tools</h3>
-  <table>
 <p>The Fortran Development Tools have been merged with the Photran project. Please see
 <a href="http://www.eclipse.org/photran">Photran</a> for more information on downloading
 and installing this plugin.
