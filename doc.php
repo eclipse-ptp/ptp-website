@@ -2,7 +2,7 @@
 
 	#*****************************************************************************
 	#
-	# sample_busypage.php
+	# doc.php
 	#
 	# Author: 		Beth Tibbitts
 	# Date:			2006-06-12
@@ -33,14 +33,16 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		
-<p>The current release of the PTP User Guide (also available from the help plug-ins in the PTP installation) is available here.
-<p>Click on the screen shots below for a full-size image.
+<p>The current release (1.1) of the PTP User Guide (also available from the help plug-ins in the PTP installation) is available here.
+<p><a href="documentation/org.eclipse.ptp.help/html/newNoteworthy.html">New and Noteworthy</a>:
+What's new in PTP Release 1.1. 
+<p>Click on the screen shots below for  full-size images of the PTP Runtime and Debug Perspectives.
 Click on the Help links to read the help on-line.
 <table border="1">
 <tr>
-<td><font size="+2"><a href="documentation/org.eclipse.ptp.help/html/toc.html">PTP Help</a></font>
-
-<br>
+<td><font size="+2"><a href="documentation/org.eclipse.ptp.help/html/toc.html">
+PTP 1.1 Help</a></font>
+<br>Screen shots:<br>
 <table>
 <tr><td>PTP Runtime Perspective<br>
 <a href="documentation/images/runtime_perspective_col_ann.png">
@@ -54,10 +56,12 @@ Click on the Help links to read the help on-line.
 </table>
 </td>
 </tr><tr>
-<td><font size="+2"><a href="documentation/org.eclipse.ptp.mpi.help/html/toc.html">PTP MPI Development Tools Help</a></font>
+<td><font size="+2"><a href="documentation/org.eclipse.ptp.pldt.help/html/toc.html">PLDT 1.1 help</a></font>
+<br>PTP PLDT (Parallel Language Development Tools) 
 
 <table>
-<tr><td>MPI Development Tools<br>
+<tr><td>MPI and OpenMP Development Tools<br>
+Screen shots: <br>
 <a href="documentation/images/ptp-mpi-help2.gif">
 <img src="documentation/images/ptp-mpi-help2_small.gif">
 </a>
@@ -67,13 +71,7 @@ Click on the Help links to read the help on-line.
 </td>
 </tr>
 </table>
-<p><a href="documentation/org.eclipse.ptp.help/html/toc.html">PTP 1.1 help TOC</a> | 
-<a href="documentation/org.eclipse.ptp.help/html/newNoteworthy.html">New and Noteworthy</a> | 
-<a href="documentation/org.eclipse.ptp.pldt.help/html/toc.html">PLDT 1.1 help</a> | 
 
-<p>Note: PLDT (Parallel Language Development Tools) combine MPI with OpenMP tools.  It will be included in PTP 1.1 but
-is available in early release form on the <a href="builds.php">builds page</a>.  The PLDT help includes information about
-OpenMP tools.
 <h2>Other PTP Information:</h2>
 <ul>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/SC2006.pdf?cvsroot=Tools_Project">
