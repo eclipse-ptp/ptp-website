@@ -187,8 +187,10 @@
         <li>Download the &apos;Parallel Language Development Tools&apos; distribution.</li>
         <li>Unzip (or un-tar) into same directory into which  Eclipse has been installed (or use the update site).</li>
         <li>Start Eclipse.  (You may need to use the &quot;-clean&quot; parameter to force it to recognize new features and plug-ins).</li>
-        <li>You should see the two new &quot;MPI&quot; buttons in the toolbar.</li>
-        <li>Follow the instructions in Help  &gt; Help Contents.  Click on &quot;PTP MPI Tools&quot;.   </li>
+        <li>You should see the two new &quot;MPI&quot; buttons,
+        and two new &quot;OpenMP&quot; buttons, in the toolbar.</li>
+        <li>Follow the instructions in Help  &gt; Help Contents.  Click on 
+        &quot;PTP Parallel Language Development Tools&quot;.   </li>
         <li>Setup and running instructions include a small sample C MPI file for testing.</li>
     </ol>
 </div>
@@ -196,25 +198,8 @@
 			<h3>Fortran Development Tools</h3>
 
 
-      <h4>Prerequisites</h4>
-      <ul>
-      <li>Eclipse 3.2.x</li>
-      <li>CDT 3.1.x</li>
-      <li>Photran 1.0</li>
-      </ul>
-      <h4>Installation</h4>
-      <ol>
-      <li>Install Eclipse 3.2.x and CDT 3.1.x for your architecture.</li>
-      <li>Download the &apos;CDT with mixed-language projects&apos; and &apos;Fortran Development Tools&apos; distributions from <a href="http://eclipse.org/ptp/downloads.php">here</a>.</li>
-      <li>Unzip (or un-tar) into same directory into which  Eclipse has been installed (or use the update site).</li>
-      <li>Start Eclipse.  (You may need to use the &quot;-clean&quot; parameter to force it to recognize new features and plug-ins).</li>
-      </ol>  
-      <h4>Notes</h4>
-      <p>The installation of the Fortran Development Tools will replace some of your 
-      existing CDT 3.0 components. 
-      This adds support for mixed language projects (i.e. combining C, C++ and Fortran into 
-      a single project), and also introduces some changes necessary to support the FDT 
-      plug-ins. These changes will be included in  CDT release 3.1 (June 2006) </p>    
+      <p>See the <a href="http://eclipse.org/photran">Photran project</a>.
+      
       </div>
 </div>
 </div>
