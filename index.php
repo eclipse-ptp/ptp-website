@@ -52,7 +52,29 @@
 	  <div class="homeitem3col">
 		<h3>What&apos;s New</h3>
 		<ul>
-			<li><img src="../images/new.gif">January 19, 2007: The PTP web site and CVS repository have now been transitioned
+		<li><img src="../images/new.gif">March 13, 2007: 
+		     PTP at <a href="http://eclipseCon.org">EclipseCon 2007</a> in Santa Clara, CA last week:
+		     <ul>
+		     <li><a href="http://www.eclipsecon.org/2007/index.php?page=sub/&id=3777">
+		         Parallel Tools Platform: Now and Future</a>
+		         - Greg Watson (Los Alamos National Laboratory)
+		      <li><a href="http://www.eclipsecon.org/2007/index.php?page=sub/&id=4057">  
+		      Developing Parallel Programs - PTP's PLDT</a>
+              - Beth Tibbitts (IBM Research) 
+              <li><a href="http://www.eclipsecon.org/2007/index.php?page=sub/&id=3903">
+              C/C++ Source Code Introspection Using the CDT</a>
+              - Chris Recoskie (IBM Canada Ltd.), Beth Tibbitts (IBM Research) - showed PLDT analysis
+              and how it's done with the CDT.
+              <li><a href="http://www.eclipsecon.org/2007/index.php?page=sub/&id=3787">
+              Performance Analysis of Parallel C/C++ and Fortran Applications in Eclipse</a>
+              - http://www.eclipsecon.org/2007/index.php?page=sub/&id=3787
+              <li><a href="http://www.eclipsecon.org/2007/index.php?page=sub/&id=3932">
+               HPCVision: An Interactive Tool for Scalable Analysis of Parallel Performance Profiles</a>
+               - Adam Bordelon (Rice University)
+
+		     </ul>
+			<p>
+			<li>January 19, 2007: The PTP web site and CVS repository have now been transitioned
 			to the Tools project. Please let us know if anything is not working!
 			
 			<li>December 21, 2006: PTP is now officially part of the Tools project! The PTP Move
