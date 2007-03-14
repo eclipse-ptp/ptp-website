@@ -32,16 +32,15 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>Welcome to the downloads page for  the first release of the Parallel Tools Platform. <br>
-    Please see the <a href="docs/releases/release-1.0.php">
+		<p>Welcome to the downloads page for  the 1.1 release of the Parallel Tools Platform. <br>
+    Please see the <a href="docs/releases/release-1.1.php">
       Release notes</a> for prerequisite and installation information. </p>
     <p>The files below contain the current release of PTP. To install PTP you need to  download the PTP Core component <strong>plus </strong>the  PTP Runtime and PTP Debug components that correspond to your architecture. Download and install the plugins and features into your Eclipse installation.</p>
     <p>Note about Eclipse versions:
     <ul>
-    <li>PTP 1.0 works with Eclipse 3.1.2, and CDT 3.0.2
-    <p> - OR - 
-    <li>PTP 1.0 works with Eclipse 3.2, and CDT 3.1.  The MPI Development Tools do not work with CDT 3.1, so
-        instead get the newer build of the PLDT on the <a href="builds.php">Builds page</a>.
+    <li>PTP 1.1 works with Eclipse 3.2, and CDT 3.1
+    <li>For OpenMPI, PTP 1.1 requires OpenMPI 1.2rc4 (or later)
+    <li>For MPICH2, PTP 1.1 requires MPICH2 1.0.5p2
     </ul>    
      
   <div class="homeitem3col">
@@ -56,6 +55,12 @@
         </tr>
         <tr>
           <td>All</td>
+          <td><div align="left">1.1</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp-1.1.0.tar.gz">org.eclipse.ptp-1.1.0.tar.gz</a></div></td>
+        </tr>
+
+        <tr>
+          <td>All</td>
           <td><div align="left">1.0</div></td>
           <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp-1.0.0.tar.gz">org.eclipse.ptp-1.0.0.tar.gz</a></div></td>
         </tr>
@@ -63,87 +68,8 @@
       </table>   
       </div>
   <div class="homeitem3col">
-  <h3>PTP Runtime</h3>
-  <table>
-    <td align=left valign=top >
-        <tr bgcolor="#CCCCCC">
-          <th width="12%"  scope="col"><div align="left">Runtime</div></th>
-          <th width="22%"  scope="col"><div align="left">Platform</div></th>
-          <th width="10%"  scope="col"><div align="left">Release</div></th>
-          <th width="56%"  scope="col"><div align="left">Download</div></th>
-        </tr>
-        <tr>
-          <td>OpenRTE</td>
-          <td>Linux (x86) </td>
-          <td><div align="left">1.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp.orte-linux-x86-1.0.0.tar.gz">org.eclipse.ptp.orte-linux-x86-1.0.0.tar.gz</a></div></td>
-        </tr>
-        <tr>
-          <td>OpenRTE</td>
-          <td>Linux (x86_64) </td>
-          <td><div align="left">1.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp.orte-linux-x86_64-1.0.0.tar.gz">org.eclipse.ptp.orte-linux-x86_64-1.0.0.tar.gz</a></div></td>
-        </tr>
-        <tr>
-          <td>OpenRTE</td>
-          <td>Linux (ppc) </td>
-          <td><div align="left">1.0</div></td>
-          <td><div align="left">N/A</div></td>
-        </tr>
-        <tr>
-          <td>OpenRTE</td>
-          <td>Mac OS X (ppc) </td>
-          <td><div align="left">1.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp.orte-macosx-ppc-1.0.0.tar.gz">org.eclipse.ptp.orte-macosx-ppc-1.0.0.tar.gz</a></div></td>
-        </tr>
-      </table>  
-      </div>
-  <div class="homeitem3col">
-   <h3>PTP Debug</h3>
-  <table>
-    <td align=left valign=top >
-    <tr bgcolor="#CCCCCC">
-          <th width="12%"  scope="col"><div align="left">Runtime</div></th>
-          <th width="22%"  scope="col"><div align="left">Platform</div></th>
-          <th width="10%"  scope="col"><div align="left">Release</div></th>
-          <th width="56%"  scope="col"><div align="left">Download</div></th>
-        </tr>
-        <tr>
-          <td>OpenRTE</td>
-          <td>Linux (x86) </td>
-          <td><div align="left">1.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp.debug-orte-linux-x86-1.0.0.tar.gz">org.eclipse.ptp.debug-orte-linux-x86-1.0.0.tar.gz</a></div></td>
-        </tr>
-        <tr>
-          <td>OpenRTE</td>
-          <td>Linux (x86_64) </td>
-          <td><div align="left">1.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp.debug-orte-linux-x86_64-1.0.0.tar.gz">org.eclipse.ptp.debug-orte-linux-x86_64-1.0.0.tar.gz</a></div></td>
-        </tr>
-        <tr>
-          <td>OpenRTE</td>
-          <td>Linux (ppc) </td>
-          <td><div align="left">1.0</div></td>
-          <td><div align="left">N/A</div></td>
-        </tr>
-        <tr>
-          <td>OpenRTE</td>
-          <td>Mac OS X (ppc) </td>
-          <td><div align="left">1.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp.debug-orte-macosx-ppc-1.0.0.tar.gz">org.eclipse.ptp.debug-orte-macosx-ppc-1.0.0.tar.gz</a></div></td>
-        </tr>
-      </table>  
-</div>
-  <div class="homeitem3col">
-  <h3>MPI Development Tools</h3>
-  <p>Note: the MPI Development tools for 1.0 are being replaced with the 
-  Parallel Language Development Tools (PLDT) for 1.1.  See the
-  <a href="builds.php"> Builds page</a> for an early version of this.
-  <p>The files below contain the current release of the MPI Development Tools for PTP. <br>
-       Please see the <a href="docs/releases/release-1.0.php">
-      Release notes</a> for prerequisite and installation information. </p>
-
-    <p>Download and install the plugins and features into your Eclipse installation:</p> 
+  <h3>Parallel Language Development Tools</h3>
+     <p>Download and install the plugins and features into your Eclipse installation:</p> 
     <table>
   <tr>
     <td align=left valign=top >
@@ -154,8 +80,8 @@
         </tr>
         <tr>
           <td>All</td>
-          <td><div align="left">1.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp.mpi-1.0.tar.gz">org.eclipse.ptp-mpi-1.0.tar.gz</a></div></td>
+          <td><div align="left">1.1</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp.pldt-1.1.tar.gz">org.eclipse.ptp.pldt-1.1.tar.gz</a></div></td>
         </tr>
       </table>  
 </div>
