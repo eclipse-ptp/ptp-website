@@ -71,7 +71,7 @@
         <tr>
           <td>All</td>
           <td><div align="left">1.1</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp.pldt-1.1.tar.gz">org.eclipse.ptp.pldt-1.1.tar.gz</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp.pldt-1.1.0.tar.gz">org.eclipse.ptp.pldt-1.1.tar.gz</a></div></td>
         </tr>
       </table>  
 </div>
