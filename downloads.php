@@ -35,7 +35,10 @@
 		<p>Welcome to the downloads page for  the 1.1 release of the Parallel Tools Platform. <br>
     Please see the <a href="docs/releases/release-1.1.php">
       Release notes</a> for prerequisite and installation information. </p>
-    <p>The files below contain the current release of PTP. To install PTP you need to  download the PTP Core component <strong>plus </strong>the  PTP Runtime and PTP Debug components that correspond to your architecture. Download and install the plugins and features into your Eclipse installation.</p>
+    <p>The files below contain the current release of PTP. To install PTP you need to  download the PTP Core 
+    component. The PLDT component can be installed independently of PTP Core.
+    Download and install the plugins and features into your Eclipse installation, then follow the release
+    notes to build the proxy and debugger.</p>
     <p>Note about Eclipse versions:
     <ul>
     <li>PTP 1.1 works with Eclipse 3.2, and CDT 3.1
@@ -57,12 +60,6 @@
           <td>All</td>
           <td><div align="left">1.1</div></td>
           <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp-1.1.0.tar.gz">org.eclipse.ptp-1.1.0.tar.gz</a></div></td>
-        </tr>
-
-        <tr>
-          <td>All</td>
-          <td><div align="left">1.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp-1.0.0.tar.gz">org.eclipse.ptp-1.0.0.tar.gz</a></div></td>
         </tr>
 
       </table>   
@@ -89,30 +86,9 @@
     <div class="homeitem3col">
   <h3>Fortran Development Tools</h3>
   <table>
-<p>The files below contain the current release of the Fortran Development Tools for PTP. <br>
-       Please see the <a href="docs/releases/release-1.0.php">
-      Release notes</a> for prerequisite and installation information. </p>
-
-      <p>Download and install the plugins and features into your Eclipse installation:</p>    </tr>
-<table>
-  <tr>
-    <td align=left valign=top >
-          <tr bgcolor="#CCCCCC">
-            <th width="34%"  scope="col"><div align="left">Description</div></th>
-            <th width="10%"  scope="col"><div align="left">Release</div></th>
-            <th width="56%"  scope="col"><div align="left">Download</div></th>
-          </tr>
-          <tr>
-            <td><div align="left">CDT with mixed-language projects </div></td>
-            <td><div align="left">1.0</div></td>
-            <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.cdt-make-1.0.tar.gz">org.eclipse.cdt-make-1.0.tar.gz</a></div></td>
-          </tr>
-          <tr>
-            <td><div align="left">Fortran Development Tools </div></td>
-            <td><div align="left">1.0</div></td>
-            <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.fdt-1.0.tar.gz">org.eclipse.fdt-1.0.tar.gz</a></div></td>
-          </tr>
-        </table>  
+<p>The Fortran Development Tools have been merged with the Photran project. Please see
+<a href="http://www.eclipse.org/photran">Photran</a> for more information on downloading
+and installing this plugin.
 </div>
  
 
