@@ -35,16 +35,10 @@
 		<p>Welcome to the downloads page for  the 1.1 release of the Parallel Tools Platform. <br>
     Please see the <a href="docs/releases/release-1.1.php">
       Release notes</a> for prerequisite and installation information. </p>
-    <p>The files below contain the current release of PTP. To install PTP you need to  download the PTP Core 
-    component. The PLDT component can be installed independently of PTP Core.
+    <p>The files below contain the current release of PTP. To install PTP you now only
+    need to download the PTP Core component. The PLDT component can be installed independently of PTP Core.
     Download and install the plugins and features into your Eclipse installation, then follow the release
-    notes to build the proxy and debugger.</p>
-    <p>Note about Eclipse versions:
-    <ul>
-    <li>PTP 1.1 works with Eclipse 3.2, and CDT 3.1
-    <li>For OpenMPI, PTP 1.1 requires OpenMPI 1.2rc4 (or later)
-    <li>For MPICH2, PTP 1.1 requires MPICH2 1.0.5p2
-    </ul>    
+    notes to build the architecture specific parts.</p>
      
   <div class="homeitem3col">
   <h3>PTP Core</h3>
@@ -86,7 +80,7 @@
     <div class="homeitem3col">
   <h3>Fortran Development Tools</h3>
 <p>The Fortran Development Tools have been merged with the Photran project. Please see
-<a href="http://www.eclipse.org/photran">Photran</a> for more information on downloading
+<a href="http://www.eclipse.org/photran">here</a> for more information on downloading
 and installing this plugin.
 </div>
  
