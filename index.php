@@ -105,18 +105,15 @@
 			<h3>Fortran Development Tools</h3>
 			 <p>Although not an integral part of the parallel tools platform, 
 			 Fortran language support is an essential tool for the parallel development community. 
-			 We have provided an intitial version that is based on the CDT 3.0 Release. Features of FDT include:</p>
+			 The Fortran Development Tools have now been merged with the <a href="http://eclipse.org/photran">Photran</a> project. 
+			 Please consult that for information on downloading and installing this plug-in.
+			 Photran is now the official home for the  Fortran IDE.
+			 Highlights include:</p>
       <ul>
         <li>Support for IBM XLF, Intel Fortran, gfortran and other compilers</li>
         <li>Fortran editor with syntax highlighting</li>
         <li>Managed build support</li>
       </ul>
-      <p>The <a href="http://eclipse.org/cdt">CDT</a> and FDT projects share much in common, and we are working closely with the CDT
-       community to minimize overlap and move towards a more language independent model. 
-       We will also be working with other organizations towards developing an industry-strength Fortran development environment. 
-       See also the <a href="http://eclipse.org/photran">Photran</a>
-       project, which  includes our FDT contribution and is the official home for the  Fortran IDE.
-       
        
        </p>
 		</div>
@@ -169,7 +166,7 @@
 			<h6>PTP Information</h6>
 			<ul>
 				<li><a href="http://wiki.eclipse.org/index.php/Parallel_Tools_Platform">PTP Wiki</a> </li>
-				<li><a href="http://www.eclipsecon.org/2006/Sub.do?id=265">PTP Presentation at EclipseCon 2006</a> - by Greg Watson</li>
+				<li><a href="http://www.eclipsecon.org/2007/index.php?page=sub/&id=3777">PTP Presentation at EclipseCon 2007</a> - by Greg Watson</li>
 				<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/whitepapers/PTPWPv9.pdf?cvsroot=Tools_Project">
                    PTP Whitepaper</a></li>
 				<li><a href="doc.php">PTP Help documention</a> including screen shots.</li>
@@ -177,7 +174,8 @@
 			  <i>Developing Scientific Applications Using Eclipse</i></a>
 			  by Greg Watson and Nathan Debardeleben, in <a href="http://www.computer.org/portal/site/cise/index.jsp">
 			  Computing in Science &amp; Engineering</a> magazine.
-				<li>PTP Tutorial to be presented at 
+				<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/SC2006.pdf?cvsroot=Tools_Project">
+				PTP Tutorial</a> given at 
 				<a href="http://sc06.supercomputing.org/">SC06</a>
 				on Sunday, Nov. 12, 2006. 
 				
