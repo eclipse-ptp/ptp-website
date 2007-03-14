@@ -67,7 +67,7 @@
               and how it's done with the CDT.
               <li><a href="http://www.eclipsecon.org/2007/index.php?page=sub/&id=3787">
               Performance Analysis of Parallel C/C++ and Fortran Applications in Eclipse</a>
-              - http://www.eclipsecon.org/2007/index.php?page=sub/&id=3787
+              - Wyatt Spear (University of Oregon) 
               <li><a href="http://www.eclipsecon.org/2007/index.php?page=sub/&id=3932">
                HPCVision: An Interactive Tool for Scalable Analysis of Parallel Performance Profiles</a>
                - Adam Bordelon (Rice University)
