@@ -60,8 +60,7 @@
       </div>
   <div class="homeitem3col">
   <h3>Parallel Language Development Tools</h3>
-     <p>Download and install the plugins and features into your Eclipse installation:</p> 
-    <table>
+     <table>
   <tr>
     <td align=left valign=top >
         <tr bgcolor="#CCCCCC">
