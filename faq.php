@@ -33,7 +33,7 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<h2>List of FAQs</h2>
-		<p>[Update for PTP Release 1.1 in progress..]
+
 		 <ul>
         <li><a href="#faq1">Q1: How do I download PTP?</a></li>
         <li><a href="#faq2">Q2: What version of Eclipse and CDT do I need?</a> </li>
@@ -69,16 +69,7 @@
     <hr>    
     <p><b><font size="3"><a name="faq3" id="faq3"></a>Q3:</font></b>
     What version of MPI do I need to run PTP?</p>
-    <p><b><font size="3">A:</font></b> 
-    For the PLDT only (no PTP Core), there should be no difference between
-    the different versions of MPI, such as 
-    <a href="http://www.open-mpi.org">OpenMPI</a> and LamMPI.  You just need to configure your project to be built using 
-    <code>mpicc</code>  rather than <code>gcc</code>, and to specify the include path to the MPI header files. 
-    This should be  described in the <a href="http://www.eclipse.org/ptp/documentation/org.eclipse.ptp.pldt.help/html/setup.html">
-    PLDT help</a>.
-    
-    
-    
+   
 <p>
 As far as the main PTP (PTP Core) is concerned, <a href="http://www.open-mpi.org">OpenMPI</a>
 is very different from other implementations of MPI.
@@ -87,8 +78,15 @@ It also provides a new runtime layer called Open Runtime Environment (OpenRTE)
 which PTP relies heavily on for OpenMPI support in the current version. 
 <p>Currently PTP (Release 1.1.0, March 2007) requires  
 <a href="http://www.open-mpi.org/software/ompi/v1.0/">OpenMPI v1.0.2 or v1.2</a>.
-(Note, as of March 2007, v1.2  is still a "pending alpha" release of OpenMPI, but it
+(Note, as of March 2007, v1.2  is still a pre-release version of OpenMPI, but it
 works fine for us.)
+<p><b><font size="3">A:</font></b> 
+    For the PLDT only (no PTP Core), there should be no difference between
+    the different versions of MPI, such as 
+    <a href="http://www.open-mpi.org">OpenMPI</a> and LamMPI.  You just need to configure your project to be built using 
+    <code>mpicc</code>  rather than <code>gcc</code>, and to specify the include path to the MPI header files. 
+    This should be  described in the <a href="http://www.eclipse.org/ptp/documentation/org.eclipse.ptp.pldt.help/html/setup.html">
+    PLDT help</a>.
     
     <hr>
    <p><b><font size="3"><a name="faq4" id="faq4"></a>Q4:</font></b>
