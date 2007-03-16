@@ -72,7 +72,7 @@
     <p><b><font size="3"><a name="faq3" id="faq3"></a>Q3:</font></b>
     What version of MPI do I need to run PTP?</p>
    
-<p>
+<p><b><font size="3">A:</font></b> 
 As far as the main PTP (PTP Core) is concerned, <a href="http://www.open-mpi.org">OpenMPI</a>
 is very different from other implementations of MPI.
 OpenMPI is a complete rewrite and combines work from four different MPI implementations. 
@@ -81,7 +81,7 @@ which PTP relies heavily on for OpenMPI support in the current version.
 <p>Currently PTP (Release 1.1.0, March 2007) requires  
 <a href="http://www.open-mpi.org/software/ompi/v1.0/">OpenMPI v1.0.2 or v1.2</a>.
 
-<p><b><font size="3">A:</font></b> 
+<p>
     For the PLDT only (no PTP Core), there should be no difference between
     the different versions of MPI, such as 
     <a href="http://www.open-mpi.org">OpenMPI</a> and LamMPI.  You just need to configure your project to be built using 
