@@ -73,9 +73,9 @@
     What version of MPI do I need to run PTP?</p>
    
 <p><b><font size="3">A:</font></b> 
-<p>Currently PTP (Release 1.1.0, March 2007) requires  
+Currently PTP (Release 1.1.0, March 2007) requires  
 <a href="http://www.open-mpi.org/software/ompi/v1.0/">OpenMPI v1.0.2 or v1.2</a>.
-<p>As far as the main PTP (PTP Core) is concerned, <a href="http://www.open-mpi.org">OpenMPI</a>
+<p>Why OpenMPI?  As far as the main PTP (PTP Core) is concerned, <a href="http://www.open-mpi.org">OpenMPI</a>
 is very different from other implementations of MPI.
 OpenMPI is a complete rewrite and combines work from four different MPI implementations. 
 It also provides a new runtime layer called Open Runtime Environment (OpenRTE) 
@@ -109,7 +109,7 @@ aid in the search for MPI artifacts.  And an OpenMP header file, if OpenMP analy
     of any other MPI implementation you have installed.
     <p>Make sure you ran the shell script (sh BUILD) to finish the install for your machine.
     <p>Also, see the "Troubleshooting" section of the 
-    <a href="docs/releases/release-1.1.php">Release Notes and installation instruction</a>.
+    <a href="docs/releases/release-1.1.php">Release Notes and installation instructions</a>.
     
                 <hr>
     <p><b><font size="3"><a name="faq6" id="faq6"></a>Q6:</font></b>
