@@ -106,6 +106,7 @@ aid in the search for MPI artifacts.  And an OpenMP header file, if OpenMP analy
    when running PTP. What&apos;s wrong?</p>
     <p><b><font size="3">A:</font></b> Make sure your PATH has OpenMPI ahead
     of any other MPI implementation you have installed.
+    <p>Make sure you ran the shell script (sh BUILD) to finish the install for your machine.
     <p>Also, see the "Troubleshooting" section of the 
     <a href="docs/releases/release-1.1.php">Release Notes and installation instruction</a>.
     
