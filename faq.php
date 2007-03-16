@@ -33,7 +33,7 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<h2>List of FAQs</h2>
-		<p>[Update for PTP Release 1.1 in progress...]
+		<p>[Update for PTP Release 1.1 in progress..]
 		 <ul>
         <li><a href="#faq1">Q1: How do I download PTP?</a></li>
         <li><a href="#faq2">Q2: What version of Eclipse and CDT do I need?</a> </li>
@@ -60,12 +60,12 @@
     formerly named MPI Development tools - and <a href="http://eclipse.org/photran">Photran</a>, 
     for Fortran development, 
     are available as well, on more platforms.
-    See the <a href="downloads.php">PTP download page</a>.
+    See the <a href="downloads.php">PTP downloads page</a>.
     <hr>    
     <p><b><font size="3"><a name="faq2" id="faq2"></a>Q2:</font></b> What version of Eclipse and CDT do I need? </p>
-    <p><b><font size="3">A:</font></b> PTP 1.1.0 is designed to work with Eclipse 3.2.x and CDT 3.1.x.
+    <p><b><font size="3">A:</font></b> PTP and PLDT 1.1.0 are designed to work with Eclipse 3.2.x and CDT 3.1.x.
     </p>
-    The PLDT also require CDT 3.1.x.
+    
     <hr>    
     <p><b><font size="3"><a name="faq3" id="faq3"></a>Q3:</font></b>
     What version of MPI do I need to run PTP?</p>
@@ -96,7 +96,7 @@ works fine for us.)
     <p><b><font size="3">A:</font></b> The current release of core PTP  runs only on:    
 <br>Open MPI runtime + debugging on Linux (i386/x86_64/ppc)
 <br>Open MPI runtime + debugging on Mac OS X 10.4 (PowerPC)
-<p>The PLDT will run anywhere Eclipse 3.2 and CDT 3.2 will run.
+<p>The PLDT will run anywhere Eclipse 3.2 and CDT 3.1 will run.
 It simply requires any version of MPI (specifically, its header files) to 
 aid in the search for MPI artifacts.  And an OpenMP header file, if OpenMP analysis is needed.
     
