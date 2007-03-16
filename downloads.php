@@ -35,8 +35,8 @@
 		<p>Welcome to the downloads page for  the 1.1 release of the Parallel Tools Platform.</p>
     <p>Please see the <font size=+1><a href="docs/releases/release-1.1.php">
       release notes and installation instructions</a><font size=-1> for prerequisite information 
-      and instructions on building and installing PTP. Note that PTP 1.1 requires a different installation
-      process than normal Eclipse plugins.</p>
+      and instructions on building and installing PTP. <i>Note that PTP 1.1 requires a different installation
+      process than normal Eclipse plugins.</i></p>
     <p>The files below contain the current release of PTP. To install PTP you now only
     need to download the PTP Core component. The PLDT component can be installed independently of PTP Core.
     </p>
