@@ -55,6 +55,8 @@
     <p>     PTP also requires
     <a href="http://www.open-mpi.org/software/ompi/v1.0/">OpenMPI v1.0.2 or v1.2</a>
     for the PTP Core functionality. 
+    <p>After downloading, be sure to run the shell script to build for your machine... 
+    see the <a href="http://www.eclipse.org/ptp/docs/releases/release-1.1.php">release notes and installation instructions.</a>
 
     <p>The PTP Parallel Language Development tools (PLDT) - 
     formerly named MPI Development tools - and <a href="http://eclipse.org/photran">Photran</a>, 
@@ -78,8 +80,7 @@ It also provides a new runtime layer called Open Runtime Environment (OpenRTE)
 which PTP relies heavily on for OpenMPI support in the current version. 
 <p>Currently PTP (Release 1.1.0, March 2007) requires  
 <a href="http://www.open-mpi.org/software/ompi/v1.0/">OpenMPI v1.0.2 or v1.2</a>.
-(Note, as of March 2007, v1.2  is still a pre-release version of OpenMPI, but it
-works fine for us.)
+
 <p><b><font size="3">A:</font></b> 
     For the PLDT only (no PTP Core), there should be no difference between
     the different versions of MPI, such as 
@@ -106,7 +107,7 @@ aid in the search for MPI artifacts.  And an OpenMP header file, if OpenMP analy
     <p><b><font size="3">A:</font></b> Make sure your PATH has OpenMPI ahead
     of any other MPI implementation you have installed.
     <p>Also, see the "Troubleshooting" section of the 
-    <a href="docs/releases/release-1.1.php">Release Notes</a>.
+    <a href="docs/releases/release-1.1.php">Release Notes and installation instruction</a>.
     
                 <hr>
     <p><b><font size="3"><a name="faq6" id="faq6"></a>Q6:</font></b>
@@ -114,10 +115,8 @@ aid in the search for MPI artifacts.  And an OpenMP header file, if OpenMP analy
     <p><b><font size="3">A:</font></b> Download the latest 1.2 version
     of OpenMPI from <a href="http://www.open-mpi.org/software/ompi/v1.2/">the OpenMPI download site.</a>
     
-Currently (March 2007) OpenMPI 1.2 is in beta.    
-Don&apos;t worry, it works fine for us.
 <p>
-See the <a href="release.php">release notes for details on installing OpenMPI.
+See the <a href="http://www.eclipse.org/ptp/docs/releases/release-1.1.php">release notes for details on installing OpenMPI.
 
 <ul><li><b>Install location:</b>
  The default installation location is /usr/local;
