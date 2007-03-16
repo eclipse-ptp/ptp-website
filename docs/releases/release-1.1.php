@@ -68,10 +68,8 @@
         <li>Install 
           <a href="http://eclipse.org/downloads">Eclipse SDK 3.2.x</a>
           and <a href="http://www.eclipse.org/cdt/downloads.php">CDT 3.1.x</a> for your architecture.</li>
-        <li>Download and unpack <a href="http://www.open-mpi.org/software/ompi/v1.2/">OpenMPI 1.2</a>. 
-          (Note: as of March 2007, this is still a &quot;pre-release&quot; version
-          of OpenMPI 1.2, but it works fine for us.)
-          If you download the pre-built binary for OpenMPI, you MUST obtain the developer version. If there is no
+        <li>Download and unpack <a href="http://www.open-mpi.org/software/ompi/v1.2/">OpenMPI 1.2</a>.
+          If you download a pre-built binary for OpenMPI, you MUST obtain the developer version. If there is no
           developer version available, then you will need to build from source instead.</li>
         <li>Configure, build and install OpenMPI (if necessary)
           <ul>
