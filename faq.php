@@ -48,55 +48,57 @@
       <hr>
     <p><b><font size="3"><a name="faq1" id="faq1"></a>Q1:</font></b> 
     How do I download PTP? </p>
-    <p><b><font size="3">A:</font></b> The 1.0.0  release of the core PTP software 
+    <p><b><font size="3">A:</font></b> The 1.1.0  release of the PTP Core software 
     (That is, the parallel runtime and parallel debugger) is available for Linux and Mac OS.
         <p>
     You can download it from the <a href="downloads.php">PTP download page</a>; check regularly there for new releases, too. </p>
     <p>     PTP also requires
-    <a href="http://www.open-mpi.org/software/ompi/v1.0/">OpenMPI v1.0.2</a>
-    for the core PTP functionality. 
+    <a href="http://www.open-mpi.org/software/ompi/v1.0/">OpenMPI v1.0.2 or v1.2</a>
+    for the PTP Core functionality. 
 
-    <p>The PTP MPI Development tools, and the Fortran Development Tools, are available as well, on more platforms.
+    <p>The PTP Parallel Language Development tools (PLDT) - 
+    formerly named MPI Development tools - and <a href="http://eclipse.org/photran">Photran</a>, 
+    for Fortran development, 
+    are available as well, on more platforms.
     See the <a href="downloads.php">PTP download page</a>.
     <hr>    
     <p><b><font size="3"><a name="faq2" id="faq2"></a>Q2:</font></b> What version of Eclipse and CDT do I need? </p>
-    <p><b><font size="3">A:</font></b> PTP 1.0.0 is designed to work with Eclipse 3.1. 
-    The Fortran Development Tools are designed to work with CDT 3.0, 
-    however we will endeavor to build FDT against the latest milestone releases of CDT. </p>
-    The MPI development tools also require CDT 3.0.x.
-    (Note: Upcoming Release 1.1 of PTP is built agains Eclipse 3.2 and CDT 3.1.)
+    <p><b><font size="3">A:</font></b> PTP 1.1.0 is designed to work with Eclipse 3.2.x and CDT 3.1.x.
+    </p>
+    The PLDT also require CDT 3.1.x.
     <hr>    
     <p><b><font size="3"><a name="faq3" id="faq3"></a>Q3:</font></b>
     What version of MPI do I need to run PTP?</p>
     <p><b><font size="3">A:</font></b> 
-    For the MPI development tools only (no core PTP), there should be no difference between
+    For the PLDT only (no PTP Core), there should be no difference between
     the different versions of MPI, such as 
     <a href="http://www.open-mpi.org">OpenMPI</a> and LamMPI.  You just need to configure your project to be built using 
     <code>mpicc</code>  rather than <code>gcc</code>, and to specify the include path to the MPI header files. 
-    This should be  described in the PTP or MPI help.
+    This should be  described in the <a href="http://www.eclipse.org/ptp/documentation/org.eclipse.ptp.pldt.help/html/setup.html">
+    PLDT help</a>.
     
     
     
 <p>
-As far as the main PTP (core PTP) is concerned, <a href="http://www.open-mpi.org">OpenMPI</a>
+As far as the main PTP (PTP Core) is concerned, <a href="http://www.open-mpi.org">OpenMPI</a>
 is very different from other implementations of MPI.
 OpenMPI is a complete rewrite and combines work from four different MPI implementations. 
 It also provides a new runtime layer called Open Runtime Environment (OpenRTE) 
 which PTP relies heavily on for OpenMPI support in the current version. 
-<p>Currently (Feb. 2006) PTP requires  
-<a href="http://www.open-mpi.org/software/ompi/v1.0/">OpenMPI v1.0.2</a>.
-(Note, as of February 2006 this is still a "pending alpha" release of OpenMPI, but it
+<p>Currently PTP (Release 1.1.0, March 2007) requires  
+<a href="http://www.open-mpi.org/software/ompi/v1.0/">OpenMPI v1.0.2 or v1.2</a>.
+(Note, as of March 2007, v1.2  is still a "pending alpha" release of OpenMPI, but it
 works fine for us.)
     
     <hr>
    <p><b><font size="3"><a name="faq4" id="faq4"></a>Q4:</font></b>
    What platforms and runtimes are supported by PTP now?</p>
-    <p><b><font size="3">A:</font></b> The first release of core PTP  runs only on:    
+    <p><b><font size="3">A:</font></b> The current release of core PTP  runs only on:    
 <br>Open MPI runtime + debugging on Linux (i386/x86_64/ppc)
 <br>Open MPI runtime + debugging on Mac OS X 10.4 (PowerPC)
-<p>The MPI Development tools will run anywhere Eclipse and CDT will run.
+<p>The PLDT will run anywhere Eclipse 3.2 and CDT 3.2 will run.
 It simply requires any version of MPI (specifically, its header files) to 
-aid in the search for MPI artifacts.
+aid in the search for MPI artifacts.  And an OpenMP header file, if OpenMP analysis is needed.
     
         <hr>
     <p><b><font size="3"><a name="faq5" id="faq5"></a>Q5:</font></b>
@@ -106,37 +108,22 @@ aid in the search for MPI artifacts.
     <p><b><font size="3">A:</font></b> Make sure your PATH has OpenMPI ahead
     of any other MPI implementation you have installed.
     <p>Also, see the "Troubleshooting" section of the 
-    <a href="docs/releases/release-1.0.php">Release Notes</a>.
+    <a href="docs/releases/release-1.1.php">Release Notes</a>.
     
                 <hr>
     <p><b><font size="3"><a name="faq6" id="faq6"></a>Q6:</font></b>
    How do I install OpenMPI?</p>
-    <p><b><font size="3">A:</font></b> Download the latest 1.0.2 version
-    of OpenMPI from <a href="http://www.open-mpi.org/software/ompi/v1.0/">the OpenMPI download site.</a>
+    <p><b><font size="3">A:</font></b> Download the latest 1.2 version
+    of OpenMPI from <a href="http://www.open-mpi.org/software/ompi/v1.2/">the OpenMPI download site.</a>
     
-Currently (March 2006) OpenMPI 1.0.2 is (pending) alpha.    
+Currently (March 2007) OpenMPI 1.2 is in beta.    
 Don&apos;t worry, it works fine for us.
 <p>
-Be sure to run <code>configure</code> to match how you intend to install PTP.
-<ol>
-<li>If you intend to install PTP from the download site (pre-built), then
-most of the defaults work.
-<pre>
-./configure 
-make all
-make install
-</pre>
-<li>If you intend to download PTP source from CVS and build it yourself,
-then be sure to run OpenMPI&apos;s <code>configure</code> "with development headers"
-<pre>
-./configure --with-devel-headers 
-make all
-make install
-</pre>
-</ol>
+See the <a href="release.php">release notes for details on installing OpenMPI.
+
 <ul><li><b>Install location:</b>
  The default installation location is /usr/local;
-to modify this, add the <code>--prefix</code> argument.
+to modify this, add the <code>--prefix</code> argument to ./configure.
 
 <pre>./configure --prefix=/path/to/your/ompi/install</pre>
 
@@ -161,6 +148,7 @@ mpirun -np 2 testMPI
    How do I build PTP myself?</p>
     <p><b><font size="3">A:</font></b> 
     See the <a href="docs/build.html">PTP build procedure</a> instructions.
+    [May not be updated for 1.1]
  
 
         <hr>  
