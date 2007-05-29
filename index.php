@@ -122,8 +122,8 @@
 		<h3>General Resources</h3>
 		<ul>
 			<li><a href="faq.php">FAQ (Frequently asked Questions about PTP)</a> 
-        	<li>Ask questions about PTP on the <a href="http://dev.eclipse.org/mailman/listinfo">PTP mailing lists</li>
-        	         	<li>Submit bugs and feature requests on <a href="http://bugs.eclipse.org/bugs">Bugzilla</a> 
+        	<li>Ask questions about PTP on the <a href="http://dev.eclipse.org/mailman/listinfo">PTP mailing lists</a></li>
+        	         	<li><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=PTP">Submit bugs and feature requests</a> 
       
         </ul>
 		</div>
