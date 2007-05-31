@@ -36,6 +36,7 @@
 <p>The current release (1.1) of the PTP User Guide (also available from the help plug-ins in the PTP installation) is available here.
 <p><a href="documentation/org.eclipse.ptp.help/html/newNoteworthy.html">New and Noteworthy</a>:
 What's new in PTP Release 1.1. 
+<p><a href="docs/install.html">How to install Eclipse and CDT for PTP</a>
 <p>Click on the screen shots below for  full-size images of the PTP Runtime and Debug Perspectives.
 Click on the Help links to read the help on-line.
 <table border="1">

@@ -71,6 +71,8 @@
           <p>If you plan to do Java or Eclipse development, get the Eclipse SDK.
           If you just want C/C++ (or Fortran via Photran) then the Platform runtime Binary only is
           smaller and less complex.  It's on the "Other downloads" page for the release.
+          <p>See <a href="docs/install.html">Installing Eclipse and PTP</a> for detailed instructions on downloading
+          Eclipse, installing CDT, etc.
           </li>
         <li>Download and unpack <a href="http://www.open-mpi.org/software/ompi/v1.2/">OpenMPI 1.2</a>.
           If you download a pre-built binary for OpenMPI, you MUST obtain the developer version. If there is no
