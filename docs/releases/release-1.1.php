@@ -68,7 +68,7 @@
         <li>Install 
           <a href="http://eclipse.org/downloads">Eclipse 3.2.x (SDK or Runtime only)</a>
           and <a href="http://www.eclipse.org/cdt/downloads.php">CDT 3.1.x</a> for your architecture.</li>
-          <br>If you plan to do Java or Eclipse development, get the Eclipse SDK.
+          <p>If you plan to do Java or Eclipse development, get the Eclipse SDK.
           If you just want C/C++ (or Fortran via Photran) then the Runtime only is
           smaller and less complex.
         <li>Download and unpack <a href="http://www.open-mpi.org/software/ompi/v1.2/">OpenMPI 1.2</a>.
@@ -84,6 +84,7 @@
           </ul>
         <li>Test your MPI installation by running a small MPI job.</li>
         <li>Download the PTP plug-in and unzip (or un-tar) into the same directory into which Eclipse has been installed.</li>
+        Do the same with the PLDT download as well, if you want the development tools.
         <li>Locate the plug-in <code>org.eclipse.ptp.<i>os</i>.<i>arch</i></code> in the <code>plugins</code> directory, where 
         <code><i>os</i></code> and <code><i>arch</i></code> correspond to your operating system and architecture respectively. Change to this directory.</li>
         <li>Run the command: <p><code>sh BUILD</code><p> This should build and install the executables. If you see any errors here, please
