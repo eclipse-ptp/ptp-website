@@ -50,7 +50,7 @@
       <p>
       <h4>Prerequisites</h4>
       <ul>
-      <li>Java 1.5 or later</li>
+      <li>Java 1.5 or later (Note: if on Linux, must be Sun or IBM's. See below.)</li>
         <li>Eclipse 3.2.x</li>
         <li>CDT 3.1.x</li>
         <li>OpenMPI 1.2 (the earlier 1.0.2 version is also supported)</li>
@@ -59,7 +59,7 @@
       <p>   
       <h4>Installation</h4>
       <ul>
-      	<li>If you are using the Linux operating system, download and install either the 
+      	<li><b>Java requirement: </b>If you are using the Linux operating system, download and install either the 
       	<a href="http://java.sun.com/javase/downloads/index_jdk5.jsp">Sun Java Runtime Environment</a>
       	 or the 
         <a href="http://www-128.ibm.com/developerworks/java/jdk/linux/download.html">IBM Java Runtime Environment</a>. 
