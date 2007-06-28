@@ -63,15 +63,19 @@
   <p><b>PLDT 2.0</b>
   <p>PLDT 2.0 needs Eclipse 3.3 and CDT 4.0.  
   This early access version is made available here prior to the availability of the rest of PTP 2.0.
-  PLDT 2.0 includes MPI barrier analysis to detect possible deadlocks in MPI programs.
-
+  <p>New features in PLDT 2.0 include:
+  <ul>
+  <li>MPI barrier analysis to detect possible deadlocks in MPI programs.</li>
+  <li>Eclipse welcome page leads to PTP info.  </li>
+  <li>Wizard improvements including allowing sample MPI file insertion.</li>
+  </ul>
+      
      <p>
         <ul>
 		<li>28 June 2007: <i>NOT YET AVAILABLE..</i>
           <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp.pldt-2.0.0-I20070628xxxx.zip" >
           org.eclipse.ptp.pldt-2.0.0-I20070628xxxx.zip</a>
-          <p>MPI Barrier analysis made available.
-     
+         <p>MPI Barrier analysis made available. 
         </ul>
         <p>&nbsp;
           
