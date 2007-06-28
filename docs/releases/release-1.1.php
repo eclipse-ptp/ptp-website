@@ -87,7 +87,12 @@
           	<li>Note that if you install OpenMPI in a nonstandard location, you may need to 
           	build PTP differently.  See the troubleshooting section below.
           </ul>
-        <li>Test your MPI installation by running a small MPI job.</li>
+        <li>Test your MPI installation by running a small MPI job, e.g.
+        <pre>
+        mpicc test.c -o test
+        mpirun -np 4 test
+        </pre>
+        </li>
         <li>Download the PTP plug-in and unzip (or un-tar) into the same directory into which Eclipse has been installed.
         Do the same with the PLDT download as well, if you want the development tools.
         </li>
@@ -96,6 +101,8 @@
         <li>Run the command: <p><code>sh BUILD</code><p> This should build and install the executables. 
         If you see any errors here, please
         refer to the Trouble Shooting section below.
+        <br>If you installed OpenMPI in a non-standard location, see below also for an alternate build
+        command.
         <li>Start Eclipse.  (You may need to use the <code>-clean</code> parameter to force it to recognize new features and plug-ins).</li>
         <li>Open the PTP Runtime perspective (Window&gt;Open Perspective&gt;Other...). This should automatically select the Open MPI runtime preference and start the runtime service. 
         If you have a problem here, please refer to the Trouble Shooting section. </li>
