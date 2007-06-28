@@ -50,7 +50,7 @@
       <p>
       <h4>Prerequisites</h4>
       <ul>
-      <li>Java 1.5 or later (Note: if on Linux, must be Sun or IBM's. See below.)</li>
+      <li>Java 1.5 or later (Note: for Linux, must be Sun or IBM's. See below.)</li>
         <li>Eclipse 3.2.x</li>
         <li>CDT 3.1.x</li>
         <li>OpenMPI 1.2 (the earlier 1.0.2 version is also supported)</li>
@@ -84,6 +84,8 @@
           	<code>./configure --with-devel-headers</code>
           	<p> and any other options required for your installation.</li>
           	<li>Build and install OpenMPI using: <p><code>make install</code></li>
+          	<li>Note that if you install OpenMPI in a nonstandard location, you may need to 
+          	build PTP differently.  See the troubleshooting section below.
           </ul>
         <li>Test your MPI installation by running a small MPI job.</li>
         <li>Download the PTP plug-in and unzip (or un-tar) into the same directory into which Eclipse has been installed.
@@ -91,7 +93,8 @@
         </li>
         <li>Locate the plug-in <code>org.eclipse.ptp.<i>os</i>.<i>arch</i></code> in the <code>plugins</code> directory, where 
         <code><i>os</i></code> and <code><i>arch</i></code> correspond to your operating system and architecture respectively. Change to this directory.</li>
-        <li>Run the command: <p><code>sh BUILD</code><p> This should build and install the executables. If you see any errors here, please
+        <li>Run the command: <p><code>sh BUILD</code><p> This should build and install the executables. 
+        If you see any errors here, please
         refer to the Trouble Shooting section below.
         <li>Start Eclipse.  (You may need to use the <code>-clean</code> parameter to force it to recognize new features and plug-ins).</li>
         <li>Open the PTP Runtime perspective (Window&gt;Open Perspective&gt;Other...). This should automatically select the Open MPI runtime preference and start the runtime service. 
@@ -169,6 +172,16 @@
   &lt;/dict&gt;
 &lt;/plist&gt;
                </pre></p>
+          </li>
+          <li>
+          <b>I installed OpenMPI in a non-standard location. Do I need to do anything differently?
+          </b>
+          <p>Yes.  The standard location is <code>/usr/local</code>.
+          If you install it to, e.g., <code>/usr/local/openmpi</code>,
+          then when you build the platform-specific PTP code, instead of
+          <code>sh BUILD</code>
+          you should use the following command:
+          <br><code>  CFLAGS=-I/usr/local/openmpi/include LDFLAGS="-L/usr/local/openmpi/lib -Wl,-rpath,/usr/local/openmpi/lib" sh BUILD </code>
           </li>
         </ul>
      </li>
