@@ -68,14 +68,18 @@
   <li>MPI barrier analysis to detect possible deadlocks in MPI programs.</li>
   <li>Eclipse welcome page leads to PTP info.  </li>
   <li>Wizard improvements including allowing sample MPI file insertion.</li>
+  <li>LAPI supported (separate installation)
   </ul>
       
      <p>
         <ul>
-		<li>28 June 2007: <i>NOT YET AVAILABLE..</i>
-          <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp.pldt-2.0.0-I20070628xxxx.zip" >
-          org.eclipse.ptp.pldt-2.0.0-I20070628xxxx.zip</a>
-         <p>MPI Barrier analysis made available. 
+		<li>28 June 2007: 
+          <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp.pldt-2.0.0-I200706280042.zip" >
+          org.eclipse.ptp.pldt-2.0.0-I200706280042.zip</a>
+          <br>
+             <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp.pldt.lapi-2.0.0-I200706280042.zip" >
+          org.eclipse.ptp.pldt.lapi-2.0.0-I200706280042.zip</a>
+         <p> 
         </ul>
         <p>&nbsp;
           
