@@ -52,12 +52,16 @@
 	  <div class="homeitem3col">
 		<h3>What&apos;s New</h3>
 		<ul>
-		<li><img src="../images/new.gif">March 14, 2007: PTP 1.1 released! This version contains numerous
+		<li><img src="../images/new.gif">June 29, 2007: Europa (Eclipse 3.3) is available,
+		and an early access build of PLDT 2.0 is available which works on Eclipse 3.3 and CDT 4.0.
+		See the <a href="builds.php">builds page</a> for details.
+		</li>
+		<li>March 14, 2007: PTP 1.1 released! This version contains numerous
 		enhancements and bug fixes, and includes preliminary support for MPICH2. A list of the new
 		features is available from <a href="documentation/org.eclipse.ptp.help/html/newNoteworthy.html">here</a>.
 		See the <a href="downloads.php">downloads</a> page for more information on downloading and
 		installing PTP.
-		<li><img src="../images/new.gif">March 13, 2007: 
+		<li>March 13, 2007: 
 		     PTP at <a href="http://eclipseCon.org">EclipseCon 2007</a> in Santa Clara, CA last week:
 		     <ul>
 		     <li><a href="http://www.eclipsecon.org/2007/index.php?page=sub/&id=3777">
