@@ -74,13 +74,13 @@
 		<tr>
 			<td><a 
 				href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp.pldt-2.0.0-I200706281121.zip">
-			org.eclipse.ptp.pldt-2.0.0-I200706280042.zip</a></td>
+			org.eclipse.ptp.pldt-2.0.0-I200706281121.zip</a></td>
 			<td>PLDT (MPI & OpenMP)</td>
 		</tr>
 		<tr>
 			<td><a
 				href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp.pldt.lapi-2.0.0-I200706281121.zip">
-			org.eclipse.ptp.pldt.lapi-2.0.0-I200706280042.zip</a></td>
+			org.eclipse.ptp.pldt.lapi-2.0.0-I200706281121.zip</a></td>
 			<td>PLDT support for IBM's LAPI</td>
 		</tr>
 	</table>
