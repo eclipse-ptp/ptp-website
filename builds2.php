@@ -62,9 +62,10 @@
   <li>Eclipse welcome page leads to PTP info.  </li>
   <li>Wizard improvements including allowing sample MPI file insertion.</li>
   <li>LAPI supported (separate installation)
-  <li>To use PLDT 2.0, download Eclipse 3.3 from <a href="http://eclipse.org/downloads">the Eclipse downloads page</a>.
+  <li>To use PLDT 2.0, download Eclipse 3.3 from <a href="http://eclipse.org/downloads">the Eclipse downloads page</a>,
+  and install CDT 4.0, e.g. from the update site.
   <br>
-  A good choice is to use the new simplified download for C/C++ development available there.
+  A good choice is to use the new simplified download for Eclipse + C/C++ development available on <a href="http://eclipse.org/downloads">the Eclipse downloads page</a>.
   </li>
   </ul>
       
