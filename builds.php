@@ -43,108 +43,52 @@
   <p>PTP Core needs Java 1.5, Eclipse 3.2, and CDT 3.1
   <p>For OpenMPI support, PTP requires OpenMPI 1.2 (b4 or later) or 1.0.2.
   <p>For MPICH2 support, PTP requires MPICH2 1.0.5p2.
-
-     <p>
-        <ul>
-       <li>2 March 2007: 
-          <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp-1.1.0-RC4.tar.gz" >
-          
-          org.eclipse.ptp-1.1.0-RC4.tar.gz</a>
-          
-       <li>22 February 2007: 
-          <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp-1.1.0-I200702222000.tar.gz" >
-          
-          org.eclipse.ptp-1.1.0-I200702222000.tar.gz</a>
-          
-       <li>14 February 2007: 
-          <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp-1.1.0-I200702141535.tar.gz" >
-          
-          org.eclipse.ptp-1.1.0-I200702141535.tar.gz</a>
-
-       <li>3 February 2007: 
-          <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp-1.1.0-I200702030940.tar.gz" >
-          
-          org.eclipse.ptp-1.1.0-I200702030940.tar.gz</a>
-          
-       <li>28 January 2007: 
-          <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp-1.1.0-I200701282100.tar.gz" >
-          
-          org.eclipse.ptp-1.1.0-I200701282100.tar.gz</a>
-
-       <li>25 January 2007: 
-          <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp-1.1.0-I200701250850.tar.gz" >
-          
-          org.eclipse.ptp-1.1.0-I200701250850.tar.gz</a>
-
-        <li>19 January 2007: 
-          <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp-1.1.0-I200701191300.tar.gz" >
-          
-          org.eclipse.ptp-1.1.0-I200701191300.tar.gz</a>
-
-        <li>16 January 2007: 
-          <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp-1.1.0-I200701161500.tar.gz" >
-          
-          org.eclipse.ptp-1.1.0-I200701161500.tar.gz</a>
-
-        <li>14 January 2007: 
-          <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp-1.1.0-I200701142000.tar.gz" >
-          
-          org.eclipse.ptp-1.1.0-I200701142000.tar.gz</a>
-
-        <li>12 January 2007: 
-          <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp-1.1.0-I200701121100.tar.gz" >
-          
-          org.eclipse.ptp-1.1.0-I200701121100.tar.gz</a>
-
-        <li>10 January 2007: 
-          <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp-1.1.0-I200701101100.tar.gz" >
-          
-          org.eclipse.ptp-1.1.0-I200701101100.tar.gz</a>
-        
-        <li>09 January 2007: 
-          <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp-1.1.0-I200701091500.tar.gz" >
-          
-          org.eclipse.ptp-1.1.0-I200701091500.tar.gz</a>
-
-        <li>11 December 2006: 
-          <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp-1.1.0-I200612111900.tar.gz" >
-          
-          org.eclipse.ptp-1.1.0-I200612111900.tar.gz</a>
- 
-        <li>24 November 2006: 
-          <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp-1.1.0-I200611240900.tar.gz" >
-          
-          org.eclipse.ptp-1.1.0-I200611240900.tar.gz</a>
-        
-        <li>11 November 2006: 
-          <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp-1.1.0-I200611111400.tar.gz" >
-          
-          org.eclipse.ptp-1.1.0-I200611111400.tar.gz</a>
+<p>PTP 1.1 is now released - see the <a href="downloads.php">downloads page</a>.
           
      </div>   
      
   <div class="homeitem3col">
   <h3>PLDT: Parallel Language Development Tools</h3>
-  <p>PLDT contains the MPI Development Tools, plus similar tools for OpenMP.
-  <p>PLDT needs Eclipse 3.2 and CDT 3.1.
-
+  <p>PLDT contains the MPI Development Tools, plus similar tools for other tools such as OpenMP.
+  <p>PLDT 1.1 needs Eclipse 3.2 and CDT 3.1.  See the <a href="downloads.php">downloads page</a>
+  for the release version.
+  
+  <p><b>PLDT 2.0</b>
+  <p>PLDT 2.0 needs Eclipse 3.3 and CDT 4.0.  
+  This early access version is made available here prior to the availability of the rest of PTP 2.0.
+  <p>New features in PLDT 2.0 include:
+  <ul>
+  <li>MPI barrier analysis to detect possible deadlocks in MPI programs.</li>
+  <li>Eclipse welcome page leads to PTP info.  </li>
+  <li>Wizard improvements including allowing sample MPI file insertion.</li>
+  <li>LAPI supported (separate installation)
+  <li>To use PLDT 2.0, download Eclipse 3.3 from <a href="http://eclipse.org/downloads">the Eclipse downloads page</a>,
+  and install CDT 4.0, e.g. from the update site.
+  <br>
+  A good choice is to use the new simplified download for Eclipse + C/C++ development available on <a href="http://eclipse.org/downloads">the Eclipse downloads page</a>.
+  </li>
+  </ul>
+      
      <p>
         <ul>
-		<li>08 January 2007:
-          <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp.pldt-1.1.0-I200701082248.zip" >
-          org.eclipse.ptp.pldt-1.1.0-I200701082248.zip</a>
-          <p>Progress monitor improved; option to not show popup confirmation dialog.
-      	<li>13 December 2006:
-          <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp.pldt-1.1.0-I200612131333.zip" >
-          org.eclipse.ptp.pldt-1.1.0-I200612131333.zip</a>
-          <p>More info when cannot find artifacts; finds artifacts altered by preprocessor defines; MPI constants now found again; 
-          remembers selection in navigator better.  Hopefully one more build will come on Friday.
+		<li>28 June 2007 build: 
+			<table>
+		<tr>
+			<td><a 
+				href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp.pldt-2.0.0-I200706281121.zip">
+			org.eclipse.ptp.pldt-2.0.0-I200706281121.zip</a></td>
+			<td>PLDT (MPI & OpenMP)</td>
+		</tr>
+		<tr>
+			<td><a
+				href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp.pldt.lapi-2.0.0-I200706281121.zip">
+			org.eclipse.ptp.pldt.lapi-2.0.0-I200706281121.zip</a></td>
+			<td>PLDT support for IBM's LAPI</td>
+		</tr>
+	</table>
+          </li>
           
-        <li>18 July 2006:
-          <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp.pldt-1.0.0-I200607181525.zip" >
-          org.eclipse.ptp.pldt-1.0.0-I200607181525.zip</a>
-          <p>New project wizard now correctly includes MPI page; help corrected,
-          misc. build problems corrected.
+    
         </ul>
         <p>&nbsp;
           
