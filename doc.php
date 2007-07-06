@@ -89,6 +89,8 @@ PTP Tutorial</a> from Los Alamos Computer Science Institute (Fall 2005)
 <p>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/HPCWPL_2006.pdf?cvsroot=Tools_Project"><i>Programming Environments and Debugging</i></a>, Greg Watson, Workshop on Programming Languages for High Performance Computing, December 2006
 <p>
+<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/CDT_2006.pdf?cvsroot=Tools_Project"><i>Parallel Tools Platform - Parallel Debugger</i></a>, Greg Watson, CDT Fall Summit, September 2006
+<p>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/Cluster_2006.pdf?cvsroot=Tools_Project"><i>A Model Based Framework for the Integration of Parallel Tools</i></a>, Greg Watson, 2006 IEEE International Conference on Cluster Computing, September 2006
 <p>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/UTK_2006.pdf?cvsroot=Tools_Project"><i>The Eclipse Parallel Tools Platform: A Framework and Community for Integrating Parallel Tools</i></a>, Greg Watson & Craig Rasmussen, Invited Presentation, University of Tennessee, Knoxville, 2006
@@ -96,6 +98,8 @@ PTP Tutorial</a> from Los Alamos Computer Science Institute (Fall 2005)
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/HPCS_Lang_2006.pdf?cvsroot=Tools_Project"><i>Achieving the P in HPCS</i></a>, Greg Watson, HPCS Languages Workshop, July 2006
 <p>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/EclipseCon_2006.pdf?cvsroot=Tools_Project"><i>Parallel Application Development with Eclipse</i></a>, Greg Watson, EclipseCon 2006, March 2006
+<p>
+<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/CDT_2005.pdf?cvsroot=Tools_Project"><i>Extending CDT to Debug Parallel Programs</i></a>, Greg Watson, CDT Fall Summit, September 2005
 <p>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/LLNL_2005.pdf?cvsroot=Tools_Project"><i>The Eclipse Parallel Tools Platform Project</i></a>, Greg Watson, Invited Seminars at Lawrence Livermore National Laboratory and Sandia National Laboratory, April 2005
 <p>
