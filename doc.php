@@ -82,7 +82,27 @@ PTP Tutorial</a> from SC 2006 in Tampa, FL
 PTP Tutorial</a> from Los Alamos Computer Science Institute (Fall 2005)
 </ul>
 <h1>Presentations</h1>
+<ul>
+<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/Power_org_2007.pdf?cvsroot=Tools_Project"><i>IDEs and Eclipse - Myths and Facts About the Worlds Greatest IDE</i></a>, Greg Watson, Power.org Power Architecture Summit, April 2007
+<p>
+<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/EclipseCon_2007.pdf?cvsroot=Tools_Project"><i>Parallel Tools Platform - Now and the Future</i></a>, Greg Watson, EclipseCon 2007, March 2007
+<p>
+<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/HPCWPL_2006.pdf?cvsroot=Tools_Project"><i>Programming Environments and Debugging</i></a>, Greg Watson, Workshop on Programming Languages for High Performance Computing, December 2006
+<p>
+<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/Cluster_2006.pdf?cvsroot=Tools_Project"><i>A Model Based Framework for the Integration of Parallel Tools</i></a>, Greg Watson, 2006 IEEE International Conference on Cluster Computing, September 2006
+<p>
+<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/UTK_2006.pdf?cvsroot=Tools_Project"><i>The Eclipse Parallel Tools Platform: A Framework and Community for Integrating Parallel Tools</i></a>, Greg Watson & Craig Rasmussen, Invited Presentation, University of Tennessee, Knoxville, 2006
+<p>
+<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/HPCS_Lang_2006.pdf?cvsroot=Tools_Project"><i>Achieving the P in HPCS</i></a>, Greg Watson, HPCS Languages Workshop, July 2006
+<p>
+<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/EclipseCon_2006.pdf?cvsroot=Tools_Project"><i>Parallel Application Development with Eclipse</i></a>, Greg Watson, EclipseCon 2006, March 2006
+<p>
+<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/LLNL_2005.pdf?cvsroot=Tools_Project"><i>The Eclipse Parallel Tools Platform Project</i></a>, Greg Watson, Invited Seminars at Lawrence Livermore National Laboratory and Sandia National Laboratory, April 2005
+<p>
+<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/EclipseCon_2005.pdf?cvsroot=Tools_Project"><i>The Eclipse Parallel Tools Platform Project</i></a>, Greg Watson, EclipseCon 2005, February 2005
+</ul>
 <h1>Articles and White Papers</h1>
+<ul>
 <li><a href="http://www.computer.org/portal/site/cise/menuitem.92a12adebee18778161489108bcd45f3/index.jsp?&pName=cise_level1_article&TheCat=1001&path=cise/2006/v8n4&file=sci.xml&">
 			  <i>Developing Scientific Applications Using Eclipse</i></a>
 			  by Greg Watson and Nathan Debardeleben of PTP fame, is in the July/August 2006
