@@ -14,7 +14,7 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "PTP User Guide and other Documentation";
+	$pageTitle 		= "PTP Documentation";
 	$pageKeywords	= "PTP, user guide";
 	$pageAuthor		= "Beth Tibbitts";
 	
@@ -31,7 +31,7 @@
 	$html = <<<EOHTML
 
 	<div id="midcolumn">
-		<h1>$pageTitle</h1>
+<h1>User Guides</h1>
 		
 <p>The current release (1.1) of the PTP User Guide (also available from the help plug-ins in the PTP installation) is available here.
 <p><a href="documentation/org.eclipse.ptp.help/html/newNoteworthy.html">New and Noteworthy</a>:
@@ -73,24 +73,24 @@ Screen shots: <br>
 </tr>
 </table>
 
-<h2>Other PTP Information:</h2>
+<h1>Tutorials</h1>
 <ul>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/SC2006.pdf?cvsroot=Tools_Project">
 PTP Tutorial</a> from SC 2006 in Tampa, FL
 <p>
-<li>Whitepaper written by 
-Greg Watson and Craig Rasmussen,
-<a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/whitepapers/PTPWPv9.pdf?cvsroot=Tools_Project">
-A Strategy for Addressing the Needs of Advanced Scientific Computing Using Eclipse as a Parallel Tools Platform
-<p>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/PTP-workshop.pdf?cvsroot=Tools_Project">
 PTP Tutorial</a> from Los Alamos Computer Science Institute (Fall 2005)
-<p>
+</ul>
+<h1>Presentations</h1>
+<h1>Articles and White Papers</h1>
 <li><a href="http://www.computer.org/portal/site/cise/menuitem.92a12adebee18778161489108bcd45f3/index.jsp?&pName=cise_level1_article&TheCat=1001&path=cise/2006/v8n4&file=sci.xml&">
 			  <i>Developing Scientific Applications Using Eclipse</i></a>
 			  by Greg Watson and Nathan Debardeleben of PTP fame, is in the July/August 2006
 			  issue of <a href="http://www.computer.org/portal/site/cise/index.jsp">
 			  Computing in Science &amp; Engineering</a> magazine.
+<p>
+<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/whitepapers/PTPWPv9.pdf?cvsroot=Tools_Project">
+<i>A Strategy for Addressing the Needs of Advanced Scientific Computing Using Eclipse as a Parallel Tools Platform</i></a>, Whitepaper written by Greg Watson and Craig Rasmussen
  </ul>
  <p>&nbsp;
   <p>&nbsp;
