@@ -86,7 +86,7 @@ PTP Tutorial</a> from Los Alamos Computer Science Institute (Fall 2005)
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/ptp-tutorial-oscon07.slides.pdf?cvsroot=Tools_Project">
 PTP Tutorial slides</a>  
 and <a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/ptp-tutorial-oscon07.handouts.pdf?cvsroot=Tools_Project">handouts</a> from 
-<a href=="http://conferences.oreillynet.com/os2007/">OSCON</a> (July 2007) 
+<a href="http://conferences.oreillynet.com/os2007/">OSCON</a> (July 2007) 
 
 </ul>
 <h1>Presentations</h1>
@@ -101,7 +101,7 @@ and <a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse
 <i>Parallel Tools Platform - Now and the Future</i></a>, Greg Watson, EclipseCon 2007, March 2007
 <p>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/EclipseCon_2007_C_and_C++_Code_Introspection_Using_The_CDT.pdf?cvsroot=Tools_Project">
-<i>C and C++ Code Introspection Using the CDT</i></a> (includes analysi in PTP's PLDT), Beth Tibbitts and Chris Recoskie, EclipseCon 2007, March 2007
+<i>C and C++ Code Introspection Using the CDT</i></a> (includes analysis in PTP's PLDT), Beth Tibbitts and Chris Recoskie, EclipseCon 2007, March 2007
 <p>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/EclipseCon_2007_DevelopingParallelApps.pdf?cvsroot=Tools_Project">
 <i>Developing Parallel Applications: The PTP's PLDT</i></a>, Beth Tibbitts, EclipseCon 2007, March 2007
