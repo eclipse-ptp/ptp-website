@@ -80,6 +80,12 @@ PTP Tutorial</a> from SC 2006 in Tampa, FL
 <p>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/PTP-workshop.pdf?cvsroot=Tools_Project">
 PTP Tutorial</a> from Los Alamos Computer Science Institute (Fall 2005)
+<
+<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/ptp-tutorial-oscon07.handouts.pdf?cvsroot=Tools_Project">
+PTP Tutorial slides</a>  
+and <a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/ptp-tutorial-oscon07.slides.pdf?cvsroot=Tools_Project">handouts</a> from 
+<a href=="http://conferences.oreillynet.com/os2007/">OSCON</a> (July 2007); 
+
 </ul>
 <h1>Presentations</h1>
 <ul>
