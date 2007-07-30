@@ -97,7 +97,14 @@ and <a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse
 <i>An Integrated Tools Platform for Multi-Core Enablement</i></a>, Beth Tibbitts & Evelyn Duesterwald, STMCS: Second Workshop on Software Tools for Multi-Core Systems , March 2007
 (See also <a href="http://www.isi.edu/~mhall/stmcs07/program.html">here</a>.)
 <p>
-<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/EclipseCon_2007.pdf?cvsroot=Tools_Project"><i>Parallel Tools Platform - Now and the Future</i></a>, Greg Watson, EclipseCon 2007, March 2007
+<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/EclipseCon_2007.pdf?cvsroot=Tools_Project">
+<i>Parallel Tools Platform - Now and the Future</i></a>, Greg Watson, EclipseCon 2007, March 2007
+<p>
+<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/EclipseCon_2007_C_and_C++_Code_Introspection_Using_The_CDT.pdf?cvsroot=Tools_Project">
+<i>C and C++ Code Introspection Using the CDT</i></a> (includes analysi in PTP's PLDT), Beth Tibbitts and Chris Recoskie, EclipseCon 2007, March 2007
+<p>
+<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/EclipseCon_2007_DevelopingParallelApps.pdf?cvsroot=Tools_Project">
+<i>Developing Parallel Applications: The PTP's PLDT</i></a>, Beth Tibbitts, EclipseCon 2007, March 2007
 <p>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/HPCWPL_2006.pdf?cvsroot=Tools_Project"><i>Programming Environments and Debugging</i></a>, Greg Watson, Workshop on Programming Languages for High Performance Computing, December 2006
 <p>
