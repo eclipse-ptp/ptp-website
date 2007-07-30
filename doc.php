@@ -85,7 +85,7 @@ PTP Tutorial</a> from Los Alamos Computer Science Institute (Fall 2005)
 <ul>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/Power_org_2007.pdf?cvsroot=Tools_Project"><i>IDEs and Eclipse - Myths and Facts About the Worlds Greatest IDE</i></a>, Greg Watson, Power.org Power Architecture Summit, April 2007
 <p>
-<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/stmcs07_Tibbitts_EclipsePTP.pdf?cvsroot=Tools_Project">
+<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/stmcs07_Tibbitts_EclipsePTPa.pdf?cvsroot=Tools_Project">
 <i>An Integrated Tools Platform for Multi-Core Enablement</i></a>, Beth Tibbitts, STMCS: Second Workshop on Software Tools for Multi-Core Systems , March 2007
 (See also <a href="http://www.isi.edu/~mhall/stmcs07/program.html">here</a>.)
 <p>
