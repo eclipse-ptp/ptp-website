@@ -92,7 +92,7 @@ and <a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/Power.org_2007.pdf?cvsroot=Tools_Project"><i>IDEs and Eclipse - Myths and Facts About the Worlds Greatest IDE</i></a>, Greg Watson, Power.org Power Architecture Summit, April 2007
 <p>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/stmcs07_Tibbitts_EclipsePTPa.pdf?cvsroot=Tools_Project">
-<i>An Integrated Tools Platform for Multi-Core Enablement</i></a>, Beth Tibbitts, STMCS: Second Workshop on Software Tools for Multi-Core Systems , March 2007
+<i>An Integrated Tools Platform for Multi-Core Enablement</i></a>, Beth Tibbitts & Evelyn Duesterwald, STMCS: Second Workshop on Software Tools for Multi-Core Systems , March 2007
 (See also <a href="http://www.isi.edu/~mhall/stmcs07/program.html">here</a>.)
 <p>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/EclipseCon_2007.pdf?cvsroot=Tools_Project"><i>Parallel Tools Platform - Now and the Future</i></a>, Greg Watson, EclipseCon 2007, March 2007
