@@ -52,7 +52,12 @@
 	  <div class="homeitem3col">
 		<h3>What&apos;s New</h3>
 		<ul>
-		<li><img src="../images/new.gif">June 29, 2007: Europa (Eclipse 3.3) is available,
+		<li><img src="../images/new.gif">July 30, 2007: More PTP presentations and tutorials
+		available on the <a href="doc.php">Documentation page</a>, including the recent PTP
+		tutorial at <a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/12165">OSCON</a>.
+		
+		</li>
+		<li>June 29, 2007: Europa (Eclipse 3.3) is available,
 		and an early access build of PLDT 2.0 is available which works on Eclipse 3.3 and CDT 4.0.
 		See the <a href="builds.php">builds page</a> for details.
 		</li>
