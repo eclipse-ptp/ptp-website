@@ -104,8 +104,9 @@
         <br>If you installed OpenMPI in a non-standard location, see below also for an alternate build
         command.
         <li>Start Eclipse.  (You may need to use the <code>-clean</code> parameter to force it to recognize new features and plug-ins).</li>
-        <li>Open the PTP Runtime perspective (Window&gt;Open Perspective&gt;Other...). This should automatically select the Open MPI runtime preference and start the runtime service. 
-        If you have a problem here, please refer to the Trouble Shooting section. </li>
+        <li>Open the PTP Runtime perspective (Window&gt;Open Perspective&gt;Other...). 
+        The runtime service will start and you should see a machine and one or more nodes appear in the 'Machines View'.
+        </li>
         <li>More details on using PTP can be found  in Help&gt;Help Contents.  Click on &quot;PTP: Parallel Tools Platform &quot;. </li>
       </ul>
       <p>
