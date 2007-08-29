@@ -52,7 +52,17 @@
 	  <div class="homeitem3col">
 		<h3>What&apos;s New</h3>
 		<ul>
-		<li><img src="../images/new.gif">July 30, 2007: More PTP presentations and tutorials
+		<li><img src="../images/new.gif">August 29, 2007: PTP at 
+		<a href="http://sc07.supercomputing.org">Supercomputing 2007</a> in Reno, Nevada Nov 11-16, 2007:
+		<ul>
+		<li><a href="http://sc07.supercomputing.org/schedule/event_detail.php?evid=11032">
+		PTP Tutorial</a> is Sunday, November 11, 2007</li>
+		<li>PTP BOF (Birds of a Feather meeting), time TBD.</li>
+		<li>PTP will be demonstrated at various Exhibitor booths. Stay tuned for details.
+		</li>
+		</ul>
+		</li>
+		<li>July 30, 2007: More PTP presentations and tutorials
 		available on the <a href="doc.php">Documentation page</a>, including the recent PTP
 		tutorial at <a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/12165">OSCON</a>.
 		
