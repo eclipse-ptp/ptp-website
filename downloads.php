@@ -91,7 +91,7 @@
           <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/1.1.1/org.eclipse.ptp.pldt-1.1.1.zip">org.eclipse.ptp.pldt-1.1.1.zip</a></div></td>
         </tr>
       </table>  
-
+</div>
 <div class="homeitem3col">
 <p>&nbsp;
 <p>The <a href="downloads_1.1.php">Release 1.1</a> download information is also available.
