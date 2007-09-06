@@ -44,8 +44,8 @@
 <ul>
 <li>To install via the update site: see <a href="http://download.eclipse.org/tools/ptp/releases/1.1.1/">the PTP 1.1.1 update site</a>, or
 </li>
-    <li>Download: The files below contain the current release of PTP. To install PTP you now only
-    need to download the PTP Core component. The PLDT component can be installed independently of PTP Core.
+    <li>Download: The files below contain the current release of PTP. 
+        The PLDT component can be installed independently of PTP Core.
 </li>
 </ul>
     </p>
