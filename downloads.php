@@ -93,9 +93,9 @@
       </table>  
 </div>
 <div class="homeitem3col">
-<p>&nbsp;
+<h3>Previous releases</h3>
 <p>The <a href="downloads_1.1.php">Release 1.1</a> download information is also available.
-<p>&nbsp;
+
 </div>
  
     <div class="homeitem3col">
