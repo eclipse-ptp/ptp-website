@@ -39,7 +39,7 @@
   <h3>Committers</h3>
   
 		  <ul>
-		  <li>Greg Watson (Project Lead), Los Alamos National Laboratory
+		  <li>Greg Watson (Project Lead), IBM Research
 		  <li>Craig Rasmussen, Los Alamos National Laboratory
 		  <li>Nathan DeBardeleben, Los Alamos National Laboratory
 		  <li>Clement Chu, Monash Univeristy
