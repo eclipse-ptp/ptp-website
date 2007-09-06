@@ -62,7 +62,8 @@ compiler and linker defaults for MPI</li>
 wizard page correctly handles differently-named toolchains (e.g. Mac)</li>
 
 	  </ul>
-		<p>	In addition, PTP Release 1.1.1 can be installed via an update site, right from the Eclipse workbench.
+		<p>	In addition, PTP Release 1.1.1 can be installed via an 
+	<a href="http://download.eclipse.org/tools/ptp/releases/1.1.1/">update site</a>, right from the Eclipse workbench.
       <h4>Prerequisites</h4>
       <ul>
       <li>Java 1.5 or later (Note: for Linux, must be Sun or IBM's. See below.)</li>
@@ -111,7 +112,7 @@ wizard page correctly handles differently-named toolchains (e.g. Mac)</li>
         </li>
         <li>If you didn't install PTP from the update site while installing CDT,
 		<ul>
-			<li>Install it from the <a href="">update site</a> now, or</li>
+			<li>Install it from the <a href="http://download.eclipse.org/tools/ptp/releases/1.1.1/">update site</a> now, or</li>
 			<li>Download the PTP plug-in and unzip (or un-tar) into the same directory into which Eclipse has been installed.
    		     Do the same with the PLDT download as well, if you want the development tools.</li>
 		</ul>
