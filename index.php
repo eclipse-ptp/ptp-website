@@ -52,12 +52,18 @@
 	  <div class="homeitem3col">
 		<h3>What&apos;s New</h3>
 		<ul>
-		<li><img src="../images/new.gif">August 29, 2007: PTP at 
+		<li><img src="../images/new.gif">September 6, 2007: 
+		PTP 1.1.1 is now available.  It's also available via 
+		<a href="http://download.eclipse.org/tools/ptp/releases/1.1.1/">the 1.1.1 update site</a> as well.
+		Or see the <a href="downloads.php">downloads page</a>. 
+		
+		<li>August 29, 2007: PTP at 
 		<a href="http://sc07.supercomputing.org">Supercomputing 2007</a> in Reno, Nevada Nov 11-16, 2007:
 		<ul>
 		<li><a href="http://sc07.supercomputing.org/schedule/event_detail.php?evid=11032">
 		PTP Tutorial</a> is Sunday, November 11, 2007</li>
-		<li>PTP BOF (Birds of a Feather meeting), time TBD.</li>
+		<li>PTP BOF (Birds of a Feather meeting), Wednesday Nov. 15; see 
+		<a href="http://sc07.supercomputing.org/?pg=bofs.html">BOF schedule</a></li>
 		<li>PTP will be demonstrated at various Exhibitor booths. Stay tuned for details.
 		</li>
 		</ul>

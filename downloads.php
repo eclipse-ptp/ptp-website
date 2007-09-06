@@ -2,10 +2,10 @@
 
 	#*****************************************************************************
 	#
-	# sample_list.php
+	# downloads.php
 	#
 	# Author: 		Beth Tibbitts
-	# Date:			2006-06-11
+	# Date:			2007-09-06
 	#
 	# Description: Type your page comments here - these are not sent to the browser
 	#
@@ -32,13 +32,22 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>Welcome to the downloads page for  the 1.1 release of the Parallel Tools Platform.</p>
-    <p>Please see the <font size=+1><a href="docs/releases/release-1.1.php">
+		<p>Welcome to the downloads page for  the 1.1.1 release of the Parallel Tools Platform.</p>
+    <p>Please see the <font size=+1><a href="docs/releases/release-1.1.1.php">
       release notes and installation instructions</a><font size=-1> for prerequisite information 
-      and instructions on building and installing PTP. <i>Note that PTP 1.1 requires a different installation
-      process than normal Eclipse plugins.</i></p>
-    <p>The files below contain the current release of PTP. To install PTP you now only
+      and instructions on building and installing PTP. <i>
+	<p>PTP 1.1.1 can be installed from an update site or download of tar/zip files,
+     but  requires an additional installation
+      process step than  normal Eclipse plugins do,</i>so please read 
+<a href="docs/releases/release-1.1.1.php">the release notes</a> carefully.</p>
+<p>Two alternatives for installation are:
+<ul>
+<li>To install via the update site: see <a href="http://download.eclipse.org/tools/ptp/releases/1.1.1/">the PTP 1.1.1 update site</a>, or
+</li>
+    <li>Download: The files below contain the current release of PTP. To install PTP you now only
     need to download the PTP Core component. The PLDT component can be installed independently of PTP Core.
+</li>
+</ul>
     </p>
      
   <div class="homeitem3col">
@@ -54,7 +63,7 @@
         <tr>
           <td>All</td>
           <td><div align="left">1.1</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp-1.1.0.tar.gz">org.eclipse.ptp-1.1.0.tar.gz</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/1.1.1/org.eclipse.ptp-1.1.1.tar.gz">org.eclipse.ptp-1.1.0.tar.gz</a></div></td>
         </tr>
 
       </table>   
@@ -69,17 +78,24 @@
           <th width="10%"  scope="col"><div align="left">Release</div></th>
           <th width="56%"  scope="col"><div align="left">Download</div></th>
         </tr>
+
         <tr>
           <td>All</td>
           <td><div align="left">1.1</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp.pldt-1.1.0.tar.gz">org.eclipse.ptp.pldt-1.1.0.tar.gz</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/1.1.1/org.eclipse.ptp.pldt-1.1.1.tar.gz">org.eclipse.ptp.pldt-1.1.1.tar.gz</a></div></td>
         </tr>
+
         <tr>
           <td>All</td>
           <td><div align="left">1.1</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/org.eclipse.ptp.pldt-1.1.0.zip">org.eclipse.ptp.pldt-1.1.0.zip</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/1.1.1/org.eclipse.ptp.pldt-1.1.1.zip">org.eclipse.ptp.pldt-1.1.1.zip</a></div></td>
         </tr>
       </table>  
+
+
+<p>&nbsp;
+<p>The <a href="downloads_1.1.php">Release 1.1</a> download information is also available.
+<p>&nbsp;
 </div>
  
     <div class="homeitem3col">
