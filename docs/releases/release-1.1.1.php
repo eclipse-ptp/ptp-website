@@ -14,7 +14,7 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "PTP Release Notes";
+	$pageTitle 		= "PTP 1.1.1 Release Notes";
 	$pageKeywords	= "Type, page, keywords, here";
 	$pageAuthor		= "Beth Tibbitts";
 	
@@ -34,8 +34,6 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>PTP Release Notes for Release 1.1.1</h2>
-
 
 <div class="homeitem3col">
 <h3>New and Noteworthy</h3>
