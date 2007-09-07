@@ -218,6 +218,13 @@ wizard page correctly handles differently-named toolchains (e.g. Mac)</li>
           </li>
         </ul>
      </li>
+	</li>
+		<li> <b>I forgot to switch to the PTP Runtime perspective before launching a job.
+		Now I see no machines and get messages in the console about simulation.</b>
+		<p>Try opening PTP preferences, and assuring runtime control system and monitoring system are set to ORTE.
+		If they are, change them to something else and change them back.
+		This should reset ORTE as the runtime system.
+	</li>
      </ul> 
   </div>
 		 
