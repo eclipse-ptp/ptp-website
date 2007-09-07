@@ -118,7 +118,7 @@ wizard page correctly handles differently-named toolchains (e.g. Mac)</li>
 		</ul>
 	 
         </li>
-        <li>Locate the plug-in <code>org.eclipse.ptp.<i>os</i>.<i>arch</i>.<i>x.y.z</i></code> 
+        <li>Locate the plug-in <code>org.eclipse.ptp.<i>os</i>.<i>arch</i>_<i>x.y.z</i></code> 
 		in the <code>plugins</code> directory, where 
         <code><i>os</i></code> and <code><i>arch</i></code> correspond to your operating system and architecture respectively,
 		and <i>x.y.z</i> (if present) corresponds to the release version of that particular plugin, e.g. 1.1.0 or 1.1.1.
