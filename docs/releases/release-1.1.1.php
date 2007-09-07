@@ -206,6 +206,7 @@ wizard page correctly handles differently-named toolchains (e.g. Mac)</li>
 &lt;/plist&gt;
                </pre></p>
           </li>
+		</li>	
           <li>
           <b>I installed OpenMPI in a non-standard location. Do I need to do anything differently?
           </b>
