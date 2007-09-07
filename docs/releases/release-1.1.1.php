@@ -38,17 +38,7 @@
 
 
 <div class="homeitem3col">
-
-<h3>Parallel Tools Platform </h3>
-
-      <p>The PTP plug-in provides the following functionality</p>
-      <ul>
-        <li>The PTP Runtime perspective, including an abstract parallel machine view, jobs view and parallel launch configuration</li>
-        <li>The PTP Debug perspective, Parallel Debug view and scalable debug manager (SDM)</li>
-        <li>Parallel Language Development Tools (PLDT) [Note: these tools are installed as a separate plug-in below]</li>
-      </ul>
-      <p>
-      <h4>New and Noteworthy</h4>
+<h3>New and Noteworthy</h3>
       <p>Release 1.1.1 includes a few bug fixes and improvements over Release 1.1:
       <ul>
 
@@ -64,6 +54,18 @@ wizard page correctly handles differently-named toolchains (e.g. Mac)</li>
 	  </ul>
 		<p>	In addition, PTP Release 1.1.1 can be installed via an 
 	<a href="http://download.eclipse.org/tools/ptp/releases/1.1.1/">update site</a>, right from the Eclipse workbench.
+</div>
+
+<div class="homeitem3col">
+<h3>Parallel Tools Platform </h3>
+
+      <p>The PTP plug-in provides the following functionality</p>
+      <ul>
+        <li>The PTP Runtime perspective, including an abstract parallel machine view, jobs view and parallel launch configuration</li>
+        <li>The PTP Debug perspective, Parallel Debug view and scalable debug manager (SDM)</li>
+        <li>Parallel Language Development Tools (PLDT) [Note: these tools are installed as a separate plug-in below]</li>
+      </ul>
+      <p>
       <h4>Prerequisites</h4>
       <ul>
       <li>Java 1.5 or later (Note: for Linux, must be Sun or IBM's. See below.)</li>
