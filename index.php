@@ -62,7 +62,7 @@
 		<ul>
 		<li><a href="http://sc07.supercomputing.org/schedule/event_detail.php?evid=11032">
 		PTP Tutorial</a> is Sunday, November 11, 2007</li>
-		<li>PTP BOF (Birds of a Feather meeting), Wednesday Nov. 15; see 
+		<li>PTP BOF (Birds of a Feather meeting), Wednesday Nov. 14; see 
 		<a href="http://sc07.supercomputing.org/?pg=bofs.html">BOF schedule</a></li>
 		<li>PTP will be demonstrated at various Exhibitor booths. Stay tuned for details.
 		</li>
