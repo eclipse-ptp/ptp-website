@@ -66,6 +66,7 @@ wizard page correctly handles differently-named toolchains (e.g. Mac)</li>
       <p>
       <h4>Prerequisites</h4>
       <ul>
+		<li>OS: Linux or Mac OS X 10.4.x (for PTP Core only; PLDT should run anywhere Eclipse runs, including Windows.)
       <li>Java 1.5 or later (Note: for Linux, must be Sun or IBM's. See below.)</li>
         <li>Eclipse 3.2.x</li>
         <li>CDT 3.1.x</li>

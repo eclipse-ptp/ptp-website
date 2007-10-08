@@ -61,7 +61,7 @@
           <th width="56%"  scope="col"><div align="left">Download</div></th>
         </tr>
         <tr>
-          <td>All</td>
+          <td>Linux, MacOS X 10.4.x</td>
           <td><div align="left">1.1.1</div></td>
           <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/1.1.1/org.eclipse.ptp-1.1.1.tar.gz">org.eclipse.ptp-1.1.1.tar.gz</a></div></td>
         </tr>
