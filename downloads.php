@@ -38,7 +38,7 @@
       and instructions on building and installing PTP. <i>
 	<p>PTP 1.1.1 can be installed from an update site or download of tar/zip files,
      but  requires an additional installation
-      process step than  normal Eclipse plugins do,</i> so please read 
+      process over what  normal Eclipse plugins require,</i> so please read 
 <a href="docs/releases/release-1.1.1.php">the release notes</a> carefully.</p>
 <p>Two alternatives for installation are:
 <ul>
