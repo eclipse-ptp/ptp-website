@@ -52,7 +52,11 @@
 	  <div class="homeitem3col">
 		<h3>What&apos;s New</h3>
 		<ul>
-		<li><img src="../images/new.gif">September 6, 2007: 
+<li><img src="../images/new.gif">October 11, 2007: PLDT 2.0 beta 2 is available,
+		 which works on Eclipse 3.3 and CDT 4.0.
+		See the <a href="builds.php">builds page</a> for details.
+See <a href="documentation/2.0/org.eclipse.ptp.pldt.help/html/whatsnew.html">What's new in PLDT 2.0</a>.
+		<li>September 6, 2007: 
 		PTP 1.1.1 is now available.  It's also available via 
 		<a href="http://download.eclipse.org/tools/ptp/releases/1.1.1/">the 1.1.1 update site</a> as well.
 		Or see the <a href="downloads.php">downloads page</a>. 
