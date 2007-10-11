@@ -62,17 +62,46 @@
   <li>Eclipse welcome page leads to PTP info.  </li>
   <li>Wizard improvements including allowing sample MPI file insertion.</li>
   <li>LAPI supported (separate installation)
-  <li>To use PLDT 2.0, download Eclipse 3.3 from <a href="http://eclipse.org/downloads">the Eclipse downloads page</a>,
-  and install CDT 4.0, e.g. from the update site.
+  <li>To use PLDT 2.0, download Eclipse 3.3.x from <a href="http://eclipse.org/downloads">the Eclipse downloads page</a>,
+  and install CDT 4.0.1, e.g. from the update site.
   <br>
-  A good choice is to use the new simplified download for Eclipse + C/C++ development available on <a href="http://eclipse.org/downloads">the Eclipse downloads page</a>.
+  A good choice is to use the new simplified download for Eclipse + C/C++ development available on 
+<a href="http://eclipse.org/downloads">the Eclipse downloads page</a>.
   </li>
   </ul>
       
      <p>
         <ul>
-		<li>28 June 2007 build: 
-			<table>
+		<li>10 October 2007 build (beta 2): 
+		<table>
+		<tr>
+			<td><a 
+				href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp.pldt.2.0.0-beta2-I200710101509.tar">
+			org.eclipse.ptp.pldt.2.0.0-beta2-I200710101509.tar</a></td>
+			<td>PLDT (MPI & OpenMP)</td>
+		</tr>
+<tr>
+			<td><a 
+				href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp.pldt.2.0.0-beta2-I200710101509.zip">
+			org.eclipse.ptp.pldt.2.0.0-beta2-I200710101509.zip</a></td>
+			<td>PLDT (MPI & OpenMP)</td>
+		</tr>
+		<tr>
+			<td><a
+          href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp.pldt.lapi.2.0.0-beta2-I200710102303.tar">
+			org.eclipse.ptp.pldt.lapi.2.0.0-beta2-I200710102303.tar</a></td>
+			<td>PLDT support for IBM's LAPI</td>
+		</tr>
+<tr>
+			<td><a
+          href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp.pldt.lapi.2.0.0-beta2-I200710102303.zip">
+			org.eclipse.ptp.pldt.lapi.2.0.0-beta2-I200710102303.zip</a></td>
+			<td>PLDT support for IBM's LAPI</td>
+		</tr>
+	    </table>
+          </li>
+          <li>28 June 2007 build (beta 1): 
+		<table>
 		<tr>
 			<td><a 
 				href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/org.eclipse.ptp.pldt-2.0.0-I200706281121.zip">
@@ -85,9 +114,8 @@
 			org.eclipse.ptp.pldt.lapi-2.0.0-I200706281121.zip</a></td>
 			<td>PLDT support for IBM's LAPI</td>
 		</tr>
-	</table>
+	    </table>
           </li>
-          
     
         </ul>
         <p>&nbsp;
