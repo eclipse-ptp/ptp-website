@@ -73,6 +73,8 @@
      <p>
         <ul>
 		<li>10 October 2007 build (beta 2): 
+        See <a href="documentation/2.0/org.eclipse.ptp.pldt.help/html/whatsnew.html">What's new in PLDT 2.0</a>.
+
 		<table>
 		<tr>
 			<td><a 
