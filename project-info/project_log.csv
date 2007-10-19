@@ -1,4 +1,4 @@
-Section 1 (Committers)
+Section 1 (Committers - past and present)
 
 gwatson
 btibbitts
@@ -11,9 +11,10 @@ tli
 
 Section 2 (Developers)
 
+component (CVS directory),bug #,contributor's name,contribution size (LOC),committer,description (if no bug #)
 org.eclipse.ptp.tau,138250,Wyatt Spear,1450,gwatson,
 org.eclipse.ptp.ui,204942,Feiyi Wang,288,gwatson,
-org.eclipse.ptp.orte.proxy,,Chris Arges,10,gwatson,Proxy message wrapper functions
+org.eclipse.ptp.orte.proxy,,Christopher Arges,10,gwatson,Proxy message wrapper functions
 org.eclipse.ptp.ui,201779,David Wootton,65,gwatson,
 
 
