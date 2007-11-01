@@ -166,7 +166,7 @@ wizard page correctly handles differently-named toolchains (e.g. Mac)</li>
           </li>
           <li>
             If you are starting Eclipse from a window manager (Gnome, KDE, etc.) then it is usual that the window manager and shell get 
-            their environment from different places. This means that setting the <code>LD_LIBRARY_PATH</code> in you <code>.profile</code> may not
+            their environment from different places. This means that setting the <code>LD_LIBRARY_PATH</code> in your <code>.profile</code> may not
             be sufficient; even if you can run an MPI program using <code>mpirun</code> successfully from a shell it does not necessarily
             mean that the window manager is set up correctly. Consult your window manager documentation for information on how
             to set environment variables.
@@ -236,7 +236,8 @@ wizard page correctly handles differently-named toolchains (e.g. Mac)</li>
   the machine running Eclipse. Unlike PTP, any MPI installation should work 
   (MPICH, LAM-MPI, etc.) The Parallel Language Development Tools only requires access to the MPI header 
   files to be able to recognize the MPI artifacts. </p>
-      <h4>Prerequisites</h4>
+<p>Note: a beta version of PLDT 2.0 (for Eclipse 3.3 and CDT 4.0)  is available on the <a href="../../builds.php">builds page.</a>
+      <h4>Prerequisites for PLDT 1.1</h4>
       <ul>
         <li>Eclipse 3.2.x</li>
         <li>CDT 3.1.x</li>
