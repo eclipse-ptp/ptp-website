@@ -2,28 +2,39 @@
 <title>Installing Eclipse and PTP</title>
 <body>
 <h1>Installing Eclipse and PTP</h1>
-<p>Updated a bit for PTP Release 1.1.1 (6 Sept 2007): PTP update site now available to install PTP.
+<p>Updated a bit for PTP Release 1.1.1 (1 November 2007): PTP update site now available to install PTP.
+<p>Note that PTP Release 1.1.1 requires <b>Eclipse 3.2.2 and CDT 3.1.2</b>.
+PTP 2.0, available around early 2008, will use the more recent Eclipse 3.3 (Europa) and CDT 4.0.
+<p>To get Eclipse 3.2,
+<ul>
+<li>Go to eclipse Downloads, "Find out more..." under Eclipse Classic, and click on
+<a href=http://archive.eclipse.org/eclipse/downloads/index.php">
+Archived Platform Builds</a>.   Then click on <a href="http://archive.eclipse.org/eclipse/downloads/drops/R-3.2.2-200702121330/index.php">Build 3.2.2</a>
+and download the SDK for your platform.
+</li>
+</ul>
 <p>To install Eclipse, the CDT, and then PTP, do the following:
 <ol>
 <li>Download either the "light" (platform) version of Eclipse or the full   "SDK" version:
-          go to the <a href="http://eclipse.org/downloads">
-          Eclipse downloads site</a> and then do one of the following:
+          go to the <a href="http://archive.eclipse.org/eclipse/downloads/drops/R-3.2.2-200702121330/index.php">
+          Eclipse download site for release 3.2.2</a> as described above, and then do one of the following:
           <ul type="a"> 
-          <li>For the "light" version, under the Second "Download now" link, click on the smaller "Other downloads for 3.2.2."
-          <br>On the next page scroll down to the heading "Platform Runtime Binary" and download the tar (or zip) file for your platform.
+          <li>For the "light" version,  scroll down to the heading "Platform Runtime Binary" and download the tar (or zip) file for your platform.
           This is about 1/3 to 1/4 the size of the full SDK, and doesn't include the Java or Eclipse Plug-in development parts, which I assume you don't need.
-           The UI is simpler since you don't have all those additional options.
-          
-          <li> The Eclipse SDK works just fine, though, if you prefer that.
-          On the main downloads page, you should be able to click on 
-          "Download now: Eclipse SDK 3.2.x" and download it on the next page.
+           The UI is simpler since you don't have all those additional options.  
+          <li> The Eclipse SDK works just fine, though, if you prefer that, and may be more complete.
+          On the main downloads page for 3.2.2 above, see 
+          "Eclipse SDK" near the top of the page, and download the SDK for your platform.
+          <p>Eclipse 3.3 has a pre-built version for C/C++ development, so that should simplify installation in the future.
          </li> 
           </ul>
+          <p>
   	      After downloading and extracting Eclipse (zip or tar file), there's nothing
   	      else to the installation process. 
   	      In the extracted folder, simply run the <b>eclipse</b> executable file.
+  	      It will ask for a workspace location; the default is fine.
          <p>
-<li>Download the CDT as well.
+<li>Install the CDT (C/C++ Development Toolkit) as well.
        You can do this from the Eclipse UI as follows:
        <ol type="a">
        <li>Help > Software Updates > Find and Install...    
@@ -45,8 +56,10 @@
         <li>Click Next, accept the license terms, Click Next, and click Finish.
         <li>On the Verification page, click "Install All."
         <li>When it's done, click "Yes" to restart the Eclipse workbench.  Then you can
-        install PTP from its update site as well.  Or click "no" 
-        to close it down if you prefer to install PTP from downloaded tar.gz files.
+        install PTP from its update site as well.  
+        (Jump to step 3. below...)
+        Or click "no" 
+        to close down Eclipse if you prefer to install PTP from downloaded tar.gz files.
         <p>
         <li>Note: the above installs the runtime version of CDT. If you intend to develop
         plug-ins with CDT, be sure to get the full SDK version.
@@ -64,8 +77,11 @@
 See <a href="http://download.eclipse.org/tools/ptp/releases/1.1.1/">the update site</a> for more details.
 <li>or  close Eclipse, download PTP and PLDT from the 
 <a href="http://www.eclipse.org/ptp/downloads.php">PTP downloads page.</a>
-        and follow the instructions in the <a href="releases/release-1.1.1.php">release notes and installation instructions</a> page.
+</li>
+<p>
+<li>Now follow the instructions in the <a href="releases/release-1.1.1.php">release notes and installation instructions</a> page.
+(You'll need to build a small stub for your platform.)
         </ol>
-<p>BRT - 06 September 2007
+<p>BRT - 1 November 2007
 </body>
 </html>
