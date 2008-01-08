@@ -172,18 +172,18 @@ See <a href="documentation/2.0/org.eclipse.ptp.pldt.help/html/whatsnew.html">Wha
 		<div class="homeitem3col">
 			<h3>Developer Resources</h3>
 			<ul>
-				<li>The <a href="http://wiki.eclipse.org/index.php/PTP">Wiki</a>  is now the best place for the most recent
+				<li>The <a href="http://wiki.eclipse.org/PTP">Wiki</a>  is now the best place for the most recent
 				information, especially developer information</li>
-				<li><a href="http://wiki.eclipse.org/index.php/PTP/planning">Plans</a>   for upcoming PTP releases </li>
+				<li><a href="http://wiki.eclipse.org/PTP/planning">Plans</a>   for upcoming PTP releases </li>
 				<li><a href="http://dev.eclipse.org/viewcvs/index.cgi?cvsroot=Tools_Project">CVS Repository</a> </td>
                           - View PTP sources using the web interface  
                 <li><a href="http://dev.eclipse.org/mailman/listinfo/ptp-dev">Mailing List</a> -
                        Email developers and get involved with PTP development
                 <li><a href="docs/design.html">Design</a>  - PTP design discussion and plans 
-                                 (Note: <a href="http://wiki.eclipse.org/index.php/PTP">Wiki may be more accurate))
+                                 (Note: <a href="http://wiki.eclipse.org/PTP">Wiki may be more accurate))
                 <li><a href="html/work.html">Work tasks</a>  - Outstanding work items on the project 
-                                 (Note: <a href="http://wiki.eclipse.org/index.php/PTP">Wiki may be more accurate))
-                <li><a href="http://wiki.eclipse.org/index.php/PTP/meetings">Planning Meetings</a> 
+                                 (Note: <a href="http://wiki.eclipse.org/PTP">Wiki may be more accurate))
+                <li><a href="http://wiki.eclipse.org/PTP/meetings">Planning Meetings</a> 
                                - Monthly conference call schedule, agendas and minutes 
                 <li><a href="contributors.php">Contributors</a> - List of contributors to the PTP project
 			</ul>
@@ -194,7 +194,7 @@ See <a href="documentation/2.0/org.eclipse.ptp.pldt.help/html/whatsnew.html">Wha
 		<div class="sideitem">
 			<h6>PTP Information</h6>
 			<ul>
-				<li><a href="http://wiki.eclipse.org/index.php/PTP">PTP Wiki</a> </li>
+				<li><a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> </li>
 				<li><a href="http://www.eclipsecon.org/2007/index.php?page=sub/&id=3777">PTP Presentation at EclipseCon 2007</a> - by Greg Watson</li>
 				<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/whitepapers/PTPWPv9.pdf?cvsroot=Tools_Project">
                    PTP Whitepaper</a></li>
