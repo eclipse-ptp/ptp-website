@@ -52,7 +52,7 @@
 	  <div class="homeitem3col">
 		<h3>What&apos;s New</h3>
 		<ul>
-
+<li>January 8, 2007: PTP 2.0 preview release coming soon; stay tuned. Latest PTP news is available in the <a href="http://wiki.eclipse.org/PTP/meetings">PTP wiki meetings page</a> - see January 8 meeting.
 <li>November 11, 2007: PTP tutorial presented at Supercomputing 2007; BOF and exhibits featured PTP as well
 <li>October 11, 2007: PLDT 2.0 beta 2 is available,
 		 which works on Eclipse 3.3 and CDT 4.0.
