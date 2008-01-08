@@ -52,7 +52,9 @@
 	  <div class="homeitem3col">
 		<h3>What&apos;s New</h3>
 		<ul>
-<li><img src="../images/new.gif">October 11, 2007: PLDT 2.0 beta 2 is available,
+
+<li>November 11, 2007: PTP tutorial presented at Supercomputing 2007; BOF and exhibits featured PTP as well
+<li>October 11, 2007: PLDT 2.0 beta 2 is available,
 		 which works on Eclipse 3.3 and CDT 4.0.
 		See the <a href="builds.php">builds page</a> for details.
 See <a href="documentation/2.0/org.eclipse.ptp.pldt.help/html/whatsnew.html">What's new in PLDT 2.0</a>.
