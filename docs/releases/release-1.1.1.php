@@ -136,7 +136,7 @@ wizard page correctly handles differently-named toolchains (e.g. Mac)</li>
         <li>More details on using PTP can be found  in Help&gt;Help Contents.  Click on &quot;PTP: Parallel Tools Platform &quot;. </li>
       </ul>
       <p>
-      <h4>Trouble Shooting</h4>
+      <h4 id="trouble">Trouble Shooting</h4>
       <ul class="midlist">
       <li>
         <b>I get lots of error messages about missing include files when running the <code>BUILD</code> script.</b>
