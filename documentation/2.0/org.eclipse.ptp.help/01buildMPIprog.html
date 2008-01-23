@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>Building an MPI program</title>
+</head>
+<body>
+<h1>Building an MPI program with Managed Build</h1>
+
+<p>Topics include:
+<ul>
+<li><a href="#create">Creating an MPI project </a>
+
+<li><a href="#include">include paths</a>
+<li><a href="#mpicc">specifying the mpicc toolchain</a>
+<li><a href="#launch">launching an MPI program </a> locally using 'External  Tools...' 
+(by specifying the mpirun command)?
+</ul>
+
+<h2 id="create">Create an MPI Project</h2>
+<p>Note: this tutorial assumes you have the 
+<a href="PLUGINS_ROOT/org.eclipse.ptp.pldt.help/html/toc.html">PLDT</a> installed, to use the wizards for creating MPI projects.
+<p>First, be sure you are in the C/C++ Perspective (Window -> Open Perspective -> Other...  and find C/C++)
+<p>To create a new MPI project in C using the managed build facility,
+Select File -> New -> C Project ...  The New Project dialog opens.
+Fill in the project name, e.g. MyMPIProject.
+Expand "Executable" and select "MPI Hello World C Project"
+<br><img src="images/0112newMPIproject.gif">
+<br>Click Next.
+<p>In the Basic Settings dialog, fill in the author name and change any other values you like.
+<br>Click Next.
+<br><img src="images/0112projBasicSettings.gif">
+<p>In the MPI Project Settings dialog, make sure "Add MPI Project settings to this project" is checked.
+You can uncheck "Use default information" if you need to change any values for include path, lib name or search path,
+or MPI build commands.
+<br><img src="images/0112mpiProjSettings.gif">
+<p>Click Finish.
+<p>The new project is created, and appears in the C/C++ Projects view. Expand the 'src' folder to see the new source file.
+<br><img src="images/0112proj.gif">
+<p>Double-click on the source file name to open the C/C++ editor.
+<br><img src="images/0112wbSrcEditor.gif">
+<p>If you open the Console view (click on the "Console" tab near the bottom)
+you should see the result of the build.
+
+<p>Next create and start a <a href="02resMgrSetup.html">Resource Manager</a>
+and then you will be ready to  <a href="02pLaunchConfig.html">launch the parallel program.</a>
+<p>&nbsp;
+
+<p>&nbsp;
+
+
+<p><a href="#top">Back to Top</a> | <a href="toc.html">Back to Table of Contents</a>
+</body>
+
+</html>
