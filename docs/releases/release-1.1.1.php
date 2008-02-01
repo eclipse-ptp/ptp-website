@@ -34,7 +34,7 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-
+<p>Note: <a href="http://wiki.eclipse.org/PTP/release_notes/2.0">Release 2.0 preview release notes are here</a>
 <div class="homeitem3col">
 <h3>New and Noteworthy</h3>
       <p>Release 1.1.1 includes a few bug fixes and improvements over Release 1.1:
