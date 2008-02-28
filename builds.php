@@ -44,6 +44,9 @@
   <p>For OpenMPI support, PTP requires OpenMPI 1.2 (b4 or later) or 1.0.2.
   <p>For MPICH2 support, PTP requires MPICH2 1.0.5p2.
 <p>PTP 1.1 is now released - see the <a href="downloads.php">downloads page</a>.
+<p>PTP 2.0 builds are available from the 
+<a href="http://download.eclipse.org/tools/ptp/releases/2.0">update site</a> 
+or the <a href="http://wiki.eclipse.org/PTP/builds/2.0">2.0 builds page</a>
           
      </div>   
      
