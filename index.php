@@ -55,7 +55,7 @@
 		<li><img src="../images/new.gif">February 27, 2008: PTP 2.0 preview releases continue to be updated, and are now available
 		on the <a href="http://download.eclipse.org/tools/ptp/releases/2.0/">update site</a> 
 		or also as an archive to download and use with the update manager - on 
-		the <a href="http://wiki.eclipse.org/PTP/builds/2.0#PTP_Builds_for_2.0">2.0 builds page</a>. 
+		the <a href="http://wiki.eclipse.org/PTP/builds/2.0">2.0 builds page</a>. 
 		See details in the <a href="http://wiki.eclipse.org/PTP/release_notes/2.0">Release Notes for 2.0</a> 
 		- Release should be final around the end of March.  
 		<li>January 22, 2008: PTP 2.0 preview release is now available; see details in the <a href="http://wiki.eclipse.org/PTP/release_notes/2.0">Release Notes for 2.0</a> - please give it a try and give us your feedback!
