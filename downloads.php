@@ -35,9 +35,9 @@
 		<p>Welcome to the downloads page for  the 1.1.1 release of the Parallel Tools Platform.</p>
     <p>Please see the <font size=+1><a href="docs/releases/release-1.1.1.php">
       release notes and installation instructions</a><font size=-1> for prerequisite information 
-      and instructions on building and installing PTP. <i>
+      and instructions on building and installing PTP Release 1.1.  
       <p>For complete instructions see also 
-      <a href="docs/install.html">Installing Eclipse and PTP</a> which includes how to install CDT.
+      <a href="docs/install.html">Installing Eclipse and PTP Release 1.1.x</a> which includes how to install CDT.
 	<p>PTP 1.1.1 can be installed from an update site or download of tar/zip files,
      but  requires an additional installation
       process over what  normal Eclipse plugins require,</i> so please read 
