@@ -33,6 +33,8 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
     
+    <p><b>Note:</b>This page is now out of date. More recent builds are available
+    on the <a href="http://wiki.eclipse.org/PTP/builds/2.0">Release 2.0 builds page of the PTP wiki</a>.
     <p>These files below contain recent builds of PTP and PLDT
     <p>Please see the <a href="docs/releases/release-1.1.php">release notes</a> for information on how to install this release of PTP and PLDT.
  
