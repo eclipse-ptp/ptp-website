@@ -52,7 +52,7 @@
 	  <div class="homeitem3col">
 		<h3>What&apos;s New</h3>
 		<ul>
-		<li><img src="../images/new.gif">March 14, 2008 (Happy Pi Day!) PTP talks at <a href="http://www.eclipsecon.org/2008/">EclipseCon 2008 next
+		<li><img src="../images/new.gif">March 14, 2008 (Happy Pi Day!) PTP talks at <a href="http://www.eclipsecon.org/2008/">EclipseCon 2008</a> next
 		week in Santa Clara: 
 		<ul>
 		<li> <a href="http://www.eclipsecon.org/2008/?page=sub/&id=373">Static Analysis in PTP with CDT</a> - Beth Tibbitts, Wed 1:30 PM
