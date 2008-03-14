@@ -57,7 +57,7 @@
 		<ul>
 		<li> <a href="http://www.eclipsecon.org/2008/?page=sub/&id=373">Static Analysis in PTP with CDT</a> - Beth Tibbitts, Wed 1:30 PM
 		<li><a href="http://www.eclipsecon.org/2008/index.php?page=sub/&id=323">Enabling Remote Development with CDT and PTP</a>  Greg Watson and Chris Recoskie, Tues 1:50 PM
-		<li><a href="http://www.eclipsecon.org/2008/index.php?page=sub/&id=566">PTP BOF - Tuesday 8:45 PM
+		<li><a href="http://www.eclipsecon.org/2008/index.php?page=sub/&id=566">PTP BOF </a> - Tuesday 8:45 PM
 		</ul>
 		<p>PTP 2.0 preview releases continue to be updated, including yesterday (3/13); See details in the  <a href="http://wiki.eclipse.org/PTP/builds/2.0">2.0 builds page</a>. 
 		PTP Release Review passed Wed 3/12; Release final date scheduled for 3/31/08.  Help us test!
