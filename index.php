@@ -52,7 +52,15 @@
 	  <div class="homeitem3col">
 		<h3>What&apos;s New</h3>
 		<ul>
-		<li><img src="../images/new.gif">February 27, 2008: PTP 2.0 preview releases continue to be updated, and are now available
+		<li><img src="../images/new.gif">March 14, 2008 (Happy Pi Day!) PTP talks at <a href="http://www.eclipsecon.org/2008/">EclipseCon 2008 next
+		week in Santa Clara: 
+		<ul>
+		<li> <a href="http://www.eclipsecon.org/2008/?page=sub/&id=373">Static Analysis in PTP with CDT</a> - Beth Tibbitts, Wed 1:30 PM
+		<li><a href="http://www.eclipsecon.org/2008/index.php?page=sub/&id=323">Enabling Remote Development with CDT and PTP</a>  Greg Watson and Chris Recoskie, Tues 1:50 PM
+		<li><a href="http://www.eclipsecon.org/2008/index.php?page=sub/&id=566">PTP BOF - Tuesday 8:45 PM
+		</ul>
+		<p>PTP 2.0 preview releases continue to be updated, including yesterday (3/13); See details in the  <a href="http://wiki.eclipse.org/PTP/builds/2.0">2.0 builds page</a>. 
+		<li>February 27, 2008: PTP 2.0 preview releases continue to be updated, and are now available
 		on the <a href="http://download.eclipse.org/tools/ptp/releases/2.0/">update site</a> 
 		or also as an archive to download and use with the update manager - on 
 		the <a href="http://wiki.eclipse.org/PTP/builds/2.0">2.0 builds page</a>. 
