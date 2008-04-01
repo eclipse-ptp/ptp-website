@@ -142,6 +142,30 @@
 
       </table>   
   </div>
+
+  <div class="homeitem3col">
+  <h3>Remote Development Tools (enable CDT for remote development)</h3>
+  <table>
+  <tr>
+    <td align=left valign=top >
+        <tr bgcolor="#CCCCCC">
+          <th width="34%"  scope="col"><div align="left">Platform</div></th>
+          <th width="10%"  scope="col"><div align="left">Release</div></th>
+          <th width="56%"  scope="col"><div align="left">Download</div></th>
+        </tr>
+        <tr>
+          <td>All</td>
+          <td><div align="left">2.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rdt-2.0.0.tar.gz">org.eclipse.ptp.rdt-2.0.0.tar.gz</a></div></td>
+        </tr>
+        <tr>
+          <td>All</td>
+          <td><div align="left">2.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rdt-2.0.0.zip">org.eclipse.ptp.rdt-2.0.0.zip</a></div></td>
+        </tr>
+
+      </table>   
+  </div>
   
 <div class="homeitem3col">
 <h3>Previous releases</h3>
