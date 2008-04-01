@@ -38,12 +38,11 @@
       and instructions on building and installing PTP Release 2.0.  
       <p>For complete instructions see also 
       <a href="docs/install.html">Installing Eclipse and PTP Release 2.0.x</a> which includes how to install CDT.
-	<p>The preferred method for installing PTP 2.0 is from an update site, but it can also be downloaded as tar/zip files.</p>
-<p>The two alternatives for installation are:
+	<p>The preferred method for installing PTP 2.0 is from an update site, but it can also be downloaded as tar/zip files. The two alternatives for installation are:
 <ul>
-<li>To install via the update site: see <a href="http://download.eclipse.org/tools/ptp/releases/2.0/">the PTP 2.0 update site</a><p></p>
+<li>Install via the update site: see <a href="http://download.eclipse.org/tools/ptp/releases/2.0/">the PTP 2.0 update site</a><p></p>
 </li>
-    <li>Download: The files below contain the current release of PTP. 
+    <li>Download the files below that contain the current release of PTP. 
         The PLDT component can be installed independently of PTP Core.
 </li>
 </ul>
