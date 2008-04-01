@@ -131,13 +131,13 @@
         </tr>
         <tr>
           <td>All</td>
-          <td><div align="left">2.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.perf-2.0.0.tar.gz">org.eclipse.ptp.perf-2.0.0.tar.gz</a></div></td>
+          <td><div align="left">1.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.perf-1.0.0.tar.gz">org.eclipse.ptp.perf-1.0.0.tar.gz</a></div></td>
         </tr>
         <tr>
           <td>All</td>
-          <td><div align="left">2.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.perf-2.0.0.zip">org.eclipse.ptp.perf-2.0.0.zip</a></div></td>
+          <td><div align="left">1.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.perf-1.0.0.zip">org.eclipse.ptp.perf-1.0.0.zip</a></div></td>
         </tr>
 
       </table>   
@@ -155,13 +155,13 @@
         </tr>
         <tr>
           <td>All</td>
-          <td><div align="left">2.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rdt-2.0.0.tar.gz">org.eclipse.ptp.rdt-2.0.0.tar.gz</a></div></td>
+          <td><div align="left">1.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rdt-1.0.0.tar.gz">org.eclipse.ptp.rdt-1.0.0.tar.gz</a></div></td>
         </tr>
         <tr>
           <td>All</td>
-          <td><div align="left">2.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rdt-2.0.0.zip">org.eclipse.ptp.rdt-2.0.0.zip</a></div></td>
+          <td><div align="left">1.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rdt-1.0.0.zip">org.eclipse.ptp.rdt-1.0.0.zip</a></div></td>
         </tr>
 
       </table>   
