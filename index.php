@@ -54,7 +54,7 @@
 		<ul>
 		<li><img src="../images/new.gif">March 31, 2007: PTP 2.0 released! This version contains numerous
 		enhancements and bug fixes. A list of the new
-		features is available from <a href="documentation/org.eclipse.ptp.help/html/newNoteworthy.html">here</a>.
+		features is available from <a href="documentation/2.0/org.eclipse.ptp.help/html/newNoteworthy.html">here</a>.
 		See the <a href="downloads.php">downloads</a> page for more information on downloading and
 		installing PTP.
 		<li>March 14, 2008 (Happy Pi Day!) PTP talks at <a href="http://www.eclipsecon.org/2008/">EclipseCon 2008</a> next

@@ -63,7 +63,7 @@
           <th width="56%"  scope="col"><div align="left">Download</div></th>
         </tr>
         <tr>
-          <td>Linux, MacOS X 10.4.x or 10.5.x</td>
+          <td>Linux and MacOS X</td>
           <td><div align="left">2.0</div></td>
           <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp-2.0.0.tar.gz">org.eclipse.ptp-2.0.0.tar.gz</a></div></td>
         </tr>
