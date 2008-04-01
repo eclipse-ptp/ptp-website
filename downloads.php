@@ -36,8 +36,6 @@
     <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/2.0">
       release notes and installation instructions</a><font size=-1> for prerequisite information 
       and instructions on building and installing PTP Release 2.0.  
-      <p>For complete instructions see also 
-      <a href="docs/install.html">Installing Eclipse and PTP Release 2.0.x</a> which includes how to install CDT.
 	<p>The preferred method for installing PTP 2.0 is from an update site, but it can also be downloaded as tar/zip files. The two alternatives for installation are:
 <ul>
 <li>Install via the update site: see <a href="http://download.eclipse.org/tools/ptp/releases/2.0/">the PTP 2.0 update site</a><p></p>
