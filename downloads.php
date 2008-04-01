@@ -64,6 +64,11 @@
           <td><div align="left">2.0</div></td>
           <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp-2.0.0.tar.gz">org.eclipse.ptp-2.0.0.tar.gz</a></div></td>
         </tr>
+        <tr>
+          <td>Linux and MacOS X</td>
+          <td><div align="left">2.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp-2.0.0.zip">org.eclipse.ptp-2.0.0.zip</a></div></td>
+        </tr>
 
       </table>   
   </div>
@@ -79,9 +84,14 @@
           <th width="56%"  scope="col"><div align="left">Download</div></th>
         </tr>
         <tr>
-          <td>All</td>
+          <td>Linux and MacOS X</td>
           <td><div align="left">2.0</div></td>
           <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rse-2.0.0.tar.gz">org.eclipse.ptp.rse-2.0.0.tar.gz</a></div></td>
+        </tr>
+        <tr>
+          <td>Linux and MacOS X</td>
+          <td><div align="left">2.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rse-2.0.0.zip">org.eclipse.ptp.rse-2.0.0.zip</a></div></td>
         </tr>
 
       </table>   
@@ -126,6 +136,11 @@
           <td>All</td>
           <td><div align="left">2.0</div></td>
           <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.perf-2.0.0.tar.gz">org.eclipse.ptp.perf-2.0.0.tar.gz</a></div></td>
+        </tr>
+        <tr>
+          <td>All</td>
+          <td><div align="left">2.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.perf-2.0.0.zip">org.eclipse.ptp.perf-2.0.0.zip</a></div></td>
         </tr>
 
       </table>   
