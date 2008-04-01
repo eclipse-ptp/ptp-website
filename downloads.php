@@ -41,7 +41,7 @@
 	<p>The preferred method for installing PTP 2.0 is from an update site, but it can also be downloaded as tar/zip files.</p>
 <p>The two alternatives for installation are:
 <ul>
-<li>To install via the update site: see <a href="http://download.eclipse.org/tools/ptp/releases/2.0/">the PTP 2.0 update site</a><p><br></p>
+<li>To install via the update site: see <a href="http://download.eclipse.org/tools/ptp/releases/2.0/">the PTP 2.0 update site</a><p></p>
 </li>
     <li>Download: The files below contain the current release of PTP. 
         The PLDT component can be installed independently of PTP Core.
