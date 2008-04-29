@@ -58,13 +58,13 @@
         </tr>
         <tr>
           <td>Linux and MacOS X</td>
-          <td><div align="left">2.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp-2.0.0.tar.gz">org.eclipse.ptp-2.0.0.tar.gz</a></div></td>
+          <td><div align="left">2.0.1</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp-2.0.1.tar.gz">org.eclipse.ptp-2.0.1.tar.gz</a></div></td>
         </tr>
         <tr>
           <td>Linux and MacOS X</td>
-          <td><div align="left">2.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp-2.0.0.zip">org.eclipse.ptp-2.0.0.zip</a></div></td>
+          <td><div align="left">2.0.1</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp-2.0.1.zip">org.eclipse.ptp-2.0.1.zip</a></div></td>
         </tr>
 
       </table>   
@@ -82,13 +82,13 @@
         </tr>
         <tr>
           <td>Linux and MacOS X</td>
-          <td><div align="left">2.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rse-2.0.0.tar.gz">org.eclipse.ptp.rse-2.0.0.tar.gz</a></div></td>
+          <td><div align="left">2.0.1</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rse-2.0.1.tar.gz">org.eclipse.ptp.rse-2.0.1.tar.gz</a></div></td>
         </tr>
         <tr>
           <td>Linux and MacOS X</td>
-          <td><div align="left">2.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rse-2.0.0.zip">org.eclipse.ptp.rse-2.0.0.zip</a></div></td>
+          <td><div align="left">2.0.1</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rse-2.0.1.zip">org.eclipse.ptp.rse-2.0.1.zip</a></div></td>
         </tr>
 
       </table>   
@@ -106,13 +106,13 @@
         </tr>
         <tr>
           <td>Linux and MacOS X</td>
-          <td><div align="left">2.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/ptp_proxy-2.0.0.tar.gz">ptp_proxy-2.0.0.tar.gz</a></div></td>
+          <td><div align="left">2.0.1</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/ptp_proxy-2.0.1.tar.gz">ptp_proxy-2.0.1.tar.gz</a></div></td>
         </tr>
         <tr>
           <td>Linux and MacOS X</td>
-          <td><div align="left">2.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/ptp_proxy-2.0.0.zip">ptp_proxy-2.0.0.zip</a></div></td>
+          <td><div align="left">2.0.1</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/ptp_proxy-2.0.1.zip">ptp_proxy-2.0.1.zip</a></div></td>
         </tr>
 
       </table>   
@@ -131,14 +131,14 @@
 
         <tr>
           <td>All</td>
-          <td><div align="left">2.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.pldt-2.0.0.tar.gz">org.eclipse.ptp.pldt-2.0.0.tar.gz</a></div></td>
+          <td><div align="left">2.0.1</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.pldt-2.0.1.tar.gz">org.eclipse.ptp.pldt-2.0.1.tar.gz</a></div></td>
         </tr>
 
         <tr>
           <td>All</td>
-          <td><div align="left">2.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.pldt-2.0.0.zip">org.eclipse.ptp.pldt-2.0.0.zip</a></div></td>
+          <td><div align="left">2.0.1</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.pldt-2.0.1.zip">org.eclipse.ptp.pldt-2.0.1.zip</a></div></td>
         </tr>
       </table>  
 </div>
@@ -155,13 +155,13 @@
         </tr>
         <tr>
           <td>All</td>
-          <td><div align="left">1.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.perf-1.0.0.tar.gz">org.eclipse.ptp.perf-1.0.0.tar.gz</a></div></td>
+          <td><div align="left">1.0.1</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.perf-1.0.1.tar.gz">org.eclipse.ptp.perf-1.0.1.tar.gz</a></div></td>
         </tr>
         <tr>
           <td>All</td>
-          <td><div align="left">1.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.perf-1.0.0.zip">org.eclipse.ptp.perf-1.0.0.zip</a></div></td>
+          <td><div align="left">1.0.1</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.perf-1.0.1.zip">org.eclipse.ptp.perf-1.0.1.zip</a></div></td>
         </tr>
 
       </table>   
@@ -179,13 +179,13 @@
         </tr>
         <tr>
           <td>All</td>
-          <td><div align="left">1.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rdt-1.0.0.tar.gz">org.eclipse.ptp.rdt-1.0.0.tar.gz</a></div></td>
+          <td><div align="left">1.0.1</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rdt-1.0.1.tar.gz">org.eclipse.ptp.rdt-1.0.1.tar.gz</a></div></td>
         </tr>
         <tr>
           <td>All</td>
-          <td><div align="left">1.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rdt-1.0.0.zip">org.eclipse.ptp.rdt-1.0.0.zip</a></div></td>
+          <td><div align="left">1.0.1</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rdt-1.0.1.zip">org.eclipse.ptp.rdt-1.0.1.zip</a></div></td>
         </tr>
 
       </table>   
