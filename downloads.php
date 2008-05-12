@@ -43,7 +43,7 @@
 <p></p>
 </li>
 <li>Download an archived update site from the <a href="http://wiki.eclipse.org/PTP/builds/2.0">PTP builds page</a> 
-and install it directly from that archive.</li>
+and install it directly from that archive.<p></p></li>
     <li>Download the individual files below that contain the current release of PTP. 
         The PLDT component can be installed independently of PTP Core.
 </li>
