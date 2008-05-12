@@ -40,10 +40,12 @@
 	The three alternatives for installation are:
 <ul>
 <li>Install via the remote update site: see <a href="http://download.eclipse.org/tools/ptp/releases/2.0/">the PTP 2.0 update site</a>
-<p></p>
+<p>-- or -- </p>
 </li>
 <li>Install via a local update site: Download an archived update site from the <a href="http://wiki.eclipse.org/PTP/builds/2.0">PTP builds page</a> 
-and install it directly from that archive.<p></p></li>
+and install it directly from that archive.
+<p>-- or -- </p>
+</li>
     <li>Download the individual files below that contain the current release of PTP. 
         The PLDT component can be installed independently of PTP Core.
 </li>
