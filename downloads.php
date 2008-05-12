@@ -36,11 +36,15 @@
     <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/2.0">
       release notes and installation instructions</a><font size=-1> for prerequisite information 
       and instructions on building and installing PTP Release 2.0.  
-	<p>The preferred method for installing PTP 2.0 is from an update site, but it can also be downloaded as tar/zip files. The two alternatives for installation are:
+	<p>The preferred method for installing PTP 2.0 is from an update site, but it can also be downloaded as tar/zip files. 
+	The three alternatives for installation are:
 <ul>
-<li>Install via the update site: see <a href="http://download.eclipse.org/tools/ptp/releases/2.0/">the PTP 2.0 update site</a><p></p>
+<li>Install via the update site: see <a href="http://download.eclipse.org/tools/ptp/releases/2.0/">the PTP 2.0 update site</a>
+<p></p>
 </li>
-    <li>Download the files below that contain the current release of PTP. 
+<li>Download an archived update site from the <a href="http://wiki.eclipse.org/PTP/builds/2.0">PTP builds page</a> 
+and install it directly from that archive.</li>
+    <li>Download the individual files below that contain the current release of PTP. 
         The PLDT component can be installed independently of PTP Core.
 </li>
 </ul>
