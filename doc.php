@@ -48,7 +48,7 @@
 <h1>Tutorials, Presentations, and other papers</h1>
 
 
-<h1>Tutorials</h1>
+<h2>Tutorials</h2>
 <ul>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/SC2006.pdf?cvsroot=Tools_Project">
 PTP Tutorial</a> from SC 2006 in Tampa, FL
@@ -63,7 +63,7 @@ and <a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse
 <li>More recent tutorial materials are available on the <a href="http://wiki.eclipse.org/PTP/tutorials">Tutorial Materials page on the PTP wiki</a>
 
 </ul>
-<h1>Presentations</h1>
+<h2>Presentations</h2>
 <ul>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/Power.org_2007.pdf?cvsroot=Tools_Project"><i>IDEs and Eclipse - Myths and Facts About the Worlds Greatest IDE</i></a>, Greg Watson, Power.org Power Architecture Summit, April 2007
 <p>
@@ -98,7 +98,7 @@ and <a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse
 <p>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/EclipseCon_2005.pdf?cvsroot=Tools_Project"><i>The Eclipse Parallel Tools Platform Project</i></a>, Greg Watson, EclipseCon 2005, February 2005
 </ul>
-<h1>Articles and White Papers</h1>
+<h2>Articles and White Papers</h2>
 <ul>
 <li><a href="http://www.computer.org/portal/site/cise/menuitem.92a12adebee18778161489108bcd45f3/index.jsp?&pName=cise_level1_article&TheCat=1001&path=cise/2006/v8n4&file=sci.xml&">
 			  <i>Developing Scientific Applications Using Eclipse</i></a>
