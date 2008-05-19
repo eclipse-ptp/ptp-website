@@ -52,8 +52,11 @@
 	  <div class="homeitem3col">
 		<h3>What&apos;s New</h3>
 		<ul>
-		<li><img src="../images/new.gif">May 7, 2008: PTP Tutorial at <a href="http://www.tacc.utexas.edu/softwareday/index.php">TACC Scientific Software Days</a> in Austin on Friday, May 16
-		<li><img src="../images/new.gif">May 2, 2008: PTP 2.0.1 released, contains bug fixes. 
+		<li><img src="../images/new.gif">May 19, 2008: Update PTP 2.0 posted on <a href="http://www.eclipse.org/ptp/doc.php">documentation page</a>
+		<li><img src="../images/new.gif">May 19, 2008: Slides from PTP Tutorial at <a href="http://www.tacc.utexas.edu/softwareday/index.php">TACC Scientific Software Days</a> 
+		available on <a href="http://wiki.eclipse.org/PTP/tutorials">PTP tutorial materials page</a>
+		<li>May 7, 2008: PTP Tutorial at <a href="http://www.tacc.utexas.edu/softwareday/index.php">TACC Scientific Software Days</a> in Austin on Friday, May 16
+		<li>May 2, 2008: PTP 2.0.1 released, contains bug fixes. 
 		<li>March 31, 2008: PTP 2.0 released! This version contains numerous
 		enhancements and bug fixes. A list of the new
 		features is available from <a href="documentation/2.0/org.eclipse.ptp.help/html/newNoteworthy.html">here</a>.
