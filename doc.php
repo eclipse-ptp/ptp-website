@@ -45,49 +45,8 @@
 <li><a href="http://wiki.eclipse.org/PTP/release_notes/2.0">PTP 2.0 release notes</a> including installation directions
 </ul>
 <p>
-<h1>
-User Guides, Tutorials, Presentations, and other papers</h1>
+<h1>Tutorials, Presentations, and other papers</h1>
 
-	<h2>User Guides</h2>	
-<p>The previous release (1.1) of the PTP User Guide (also available from the help plug-ins in the PTP installation) is available here.
-<p><a href="documentation/org.eclipse.ptp.help/html/newNoteworthy.html">New and Noteworthy</a>:
-What's new in PTP Release 1.1. 
-<p><a href="docs/install.html">How to install Eclipse and CDT for PTP</a>
-<p>Click on the screen shots below for  full-size images of the PTP Runtime and Debug Perspectives.
-Click on the Help links to read the help on-line.
-<table border="1">
-<tr>
-<td><font size="+2"><a href="documentation/org.eclipse.ptp.help/html/toc.html">
-PTP 1.1 Help</a></font>
-<br>Screen shots:<br>
-<table>
-<tr><td>PTP Runtime Perspective<br>
-<a href="documentation/images/runtime_perspective_col_ann.png">
-<img src="documentation/images/runtime_perspective_col_ann_small.png">
-</a>
-</td><td>PTP Debug Perspective<br>
-<a href="documentation/images/debug_perspective_col_ann.png">
-<img src="documentation/images/debug_perspective_col_ann_small.png">
-</a>
-</td>
-</table>
-</td>
-</tr><tr>
-<td><font size="+2"><a href="documentation/org.eclipse.ptp.pldt.help/html/toc.html">PLDT 1.1 help</a></font>
-<br>PTP PLDT (Parallel Language Development Tools) 
-
-<table>
-<tr><td>MPI and OpenMP Development Tools<br>
-Screen shots: <br>
-<a href="documentation/images/ptp-mpi-help2.gif">
-<img src="documentation/images/ptp-mpi-help2_small.gif">
-</a>
-</td>
-</table>
-
-</td>
-</tr>
-</table>
 
 <h1>Tutorials</h1>
 <ul>
@@ -101,6 +60,7 @@ PTP Tutorial</a> from Los Alamos Computer Science Institute (Fall 2005)
 PTP Tutorial slides</a>  
 and <a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/ptp-tutorial-oscon07.handouts.pdf?cvsroot=Tools_Project">handouts</a> from 
 <a href="http://conferences.oreillynet.com/os2007/">OSCON</a> (July 2007) 
+<li>More recent tutorial materials are available on the <a href="http://wiki.eclipse.org/PTP/tutorials">Tutorial Materials page on the PTP wiki</a>
 
 </ul>
 <h1>Presentations</h1>
@@ -151,6 +111,47 @@ and <a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse
  </ul>
  <p>&nbsp;
   <p>&nbsp;
+  <h2>Previous Release (1.1)</h2>	
+<p>The previous release (1.1) of the PTP User Guide (also available from the help plug-ins in the PTP installation) is available here.
+<p><a href="documentation/org.eclipse.ptp.help/html/newNoteworthy.html">New and Noteworthy</a>:
+What's new in PTP Release 1.1. 
+<p><a href="docs/install.html">How to install Eclipse and CDT for PTP</a>
+<p>Click on the screen shots below for  full-size images of the PTP Runtime and Debug Perspectives.
+Click on the Help links to read the help on-line.
+<table border="1">
+<tr>
+<td><font size="+2"><a href="documentation/org.eclipse.ptp.help/html/toc.html">
+PTP 1.1 Help</a></font>
+<br>Screen shots:<br>
+<table>
+<tr><td>PTP Runtime Perspective<br>
+<a href="documentation/images/runtime_perspective_col_ann.png">
+<img src="documentation/images/runtime_perspective_col_ann_small.png">
+</a>
+</td><td>PTP Debug Perspective<br>
+<a href="documentation/images/debug_perspective_col_ann.png">
+<img src="documentation/images/debug_perspective_col_ann_small.png">
+</a>
+</td>
+</table>
+</td>
+</tr><tr>
+<td><font size="+2"><a href="documentation/org.eclipse.ptp.pldt.help/html/toc.html">PLDT 1.1 help</a></font>
+<br>PTP PLDT (Parallel Language Development Tools) 
+
+<table>
+<tr><td>MPI and OpenMP Development Tools<br>
+Screen shots: <br>
+<a href="documentation/images/ptp-mpi-help2.gif">
+<img src="documentation/images/ptp-mpi-help2_small.gif">
+</a>
+</td>
+</table>
+
+</td>
+</tr>
+</table>
+  
 	</div>
 
 
