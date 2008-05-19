@@ -60,6 +60,7 @@ PTP Tutorial</a> from Los Alamos Computer Science Institute (Fall 2005)
 PTP Tutorial slides</a>  
 and <a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/ptp-tutorial-oscon07.handouts.pdf?cvsroot=Tools_Project">handouts</a> from 
 <a href="http://conferences.oreillynet.com/os2007/">OSCON</a> (July 2007) 
+<p>
 <li>More recent tutorial materials are available on the <a href="http://wiki.eclipse.org/PTP/tutorials">Tutorial Materials page on the PTP wiki</a>
 
 </ul>
