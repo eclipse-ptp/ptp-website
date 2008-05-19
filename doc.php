@@ -32,12 +32,12 @@
 
 	<div id="midcolumn">
 <h1>PTP Documentation</h1>
-<h2>PTP 2.0 preview release information</h2>
-<p>The following links show the help that is available in PTP 2.0 so far.  To see this within Eclipse, install PTP and select Help > Help Contents.
-<p><a href="documentation/2.0/org.eclipse.ptp.help/html/toc.html">PTP Help</a> and <a href="documentation/2.0/org.eclipse.ptp.help/html/newNoteworthy.html">New in 2.0</a>
-<p><a href="documentation/2.0/org.eclipse.ptp.pldt.help/html/toc.html">Pldt Help</a> and <a href="documentation/2.0/org.eclipse.ptp.pldt.help/html/whatsnew.html">New in 2.0</a>
-<p><a href="documentation/2.0/org.eclipse.ptp.ibmpe.help/html/PEMainHelp.html">IBM Parallel Environment (PE) Resource Manager</a>
-<p><a href="documentation/2.0/org.eclipse.ptp.ibmll.help/html/IBMLLMainHelp.html">IBM Loadleveler (LL) Resource Manager</a>
+<h2>PTP 2.0  release information</h2>
+<p>The following links show the help in the PTP current release (2.0).  To see this within Eclipse, install PTP and select Help > Help Contents.
+<p><a href="documentation/2.0b/org.eclipse.ptp.help/html/toc.html">PTP Help</a> and <a href="documentation/2.0b/org.eclipse.ptp.help/html/newNoteworthy.html">New in 2.0</a>
+<p><a href="documentation/2.0b/org.eclipse.ptp.pldt.help/html/toc.html">Pldt Help</a> and <a href="documentation/2.0b/org.eclipse.ptp.pldt.help/html/whatsnew.html">New in 2.0</a>
+<p><a href="documentation/2.0b/org.eclipse.ptp.ibmpe.help/html/PEMainHelp.html">IBM Parallel Environment (PE) Resource Manager</a>
+<p><a href="documentation/2.0b/org.eclipse.ptp.ibmll.help/html/IBMLLMainHelp.html">IBM Loadleveler (LL) Resource Manager</a>
 <p>Additional information for PTP 2.0:
 <p><a href="http://wiki.eclipse.org/PTP/release_notes/2.0">PTP 2.0 release notes</a> including installation directions
 <p>
@@ -45,7 +45,7 @@
 User Guides, Tutorials, Presentations, and other papers</h1>
 
 	<h2>User Guides</h2>	
-<p>The current release (1.1) of the PTP User Guide (also available from the help plug-ins in the PTP installation) is available here.
+<p>The previous release (1.1) of the PTP User Guide (also available from the help plug-ins in the PTP installation) is available here.
 <p><a href="documentation/org.eclipse.ptp.help/html/newNoteworthy.html">New and Noteworthy</a>:
 What's new in PTP Release 1.1. 
 <p><a href="docs/install.html">How to install Eclipse and CDT for PTP</a>
