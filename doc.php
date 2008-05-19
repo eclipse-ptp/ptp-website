@@ -35,13 +35,15 @@
 <h2>PTP 2.0  release information</h2>
 <p>The following links show the help in the PTP current release (2.0).  To see this within Eclipse, install PTP and select Help > Help Contents.
 <ul>
-<p><a href="documentation/2.0b/org.eclipse.ptp.help/html/toc.html">PTP Help</a> and <a href="documentation/2.0b/org.eclipse.ptp.help/html/00newNoteworthy.html">New in 2.0</a>
-<p><a href="documentation/2.0b/org.eclipse.ptp.pldt.help/html/toc.html">PLDT Help</a> and <a href="documentation/2.0b/org.eclipse.ptp.pldt.help/html/whatsnew.html">New in 2.0</a>
-<p><a href="documentation/2.0b/org.eclipse.ptp.ibmpe.help/html/PEMainHelp.html">IBM Parallel Environment (PE) Resource Manager</a>
-<p><a href="documentation/2.0b/org.eclipse.ptp.ibmll.help/html/IBMLLMainHelp.html">IBM Loadleveler (LL) Resource Manager</a>
+<li><a href="documentation/2.0b/org.eclipse.ptp.help/html/toc.html">PTP Help</a> and <a href="documentation/2.0b/org.eclipse.ptp.help/html/00newNoteworthy.html">New in 2.0</a>
+<li><a href="documentation/2.0b/org.eclipse.ptp.pldt.help/html/toc.html">PLDT Help</a> and <a href="documentation/2.0b/org.eclipse.ptp.pldt.help/html/whatsnew.html">New in 2.0</a>
+<li><a href="documentation/2.0b/org.eclipse.ptp.ibmpe.help/html/PEMainHelp.html">IBM Parallel Environment (PE) Resource Manager</a>
+<li><a href="documentation/2.0b/org.eclipse.ptp.ibmll.help/html/IBMLLMainHelp.html">IBM Loadleveler (LL) Resource Manager</a>
 </ul>
 <p>Additional information for PTP 2.0:
-<p><a href="http://wiki.eclipse.org/PTP/release_notes/2.0">PTP 2.0 release notes</a> including installation directions
+<ul>
+<li><a href="http://wiki.eclipse.org/PTP/release_notes/2.0">PTP 2.0 release notes</a> including installation directions
+</ul>
 <p>
 <h1>
 User Guides, Tutorials, Presentations, and other papers</h1>
