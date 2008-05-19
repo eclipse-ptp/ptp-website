@@ -111,7 +111,8 @@ and <a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse
  </ul>
  <p>&nbsp;
   <p>&nbsp;
-  <h2>Previous Release (1.1)</h2>	
+  
+<h2>Previous Release (1.1)</h2>	
 <p>The previous release (1.1) of the PTP User Guide (also available from the help plug-ins in the PTP installation) is available here.
 <p><a href="documentation/org.eclipse.ptp.help/html/newNoteworthy.html">New and Noteworthy</a>:
 What's new in PTP Release 1.1. 
