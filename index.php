@@ -52,7 +52,7 @@
 	  <div class="homeitem3col">
 		<h3>What&apos;s New</h3>
 		<ul>
-		<li><img src="../images/new.gif">May 19, 2008: Update PTP 2.0 posted on <a href="http://www.eclipse.org/ptp/doc.php">documentation page</a>
+		<li><img src="../images/new.gif">May 19, 2008: Updated PTP 2.0 help pages are posted on <a href="http://www.eclipse.org/ptp/doc.php">documentation page</a>
 		<li><img src="../images/new.gif">May 19, 2008: Slides from PTP Tutorial at <a href="http://www.tacc.utexas.edu/softwareday/index.php">TACC Scientific Software Days</a> 
 		available on <a href="http://wiki.eclipse.org/PTP/tutorials">PTP tutorial materials page</a>
 		<li>May 7, 2008: PTP Tutorial at <a href="http://www.tacc.utexas.edu/softwareday/index.php">TACC Scientific Software Days</a> in Austin on Friday, May 16
