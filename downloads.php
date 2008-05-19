@@ -42,8 +42,8 @@
 <li>Install via the remote update site: see <a href="http://download.eclipse.org/tools/ptp/releases/2.0/">the PTP 2.0 update site</a>
 <p>-- or -- </p>
 </li>
-<li>Install via a local update site: Download an archived update site from the <a href="http://wiki.eclipse.org/PTP/builds/2.0">PTP builds page</a> 
-and install it directly from that archive.
+<li>Install via an archived site: Download an archived update site from the <a href="http://wiki.eclipse.org/PTP/builds/2.0">PTP builds page</a> 
+and install it directly from that archive (can be installed offline).
 <p>-- or -- </p>
 </li>
     <li>Download the individual files below that contain the current release of PTP. 
