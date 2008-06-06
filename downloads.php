@@ -88,13 +88,13 @@ and install it directly from that archive (can be installed offline).
         </tr>
         <tr>
           <td>Linux and MacOS X</td>
-          <td><div align="left">2.0.2</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rse-2.0.2.tar.gz">org.eclipse.ptp.rse-2.0.2.tar.gz</a></div></td>
+          <td><div align="left">2.0.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rse-2.0.0.tar.gz">org.eclipse.ptp.rse-2.0.0.tar.gz</a></div></td>
         </tr>
         <tr>
           <td>Linux and MacOS X</td>
-          <td><div align="left">2.0.2</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rse-2.0.2.zip">org.eclipse.ptp.rse-2.0.2.zip</a></div></td>
+          <td><div align="left">2.0.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rse-2.0.0.zip">org.eclipse.ptp.rse-2.0.0.zip</a></div></td>
         </tr>
 
       </table>   
