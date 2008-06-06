@@ -59,7 +59,7 @@ and install it directly from that archive (can be installed offline).
     <td align=left valign=top >
         <tr bgcolor="#CCCCCC">
           <th width="34%"  scope="col"><div align="left">Platform</div></th>
-          <th width="10%"  scope="col"><div align="left">Release</div></th>
+          <th width="10%"  scope="col"><div align="left">Version</div></th>
           <th width="56%"  scope="col"><div align="left">Download</div></th>
         </tr>
         <tr>
@@ -83,7 +83,7 @@ and install it directly from that archive (can be installed offline).
     <td align=left valign=top >
         <tr bgcolor="#CCCCCC">
           <th width="34%"  scope="col"><div align="left">Platform</div></th>
-          <th width="10%"  scope="col"><div align="left">Release</div></th>
+          <th width="10%"  scope="col"><div align="left">Version</div></th>
           <th width="56%"  scope="col"><div align="left">Download</div></th>
         </tr>
         <tr>
@@ -107,7 +107,7 @@ and install it directly from that archive (can be installed offline).
     <td align=left valign=top >
         <tr bgcolor="#CCCCCC">
           <th width="34%"  scope="col"><div align="left">Platform</div></th>
-          <th width="10%"  scope="col"><div align="left">Release</div></th>
+          <th width="10%"  scope="col"><div align="left">Version</div></th>
           <th width="56%"  scope="col"><div align="left">Download</div></th>
         </tr>
         <tr>
@@ -131,7 +131,7 @@ and install it directly from that archive (can be installed offline).
     <td align=left valign=top >
         <tr bgcolor="#CCCCCC">
           <th width="34%"  scope="col"><div align="left">Platform</div></th>
-          <th width="10%"  scope="col"><div align="left">Release</div></th>
+          <th width="10%"  scope="col"><div align="left">Version</div></th>
           <th width="56%"  scope="col"><div align="left">Download</div></th>
         </tr>
 
@@ -156,7 +156,7 @@ and install it directly from that archive (can be installed offline).
     <td align=left valign=top >
         <tr bgcolor="#CCCCCC">
           <th width="34%"  scope="col"><div align="left">Platform</div></th>
-          <th width="10%"  scope="col"><div align="left">Release</div></th>
+          <th width="10%"  scope="col"><div align="left">Version</div></th>
           <th width="56%"  scope="col"><div align="left">Download</div></th>
         </tr>
         <tr>
@@ -180,7 +180,7 @@ and install it directly from that archive (can be installed offline).
     <td align=left valign=top >
         <tr bgcolor="#CCCCCC">
           <th width="34%"  scope="col"><div align="left">Platform</div></th>
-          <th width="10%"  scope="col"><div align="left">Release</div></th>
+          <th width="10%"  scope="col"><div align="left">Version</div></th>
           <th width="56%"  scope="col"><div align="left">Download</div></th>
         </tr>
         <tr>
