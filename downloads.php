@@ -199,7 +199,7 @@ and install it directly from that archive (can be installed offline).
   
 <div class="homeitem3col">
 <h3>Previous releases</h3>
-<p>The <a href="downloads_1.1.1.php">Release 1.1.1</a> download information is also available.
+<p>The <a href="downloads_1_1_1.php">Release 1.1.1</a> download information is also available.
 
 </div>
  
