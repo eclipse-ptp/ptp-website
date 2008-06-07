@@ -47,7 +47,7 @@ and install it directly from that archive (can be installed offline).
 <p>-- or -- </p>
 </li>
     <li>Download the individual files below that contain the current release of PTP. 
-        The PLDT component can be installed independently of PTP Core.
+    As in the above installation methods, the PLDT component can be installed independently of PTP Core.
 </li>
 </ul>
     </p>
