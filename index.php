@@ -52,6 +52,8 @@
 	  <div class="homeitem3col">
 		<h3>What&apos;s New</h3>
 		<ul>
+		<li>June 15, 2008: PTP Tutorial at <a href="http://en.oreilly.com/oscon2008/public/schedule/detail/2881">OSCON</a> in Portland, OR on Tuesday, July 22
+		
 		<li><img src="../images/new.gif">June 6, 2008: PTP Release 2.0.2 is available: see the <a href="http://www.eclipse.org/ptp/downloads.php">downloads page</a>.
 		This fixes a few bugs and ease-of-use items.
 		
