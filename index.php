@@ -51,10 +51,14 @@
    
 	  <div class="homeitem3col">
 		<h3>What&apos;s New</h3>
+		<p>Note: the <a href="">PTP Wiki</a> usually contains the most recent information.
 		<ul>
-		<li><img src="../images/new.gif">June 15, 2008: PTP Tutorial at <a href="http://en.oreilly.com/oscon2008/public/schedule/detail/2881">OSCON</a> in Portland, OR on Tuesday, July 22
+		<!-- <img src="../images/new.gif">  -->
+		<li>August 12, 2008: PTP 2.1 is scheduled for release on October 31.  See the <a href="http://wiki.eclipse.org/PTP/meetings/August_2008">August meeting minutes</a> for details.
+		<li>June 15, 2008: PTP Tutorial at <a href="http://en.oreilly.com/oscon2008/public/schedule/detail/2881">OSCON</a> in Portland, OR on Tuesday, July 22. Tutorial slides available on 
+		<a href="http://wiki.eclipse.org/PTP/tutorials">PTP tutorials page</a>
 		
-		<li><img src="../images/new.gif">June 6, 2008: PTP Release 2.0.2 is available: see the <a href="http://www.eclipse.org/ptp/downloads.php">downloads page</a>.
+		<li>June 6, 2008: PTP Release 2.0.2 is available: see the <a href="http://www.eclipse.org/ptp/downloads.php">downloads page</a>.
 		This fixes a few bugs and ease-of-use items.
 		
 		<li>May 19, 2008: Updated PTP 2.0 help pages are posted on <a href="http://www.eclipse.org/ptp/doc.php">documentation page</a>
@@ -237,11 +241,8 @@ See <a href="documentation/2.0/org.eclipse.ptp.pldt.help/html/whatsnew.html">Wha
 			  <i>Developing Scientific Applications Using Eclipse</i></a>
 			  by Greg Watson and Nathan Debardeleben, in <a href="http://www.computer.org/portal/site/cise/index.jsp">
 			  Computing in Science &amp; Engineering</a> magazine.
-				<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/SC2006.pdf?cvsroot=Tools_Project">
-				PTP Tutorial</a> given at 
-				<a href="http://sc06.supercomputing.org/">SC06</a>
-				on Sunday, Nov. 12, 2006. 
-				
+				<li><a href="http://wiki.eclipse.org/PTP/tutorials">PTP tutorials page</a>
+
 			</ul>
 		</div>
 		
