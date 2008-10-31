@@ -41,9 +41,9 @@
 <li><a href="documentation/2.1/org.eclipse.ptp.ibmll.help/html/IBMLLMainHelp.html">IBM Loadleveler (LL) Resource Manager</a>
 <li><a href="documentation/2.1/org.eclipse.ptp.rdt.doc.user/html/toc.html">RDT: Remote Development Tools</a>
 </ul>
-<p>Additional information for PTP 2.0:
+<p>Additional information for PTP 2.1:
 <ul>
-<li><a href="http://wiki.eclipse.org/PTP/release_notes/2.0">PTP 2.0 release notes</a> including installation directions
+<li><a href="http://wiki.eclipse.org/PTP/release_notes/2.1">PTP 2.1 release notes</a> including installation directions
 </ul>
 <h2>PTP 2.0  release information</h2>
 <p>The following links show the help in the PTP previous release (2.0).  To see this within Eclipse, install PTP and select Help > Help Contents.
