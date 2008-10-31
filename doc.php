@@ -33,7 +33,7 @@
 	<div id="midcolumn">
 <h1>PTP Documentation</h1>
 <h2>PTP 2.1  release information</h2>
-<p>The following links show the help in the PTP current release (2.0).  To see this within Eclipse, install PTP and select Help > Help Contents.
+<p>The following links show the help in the PTP current release (2.1).  To see this within Eclipse, install PTP and select Help > Help Contents.
 <ul>
 <li><a href="documentation/2.1/org.eclipse.ptp.help/html/toc.html">PTP Help</a> and <a href="documentation/2.1/org.eclipse.ptp.help/html/00newNoteworthy.html">New in 2.1</a>
 <li><a href="documentation/2.1/org.eclipse.ptp.pldt.help/html/toc.html">PLDT Help</a> and <a href="documentation/2.1/org.eclipse.ptp.pldt.help/html/whatsnew.html">New in 2.1</a>
@@ -63,20 +63,9 @@
 
 <h2>Tutorials</h2>
 <ul>
-<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/SC2006.pdf?cvsroot=Tools_Project">
-PTP Tutorial</a> from SC 2006 in Tampa, FL
-<p>
-<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/PTP-workshop.pdf?cvsroot=Tools_Project">
-PTP Tutorial</a> from Los Alamos Computer Science Institute (Fall 2005)
-<p>
-<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/ptp-tutorial-oscon07.slides.pdf?cvsroot=Tools_Project">
-PTP Tutorial slides</a>  
-and <a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/tutorials/ptp-tutorial-oscon07.handouts.pdf?cvsroot=Tools_Project">handouts</a> from 
-<a href="http://conferences.oreillynet.com/os2007/">OSCON</a> (July 2007) 
-<p>
-<li>More recent tutorial materials are available on the <a href="http://wiki.eclipse.org/PTP/tutorials">Tutorial Materials page on the PTP wiki</a>
-
+<li>For tutorial materials see the <a href="http://wiki.eclipse.org/PTP/tutorials">Tutorial Materials page on the PTP wiki</a>
 </ul>
+
 <h2>Presentations</h2>
 <ul>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/Power.org_2007.pdf?cvsroot=Tools_Project"><i>IDEs and Eclipse - Myths and Facts About the Worlds Greatest IDE</i></a>, Greg Watson, Power.org Power Architecture Summit, April 2007
