@@ -32,28 +32,24 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>Welcome to the downloads page for the 2.0 release of the Parallel Tools Platform.</p>
-    <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/2.0">
+		<p>Welcome to the downloads page for the 2.1 release of the Parallel Tools Platform.</p>
+    <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/2.1">
       release notes and installation instructions</a><font size=-1> for prerequisite information 
-      and instructions on building and installing PTP Release 2.0.  
-	<p>The preferred method for installing PTP 2.0 is from an update site, but it can also be downloaded as tar/zip files. 
-	The three alternatives for installation are:
+      and instructions on building and installing PTP Release 2.1.  
+	<p>The two alternatives for installation are:
 <ul>
-<li>Install via the remote update site: see <a href="http://download.eclipse.org/tools/ptp/releases/2.0/">the PTP 2.0 update site</a>
+<li>Install via the remote update site: see <a href="http://download.eclipse.org/tools/ptp/releases/2.1/">the PTP 2.1 update site</a>
 <p>-- or -- </p>
 </li>
-<li>Install via an archived site: Download an archived update site from the <a href="http://wiki.eclipse.org/PTP/builds/2.0">PTP builds page</a> 
-and install it directly from that archive (can be installed offline).
-<p>-- or -- </p>
-</li>
-    <li>Download the individual files below that contain the current release of PTP. 
-    As in the above installation methods, the PLDT component can be installed independently of PTP Core.
-</li>
+<li>Install via an archived site: Download an archived update site from the <a href="http://wiki.eclipse.org/PTP/builds/2.1">PTP builds page</a> 
+and install it directly from that archive (can be installed offline).</li>
 </ul>
+
+
     </p>
 
   <div class="homeitem3col">
-  <h3>PTP Core (includes resource managers and remote tools)</h3>
+  <h3>Remote Development Tools (RDT) Server Components</h3>
   <table>
   <tr>
     <td align=left valign=top >
@@ -63,143 +59,32 @@ and install it directly from that archive (can be installed offline).
           <th width="56%"  scope="col"><div align="left">Download</div></th>
         </tr>
         <tr>
-          <td>Linux and MacOS X</td>
-          <td><div align="left">2.0.2</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp-2.0.2.tar.gz">org.eclipse.ptp-2.0.2.tar.gz</a></div></td>
+          <td>Linux</td>
+          <td><div align="left">1.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.1/rdt-server-linux-1.0.tar">rdt-server-linux-1.0.tar</a></div></td>
         </tr>
         <tr>
-          <td>Linux and MacOS X</td>
-          <td><div align="left">2.0.2</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp-2.0.2.zip">org.eclipse.ptp-2.0.2.zip</a></div></td>
+          <td>Unix</td>
+          <td><div align="left">1.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.1/rdt-server-unix-1.0.tar">rdt-server-unix-1.0.tar</a></div></td>
         </tr>
-
+		<tr>
+          <td>MacOS X</td>
+          <td><div align="left">1.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.1/rdt-server-macosx-1.0.tar">rdt-server-macosx-1.0.tar</a></div></td>
+        </tr>
+		<tr>
+          <td>Windows</td>
+          <td><div align="left">1.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.1/rdt-server-windows-1.0.tar">rdt-server-windows-1.0.tar</a></div></td>
+        </tr>
       </table>   
   </div>
       
-  <div class="homeitem3col">
-  <h3>PTP Core + RSE (as above but includes support for RSE)</h3>
-  <table>
-  <tr>
-    <td align=left valign=top >
-        <tr bgcolor="#CCCCCC">
-          <th width="34%"  scope="col"><div align="left">Platform</div></th>
-          <th width="10%"  scope="col"><div align="left">Version</div></th>
-          <th width="56%"  scope="col"><div align="left">Download</div></th>
-        </tr>
-        <tr>
-          <td>Linux and MacOS X</td>
-          <td><div align="left">2.0.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rse-2.0.0.tar.gz">org.eclipse.ptp.rse-2.0.0.tar.gz</a></div></td>
-        </tr>
-        <tr>
-          <td>Linux and MacOS X</td>
-          <td><div align="left">2.0.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rse-2.0.0.zip">org.eclipse.ptp.rse-2.0.0.zip</a></div></td>
-        </tr>
-
-      </table>   
-  </div>
-  
-    <div class="homeitem3col">
-  <h3>Resource manager proxy agents (need to be installed on remote system)</h3>
-  <table>
-  <tr>
-    <td align=left valign=top >
-        <tr bgcolor="#CCCCCC">
-          <th width="34%"  scope="col"><div align="left">Platform</div></th>
-          <th width="10%"  scope="col"><div align="left">Version</div></th>
-          <th width="56%"  scope="col"><div align="left">Download</div></th>
-        </tr>
-        <tr>
-          <td>Linux and MacOS X</td>
-          <td><div align="left">2.0.2</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/ptp_proxy-2.0.2.tar.gz">ptp_proxy-2.0.2.tar.gz</a></div></td>
-        </tr>
-        <tr>
-          <td>Linux and MacOS X</td>
-          <td><div align="left">2.0.2</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/ptp_proxy-2.0.2.zip">ptp_proxy-2.0.2.zip</a></div></td>
-        </tr>
-
-      </table>   
-  </div>
-	  
-  <div class="homeitem3col">
-  <h3>Parallel Language Development Tools</h3>
-     <table>
-  <tr>
-    <td align=left valign=top >
-        <tr bgcolor="#CCCCCC">
-          <th width="34%"  scope="col"><div align="left">Platform</div></th>
-          <th width="10%"  scope="col"><div align="left">Version</div></th>
-          <th width="56%"  scope="col"><div align="left">Download</div></th>
-        </tr>
-
-        <tr>
-          <td>All</td>
-          <td><div align="left">2.0.2</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.pldt-2.0.2.tar.gz">org.eclipse.ptp.pldt-2.0.2.tar.gz</a></div></td>
-        </tr>
-
-        <tr>
-          <td>All</td>
-          <td><div align="left">2.0.2</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.pldt-2.0.2.zip">org.eclipse.ptp.pldt-2.0.2.zip</a></div></td>
-        </tr>
-      </table>  
-</div>
-
-  <div class="homeitem3col">
-  <h3>Performance Tools Framework (includes support for TAU)</h3>
-  <table>
-  <tr>
-    <td align=left valign=top >
-        <tr bgcolor="#CCCCCC">
-          <th width="34%"  scope="col"><div align="left">Platform</div></th>
-          <th width="10%"  scope="col"><div align="left">Version</div></th>
-          <th width="56%"  scope="col"><div align="left">Download</div></th>
-        </tr>
-        <tr>
-          <td>All</td>
-          <td><div align="left">1.0.2</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.perf-1.0.2.tar.gz">org.eclipse.ptp.perf-1.0.2.tar.gz</a></div></td>
-        </tr>
-        <tr>
-          <td>All</td>
-          <td><div align="left">1.0.2</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.perf-1.0.2.zip">org.eclipse.ptp.perf-1.0.2.zip</a></div></td>
-        </tr>
-
-      </table>   
-  </div>
-
-  <div class="homeitem3col">
-  <h3>Remote Development Tools (enable CDT for remote development)</h3>
-  <table>
-  <tr>
-    <td align=left valign=top >
-        <tr bgcolor="#CCCCCC">
-          <th width="34%"  scope="col"><div align="left">Platform</div></th>
-          <th width="10%"  scope="col"><div align="left">Version</div></th>
-          <th width="56%"  scope="col"><div align="left">Download</div></th>
-        </tr>
-        <tr>
-          <td>All</td>
-          <td><div align="left">1.0.1</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rdt-1.0.1.tar.gz">org.eclipse.ptp.rdt-1.0.1.tar.gz</a></div></td>
-        </tr>
-        <tr>
-          <td>All</td>
-          <td><div align="left">1.0.1</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.0/org.eclipse.ptp.rdt-1.0.1.zip">org.eclipse.ptp.rdt-1.0.1.zip</a></div></td>
-        </tr>
-
-      </table>   
-  </div>
   
 <div class="homeitem3col">
 <h3>Previous releases</h3>
-<p>The <a href="downloads_1_1_1.php">Release 1.1.1</a> download information is also available.
+<p>The <a href="downloads_2_0.php">Release 2.0</a> download information is also available.
 
 </div>
  
