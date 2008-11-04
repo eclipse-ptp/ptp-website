@@ -192,7 +192,7 @@ See <a href="documentation/2.0/org.eclipse.ptp.pldt.help/html/whatsnew.html">Wha
 		<div class="homeitem3col">
 		<h3>General Resources</h3>
 		<ul>
-			<li><a href="faq.php">FAQ (Frequently asked Questions about PTP)</a> 
+			<li><a href="http://wiki.eclipse.org/PTP/FAQ">FAQ (Frequently asked Questions about PTP)</a> 
         	<li>Ask questions about PTP on the <a href="http://dev.eclipse.org/mailman/listinfo">PTP mailing lists</a></li>
         	         	<li><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=PTP">Submit bugs and feature requests</a> 
       
