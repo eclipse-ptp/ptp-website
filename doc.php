@@ -40,7 +40,7 @@
 <li><a href="documentation/2.1/org.eclipse.ptp.ibmpe.help/html/PEMainHelp.html">IBM Parallel Environment (PE) Resource Manager</a>
 <li><a href="documentation/2.1/org.eclipse.ptp.ibmll.help/html/IBMLLMainHelp.html">IBM Loadleveler (LL) Resource Manager</a>
 <li><a href="documentation/2.1/org.eclipse.ptp.rdt.doc.user/html/toc.html">RDT: Remote Development Tools</a>
-<li><a href="http://wiki.eclipse.org/PTP/PTFw/PTFw-Overview">External Tools Framework (ETFw) / Performance Tools Framework (PTFw)
+<li><a href="http://wiki.eclipse.org/PTP/PTFw/PTFw-Overview">External Tools Framework (ETFw) / Performance Tools Framework (PTFw)</a>
 </ul>
 <p>Additional information for PTP 2.1:
 <ul>
