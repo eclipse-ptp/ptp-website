@@ -28,8 +28,8 @@
 	$Nav->addNavSeparator("PTP Home", 	"/ptp/index.php");
 	$Nav->addCustomNav("Downloads", 	"/ptp/downloads.php", 	"_self", 2);
 	$Nav->addCustomNav("Builds", 		"http://wiki.eclipse.org/PTP/builds", 		"_self", 2);
-	$Nav->addCustomNav("FAQ", 			"/ptp/faq.php", 		"_self", 2);
-	$Nav->addCustomNav("Wiki", 			"http://wiki.eclipse.org/index.php/Parallel_Tools_Platform", "_self", 2);
+	$Nav->addCustomNav("FAQ", 			"http://wiki.eclipse.org/PTP/FAQ", 		"_self", 2);
+	$Nav->addCustomNav("Wiki", 			"http://wiki.eclipse.org/PTP", "_self", 2);
 	$Nav->addCustomNav("Documentation", "/ptp/doc.php", 		"_self", 2);
 	$Nav->addCustomNav("Mailing Lists",	"http://eclipse.org/ptp/mailing_lists.php", "_self", 2);
 
