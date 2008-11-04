@@ -38,7 +38,7 @@
       and instructions on building and installing PTP Release 2.1.  
 	<p>The two alternatives for installation are:
 <ul>
-<li>Install via the remote update site: see <a href="http://download.eclipse.org/tools/ptp/releases/2.1/">the PTP 2.1 update site</a>
+<li>Install via the PTP 2.1 update site: <a href="http://download.eclipse.org/tools/ptp/releases/2.1">http://download.eclipse.org/tools/ptp/releases/2.1</a>
 <p>-- or -- </p>
 </li>
 <li>Install via a local archived site: download the archived update site from <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.1/ptp-master-2.1.0-I200811031726.zip">here</a>
