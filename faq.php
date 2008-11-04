@@ -32,6 +32,7 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
+		<p>This is out of date, needs to be updated for PTP 2.1.  Stay tuned.
 		<h2>List of FAQs</h2>
 
 		 <ul>
