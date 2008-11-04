@@ -32,7 +32,7 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>This is out of date, needs to be updated for PTP 2.1.  Stay tuned.
+		<p>This is out of date, The most recent <a href="http://wiki.eclipse.org/PTP/FAQ">FAQ is on the PTP wiki</a>.
 		<h2>List of FAQs</h2>
 
 		 <ul>
