@@ -54,7 +54,9 @@
 		<p>Note: the <a href="">PTP Wiki</a> usually contains the most recent information.
 		<ul>
 		<!-- <img src="../images/new.gif">  -->
-		<li>October 31, 2008: PTP Release 2.1 is almost here! Stay tuned.
+		<li><img src="../images/new.gif">November 3, 2008: PTP Release 2.1 is now available.  See the
+		<a href="downloads.php">downloads page</a>, the <a href="http://wiki.eclipse.org/PTP/release_notes/2.1">release notes</a>, 
+		online version of the <a href="doc.php">help docs</a>, and the <a href="http://wiki.eclipse.org/PTP/FAQ">FAQ</a>.
 		<li>August 12, 2008: PTP BOF at <a href="http://sc08.supercomputing.org">SC08 in Austin</a> is Wednesday Nov. 19, 5:30-7:00 PM	
 		<li>August 12, 2008: PTP 2.1 is scheduled for release on October 31.  See the <a href="http://wiki.eclipse.org/PTP/meetings/August_2008">August meeting minutes</a> for details.
 		<li>June 15, 2008: PTP Tutorial at <a href="http://en.oreilly.com/oscon2008/public/schedule/detail/2881">OSCON</a> in Portland, OR on Tuesday, July 22. Tutorial slides available on 
