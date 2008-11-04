@@ -41,8 +41,9 @@
 <li>Install via the remote update site: see <a href="http://download.eclipse.org/tools/ptp/releases/2.1/">the PTP 2.1 update site</a>
 <p>-- or -- </p>
 </li>
-<li>Install via an archived site: Download an archived update site from the <a href="http://wiki.eclipse.org/PTP/builds/2.1">PTP builds page</a> 
-and install it directly from that archive (can be installed offline).</li>
+<li>Install via a local archived site: download the archived update site from <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.1/ptp-master-2.1.0-I200811031726.zip">here</a>
+and install it using the update manager (can be installed offline). Other PTP builds are also available from the <a href="http://wiki.eclipse.org/PTP/builds/2.1">PTP builds page</a> </li>
+
 </ul>
 
 
