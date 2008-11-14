@@ -77,7 +77,7 @@ and install it using the update manager (can be installed offline). Other PTP bu
 		<tr>
           <td>Windows</td>
           <td><div align="left">1.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.1/rdt-server-windows-1.0.tar">rdt-server-windows-1.0.tar</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.1/rdt-server-windows-1.0.zip">rdt-server-windows-1.0.zip</a></div></td>
         </tr>
       </table>   
   </div>
