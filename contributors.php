@@ -40,13 +40,13 @@
   
 		  <ul>
 		  <li>Greg Watson (Project Lead), IBM Research
-		  <li>Craig Rasmussen, Los Alamos National Laboratory
-		  <li>Nathan DeBardeleben, Los Alamos National Laboratory
 		  <li>Clement Chu, Monash Univeristy
-		  <li>Donny Kurniawan, Monash Univeristy
-		  <li>Beth Tibbitts, IBM Research
-		  <li>Tianchao Li, Technische Universit&auml;t M&uuml;nchen 
+		  <li>Daniel Ferber, IBM
+		  <li>Craig Rasmussen, Los Alamos National Laboratory
 		  <li>Chris Recoskie, IBM
+		  <li>Wyatt Spear, University of Oregon
+		  <li>Beth Tibbitts, IBM Research
+		  <li>Randy Roberts, Los Alamos National Laboratory (Inactive)
 		  </ul>
 		  <p>
  
@@ -56,7 +56,9 @@
         <li>Don Pazel, Google Inc.
         <li>Bill Chung, IBM Research
         <li>Anirban Sinha, University of British Columbia
-        <li>Wyatt Spear, University of Oregon
+		  <li>Nathan DeBardeleben, Los Alamos National Laboratory
+		  <li>Donny Kurniawan, Monash Univeristy
+		  <li>Tianchao Li, Technische Universit&auml;t M&uuml;nchen 
         </ul>
         <p>
     <h3>Supporters</h3>
