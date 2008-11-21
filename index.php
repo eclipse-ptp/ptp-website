@@ -55,7 +55,7 @@
 		<ul>
 		<!-- <img src="../images/new.gif">  -->
 		<li><img src="../images/new.gif">PTP BOF at SC08 was 11/19/08.  
-		See slides <a href="http://wiki.eclipse.org/PTP/meetings/November_2008">here</a>
+		See slides <a href="http://wiki.eclipse.org/PTP/meetings/November_2008_SC08_BOF">here</a>
 		<li>November 3, 2008: PTP Release 2.1 is now available.  See the
 		<a href="downloads.php">downloads page</a>, the <a href="http://wiki.eclipse.org/PTP/release_notes/2.1">release notes</a>, 
 		online version of the <a href="doc.php">help docs</a>, and the <a href="http://wiki.eclipse.org/PTP/FAQ">FAQ</a>.
