@@ -46,6 +46,7 @@
 		  <li>Donny Kurniawan, Monash Univeristy
 		  <li>Beth Tibbitts, IBM Research
 		  <li>Tianchao Li, Technische Universit&auml;t M&uuml;nchen 
+		  <li>Chris Recoskie, IBM
 		  </ul>
 		  <p>
  
