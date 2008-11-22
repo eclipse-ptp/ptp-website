@@ -60,6 +60,7 @@
 		  <li>Donny Kurniawan*, Monash Univeristy
 		  <li>Tianchao Li*, Technische Universit&auml;t M&uuml;nchen 
           <li>Chris Rickett*, Los Alamos National Laboratory
+          <li>Dave Wootton, IBM
         </ul>
 		<p>*Former Committer
         <p>
