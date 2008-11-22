@@ -59,6 +59,7 @@
 		  <li>Nathan DeBardeleben, Los Alamos National Laboratory
 		  <li>Donny Kurniawan, Monash Univeristy
 		  <li>Tianchao Li, Technische Universit&auml;t M&uuml;nchen 
+          <li>Chris Rickett, Los Alamos National Laboratory
         </ul>
         <p>
     <h3>Supporters</h3>
