@@ -51,10 +51,10 @@
    
 	  <div class="homeitem3col">
 		<h3>What&apos;s New</h3>
-		<p>Note: the <a href="">PTP Wiki</a> usually contains the most recent information.
+		<p>Note: the <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> usually contains the most recent information.
 		<ul>
 		<!-- <img src="../images/new.gif">  -->
-		<li><img src="../images/new.gif">PTP BOF at SC08 was 11/19/08.  
+		<li>PTP BOF at SC08 was 11/19/08.  
 		See slides <a href="http://wiki.eclipse.org/PTP/meetings/November_2008_SC08_BOF">here</a>
 		<li>November 3, 2008: PTP Release 2.1 is now available.  See the
 		<a href="downloads.php">downloads page</a>, the <a href="http://wiki.eclipse.org/PTP/release_notes/2.1">release notes</a>, 
