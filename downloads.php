@@ -32,7 +32,7 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>Welcome to the downloads page for the 2.1 release of the Parallel Tools Platform.</p>
+		<p>Welcome to the downloads page for the <b><font size=+1>2.1.1</font></b> release of the Parallel Tools Platform.</p>
     <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/2.1">
       release notes and installation instructions</a><font size=-1> for prerequisite information 
       and instructions on building and installing PTP Release 2.1.  
