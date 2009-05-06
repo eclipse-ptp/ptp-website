@@ -27,7 +27,7 @@ class ProjectInfo {
         $Nav->addCustomNav("Users", htmlspecialchars($this->info->gettingstartedurl), "", 1);
  	        $Nav->addCustomNav("Getting Started", htmlspecialchars($this->info->gettingstartedurl), "", 2);
 	        $Nav->addCustomNav("Downloads", htmlspecialchars($this->info->downloadsurl), "", 2);
-	        $Nav->addCustomNav("Newsgroups", htmlspecialchars($this->newsgroup_url()), "", 2);
+	        #$Nav->addCustomNav("Newsgroups", htmlspecialchars($this->newsgroup_url()), "", 2);
 	        $Nav->addCustomNav("Bugs", htmlspecialchars($this->bugzilla_url()), "", 2);
 	        if( !empty($users) ) {
 	        	$users($Nav);
@@ -39,6 +39,7 @@ class ProjectInfo {
 	        }
         $Nav->addCustomNav("Contributors", htmlspecialchars($this->info->contributingurl), "", 1);
 	        $Nav->addCustomNav("Contributing", htmlspecialchars($this->info->contributingurl), "", 2);
+	        #$Nav->addCustomNav("Mailing Lists", htmlspecialchars($this->mailinglist_url()), "", 2);
 	        if( !empty($contributors) ) {
 	        	$contributors($Nav);
 	        }
