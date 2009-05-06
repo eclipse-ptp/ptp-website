@@ -6,13 +6,12 @@
 	# Optional: defaults to system theme 
 	$theme = "";
 
-	require_once($_SERVER['DOCUMENT_ROOT'] . "/projects/common/project-info.class.php");
+	require_once($_SERVER['DOCUMENT_ROOT'] . "/tools/ptp/project-info/project-info.class.php");
 	$projectInfo = new ProjectInfo("tools.ptp");
 	
 	function add2users() {
 		global $Nav;
 		#$Nav->addCustomNav("Mailing Lists", "/mail/index_project.php", "_self", 2);
-		#$Nav->addCustomNav("FAQ", "/ptp/faq.php", "_self", 2);
 		$Nav->addCustomNav("Documentation", "/ptp/doc.php", 		"_self", 2);
 		$Nav->addCustomNav("FAQ", 			"http://wiki.eclipse.org/PTP/FAQ", 		"_self", 2);
 		$Nav->addCustomNav("Mailing Lists",	"http://eclipse.org/ptp/mailing_lists.php", "_self", 2);
@@ -20,7 +19,6 @@
 	function add2contributors() {
 		global $Nav;
 		$Nav->addCustomNav("Builds", "/ptp/builds.php", "_self", 2);
-		$Nav->addCustomNav("Mailing Lists",	"http://eclipse.org/ptp/mailing_lists.php", "_self", 2);
 		$Nav->addCustomNav("Source Code",	"http://dev.eclipse.org/viewsvn/index.cgi/org.eclipse.ptp/?root=Tools_Project", "_self", 2);
 		$Nav->addCustomNav("Wiki", "http://wiki.eclipse.org/PTP", "_self", 2);
 	}
