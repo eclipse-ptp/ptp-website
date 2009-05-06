@@ -20,6 +20,7 @@
 	function add2contributors() {
 		global $Nav;
 		$Nav->addCustomNav("Builds", "/ptp/builds.php", "_self", 2);
+		$Nav->addCustomNav("Mailing Lists",	"http://eclipse.org/ptp/mailing_lists.php", "_self", 2);
 		$Nav->addCustomNav("Source Code",	"http://dev.eclipse.org/viewsvn/index.cgi/org.eclipse.ptp/?root=Tools_Project", "_self", 2);
 		$Nav->addCustomNav("Wiki", "http://wiki.eclipse.org/PTP", "_self", 2);
 	}
@@ -29,7 +30,7 @@
 	# Define your project-wide Nav bars here.
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
 	# these are optional
-	$Nav->addNavSeparator("PTP Home", 	"/ptp/index.php");
+	#$Nav->addNavSeparator("PTP Home", 	"/ptp/index.php");
 	#$Nav->addCustomNav("Builds", 		"http://wiki.eclipse.org/PTP/builds", 		"_self", 2);
 	#$Nav->addCustomNav("Wiki", 			"http://wiki.eclipse.org/PTP", "_self", 2);
 
