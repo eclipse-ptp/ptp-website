@@ -18,7 +18,7 @@
 	}   
 	function add2contributors() {
 		global $Nav;
-		$Nav->addCustomNav("Builds", "/ptp/builds.php", "_self", 2);
+		$Nav->addCustomNav("Builds", "http://wiki.eclipse.org/PTP/builds", "_self", 2);
 		$Nav->addCustomNav("Source Code",	"http://dev.eclipse.org/viewsvn/index.cgi/org.eclipse.ptp/?root=Tools_Project", "_self", 2);
 		$Nav->addCustomNav("Wiki", "http://wiki.eclipse.org/PTP", "_self", 2);
 	}
