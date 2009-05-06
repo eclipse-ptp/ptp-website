@@ -6,7 +6,7 @@
 	# Optional: defaults to system theme 
 	$theme = "";
 
-	require_once($_SERVER['DOCUMENT_ROOT'] . "/tools/ptp/project-info/project-info.class.php");
+	require_once($_SERVER['DOCUMENT_ROOT'] . "/ptp/project-info/project-info.class.php");
 	$projectInfo = new ProjectInfo("tools.ptp");
 	
 	function add2users() {
