@@ -53,9 +53,9 @@
 		<h3>What&apos;s New</h3>
 		<p>Note: the <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> usually contains the most recent information.
 		<ul>
-		<li>May 11, 2009: PTP 2.1.2 has been released. See the <a href="http://www.eclipse.org/ptp/downloads.php">PTP downloads page</a>
+		<li>May 11, 2009: <img src="../images/new.gif"> PTP 2.1.2 has been released. See the <a href="http://www.eclipse.org/ptp/downloads.php">PTP downloads page</a>
 		for details and installation instructions.	 
-		<li>March 16, 2009: <img src="../images/new.gif">The <a href="http://eclipse.org/photran">Photran</a> project has merged with PTP. For details
+		<li>March 16, 2009: The <a href="http://eclipse.org/photran">Photran</a> project has merged with PTP. For details
 		see the <a href="http://wiki.eclipse.org/PTP/photran-faq">Photran Merge FAQs</a> on the Wiki.
 		<li>March 9, 2009: PTP 2.1.1 has been released. See the <a href="http://www.eclipse.org/ptp/downloads.php">PTP downloads page</a>
 		for details and installation instructions.	 
