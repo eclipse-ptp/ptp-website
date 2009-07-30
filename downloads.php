@@ -32,7 +32,7 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>Welcome to the downloads page for the Parallel Tools Platform. The latest release is <b><font size=+1>2.1.2</font></b></p>
+		<p>Welcome to the downloads page for the Parallel Tools Platform. The latest release is <b><font size=+1>2.1.3</font></b></p>
     <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/2.1">
       release notes and installation instructions</a><font size=-1> for prerequisite information 
       and instructions on building and installing PTP Release 2.1.  
@@ -41,7 +41,7 @@
 <li>Install via the PTP 2.1 update site: <a href="http://download.eclipse.org/tools/ptp/releases/2.1">http://download.eclipse.org/tools/ptp/releases/2.1</a>
 <p>-- or -- </p>
 </li>
-<li>Install via a local archived site: download the archived update site <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.1/ptp-master-2.1.2-I200905011908.zip">ptp-master-2.1.2-I200905011908.zip</a>
+<li>Install via a local archived site: download the archived update site <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.1/ptp-master-2.1.3-I200907171904.zip">ptp-master-2.1.3-I200907171904.zip</a>
 and install it using the update manager (can be installed offline). Other PTP builds are also available from the <a href="http://wiki.eclipse.org/PTP/builds">PTP builds page</a> </li>
 
 </ul>
