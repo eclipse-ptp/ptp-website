@@ -42,12 +42,11 @@
 <p>-- or -- </p>
 </li>
 <li>Install via a local archived site: download the archived update site <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.1/ptp-master-2.1.3-I200907171904.zip">ptp-master-2.1.3-I200907171904.zip</a>
-and install it using the update manager (can be installed offline). Other PTP builds are also available from the <a href="http://wiki.eclipse.org/PTP/builds">PTP builds page</a> </li>
-
+and install it using the update manager (can be installed offline).  </li>
 </ul>
+</p>
+<p>Other PTP builds are also available from the <a href="http://wiki.eclipse.org/PTP/builds">PTP builds page</a>
 
-
-    </p>
 
   <div class="homeitem3col">
   <h3>Remote Development Tools (RDT) Server Components</h3>
