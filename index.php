@@ -53,7 +53,9 @@
 		<h3>What&apos;s New</h3>
 		<p>Note: the <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> usually contains the most recent information.
 		<ul>
-		<li>July 17, 2009: <img src="../images/new.gif"> PTP 2.1.3 has been released. See the <a href="http://www.eclipse.org/ptp/downloads.php">PTP downloads page</a>
+		<li>August 24, 2009: <img src="../images/new.gif"> Upcoming PTP Tutorials at Cluster09 (8/31/09), SC09 (11/16/09). See the <a href="http://wiki.eclipse.org/PTP/tutorials">PTP tutorials page</a>.
+		PTP BOF at SC09 is 11/18/09 at 5:30 pm..
+		<li>July 17, 2009: PTP 2.1.3 has been released. See the <a href="http://www.eclipse.org/ptp/downloads.php">PTP downloads page</a>
 		for details and installation instructions.	 
 		<li>May 11, 2009: PTP 2.1.2 has been released. See the <a href="http://www.eclipse.org/ptp/downloads.php">PTP downloads page</a>
 		for details and installation instructions.	 
