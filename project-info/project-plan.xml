@@ -5,14 +5,14 @@
 	<release projectid="tools.ptp" version="3.0" />
 	<introduction>
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
-			The Parallel Tools Platform project provides tools and
-			frameworks
-			to enable Eclipse to be
-			to be used for the development of parallel programs. The main
-			deliverables include: coding and static
-			analysis tools; runtime launching and monitoring; a parallel debugger; an
-			extensible tools framework;
-			remote development tools; and support for the Fortran language.
+			<p>The Parallel Tools Platform project provides tools and
+				frameworks
+				to enable Eclipse to be
+				to be used for the development of parallel programs. The main
+				deliverables include: coding and static
+				analysis tools; runtime launching and monitoring; a parallel debugger; an
+				extensible tools framework;
+				remote development tools; and support for the Fortran language.</p>
 		</html:div>
 	</introduction>
 	<release_deliverables>
@@ -81,41 +81,61 @@
 			</ul>
 		</html:div>
 		<internationalization>
-			<html:div xmlns="http://www.w3.org/1999/xhtml">Message bundles are used throughout, but they have not been
-				translated.</html:div>
+			<html:div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Message bundles are used throughout, but they have not been
+					translated.</p>
+			</html:div>
 		</internationalization>
 	</target_environments>
 	<compatibility_with_previous_releases>
-		<html:div xmlns="http://www.w3.org/1999/xhtml">PTP tries to preserve as much compatibility with previous
-			releases as possible.</html:div>
+		<html:div xmlns="http://www.w3.org/1999/xhtml">
+			<p>PTP tries to preserve as much compatibility with previous
+				releases as possible.</p>
+		</html:div>
 	</compatibility_with_previous_releases>
 	<themes_and_priorities>
 		<preamble>
-			<html:div xmlns="http://www.w3.org/1999/xhtml">The following is a list of major priority areas for PTP
-				development:</html:div>
+			<html:div xmlns="http://www.w3.org/1999/xhtml">
+				<p>The following is a list of major priority areas for PTP
+					development:</p>
+			</html:div>
 		</preamble>
 		<theme name="Improving Usability">
 			<description>
 				<html:div xmlns="http://www.w3.org/1999/xhtml">
-					Major usability enhancements include:
-					<ul>
-						<li>Introduction of common service configurations</li>
-						<li>Simplified runtime perspective</li>
-						<li>New remote project wizard</li>
-					</ul>
+					<p>
+						Major usability enhancements include:
+						<ul>
+							<li>Introduction of common service configurations</li>
+							<li>Simplified runtime perspective</li>
+							<li>New remote project wizard</li>
+						</ul>
+					</p>
 				</html:div>
 			</description>
 		</theme>
 		<theme name="Remote development tools">
 			<description>
-				<html:div xmlns="http://www.w3.org/1999/xhtml">Enhanced support for remote development, including better
-					integration with other aspects of
-					PTP.</html:div>
+				<html:div xmlns="http://www.w3.org/1999/xhtml">
+					<p>Enhanced support for remote development, including better
+						integration with other aspects of
+						PTP.</p>
+				</html:div>
+			</description>
+		</theme>
+		<theme name="Fortran support">
+			<description>
+				<html:div xmlns="http://www.w3.org/1999/xhtml">
+					<p>First release of Photran which adds support for the Fortran
+						language to Eclipse</p>
+				</html:div>
 			</description>
 		</theme>
 		<theme name="Improving Scalability">
 			<description>
-				<html:div xmlns="http://www.w3.org/1999/xhtml">Now deferred to 3.1 release.</html:div>
+				<html:div xmlns="http://www.w3.org/1999/xhtml">
+					<p>Now deferred to 3.1 release.</p>
+				</html:div>
 			</description>
 		</theme>
 	</themes_and_priorities>
