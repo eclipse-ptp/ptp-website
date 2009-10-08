@@ -4,7 +4,7 @@
 	xmlns:html="http://www.w3.org/1999/xhtml" name="PTP">
 	<release projectid="tools.ptp" version="3.0" />
 	<introduction>
-		<html:div>
+		<html:div xmlns="http://www.w3.org/1999/xhtml">
 			The Parallel Tools Platform project provides tools and
 			frameworks
 			to enable Eclipse to be
@@ -16,7 +16,7 @@
 		</html:div>
 	</introduction>
 	<release_deliverables>
-		<html:div>
+		<html:div xmlns="http://www.w3.org/1999/xhtml">
 			<ul>
 				<li>
 					<b>Launching &amp; Monitoring</b>
@@ -58,25 +58,19 @@
 	</release_deliverables>
 	<release_milestones>
 		<preamble>
-			<html:div>
-			</html:div>
 		</preamble>
 		<milestone date="10/10/2009" milestone="M1">
-			<html:div>optional html</html:div>
 		</milestone>
 		<milestone date="10/17/2009" milestone="RC1">
-			<html:div>optional html</html:div>
 		</milestone>
 		<milestone date="10/24/2009" milestone="RC2">
-			<html:div>optional html</html:div>
 		</milestone>
 		<milestone date="10/31/2009" milestone="3.0" />
 		<postamble>
-			<html:div></html:div>
 		</postamble>
 	</release_milestones>
 	<target_environments>
-		<html:div>
+		<html:div xmlns="http://www.w3.org/1999/xhtml">
 			<ul>
 				<li>Java 1.5</li>
 				<li>MacOS X 10.5 and later</li>
@@ -87,22 +81,22 @@
 			</ul>
 		</html:div>
 		<internationalization>
-			<html:div>Message bundles are used throughout, but they have not been
+			<html:div xmlns="http://www.w3.org/1999/xhtml">Message bundles are used throughout, but they have not been
 				translated.</html:div>
 		</internationalization>
 	</target_environments>
 	<compatibility_with_previous_releases>
-		<html:div>PTP tries to preserve as much compatibility with previous
+		<html:div xmlns="http://www.w3.org/1999/xhtml">PTP tries to preserve as much compatibility with previous
 			releases as possible.</html:div>
 	</compatibility_with_previous_releases>
 	<themes_and_priorities>
 		<preamble>
-			<html:div>The following is a list of major priority areas for PTP
+			<html:div xmlns="http://www.w3.org/1999/xhtml">The following is a list of major priority areas for PTP
 				development:</html:div>
 		</preamble>
 		<theme name="Improving Usability">
 			<description>
-				<html:div>
+				<html:div xmlns="http://www.w3.org/1999/xhtml">
 					Major usability enhancements include:
 					<ul>
 						<li>Introduction of common service configurations</li>
@@ -114,14 +108,14 @@
 		</theme>
 		<theme name="Remote development tools">
 			<description>
-				<html:div>Enhanced support for remote development, including better
+				<html:div xmlns="http://www.w3.org/1999/xhtml">Enhanced support for remote development, including better
 					integration with other aspects of
 					PTP.</html:div>
 			</description>
 		</theme>
 		<theme name="Improving Scalability">
 			<description>
-				<html:div>Now deferred to 3.1 release.</html:div>
+				<html:div xmlns="http://www.w3.org/1999/xhtml">Now deferred to 3.1 release.</html:div>
 			</description>
 		</theme>
 	</themes_and_priorities>
