@@ -5,20 +5,21 @@
 	<release projectid="tools.ptp" version="3.0" />
 	<introduction>
 		<html:div>
-			The Parallel Tools Platform project provides tools and frameworks
-				to enable Eclipse to be
-				to be used for the development of parallel programs. The main
-				deliverables include: coding and static
-				analysis tools; runtime launching and monitoring; a parallel debugger; an
-				extensible tools framework;
-				remote development tools; and support for the Fortran language.
+			The Parallel Tools Platform project provides tools and
+			frameworks
+			to enable Eclipse to be
+			to be used for the development of parallel programs. The main
+			deliverables include: coding and static
+			analysis tools; runtime launching and monitoring; a parallel debugger; an
+			extensible tools framework;
+			remote development tools; and support for the Fortran language.
 		</html:div>
 	</introduction>
 	<release_deliverables>
 		<html:div>
 			<ul>
 				<li>
-					<b>Launching & Monitoring</b>
+					<b>Launching &amp; Monitoring</b>
 				</li>
 				<ul>
 					<li>Runtime Systems</li>
@@ -75,41 +76,52 @@
 		</postamble>
 	</release_milestones>
 	<target_environments>
-		<html:div><ul>
-		<li>Java 1.5</li>
-		<li>MacOS X 10.5 and later</li>
-		<li>Fedora Core 9 and later</li>
-		<li>Open MPI 1.2 and later</li>
-		<li>MPICH2 1.0.6 and later</li>
-		<li>gdb 6.0 and later</li>
-		</ul></html:div>
+		<html:div>
+			<ul>
+				<li>Java 1.5</li>
+				<li>MacOS X 10.5 and later</li>
+				<li>Fedora Core 9 and later</li>
+				<li>Open MPI 1.2 and later</li>
+				<li>MPICH2 1.0.6 and later</li>
+				<li>gdb 6.0 and later</li>
+			</ul>
+		</html:div>
 		<internationalization>
-			<html:div>Message bundles are used throughout, but they have not been translated.</html:div>
+			<html:div>Message bundles are used throughout, but they have not been
+				translated.</html:div>
 		</internationalization>
 	</target_environments>
 	<compatibility_with_previous_releases>
-		<html:div>PTP tries to preserve as much compatibility with previous releases as possible.</html:div>
+		<html:div>PTP tries to preserve as much compatibility with previous
+			releases as possible.</html:div>
 	</compatibility_with_previous_releases>
 	<themes_and_priorities>
 		<preamble>
-			<html:div>The following is a list of major priority areas for PTP development:</html:div>
+			<html:div>The following is a list of major priority areas for PTP
+				development:</html:div>
 		</preamble>
 		<theme name="Improving Usability">
-			<description>Major usability enhancements include:
-			<ul>
-			<li>Introduction of common service configurations</li>
-			<li>Simplified runtime perspective</li>
-			<li>New remote project wizard</li>
-			</ul>
+			<description>
+				<html:div>
+					Major usability enhancements include:
+					<ul>
+						<li>Introduction of common service configurations</li>
+						<li>Simplified runtime perspective</li>
+						<li>New remote project wizard</li>
+					</ul>
+				</html:div>
 			</description>
 		</theme>
 		<theme name="Remote development tools">
-		<description>Enhanced support for remote development, including better integration with other aspects of
-		PTP.</description>
+			<description>
+				<html:div>Enhanced support for remote development, including better
+					integration with other aspects of
+					PTP.</html:div>
+			</description>
 		</theme>
 		<theme name="Improving Scalability">
 			<description>
-			Now deferred to 3.1 release.
+				<html:div>Now deferred to 3.1 release.</html:div>
 			</description>
 		</theme>
 	</themes_and_priorities>
