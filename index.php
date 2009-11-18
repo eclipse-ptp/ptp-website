@@ -53,7 +53,8 @@
 		<h3>What&apos;s New</h3>
 		<p>Note: the <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> usually contains the most recent information.
 		<ul>
-		<li>November 14, 2009: <img src="../images/new.gif"> See <a href="http://wiki.eclipse.org/PTP/meetings/SC09#PTP_.40_SC09"
+		<li><a href="http://wiki.eclipse.org/PTP/tutorials/SC09">PTP SC09 Tutorial slides</a> posted
+		<li>November 14, 2009: <img src="../images/new.gif"> See <a href="http://wiki.eclipse.org/PTP/meetings/SC09#PTP_.40_SC09">
 		All PTP and Photran-related events at SC09</a>
 		<li>November 13, 2009: <img src="../images/new.gif"> Upcoming PTP Tutorial at SC09 (11/16/09). See the <a href="http://wiki.eclipse.org/PTP/tutorials">PTP tutorials page</a>.
 		PTP BOF at SC09 is 11/18/09 at 5:30 pm. <a href="http://sc09.supercomputing.org">SC09</a> is November 15-20 - come see PTP at exhibit booths from IBM, NCSA, UIUC, and more!
