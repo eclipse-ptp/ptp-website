@@ -32,12 +32,18 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>Welcome to the downloads page for the Parallel Tools Platform. The latest release is <b><font size=+1>3.0.0</font></b></p>
-    <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/3.0">
+		<p>Welcome to the downloads page for the Parallel Tools Platform. The latest release is <b><font size=+1>2.1.3</font></b></p>
+    <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/2.1">
       release notes and installation instructions</a><font size=-1> for prerequisite information 
-      and instructions on building and installing PTP Release 3.0.  
-
-<p>PTP is installed from the Eclipse update site: <a href="http://download.eclipse.org/tools/ptp/releases/galileo">http://download.eclipse.org/tools/ptp/releases/galileo</a>
+      and instructions on building and installing PTP Release 2.1.  
+	<p>The two alternatives for installation are:
+<ul>
+<li>Install via the PTP 2.1 update site: <a href="http://download.eclipse.org/tools/ptp/releases/2.1">http://download.eclipse.org/tools/ptp/releases/2.1</a>
+<p>-- or -- </p>
+</li>
+<li>Install via a local archived site: download the archived update site <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.1/ptp-master-2.1.3-I200907171904.zip">ptp-master-2.1.3-I200907171904.zip</a>
+and install it using the update manager (can be installed offline).  </li>
+</ul>
 </p>
 <p>Other PTP builds are also available from the <a href="http://wiki.eclipse.org/PTP/builds">PTP builds page</a>
 
@@ -54,23 +60,23 @@
         </tr>
         <tr>
           <td>Linux</td>
-          <td><div align="left">3.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/galileo/rdt-server-linux-3.0.tar">rdt-server-linux-3.0.tar</a></div></td>
+          <td><div align="left">1.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.1/rdt-server-linux-1.0.tar">rdt-server-linux-1.0.tar</a></div></td>
         </tr>
         <tr>
           <td>Unix</td>
-          <td><div align="left">3.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/galileo/rdt-server-unix-3.0.tar">rdt-server-unix-3.0.tar</a></div></td>
+          <td><div align="left">1.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.1/rdt-server-unix-1.0.tar">rdt-server-unix-1.0.tar</a></div></td>
         </tr>
 		<tr>
           <td>MacOS X</td>
-          <td><div align="left">3.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/galileo/rdt-server-macosx-3.0.tar">rdt-server-macosx-3.0.tar</a></div></td>
+          <td><div align="left">1.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.1/rdt-server-macosx-1.0.tar">rdt-server-macosx-1.0.tar</a></div></td>
         </tr>
 		<tr>
           <td>Windows</td>
-          <td><div align="left">3.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/galileo/rdt-server-windows-3.0.zip">rdt-server-windows-3.0.zip</a></div></td>
+          <td><div align="left">1.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/2.1/rdt-server-windows-1.0.zip">rdt-server-windows-1.0.zip</a></div></td>
         </tr>
       </table>   
   </div>
@@ -78,13 +84,15 @@
   
 <div class="homeitem3col">
 <h3>Previous releases</h3>
-<p>The <a href="downloads_2_1.php">Release 2.1</a> download information is also available.
+<p>The <a href="downloads_2_0.php">Release 2.0</a> download information is also available.
 
 </div>
  
     <div class="homeitem3col">
-  <h3>Fortran Development Tools (Photran)</h3>
-<p>Photran is now part of PTP and can be installed using the PTP 3.0 update site.</p?
+  <h3>Fortran Development Tools</h3>
+<p>The Fortran Development Tools have been merged with the Photran project. Please see
+<a href="http://www.eclipse.org/photran">here</a> for more information on downloading
+and installing this plugin.
 </div>
  
 
