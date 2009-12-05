@@ -84,14 +84,16 @@
 		
 			 <div class="homeitem3col">
 			<h3>Fortran Development Tools (Photran)</h3>
-			 The <a href="http://eclipse.org/photran">Photran</a> project is now part of PTP. 
-			 <p>Now an integral part of the parallel tools platform, 
-			 Fortran language support is an essential tool for the parallel development community. 
-			 Please consult that for information on downloading and installing this plug-in.
+			 <p>The <a href="http://eclipse.org/photran">Photran</a> project is now part of PTP. 
+			 Forming an integral part of the parallel tools platform, 
+			 Fortran language support provided by Photran is an essential tool for the parallel development community. 
+			 Please consult the <a href="http://wiki.eclipse.org/PTP/photran/documentation/photran5">Photran User's Guide</a>
+			 for information on downloading and installing this plug-in.
 			 Highlights include:</p>
       <ul>
         <li>Support for IBM XLF, Intel Fortran, gfortran and other compilers</li>
         <li>Fortran editor with syntax highlighting</li>
+        <li>Powerful refactoring support</li>
         <li>Managed build support</li>
       </ul>
        
