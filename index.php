@@ -53,19 +53,19 @@
 		<h3>What&apos;s New</h3>
 		<p>Note: the <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> usually contains the most recent information.
 		<ul>
-		<li>December 4, 2009: PTP 3.0 released! This version contains numerous
+		<li>December 4, 2009: <img src="../images/new.gif"> PTP 3.0 released! This version contains numerous
 		enhancements and bug fixes. A list of the new
 		features is available from <a href="http://wiki.eclipse.org/PTP/new_and_noteworthy/3.0.0">here</a>.
 		See the <a href="downloads.php">downloads</a> page for more information on downloading and
 		installing PTP.
-		<li>November 14, 2009: <img src="../images/new.gif"><a href="http://wiki.eclipse.org/PTP/tutorials/SC09">PTP SC09 Tutorial slides</a> posted
-		<li>November 14, 2009: <img src="../images/new.gif"> See <a href="http://wiki.eclipse.org/PTP/meetings/SC09#PTP_.40_SC09">
+		<li>November 14, 2009: <a href="http://wiki.eclipse.org/PTP/tutorials/SC09">PTP SC09 Tutorial slides</a> posted
+		<li>November 14, 2009: See <a href="http://wiki.eclipse.org/PTP/meetings/SC09#PTP_.40_SC09">
 		All PTP and Photran-related events at SC09</a>
-		<li>November 13, 2009: <img src="../images/new.gif"> Upcoming PTP Tutorial at SC09 (11/16/09). See the <a href="http://wiki.eclipse.org/PTP/tutorials">PTP tutorials page</a>.
+		<li>November 13, 2009: Upcoming PTP Tutorial at SC09 (11/16/09). See the <a href="http://wiki.eclipse.org/PTP/tutorials">PTP tutorials page</a>.
 		PTP BOF at SC09 is 11/18/09 at 5:30 pm. <a href="http://sc09.supercomputing.org">SC09</a> is November 15-20 - come see PTP at exhibit booths from IBM, NCSA, UIUC, and more!
 		<li>August 24, 2009:  Upcoming PTP Tutorials at Cluster09 (8/31/09), SC09 (11/16/09). See the <a href="http://wiki.eclipse.org/PTP/tutorials">PTP tutorials page</a>.
 		PTP BOF at SC09 is 11/18/09 at 5:30 pm. 
-		<li>November 13, 2009: <img src="../images/new.gif"> Upcoming PTP Tutorial at SC09 (11/16/09). See the <a href="http://wiki.eclipse.org/PTP/tutorials">PTP tutorials page</a>.
+		<li>November 13, 2009: Upcoming PTP Tutorial at SC09 (11/16/09). See the <a href="http://wiki.eclipse.org/PTP/tutorials">PTP tutorials page</a>.
 		PTP BOF at SC09 is 11/18/09 at 5:30 pm. <a href="http://sc09.supercomputing.org">SC09</a> is November 15-20 - come see PTP at exhibit booths from IBM, NCSA, UIUC, and more!
 		<li>August 24, 2009:  Upcoming PTP Tutorials at Cluster09 (8/31/09), SC09 (11/16/09). See the <a href="http://wiki.eclipse.org/PTP/tutorials">PTP tutorials page</a>.
 		PTP BOF at SC09 is 11/18/09 at 5:30 pm. 
