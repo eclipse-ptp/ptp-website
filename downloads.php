@@ -55,22 +55,22 @@
         <tr>
           <td>Linux</td>
           <td><div align="left">3.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/galileo/rdt-server-linux-3.0.tar">rdt-server-linux-3.0.tar</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/galileo/rdt-server-linux-3.0.0.tar">rdt-server-linux-3.0.0.tar</a></div></td>
         </tr>
         <tr>
           <td>Unix</td>
           <td><div align="left">3.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/galileo/rdt-server-unix-3.0.tar">rdt-server-unix-3.0.tar</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/galileo/rdt-server-unix-3.0.0.tar">rdt-server-unix-3.0.0.tar</a></div></td>
         </tr>
 		<tr>
           <td>MacOS X</td>
           <td><div align="left">3.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/galileo/rdt-server-macosx-3.0.tar">rdt-server-macosx-3.0.tar</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/galileo/rdt-server-macosx-3.0.0.tar">rdt-server-macosx-3.0.0.tar</a></div></td>
         </tr>
 		<tr>
           <td>Windows</td>
           <td><div align="left">3.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/galileo/rdt-server-windows-3.0.zip">rdt-server-windows-3.0.zip</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/galileo/rdt-server-windows-3.0.0.zip">rdt-server-windows-3.0.0.zip</a></div></td>
         </tr>
       </table>   
   </div>
