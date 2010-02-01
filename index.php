@@ -53,7 +53,9 @@
 		<h3>What&apos;s New</h3>
 		<p>Note: the <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> usually contains the most recent information.
 		<ul>
-		<li>December 4, 2009: <img src="../images/new.gif"> PTP 3.0 released! This version contains numerous
+		<li>February 1, 2010: <img src="../images/new.gif"> PTP 3.0 help docs are here on the <a href="doc.php">documentation</a> 
+		link of this website now.  PTP 3.0.1 release should be available very soon.
+		<li>December 4, 2009: PTP 3.0 released! This version contains numerous
 		enhancements and bug fixes. A list of the new
 		features is available from <a href="http://wiki.eclipse.org/PTP/new_and_noteworthy/3.0.0">here</a>.
 		See the <a href="downloads.php">downloads</a> page for more information on downloading and
