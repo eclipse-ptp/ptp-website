@@ -41,6 +41,7 @@
 <li><a href="documentation/3.0/org.eclipse.ptp.rm.ibm.ll.help/html/IBMLLMainHelp.html">IBM Loadleveler (LL) Resource Manager</a>
 <li><a href="documentation/3.0/org.eclipse.ptp.rdt.doc.user/html/toc.html">RDT: Remote Development Tools</a>
 <li><a href="http://wiki.eclipse.org/PTP/PTFw/PTFw-Overview">External Tools Framework (ETFw) / Performance Tools Framework (PTFw)</a>
+<li><a href="http://wiki.eclipse.org/PTP/ETFw/PTP_External_Tools_Framework_Feedback_View">External Tools Framework (ETFw) Feedback view</a>
 </ul>
 <h2>PTP 2.1  release information</h2>
 <p>The following links show the help in the PTP previous release (2.1).  To see this within Eclipse, install PTP and select Help > Help Contents.
