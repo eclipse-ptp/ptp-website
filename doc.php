@@ -32,8 +32,18 @@
 
 	<div id="midcolumn">
 <h1>PTP Documentation</h1>
+<h2>PTP 3.0  release information</h2>
+<p>The following links show the help in the PTP current release (3.0).  To see this within Eclipse, install PTP and select Help > Help Contents.
+<ul>
+<li><a href="documentation/3.0/org.eclipse.ptp.help/html/toc.html">PTP Help</a> and <a href="documentation/3.0/org.eclipse.ptp.help/html/00newNoteworthy.html">New in 3.0</a>
+<li><a href="documentation/3.0/org.eclipse.ptp.pldt.help/html/toc.html">PLDT Help</a> and <a href="documentation/3.0/org.eclipse.ptp.pldt.help/html/whatsnew.html">New in 3.0</a>
+<li><a href="documentation/3.0/org.eclipse.ptp.rm.ibm.pe.help/html/PEMainHelp.html">IBM Parallel Environment (PE) Resource Manager</a>
+<li><a href="documentation/3.0/org.eclipse.ptp.rm.ibm.ll.help/html/IBMLLMainHelp.html">IBM Loadleveler (LL) Resource Manager</a>
+<li><a href="documentation/3.0/org.eclipse.ptp.rdt.doc.user/html/toc.html">RDT: Remote Development Tools</a>
+<li><a href="http://wiki.eclipse.org/PTP/PTFw/PTFw-Overview">External Tools Framework (ETFw) / Performance Tools Framework (PTFw)</a>
+</ul>
 <h2>PTP 2.1  release information</h2>
-<p>The following links show the help in the PTP current release (2.1).  To see this within Eclipse, install PTP and select Help > Help Contents.
+<p>The following links show the help in the PTP previous release (2.1).  To see this within Eclipse, install PTP and select Help > Help Contents.
 <ul>
 <li><a href="documentation/2.1/org.eclipse.ptp.help/html/toc.html">PTP Help</a> and <a href="documentation/2.1/org.eclipse.ptp.help/html/00newNoteworthy.html">New in 2.1</a>
 <li><a href="documentation/2.1/org.eclipse.ptp.pldt.help/html/toc.html">PLDT Help</a> and <a href="documentation/2.1/org.eclipse.ptp.pldt.help/html/whatsnew.html">New in 2.1</a>
