@@ -53,7 +53,7 @@
 		<h3>What&apos;s New</h3>
 		<p>Note: the <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> usually contains the most recent information.
 		<ul>
-		<li>February 2, 2010: <img src="../images/new.gif"> PTP 3.0.1 released.
+		<li>February 2, 2010: <img src="../images/new.gif"> PTP 3.0.1 and Photran 5.0.1 released.
 		<li>February 1, 2010: <img src="../images/new.gif"> PTP 3.0 help docs are here on the <a href="doc.php">documentation</a> 
 		link of this website now.  PTP 3.0.1 release should be available very soon.
 		<li>December 4, 2009: PTP 3.0 released! This version contains numerous
