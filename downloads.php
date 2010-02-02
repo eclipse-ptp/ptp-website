@@ -32,7 +32,7 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>Welcome to the downloads page for the Parallel Tools Platform. The latest release is <b><font size=+1>3.0.0</font></b></p>
+		<p>Welcome to the downloads page for the Parallel Tools Platform. The latest release is <b><font size=+1>3.0.1</font></b></p>
     <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/3.0">
       release notes and installation instructions</a><font size=-1> for prerequisite information 
       and instructions on building and installing PTP Release 3.0.  
@@ -55,22 +55,22 @@
         <tr>
           <td>Linux</td>
           <td><div align="left">3.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/galileo/rdt-server-linux-3.0.0.tar">rdt-server-linux-3.0.0.tar</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/galileo/rdt-server-linux-3.0.1.tar">rdt-server-linux-3.0.1.tar</a></div></td>
         </tr>
         <tr>
           <td>Unix</td>
           <td><div align="left">3.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/galileo/rdt-server-unix-3.0.0.tar">rdt-server-unix-3.0.0.tar</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/galileo/rdt-server-unix-3.0.1.tar">rdt-server-unix-3.0.1.tar</a></div></td>
         </tr>
 		<tr>
           <td>MacOS X</td>
           <td><div align="left">3.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/galileo/rdt-server-macosx-3.0.0.tar">rdt-server-macosx-3.0.0.tar</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/galileo/rdt-server-macosx-3.0.1.tar">rdt-server-macosx-3.0.1.tar</a></div></td>
         </tr>
 		<tr>
           <td>Windows</td>
           <td><div align="left">3.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/galileo/rdt-server-windows-3.0.0.zip">rdt-server-windows-3.0.0.zip</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/releases/galileo/rdt-server-windows-3.0.1.zip">rdt-server-windows-3.0.1.zip</a></div></td>
         </tr>
       </table>   
   </div>
