@@ -86,6 +86,8 @@
 <p>
 <li><a href="http://www.eclipsecon.org/2010/sessions/?page=sessions&id=1126">The Parallel Tools Platform: A Development Environment for High Performance Computing</a>, Greg Watson, EclipseCon 2010, March 2010
 <p>
+<li><a href="http://www.eclipsecon.org/2008/index.php?page=sub/&id=373">Static Analysis in PTP with CDT</a>, Beth Tibbitts, EclipseCon 2010, March 2008
+<p>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/Power.org_2007.pdf?cvsroot=Tools_Project"><i>IDEs and Eclipse - Myths and Facts About the Worlds Greatest IDE</i></a>, Greg Watson, Power.org Power Architecture Summit, April 2007
 <p>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/stmcs07_Tibbitts_EclipsePTPa.pdf?cvsroot=Tools_Project">
