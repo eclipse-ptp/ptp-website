@@ -81,8 +81,11 @@
 <h2>Presentations</h2>
 <ul>
 <li><a href="http://www.eclipsecon.org/2010/sessions/?page=sessions&id=1500">Make Me an Eclipse View (with Less Plumbing): The PTP External Tools Framework Feedback View</a>, Beth Tibbitts, EclipseCon 2010, March 2010 <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/docs/TibbittsEclipseCon2010_PTPfeedback.pdf">Slides PDF</a>
+<p>
 <li><a href="http://www.eclipsecon.org/2010/sessions/?page=sessions&id=1428">UPC and OpenMP Parallel Programming in PTP with CDT</a>, Beth Tibbitts, EclipseCon 2010, March 2010 <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/docs/TibbittsEclipseCon2010_UPCandOpenMP.pdf">Slides PDF</a>
+<p>
 <li><a href="http://www.eclipsecon.org/2010/sessions/?page=sessions&id=1126">The Parallel Tools Platform: A Development Environment for High Performance Computing</a>, Greg Watson, EclipseCon 2010, March 2010
+<p>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/Power.org_2007.pdf?cvsroot=Tools_Project"><i>IDEs and Eclipse - Myths and Facts About the Worlds Greatest IDE</i></a>, Greg Watson, Power.org Power Architecture Summit, April 2007
 <p>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/stmcs07_Tibbitts_EclipsePTPa.pdf?cvsroot=Tools_Project">
