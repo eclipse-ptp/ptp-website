@@ -41,7 +41,7 @@
 <li><a href="documentation/3.0/org.eclipse.ptp.rm.ibm.ll.help/html/IBMLLMainHelp.html">IBM Loadleveler (LL) Resource Manager</a>
 <li><a href="documentation/3.0/org.eclipse.ptp.rdt.doc.user/html/toc.html">RDT: Remote Development Tools</a>
 <li><a href="http://wiki.eclipse.org/PTP/PTFw/PTFw-Overview">External Tools Framework (ETFw) / Performance Tools Framework (PTFw)</a>
-<li><a href="http://wiki.eclipse.org/PTP/ETFw/PTP_External_Tools_Framework_Feedback_View">External Tools Framework (ETFw) Feedback view</a>
+<li><a href="http://wiki.eclipse.org/PTP/ETFw/PTP_External_Tools_Framework_Feedback_View">External Tools Framework (ETFw) Feedback viewdev.eclipe.o</a>
 </ul>
 <h2>PTP 2.1  release information</h2>
 <p>The following links show the help in the PTP previous release (2.1).  To see this within Eclipse, install PTP and select Help > Help Contents.
@@ -80,6 +80,9 @@
 
 <h2>Presentations</h2>
 <ul>
+<li><a href="http://www.eclipsecon.org/2010/sessions/?page=sessions&id=1500">Make Me an Eclipse View (with Less Plumbing): The PTP External Tools Framework Feedback View</a>, Beth Tibbitts, EclipseCon 2010, March 2010 <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/docs/TibbittsEclipseCon2010_PTPfeedback.pdf">Slides PDF</a>
+<li><a href="http://www.eclipsecon.org/2010/sessions/?page=sessions&id=1428">UPC and OpenMP Parallel Programming in PTP with CDT</a>, Beth Tibbitts, EclipseCon 2010, March 2010 <a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/docs/TibbittsEclipseCon2010_UPCandOpenMP.pdf">Slides PDF</a>
+<li><a href="http://www.eclipsecon.org/2010/sessions/?page=sessions&id=1126">The Parallel Tools Platform: A Development Environment for High Performance Computing</a>, Greg Watson, EclipseCon 2010, March 2010
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/Power.org_2007.pdf?cvsroot=Tools_Project"><i>IDEs and Eclipse - Myths and Facts About the Worlds Greatest IDE</i></a>, Greg Watson, Power.org Power Architecture Summit, April 2007
 <p>
 <li><a href="http://dev.eclipse.org/viewcvs/index.cgi/%7Echeckout%7E/org.eclipse.ptp/doc/presentations/stmcs07_Tibbitts_EclipsePTPa.pdf?cvsroot=Tools_Project">
