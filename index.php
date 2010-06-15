@@ -53,7 +53,9 @@
 		<h3>What&apos;s New</h3>
 		<p>Note: the <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> usually contains the most recent information. 
 		<ul>
-		<li>March 25, 2010: <img src="../images/new.gif"> PTP presentations at <a href="http://www.eclipsecon.org/2010/">EclipseCon 2010</a> include:
+		<li>June 15, 2010: <img src="../images/new.gif"> PTP 4.0 will be released with Eclipse 3.6 (Helios)
+		 on June 23, 2010.
+		<li>March 25, 2010:  PTP presentations at <a href="http://www.eclipsecon.org/2010/">EclipseCon 2010</a> include:
 		<ul>
 		<li><a href="http://www.eclipsecon.org/2010/sessions/?page=sessions&id=1500">Make Me an Eclipse View (with Less Plumbing): The PTP External Tools Framework Feedback View</a> by Beth Tibbitts
 		<li><a href="http://www.eclipsecon.org/2010/sessions/?page=sessions&id=1428">UPC and OpenMP Parallel Programming in PTP with CDT</a> by Beth Tibbitts
