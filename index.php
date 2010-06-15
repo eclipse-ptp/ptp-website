@@ -53,7 +53,9 @@
 		<h3>What&apos;s New</h3>
 		<p>Note: the <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> usually contains the most recent information. 
 		<ul>
-		<li>June 15, 2010: <img src="../images/new.gif"> PTP 4.0 will be released with Eclipse 3.6 (Helios)
+		<li>June 15, 2010: <img src="../images/new.gif"> PTP 4.0 and
+		<a href="http://eclipse.org/photran">Photran 6.0 </a>
+		will be released with Eclipse 3.6 (Helios)
 		 on June 23, 2010.
 		<li>March 25, 2010:  PTP presentations at <a href="http://www.eclipsecon.org/2010/">EclipseCon 2010</a> include:
 		<ul>
