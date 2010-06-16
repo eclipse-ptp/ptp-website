@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
 <plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan"
 	xmlns:html="http://www.w3.org/1999/xhtml" name="PTP">
-	<release projectid="tools.ptp" version="3.0" />
+	<release projectid="tools.ptp" version="4.0" />
 	<introduction>
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
 			<p>The Parallel Tools Platform project provides tools and
@@ -12,7 +12,7 @@
 				deliverables include: coding and static
 				analysis tools; runtime launching and monitoring; a parallel debugger; an
 				extensible tools framework;
-				remote development tools; and support for the Fortran language.</p>
+				remote development tools; and Fortran language support.</p>
 		</html:div>
 	</introduction>
 	<release_deliverables>
@@ -59,13 +59,18 @@
 	<release_milestones>
 		<preamble>
 		</preamble>
-		<milestone date="10/10/2009" milestone="M1">
+		<milestone date="3/19/2010" milestone="M6">
 		</milestone>
-		<milestone date="10/17/2009" milestone="RC1">
+		<milestone date="5/7/2010" milestone="M7">
 		</milestone>
-		<milestone date="10/24/2009" milestone="RC2">
+		<milestone date="5/21/2010" milestone="RC1">
 		</milestone>
-		<milestone date="10/31/2009" milestone="3.0" />
+		<milestone date="5/28/2010" milestone="RC2">
+		</milestone>
+		<milestone date="6/4/2010" milestone="RC3">
+		</milestone
+		<milestone date="6/11/2010" milestone="RC3">
+		</milestone
 		<postamble>
 		</postamble>
 	</release_milestones>
