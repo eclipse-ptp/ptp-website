@@ -37,8 +37,9 @@
 <ul>
 <li><a href="http://wiki.eclipse.org/PTP/release_notes/4.0">PTP 4.0 Release Notes</a>
 <li><a href="http://wiki.eclipse.org/PTP/new_and_noteworthy/4.0.0">New and Noteworthy features in PTP 4.0</a>
-<li><a href="documentation/4.0/org.eclipse.ptp.help/html/toc.html">PTP Help (including PLDT and ETFw)</a>
-<li><a href="documentation/4.0/org.eclipse.ptp.rdt.doc.user/html/toc.html">RDT: Remote Development Tools</a>
+<li><a href="http://help.eclipse.org/helios/index.jsp?nav=/35">Parallel Tools Platform User Guide (including PLDT and ETFw)</a>
+<li><a href="http://help.eclipse.org/helios/nav/36">Photran User Guide</a>
+<li><a href="http://help.eclipse.org/helios/topic/org.eclipse.ptp.rdt.doc.user/html/toc.html">Remote Development Tools User Guide</a>
 </ul>
 <h2>PTP 3.0  release information</h2>
 <p>The following links are available for the previous release of PTP 3.0.  To see this within Eclipse, install PTP and select Help > Help Contents.
