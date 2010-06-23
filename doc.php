@@ -32,8 +32,16 @@
 
 	<div id="midcolumn">
 <h1>PTP Documentation</h1>
+<h2>PTP 4.0  release information</h2>
+<p>The following links are available for the current release of PTP 4.0.  To see this within Eclipse, install PTP and select Help > Help Contents.
+<ul>
+<li><a href="http://wiki.eclipse.org/PTP/release_notes/4.0">PTP 4.0 Release Notes</a>
+<li><a href="http://wiki.eclipse.org/PTP/new_and_noteworthy/4.0.0">New and Noteworthy features in PTP 4.0</a>
+<li><a href="documentation/4.0/org.eclipse.ptp.help/html/toc.html">PTP Help (including PLDT and ETFw)</a>
+<li><a href="documentation/4.0/org.eclipse.ptp.rdt.doc.user/html/toc.html">RDT: Remote Development Tools</a>
+</ul>
 <h2>PTP 3.0  release information</h2>
-<p>The following links show the help in the PTP current release (3.0).  To see this within Eclipse, install PTP and select Help > Help Contents.
+<p>The following links are available for the previous release of PTP 3.0.  To see this within Eclipse, install PTP and select Help > Help Contents.
 <ul>
 <li><a href="documentation/3.0/org.eclipse.ptp.help/html/toc.html">PTP Help</a> and <a href="documentation/3.0/org.eclipse.ptp.help/html/00newNoteworthy.html">New in 3.0</a>
 and <a href="http://wiki.eclipse.org/PTP/new_and_noteworthy/3.0.0">New and Noteworthy features in  PTP 3.0</a>
@@ -45,7 +53,7 @@ and <a href="http://wiki.eclipse.org/PTP/new_and_noteworthy/3.0.0">New and Notew
 <li><a href="http://wiki.eclipse.org/PTP/ETFw/PTP_External_Tools_Framework_Feedback_View">External Tools Framework (ETFw) Feedback view</a>
 </ul>
 <h2>PTP 2.1  release information</h2>
-<p>The following links show the help in the PTP previous release (2.1).  To see this within Eclipse, install PTP and select Help > Help Contents.
+<p>The following links are available for the previous release of PTP 2.1.  To see this within Eclipse, install PTP and select Help > Help Contents.
 <ul>
 <li><a href="documentation/2.1/org.eclipse.ptp.help/html/toc.html">PTP Help</a> and <a href="documentation/2.1/org.eclipse.ptp.help/html/00newNoteworthy.html">New in 2.1</a>
 <li><a href="documentation/2.1/org.eclipse.ptp.pldt.help/html/toc.html">PLDT Help</a> and <a href="documentation/2.1/org.eclipse.ptp.pldt.help/html/whatsnew.html">New in 2.1</a>
@@ -58,22 +66,7 @@ and <a href="http://wiki.eclipse.org/PTP/new_and_noteworthy/3.0.0">New and Notew
 <ul>
 <li><a href="http://wiki.eclipse.org/PTP/release_notes/2.1">PTP 2.1 release notes</a> including installation directions
 </ul>
-<h2>PTP 2.0  release information</h2>
-<p>The following links show the help in the PTP previous release (2.0).  To see this within Eclipse, install PTP and select Help > Help Contents.
-<ul>
-<li><a href="documentation/2.0b/org.eclipse.ptp.help/html/toc.html">PTP Help</a> and <a href="documentation/2.0b/org.eclipse.ptp.help/html/00newNoteworthy.html">New in 2.0</a>
-<li><a href="documentation/2.0b/org.eclipse.ptp.pldt.help/html/toc.html">PLDT Help</a> and <a href="documentation/2.0b/org.eclipse.ptp.pldt.help/html/whatsnew.html">New in 2.0</a>
-<li><a href="documentation/2.0b/org.eclipse.ptp.ibmpe.help/html/PEMainHelp.html">IBM Parallel Environment (PE) Resource Manager</a>
-<li><a href="documentation/2.0b/org.eclipse.ptp.ibmll.help/html/IBMLLMainHelp.html">IBM Loadleveler (LL) Resource Manager</a>
-</ul>
-<p>Additional information for PTP 2.0:
-<ul>
-<li><a href="http://wiki.eclipse.org/PTP/release_notes/2.0">PTP 2.0 release notes</a> including installation directions
-</ul>
-<p>
 <h1>Tutorials, Presentations, and other papers</h1>
-
-
 <h2>Tutorials</h2>
 <ul>
 <li>For tutorial materials see the <a href="http://wiki.eclipse.org/PTP/tutorials">Tutorial Materials page on the PTP wiki</a>
