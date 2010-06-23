@@ -37,7 +37,14 @@
 
 <div id="introText">
 
-<p>The PTP Project provides .. blah blah blah
+<p>The PTP Project provides  an open-source industry-strength platform that provides a highly integrated environment specifically designed for parallel application development. 
+PTP includes:
+<ul>
+<li>a standard, portable parallel IDE that supports a wide range of parallel architectures and runtime systems
+<li>a scalable parallel debugger
+<li<support for the integration of a wide range of parallel tools
+<li>an environment that simplifies the end-user interaction with parallel systems
+</ul>
 </p>
 
 <img class="displayed" src="/cdt/images/snapshots.gif" alt="PTP Snapshots" border="0"/>
@@ -52,9 +59,9 @@
 <h3>Current Status</h3>
 <p>PTP version 4.0 is now available for Eclipse Helios.</p>
 <p>Release review material is now available. See the
-	<a href="releases/cdt7.0/PTP_Helios_Review.pdf">Review Slides</a>
+	<a href="PTP_Helios_Review.pdf">Review Slides</a>
 	and the
-	<a href="releases/cdt7.0/PTP_Helios_Approved_IP_Log.pdf">Approved IP log</a>.
+	<a href="PTP_Helios_Approved_IP_Log.pdf">Approved IP log</a>.
 </p>
 </div>
 
