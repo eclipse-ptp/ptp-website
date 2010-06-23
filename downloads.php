@@ -32,7 +32,7 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>Welcome to the downloads page for the Parallel Tools Platform. The latest release is <b><font size=+1>4.0.0</font></b></p>
+		<p>Welcome to the downloads page for the Parallel Tools Platform (incuding Photran). The latest release of PTP is <b><font size=+1>4.0.0</font></b></p>
     <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/4.0">
       release notes and installation instructions</a><font size=-1> for prerequisite information 
       and instructions on building and installing PTP Release 4.0.  
@@ -44,7 +44,7 @@ PTP is available using the Eclipse Installation Manager from the Helios update s
 Individual PTP features and future updates are available from the PTP update site: <a href="http://download.eclipse.org/tools/ptp/updates/helios">http://download.eclipse.org/tools/ptp/updates/helios</a>
 </p>
 
-<p>Other PTP builds are also available from the <a href="http://wiki.eclipse.org/PTP/builds">PTP builds page</a>
+<p>Other PTP builds are also available from the <a href="http://wiki.eclipse.org/PTP/builds">PTP builds page</a>.
 
 
   <div class="homeitem3col">
@@ -83,14 +83,14 @@ Individual PTP features and future updates are available from the PTP update sit
   
 <div class="homeitem3col">
 <h3>Previous releases</h3>
-<p>The <a href="downloads_3_0.php">Release 3.0</a> download information is also available.
-<p>The <a href="downloads_2_1.php">Release 2.1</a> download information is also available.
+<p>Download information for <a href="downloads_3_0.php">PTP 3.0</a>.
+<p>Download information for <a href="downloads_2_1.php">PTP 2.1</a>.
 
 </div>
  
     <div class="homeitem3col">
   <h3>Fortran Development Tools (Photran)</h3>
-<p>Photran is now part of PTP and can be installed using the PTP 3.0 update site.</p?
+<p>Photran is now part of PTP and can be installed using the PTP 4.0 update site.</p?
 </div>
  
 
