@@ -37,6 +37,7 @@
 <li>For installation help, see the <a href="http://wiki.eclipse.org/PTP/release_notes/4.0">Release notes</a>
 <li>Read the <a href="http://help.eclipse.org/helios/topic/org.eclipse.ptp.help/html/toc.html">PTP Help</a>
 <li>See the <a href="http://wiki.eclipse.org/PTP/tutorials">PTP Tutorials</a>
+<li>Read and ask questions on the <a href="http://dev.eclipse.org/mhonarc/lists/ptp-user/">ptp-users mailing list</a>
 <li>See more information on the <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> and at the links below.
 </ul>
 
