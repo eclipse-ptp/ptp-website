@@ -32,13 +32,22 @@
 
 	<div id="midcolumn">
 <h1>PTP Documentation</h1>
+<h2>Getting Started</h2>
+<ul>
+<li>For installation help, see the <a href="http://wiki.eclipse.org/PTP/release_notes/4.0">Release notes</a>
+<li>Read the <a href="http://help.eclipse.org/helios/topic/org.eclipse.ptp.help/html/toc.html">PTP Help</a>
+<li>See the <a href="http://wiki.eclipse.org/PTP/tutorials">PTP Tutorials</a>
+<li>See more information on the <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> and at the links below.
+</ul>
+
 <h2>PTP 4.0  release information</h2>
 <p>The following links are available for the current release of PTP 4.0.  To see this within Eclipse, install PTP and select Help > Help Contents.
 <ul>
 <li><a href="http://wiki.eclipse.org/PTP/release_notes/4.0">PTP 4.0 Release Notes</a>
 <li><a href="http://wiki.eclipse.org/PTP/new_and_noteworthy/4.0.0">New and Noteworthy features in PTP 4.0</a>
-<li><a href="http://help.eclipse.org/helios/index.jsp?nav=/35">Parallel Tools Platform User Guide (including PLDT and ETFw)</a>
-<li><a href="http://help.eclipse.org/helios/nav/36">Photran User Guide</a>
+<li><a href="http://help.eclipse.org/helios/topic/org.eclipse.ptp.help/html/toc.html">Parallel Tools Platform User Guide (including PLDT and ETFw)</a>
+<li><a href="http://help.eclipse.org/helios/nav/38">Photran User Guide</a> and
+<a href="http://help.eclipse.org/helios/topic/org.eclipse.photran.doc.user/html/basic/InstallingPhotran.html">Photran Installation help</a>
 <li><a href="http://help.eclipse.org/helios/topic/org.eclipse.ptp.rdt.doc.user/html/toc.html">Remote Development Tools User Guide</a>
 </ul>
 <h2>PTP 3.0  release information</h2>
