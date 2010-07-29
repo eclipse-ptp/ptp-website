@@ -53,7 +53,8 @@
 		<h3>What&apos;s New</h3>
 		<p>Note: the <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> usually contains the most recent information. 
 		<ul>
-		<li>July 29, 2010: <img src="../images/new.gif"> <a href="http://sc10.supercomputing.org/schedule/event_detail.php?evid=tut149">PTP Tutorial</a> at the <a href-"http://sc10.supercomputing.org/">Supercomputing 2010 Conference in New Orleans</a>
+		<li>July 29, 2010: <img src="../images/new.gif"> <a href="http://sc10.supercomputing.org/schedule/event_detail.php?evid=tut149">PTP Tutorial</a> 
+		at the <a href="http://sc10.supercomputing.org/">Supercomputing 2010 Conference in New Orleans</a>
 		will be presented on Sunday November 14, 2010.  This is a full-day, hands-on tutorial. Bring your laptop!
 		<li>June 23, 2010:  PTP 4.0 and
 		<a href="http://eclipse.org/photran">Photran 6.0 </a>
