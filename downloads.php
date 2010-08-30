@@ -32,7 +32,7 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>Welcome to the downloads page for the Parallel Tools Platform (incuding Photran). The latest release of PTP is <b><font size=+1>4.0.1</font></b></p>
+		<p>Welcome to the downloads page for the Parallel Tools Platform (incuding Photran). The latest release of PTP is <b><font size=+1>4.0.2</font></b></p>
     <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/4.0">
       release notes and installation instructions</a><font size=-1> for prerequisite information 
       and instructions on building and installing PTP Release 4.0.  
@@ -59,23 +59,23 @@ Individual PTP features and future updates are available from the PTP update sit
         </tr>
         <tr>
           <td>Linux</td>
-          <td><div align="left">4.0.1</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-linux-4.0.1.tar">rdt-server-linux-4.0.1.tar</a></div></td>
+          <td><div align="left">4.0.2</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-linux-4.0.2.tar">rdt-server-linux-4.0.2.tar</a></div></td>
         </tr>
         <tr>
           <td>Unix</td>
-          <td><div align="left">4.0.1</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-unix-4.0.1.tar">rdt-server-unix-4.0.1.tar</a></div></td>
+          <td><div align="left">4.0.2</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-unix-4.0.2.tar">rdt-server-unix-4.0.2.tar</a></div></td>
         </tr>
 		<tr>
           <td>MacOS X</td>
-          <td><div align="left">4.0.1</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-macosx-4.0.1.tar">rdt-server-macosx-4.0.1.tar</a></div></td>
+          <td><div align="left">4.0.2</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-macosx-4.0.2.tar">rdt-server-macosx-4.0.2.tar</a></div></td>
         </tr>
 		<tr>
           <td>Windows</td>
-          <td><div align="left">4.0.1</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-windows-4.0.1.zip">rdt-server-windows-4.0.1.zip</a></div></td>
+          <td><div align="left">4.0.2</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-windows-4.0.2.zip">rdt-server-windows-4.0.2.zip</a></div></td>
         </tr>
       </table>   
   </div>
