@@ -38,10 +38,10 @@
       and instructions on building and installing PTP Release 4.0.  
 
 <p>
-PTP is available using the Eclipse Installation Manager from the Helios update site: <a href="http://download.eclipse.org/releases/helios">http://download.eclipse.org/releases/helios</a>
+PTP 4.0.0 is available using the Eclipse Installation Manager from the Helios update site: <a href="http://download.eclipse.org/releases/helios">http://download.eclipse.org/releases/helios</a>
 </p>
 <p>
-Individual PTP features and future updates are available from the PTP update site: <a href="http://download.eclipse.org/tools/ptp/updates/helios">http://download.eclipse.org/tools/ptp/updates/helios</a>
+Individual PTP features and  updates (including <b><font size=+1>4.0.2</font></b>) are available from the PTP update site: <a href="http://download.eclipse.org/tools/ptp/updates/helios">http://download.eclipse.org/tools/ptp/updates/helios</a>
 </p>
 
 <p>Other PTP builds are also available from the <a href="http://wiki.eclipse.org/PTP/builds">PTP builds page</a>.
