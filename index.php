@@ -53,7 +53,12 @@
 		<h3>What&apos;s New</h3>
 		<p>Note: the <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> usually contains the most recent information. 
 		<ul>
-		<li>July 29, 2010: <img src="../images/new.gif"> <a href="http://sc10.supercomputing.org/schedule/event_detail.php?evid=tut149">PTP Tutorial</a> 
+		<li>August 30, 2010: <img src="../images/new.gif"> <a href="http://sc10.supercomputing.org/schedule/event_detail.php?evid=bof149">PTP Birds-of-a-Feather Session</a> 
+		at the <a href="http://sc10.supercomputing.org/">Supercomputing 2010 Conference in New Orleans</a>
+		is scheduled for Wednesday November 17, 2010, 5:30-7:00 PM.  
+		Come and hear the latest about PTP and tell us what you're doing and what you'd like PTP to do in the future.</a>.
+		
+		<li>July 29, 2010:  <a href="http://sc10.supercomputing.org/schedule/event_detail.php?evid=tut149">PTP Tutorial</a> 
 		at the <a href="http://sc10.supercomputing.org/">Supercomputing 2010 Conference in New Orleans</a>
 		will be presented on Sunday November 14, 2010.  This is a full-day, hands-on tutorial. <a href="http://wiki.eclipse.org/PTP/tutorials/SC10-setup">Bring your laptop and come prepared</a>.
 		<li>June 23, 2010:  PTP 4.0 and
