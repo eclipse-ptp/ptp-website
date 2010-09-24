@@ -53,7 +53,7 @@
 		<h3>What&apos;s New</h3>
 		<p>Note: the <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> usually contains the most recent information. 
 		<ul>
-		<li>September 24, 2010: <img src="../images/new.gif"> PTP 4.0.3 and Photran 6.0.3 are released as part of the Eclipse 3.6.1 (a.k.a. Helios SR1- Service Release 1).
+		<li>September 24, 2010: <img src="../images/new.gif"> PTP 4.0.3 and Photran 6.0.3 are released as part of Eclipse 3.6.1 (a.k.a. Helios SR1- Service Release 1).
 		<li>August 30, 2010: <a href="http://sc10.supercomputing.org/schedule/event_detail.php?evid=bof149">PTP Birds-of-a-Feather Session</a> 
 		at the <a href="http://sc10.supercomputing.org/">Supercomputing 2010 Conference in New Orleans</a>
 		is scheduled for Wednesday November 17, 2010, 5:30-7:00 PM.  
