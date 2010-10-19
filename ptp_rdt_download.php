@@ -9,7 +9,7 @@
 // Construct tables and links for the ptp and rdt downloads for a single build
 // sample usage: http://eclipse.org/ptp/ptp_rdt_download.php?parameter=15%20Oct,indigo,I201010160851,5.0.0
 $array = split(",", $_GET{parameter});
-echo "first is ",$array[0]," and second is ",$array[1];
+//echo "first is ",$array[0]," and second is ",$array[1];
 
 $date=$array[0];
 $eclipseVer=$array[1];
