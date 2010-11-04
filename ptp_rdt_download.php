@@ -14,9 +14,9 @@ $array = split(",", $_GET{parameter});
 $date=$array[0];
 $eclipseVer=$array[1];
 $buildid=$array[2];
-$rdtVer=$array[3];
+$ptpVer=$array[3];
 //echo "<p>";
-//echo "<p> date=",$date,"    <br>eclipseVer=",$eclipseVer," <br>buildid=",$buildid," <br>rdtVer=",$rdtVer;
+//echo "<p> date=",$date,"    <br>eclipseVer=",$eclipseVer," <br>buildid=",$buildid," <br>ptpVer=",$ptpVer;
 //echo "<p>";
 ?>
 
@@ -33,8 +33,8 @@ $rdtVer=$array[3];
 
 <?php
 // spit out the name for a ptp-master zip file
-function master($name,$eclipseVer,$buildid,$rdtVer,$suffix=".zip"){
-  $zipname=$name."-".$rdtVer."-".$buildid.$suffix;
+function zipfile($name,$eclipseVer,$buildid,$ptpVer,$suffix=".zip"){
+  $zipname=$name."-".$ptpVer."-".$buildid.$suffix;
   echo "<a href=\"http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/";
   echo $eclipseVer,"/I.",$buildid,"/",$zipname,"\"";
   echo " class=\"external text\" title=\"http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/",$eclipseVer,"/I.",$buildid,"/",$zipname,"\" rel=\"nofollow\">";
@@ -44,17 +44,34 @@ function master($name,$eclipseVer,$buildid,$rdtVer,$suffix=".zip"){
 echo "<td>",$date,"</td>";
 echo "<td>","I.",$buildid,"</td>";
 echo "<td>";
-master("ptp-master",$eclipseVer,$buildid,$rdtVer);
+zipfile("ptp-master",$eclipseVer,$buildid,$ptpVer);
+echo "</td></tr></table>";
+
+<h2>PTP Proxy archive for build <?php echo "I.",$buildid;?> </h2>
+
+</table><table border="1" cellpadding="5">
+<tr>
+<th> Date
+</th><th> Build
+</th><th> Download Link
+</th>
+</tr>
+<tr>
+
+echo "<td>",$date,"</td>";
+echo "<td>","I.",$buildid,"</td>";
+echo "<td>";
+zipfile("ptp-proxy",$eclipseVer,$buildid,$ptpVer);
 echo "</td></tr></table>";
 ?>
 
 <h2>PTP RDT Server archives for build <?php echo "I.",$buildid;?> </h2>
 <?php
 // spit out the url info for an rdt server archive.  name is e.g. "rdt-server-aix"
-function server($name,$eclipseVer,$buildid,$rdtVer,$suffix=".tar"){
+function server($name,$eclipseVer,$buildid,$ptpVer,$suffix=".tar"){
 echo "</td><td> <a href=\"http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/";
-echo $eclipseVer,"/I.",$buildid,"/",$name,"-",$rdtVer,$suffix,"\"";
-echo " class=\"external text\" title=\"http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/",$eclipseVer,"/I.",$buildid,"/",$name,"-",$rdtVer,$suffix,"\" rel=\"nofollow\">";
+echo $eclipseVer,"/I.",$buildid,"/",$name,"-",$ptpVer,$suffix,"\"";
+echo " class=\"external text\" title=\"http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/",$eclipseVer,"/I.",$buildid,"/",$name,"-",$ptpVer,$suffix,"\" rel=\"nofollow\">";
 echo $name,"</a>";
 }
 ?>
@@ -77,18 +94,18 @@ echo $name,"</a>";
 echo "<td>",$date,"</td>";
 echo "<td> I.",$buildid;
 
-server("rdt-server-aix",$eclipseVer,$buildid,$rdtVer);
-server("rdt-server-linux",$eclipseVer,$buildid,$rdtVer);
-server("rdt-server-linux.ppc",$eclipseVer,$buildid,$rdtVer);
-server("rdt-server-linux.x86",$eclipseVer,$buildid,$rdtVer);
-server("rdt-server-macosx",$eclipseVer,$buildid,$rdtVer);
-server("rdt-server-unix",$eclipseVer,$buildid,$rdtVer);
-server("rdt-server-windows",$eclipseVer,$buildid,$rdtVer,".zip");
+server("rdt-server-aix",$eclipseVer,$buildid,$ptpVer);
+server("rdt-server-linux",$eclipseVer,$buildid,$ptpVer);
+server("rdt-server-linux.ppc",$eclipseVer,$buildid,$ptpVer);
+server("rdt-server-linux.x86",$eclipseVer,$buildid,$ptpVer);
+server("rdt-server-macosx",$eclipseVer,$buildid,$ptpVer);
+server("rdt-server-unix",$eclipseVer,$buildid,$ptpVer);
+server("rdt-server-windows",$eclipseVer,$buildid,$ptpVer,".zip");
 
 echo "</td></tr></table>";
 
 echo "<p>&nbsp;";
-echo "<p><a href=\"http://wiki.eclipse.org/PTP/builds/",$rdtVer,"\""," >Back to PTP ",$rdtVer," builds page</a>";
+echo "<p><a href=\"http://wiki.eclipse.org/PTP/builds/",$ptpVer,"\""," >Back to PTP ",$ptpVer," builds page</a>";
 
 ?>
 
