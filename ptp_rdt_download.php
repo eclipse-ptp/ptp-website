@@ -46,23 +46,6 @@ echo "<td>","I.",$buildid,"</td>";
 echo "<td>";
 zipfile("ptp-master",$eclipseVer,$buildid,$ptpVer);
 echo "</td></tr></table>";
-
-<h2>PTP Proxy archive for build <?php echo "I.",$buildid;?> </h2>
-
-</table><table border="1" cellpadding="5">
-<tr>
-<th> Date
-</th><th> Build
-</th><th> Download Link
-</th>
-</tr>
-<tr>
-
-echo "<td>",$date,"</td>";
-echo "<td>","I.",$buildid,"</td>";
-echo "<td>";
-zipfile("ptp-proxy",$eclipseVer,$buildid,$ptpVer);
-echo "</td></tr></table>";
 ?>
 
 <h2>PTP RDT Server archives for build <?php echo "I.",$buildid;?> </h2>
