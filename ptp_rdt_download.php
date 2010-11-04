@@ -18,6 +18,16 @@ $ptpVer=$array[3];
 //echo "<p>";
 //echo "<p> date=",$date,"    <br>eclipseVer=",$eclipseVer," <br>buildid=",$buildid," <br>ptpVer=",$ptpVer;
 //echo "<p>";
+
+// spit out the name for a zip file
+function zipfile($name,$eclipseVer,$buildid,$ptpVer,$suffix=".zip"){
+  $zipname=$name."-".$ptpVer."-".$buildid.$suffix;
+  echo "<a href=\"http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/";
+  echo $eclipseVer,"/I.",$buildid,"/",$zipname,"\"";
+  echo " class=\"external text\" title=\"http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/",$eclipseVer,"/I.",$buildid,"/",$zipname,"\" rel=\"nofollow\">";
+  echo $zipname,"</a>";
+}
+
 ?>
 
 <h2>PTP Master archive for build <?php echo "I.",$buildid;?> </h2>
@@ -32,19 +42,29 @@ $ptpVer=$array[3];
 <tr>
 
 <?php
-// spit out the name for a ptp-master zip file
-function zipfile($name,$eclipseVer,$buildid,$ptpVer,$suffix=".zip"){
-  $zipname=$name."-".$ptpVer."-".$buildid.$suffix;
-  echo "<a href=\"http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/";
-  echo $eclipseVer,"/I.",$buildid,"/",$zipname,"\"";
-  echo " class=\"external text\" title=\"http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/",$eclipseVer,"/I.",$buildid,"/",$zipname,"\" rel=\"nofollow\">";
-  echo $zipname,"</a>";
-}
-
 echo "<td>",$date,"</td>";
 echo "<td>","I.",$buildid,"</td>";
 echo "<td>";
 zipfile("ptp-master",$eclipseVer,$buildid,$ptpVer);
+echo "</td></tr></table>";
+?>
+
+<h2>PTP Proxy archive for build <?php echo "I.",$buildid;?> </h2>
+
+</table><table border="1" cellpadding="5">
+<tr>
+<th> Date
+</th><th> Build
+</th><th> Download Link
+</th>
+</tr>
+<tr>
+
+<?php
+echo "<td>",$date,"</td>";
+echo "<td>","I.",$buildid,"</td>";
+echo "<td>";
+zipfile("ptp-proxy",$eclipseVer,$buildid,$ptpVer);
 echo "</td></tr></table>";
 ?>
 
