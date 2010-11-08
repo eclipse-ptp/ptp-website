@@ -51,16 +51,17 @@ The <b><font size=+1>PTP 4.0.4</font></b> release is now available from the PTP 
 <p>Other PTP builds are also available from the <a href="http://wiki.eclipse.org/PTP/builds">PTP builds page</a>.
 
 <div class="homeitem3col">
-  <h3>Proxy Agent and Scalable Debug Manager (SDM) Source Code</h3>
-  <p>The IBM LoadLeveler, IBM PE, and SLURM proxy agents, and the SDM need to be built and installed from source code. The following download link will work for either the 4.0.4 or 4.0.3 (Helios SR1)
-  versions of PTP. See the release notes for instructions on installing the proxy agents.
+  <h3>Optional PTP Server Components</h3>
+  <p>Server components for the IBM LoadLeveler, IBM PE, and SLURM resource managers, and the parallel debugger, need to be built and installed from source code. 
+  The following download link will work for either the 4.0.4 or 4.0.3 (Helios SR1) versions of PTP. See the release notes for instructions on installing the 
+  optional PTP server components.
   <ul>
   <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/ptp-proxy-4.0.4-I201011051906.zip">ptp-proxy-4.0.4-I201011051906.zip</a>
   </ul>
 </div>
 
 <div class="homeitem3col">
-  <h3>Remote Development Tools (RDT) Server Components</h3>
+  <h3>Optional Remote Development Tools (RDT) Server Components</h3>
   <p>The RDT server components are required if you are using the Remote System Explorer (RSE) as a remote service provider for RDT. If you are using Remote Tools
   (installed as part of PTP) the server components are installed automatically. See the release notes for more details on using RSE with RDT.
   <table>
