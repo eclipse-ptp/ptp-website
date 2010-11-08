@@ -61,12 +61,87 @@ The <b><font size=+1>PTP 4.0.4</font></b> release is now available from the PTP 
 
 <div class="homeitem3col">
   <h3>Remote Development Tools (RDT) Server Components</h3>
-  <p>There are two remote service providers available that work with RDT:
-  <ul>
-  <li>Remote Tools (installed as part of PTP) - the remote server components are moved to the remote target automatically.
-  <li>Remote System Explorer (separately installed) - RDT server components need to be separately installed on the remote target. See the <a href="http://wiki.eclipse.org/PTP/builds/4.0.4">4.0.4 builds page</a> to download these archives.
-  </ul>
-  See the release notes for more information on installing the RSE server components.
+  <p>The RDT server components are required if you are using the Remote System Explorer (RSE) as a remote service provider for RDT. If you are using Remote Tools
+  (installed as part of PTP) the server components are installed automatically. See the release notes for more details on using RSE with RDT.
+  <table>
+  <tr>
+    <td align=left valign=top >
+        <tr bgcolor="#CCCCCC">
+          <th width="34%"  scope="col"><div align="left">Platform</div></th>
+          <th width="10%"  scope="col"><div align="left">Version</div></th>
+          <th width="56%"  scope="col"><div align="left">Download</div></th>
+        </tr>
+         <tr>
+          <td>AIX</td>
+          <td><div align="left">4.0.4</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-aix-4.0.4.tar">rdt-server-aix-4.0.4.tar</a></div></td>
+        </tr>
+        <tr>
+          <td>Linux (Generic)</td>
+          <td><div align="left">4.0.4</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-linux-4.0.4.tar">rdt-server-linux-4.0.4.tar</a></div></td>
+        </tr>
+        <tr>
+          <td>Linux (PPC)</td>
+          <td><div align="left">4.0.4</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-linux.ppc-4.0.4.tar">rdt-server-linux.ppc-4.0.4.tar</a></div></td>
+        </tr>
+        <tr>
+          <td>Linux (x86)</td>
+          <td><div align="left">4.0.4</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-linux.x86-4.0.4.tar">rdt-server-linux.x86-4.0.4.tar</a></div></td>
+        </tr>
+        <tr>
+          <td>Unix</td>
+          <td><div align="left">4.0.4</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-unix-4.0.4.tar">rdt-server-unix-4.0.4.tar</a></div></td>
+        </tr>
+		<tr>
+          <td>MacOS X</td>
+          <td><div align="left">4.0.4</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-macosx-4.0.4.tar">rdt-server-macosx-4.0.4.tar</a></div></td>
+        </tr>
+		<tr>
+          <td>Windows</td>
+          <td><div align="left">4.0.4</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-windows-4.0.4.zip">rdt-server-windows-4.0.4.zip</a></div></td>
+        </tr>
+        <tr>
+          <td>AIX</td>
+          <td><div align="left">4.0.3</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios_sr1/rdt-server-aix-4.0.3.tar">rdt-server-aix-4.0.3.tar</a></div></td>
+        </tr>
+        <tr>
+          <td>Linux (Generic)</td>
+          <td><div align="left">4.0.3</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios_sr1/rdt-server-linux-4.0.3.tar">rdt-server-linux-4.0.3.tar</a></div></td>
+        </tr>
+        <tr>
+          <td>Linux (PPC)</td>
+          <td><div align="left">4.0.3</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios_sr1/rdt-server-linux.ppc-4.0.3.tar">rdt-server-linux.ppc-4.0.3.tar</a></div></td>
+        </tr>
+        <tr>
+          <td>Linux (x86)</td>
+          <td><div align="left">4.0.3</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios_sr1/rdt-server-linux.x86-4.0.3.tar">rdt-server-linux.x86-4.0.3.tar</a></div></td>
+        </tr>
+        <tr>
+          <td>Unix</td>
+          <td><div align="left">4.0.3</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios_sr1/rdt-server-unix-4.0.3.tar">rdt-server-unix-4.0.3.tar</a></div></td>
+        </tr>
+		<tr>
+          <td>MacOS X</td>
+          <td><div align="left">4.0.3</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios_sr1/rdt-server-macosx-4.0.3.tar">rdt-server-macosx-4.0.3.tar</a></div></td>
+        </tr>
+		<tr>
+          <td>Windows</td>
+          <td><div align="left">4.0.3</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios_sr1/rdt-server-windows-4.0.3.zip">rdt-server-windows-4.0.3.zip</a></div></td>
+        </tr>
+      </table>  
 </div>
       
   
