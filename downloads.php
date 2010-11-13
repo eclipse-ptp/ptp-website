@@ -32,7 +32,7 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>Welcome to the downloads page for the Parallel Tools Platform (incuding Photran). The latest release of PTP is <b><font size=+1>4.0.4</font></b></p>
+		<p>Welcome to the downloads page for the Parallel Tools Platform (incuding Photran). The latest release of PTP is <b><font size=+1>4.0.5</font></b></p>
     <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/4.0">
       release notes and installation instructions</a><font size=-1> for prerequisite information 
       and instructions on building and installing PTP Release 4.0.  
@@ -44,7 +44,7 @@ available using the Eclipse Installation Manager from the Helios update site:
 <a href="http://download.eclipse.org/releases/helios">http://download.eclipse.org/releases/helios</a>
 </p>
 <p>
-The <b><font size=+1>PTP 4.0.4</font></b> release is now available from the PTP update site: 
+The <b><font size=+1>PTP 4.0.5</font></b> release is now available from the PTP update site: 
 <a href="http://download.eclipse.org/tools/ptp/updates/helios">http://download.eclipse.org/tools/ptp/updates/helios</a>
 </p>
 
@@ -53,10 +53,10 @@ The <b><font size=+1>PTP 4.0.4</font></b> release is now available from the PTP 
 <div class="homeitem3col">
   <h3>Optional PTP Server Components</h3>
   <p>Server components for the IBM LoadLeveler, IBM PE, and SLURM resource managers, and the parallel debugger, need to be built and installed from source code. 
-  The following download link will work for either the 4.0.4 or 4.0.3 (Helios SR1) versions of PTP. See the release notes for instructions on installing the 
+  The following download link will work for either the 4.0.5 or 4.0.3 (Helios SR1) versions of PTP. See the release notes for instructions on installing the 
   optional PTP server components.
   <ul>
-  <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/ptp-proxy-4.0.4-I201011051906.zip">ptp-proxy-4.0.4-I201011051906.zip</a>
+  <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/ptp-proxy-4.0.5-I201011100956.zip">ptp-proxy-4.0.5-I201011100956.zip</a>
   </ul>
 </div>
 
@@ -74,38 +74,38 @@ The <b><font size=+1>PTP 4.0.4</font></b> release is now available from the PTP 
         </tr>
          <tr>
           <td>AIX</td>
-          <td><div align="left">4.0.4</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-aix-4.0.4.tar">rdt-server-aix-4.0.4.tar</a></div></td>
+          <td><div align="left">4.0.5</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-aix-4.0.5.tar">rdt-server-aix-4.0.5.tar</a></div></td>
         </tr>
         <tr>
           <td>Linux (Generic)</td>
-          <td><div align="left">4.0.4</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-linux-4.0.4.tar">rdt-server-linux-4.0.4.tar</a></div></td>
+          <td><div align="left">4.0.5</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-linux-4.0.5.tar">rdt-server-linux-4.0.5.tar</a></div></td>
         </tr>
         <tr>
           <td>Linux (PPC)</td>
-          <td><div align="left">4.0.4</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-linux.ppc-4.0.4.tar">rdt-server-linux.ppc-4.0.4.tar</a></div></td>
+          <td><div align="left">4.0.5</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-linux.ppc-4.0.5.tar">rdt-server-linux.ppc-4.0.5.tar</a></div></td>
         </tr>
         <tr>
           <td>Linux (x86)</td>
-          <td><div align="left">4.0.4</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-linux.x86-4.0.4.tar">rdt-server-linux.x86-4.0.4.tar</a></div></td>
+          <td><div align="left">4.0.5</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-linux.x86-4.0.5.tar">rdt-server-linux.x86-4.0.5.tar</a></div></td>
         </tr>
         <tr>
           <td>Unix</td>
-          <td><div align="left">4.0.4</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-unix-4.0.4.tar">rdt-server-unix-4.0.4.tar</a></div></td>
+          <td><div align="left">4.0.5</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-unix-4.0.5.tar">rdt-server-unix-4.0.5.tar</a></div></td>
         </tr>
 		<tr>
           <td>MacOS X</td>
-          <td><div align="left">4.0.4</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-macosx-4.0.4.tar">rdt-server-macosx-4.0.4.tar</a></div></td>
+          <td><div align="left">4.0.5</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-macosx-4.0.5.tar">rdt-server-macosx-4.0.5.tar</a></div></td>
         </tr>
 		<tr>
           <td>Windows</td>
-          <td><div align="left">4.0.4</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-windows-4.0.4.zip">rdt-server-windows-4.0.4.zip</a></div></td>
+          <td><div align="left">4.0.5</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-windows-4.0.5.zip">rdt-server-windows-4.0.5.zip</a></div></td>
         </tr>
         <tr>
           <td>AIX</td>
