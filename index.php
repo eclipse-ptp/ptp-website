@@ -63,7 +63,7 @@
 		at the <a href="http://sc10.supercomputing.org/">Supercomputing 2010 Conference in New Orleans</a>
 		is scheduled for Wednesday November 17, 2010, 5:30-7:00 PM.  
 		Come and hear the latest about PTP and tell us what you're doing and what you'd like PTP to do in the future.</a>.
-		
+		<li>August 3, 2010:  PTP 3.0.2 and Photran 5.0.2 released.
 		<li>July 29, 2010:  <a href="http://sc10.supercomputing.org/schedule/event_detail.php?evid=tut149">PTP Tutorial</a> 
 		at the <a href="http://sc10.supercomputing.org/">Supercomputing 2010 Conference in New Orleans</a>
 		will be presented on Sunday November 14, 2010.  This is a full-day, hands-on tutorial. <a href="http://wiki.eclipse.org/PTP/tutorials/SC10-setup">Bring your laptop and come prepared</a>.
