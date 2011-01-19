@@ -53,6 +53,8 @@
 		<h3>What&apos;s New</h3>
 		<p>Note: the <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> usually contains the most recent information. 
 		<ul>
+		<li>January 2011:  <a href="http://wiki.eclipse.org/PTP/PTP_User_Meetings">PTP Monthly User calls</a>  to begin soon: January 26 at 2pm ET		
+		
 		<li>November 17, 2010:  <a href="http://sc10.supercomputing.org/schedule/event_detail.php?evid=bof149">PTP Birds-of-a-Feather Session</a>  at Supercomputing 2010.		
 		<li>November 14, 2010:  <a href="http://sc10.supercomputing.org/schedule/event_detail.php?evid=tut149">PTP Tutorial</a> is presented at Supercomputing 2010.
 		<li>November 10, 2010:  PTP 4.0.5 and Photran 6.0.5 are released.
