@@ -2,17 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
 <plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan"
 	xmlns:html="http://www.w3.org/1999/xhtml" name="PTP">
-	<release projectid="tools.ptp" version="4.0" />
+	<release projectid="tools.ptp" version="5.0" />
 	<introduction>
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
-			<p>The Parallel Tools Platform project provides tools and
-				frameworks
-				to enable Eclipse to be
-				to be used for the development of parallel programs. The main
-				deliverables include: coding and static
-				analysis tools; runtime launching and monitoring; a parallel debugger; an
-				extensible tools framework;
-				remote development tools; and Fortran language support.</p>
+			<p>The Parallel Tools Platform project provides an IDE for the development of parallel programs. The main
+				deliverables include: coding and static analysis tools; runtime launching and monitoring; a parallel debugger; an
+				extensible tools framework; remote development tools; and Fortran language support.</p>
 		</html:div>
 	</introduction>
 	<release_deliverables>
@@ -59,17 +54,17 @@
 	<release_milestones>
 		<preamble>
 		</preamble>
-		<milestone date="3/19/2010" milestone="M6">
+		<milestone date="3/15/2010" milestone="M6">
 		</milestone>
-		<milestone date="5/7/2010" milestone="M7">
+		<milestone date="5/3/2010" milestone="M7">
 		</milestone>
-		<milestone date="5/21/2010" milestone="RC1">
+		<milestone date="5/17/2010" milestone="RC1">
 		</milestone>
-		<milestone date="5/28/2010" milestone="RC2">
+		<milestone date="5/24/2010" milestone="RC2">
 		</milestone>
-		<milestone date="6/4/2010" milestone="RC3">
+		<milestone date="5/31/2010" milestone="RC3">
 		</milestone
-		<milestone date="6/11/2010" milestone="RC3">
+		<milestone date="6/7/2010" milestone="RC4">
 		</milestone
 		<postamble>
 		</postamble>
@@ -122,9 +117,12 @@
 		<theme name="Remote development tools">
 			<description>
 				<html:div xmlns="http://www.w3.org/1999/xhtml">
-					<p>Enhanced support for remote development, including better
-						integration with other aspects of
-						PTP.</p>
+					<p>Enhanced support for remote development:
+					<ul>
+						<li>New synchronization project type</li>
+						<li>Better integration with other aspects of PTP</li>
+					</ul>
+					</p>
 				</html:div>
 			</description>
 		</theme>
@@ -139,7 +137,14 @@
 		<theme name="Improving Scalability">
 			<description>
 				<html:div xmlns="http://www.w3.org/1999/xhtml">
-					<p>Now deferred to 3.1 release.</p>
+					<p>New resource manager framework with scalable monitoring. Integration with LLView monitoring system.</p>
+				</html:div>
+			</description>
+		</theme>
+		<theme name="Eclipse 4.1">
+			<description>
+				<html:div xmlns="http://www.w3.org/1999/xhtml">
+					<p>No support, no testing on 4.1.</p>
 				</html:div>
 			</description>
 		</theme>
