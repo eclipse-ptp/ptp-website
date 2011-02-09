@@ -35,17 +35,20 @@
 		<p>Welcome to the downloads page for the Parallel Tools Platform (incuding Photran). The latest release of PTP is <b><font size=+1>4.0.5</font></b></p>
     <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/4.0">
       release notes and installation instructions</a><font size=-1> for prerequisite information 
-      and instructions on building and installing PTP Release 4.0.  
+      and instructions on installing PTP Release 4.0 (both client and target machine parts).  
 
 <p>
 <b><font size=+1>PTP 4.0.3</font></b> is part of the Eclipse Helios (3.6)
 Service Release 1 (SR1), released on September 24, 2010, 
-available using the Eclipse Installation Manager from the Helios update site: 
+available using the Eclipse Installation Manager (Help > Install New Software...) from the Helios update site: 
 <a href="http://download.eclipse.org/releases/helios">http://download.eclipse.org/releases/helios</a>
 </p>
 <p>
-The <b><font size=+1>PTP 4.0.5</font></b> release is now available from the PTP update site: 
-<a href="http://download.eclipse.org/tools/ptp/updates/helios">http://download.eclipse.org/tools/ptp/updates/helios</a>
+The <b><font size=+1>PTP 4.0.5</font></b> release is now available from the PTP-specific update site: 
+<a href="http://download.eclipse.org/tools/ptp/updates/helios">http://download.eclipse.org/tools/ptp/updates/helios</a>.
+<ul>
+<li>Enable or add this site in your "Available Software Sites" then update (Help > Check for Updates).
+</ul>
 </p>
 
 <p>Other PTP builds are also available from the <a href="http://wiki.eclipse.org/PTP/builds">PTP builds page</a>.
