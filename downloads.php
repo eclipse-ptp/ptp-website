@@ -47,7 +47,7 @@ available using the Eclipse Installation Manager (Help > Install New Software...
 The <b><font size=+1>PTP 4.0.5</font></b> release is now available from the PTP-specific update site: 
 <a href="http://download.eclipse.org/tools/ptp/updates/helios">http://download.eclipse.org/tools/ptp/updates/helios</a>.
 <ul>
-<li>Enable or add this site in your "Available Software Sites" then update (Help > Check for Updates).
+<li>Enable or add this site in your "Available Software Sites" then install from there initially, or update (Help > Check for Updates).
 </ul>
 </p>
 
