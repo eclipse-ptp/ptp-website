@@ -36,7 +36,8 @@
     <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/4.0">
       release notes and installation instructions</a><font size=-1> for prerequisite information 
       and instructions on installing PTP Release 4.0 (both client and target machine parts).  
-
+      PTP is installed by first downloading Eclipse, and then using the Eclipse "Help > Install New Software..." menu
+      to install PTP and its pre-requisites.
 <p>
 <b><font size=+1>PTP 4.0.3</font></b> is part of the Eclipse Helios (3.6)
 Service Release 1 (SR1), released on September 24, 2010, 
