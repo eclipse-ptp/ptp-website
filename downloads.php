@@ -159,7 +159,7 @@ The <b><font size=+1>PTP 4.0.5</font></b> release is now available from the PTP-
  
     <div class="homeitem3col">
   <h3>Fortran Development Tools (Photran)</h3>
-<p>Photran is now part of PTP and can be installed using the PTP 4.0 update site.</p?
+<p>Photran is now part of PTP and can be installed using the PTP update site.</p?
 </div>
  
 
