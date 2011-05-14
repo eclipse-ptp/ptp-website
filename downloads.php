@@ -39,20 +39,20 @@
       PTP is installed by first downloading Eclipse, and then using the Eclipse "Help > Install New Software..." menu
       to install PTP and its pre-requisites.
 <p>
-<b><font size=+1>PTP 4.0.6</font></b> is part of the Eclipse Helios Service Release 2 (SR2) -  (Eclipse 3.6.2), 
-released on February 25, 2011.
+<b><font size=+1>PTP 4.0.7</font></b> is is now available.  <br>
+
 PTP is available using the Eclipse Installation Manager (Help > Install New Software...) from the Helios update site: 
-<a href="http://download.eclipse.org/releases/helios">http://download.eclipse.org/releases/helios</a>
+<a href="http://download.eclipse.org/releases/helios">http://download.eclipse.org/releases/helios</a>.
+The Helios update site has PTP 4.0.6, the former release.
 </p>
 <p>
-This <b><font size=+1>PTP 4.0.6</font></b> release is also available from the PTP-specific update site: 
+This <b><font size=+1>PTP 4.0.7</font></b> release is  available from the PTP-specific update site: 
 <a href="http://download.eclipse.org/tools/ptp/updates/helios">http://download.eclipse.org/tools/ptp/updates/helios</a>.
-More recent releases may also be available from the PTP-specific update site in the future.
-<!--
+
 <ul>
 <li>Enable or add this site in your "Available Software Sites" then install from there initially, or update (Help > Check for Updates).
 </ul>
--->
+
 <ul>
 <li>If you already have PTP 4.0.x installed, you should be able to do Help > Check for Updates...  to get the new version.  </li>
 </ul>
