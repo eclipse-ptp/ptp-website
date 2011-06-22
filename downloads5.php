@@ -33,7 +33,7 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<p>Welcome to the downloads page for the Parallel Tools Platform (including Photran). 
-		<p>The latest release of PTP is <b><font size=+1>5.0.0</font></b>, released June 22, 2011 with <b>Eclipse Indigo</b>.
+		<p>The latest release of PTP is <b><font size=+1>5.0.0</font></b>, released June 22, 2011 with <b>Eclipse Indigo (3.7)</b>.
 		</p>
     <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/5.0">
       release notes and installation instructions</a><font size=-1> for prerequisite information 
