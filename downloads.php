@@ -36,7 +36,7 @@
 		<p>The latest release of PTP is <b><font size=+1>5.0.0</font></b>, released June 22, 2011 with <b>Eclipse Indigo (3.7)</b>.
 		</p>
     <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/5.0">
-      release notes and installation instructions</a><font size=-1> for prerequisite information 
+      release notes and installation instructions</a></font> for prerequisite information 
       and instructions on installing PTP Release 5.0 (both client and target machine parts).  
       <p><font size=+1>PTP 5.0</font> can be installed two ways:
       <ul><li>Install the <img src="images/ptp_logo_icon32.png"><b>Eclipse IDE for Parallel Application Developers</b> from the <a href="http://eclipse.org/downloads">Eclipse downloads</a> page.</li>
