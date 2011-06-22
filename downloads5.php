@@ -135,7 +135,7 @@ PTP releases automatically.
  
     <div class="homeitem3col">
   <h3>Fortran Development Tools (Photran)</h3>
-<p>Photran is now part of PTP and can be installed using the PTP update site.</p?
+<p>Photran is now part of PTP and can be installed using the PTP update site.</p>
 </div>
  
 
