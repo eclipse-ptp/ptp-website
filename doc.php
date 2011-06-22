@@ -46,7 +46,7 @@
 <li><a href="http://wiki.eclipse.org/PTP/release_notes/5.0">PTP 5.0 Release Notes</a>
 <li><a href="http://wiki.eclipse.org/PTP/new_and_noteworthy/5.0.0">New and Noteworthy features in PTP 5.0</a>
 <li><a href="http://help.eclipse.org/indigo/topic/org.eclipse.ptp.doc.user/html/toc.html">Parallel Tools Platform User Guide (including PLDT and ETFw)</a>
-<li><a href="http://help.eclipse.org/indigo/topic/org.eclipse.ptp.doc.isv/html/provisional_api.html">PTP Developer's Guide</a>
+<li><a href="http://help.eclipse.org/indigo/topic/org.eclipse.ptp.doc.isv/provisional_api.html">PTP Developer's Guide</a>
 <!--  need a toc.html or something to link to in developer's guide -->
 <li><a href="http://help.eclipse.org/indigo/topic/org.eclipse.photran.doc.user/html/basic/GettingStarted.html">Photran User Guide</a> 
 <li><a href="http://help.eclipse.org/indigo/topic/org.eclipse.ptp.rdt.doc.user/html/toc.html">Remote Development Tools User Guide</a>
