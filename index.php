@@ -53,6 +53,9 @@
 		<h3>What&apos;s New</h3>
 		<p>Note: the <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> usually contains the most recent information. 
 		<ul>
+		<li>June 22, 2011:  PTP 5.0 and
+		<a href="http://eclipse.org/photran">Photran 7.0 </a>
+		released with Eclipse 3.7 (Indigo)
 		<li>May 14, 2011: PTP 4.0.7 and Photran 6.0.7 are released.	
 		<li>February 25, 2011: PTP 4.0.6 and Photran 6.0.6 are released with Helios Service Release 2 (Eclipse 3.6.2)
 		<li>January 2011:  <a href="http://wiki.eclipse.org/PTP/PTP_User_Meetings">PTP Monthly User calls</a>  to begin soon: January 26 at 2pm ET		
