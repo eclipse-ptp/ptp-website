@@ -33,21 +33,17 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<p>Welcome to the downloads page for the Parallel Tools Platform (incuding Photran). 
-		<p>The latest release of PTP is <b><font size=+1>5.0.0</font></b></p>
+		<p>The latest release of PTP is <b><font size=+1>5.0.0</font></b>, released June 22, 2011 with <b>Eclipse Indigo</b>.
+		</p>
     <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/5.0">
       release notes and installation instructions</a><font size=-1> for prerequisite information 
       and instructions on installing PTP Release 5.0 (both client and target machine parts).  
       <p><font size=+1>PTP 5.0</font> can be installed two ways:
-      <ul><li>Install the <b>Eclipse IDE for Parallel Application Developers</b> from the <a href="">Eclipse downloads</a> page.</li>
+      <ul><li>Install the <b>Eclipse IDE for Parallel Application Developers</b> from the <a href="http://eclipse.org/downloads">Eclipse downloads</a> page.</li>
       <li>Install into an existing Eclipse - first download Eclipse, and then use the Eclipse "Help > Install New Software..." menu
-      to install PTP and its pre-requisites.</li>
-      </ul>
-<p>
-<b><font size=+1>PTP 5.0.0</font></b> is is now available.  <br>
-
-PTP is available using the Eclipse Installation Manager (Help > Install New Software...) from the Indigo update site: 
-<a href="http://download.eclipse.org/releases/indigo">http://download.eclipse.org/releases/indigo</a>.
-The Indigo update site has PTP 5.0.0, the current release.
+      to install PTP and its pre-requisites from the Indigo update site: 
+      <a href="http://download.eclipse.org/releases/indigo">http://download.eclipse.org/releases/indigo</a>.
+      The Indigo update site has PTP 5.0.0, the current release.
 </p>
 <p>In the future, subsequent PTP releases will be 
 <!-- This <b><font size=+1>PTP 5.0.1</font></b> release is  -->
@@ -56,9 +52,6 @@ available from the PTP-specific update site:
 
 <ul>
 <li>Enable or add this site in your "Available Software Sites" then install from there initially, or update (Help > Check for Updates).
-</ul>
-
-<ul>
 <li>If you already have PTP 5.0.x installed <i>from the PTP-specific update site</i>, you should be able to do 
 Help > Check for Updates...  to get the new version.  </li>
 <li>If you initially installed the <b>Eclipse IDE for Parallel Application Developers</b>, then install PTP on top of that from
