@@ -32,7 +32,7 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>Welcome to the downloads page for the Parallel Tools Platform (incuding Photran). 
+		<p>Welcome to the downloads page for the Parallel Tools Platform (including Photran). 
 		<p>The latest release of PTP is <b><font size=+1>5.0.0</font></b>, released June 22, 2011 with <b>Eclipse Indigo</b>.
 		</p>
     <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/5.0">
@@ -118,7 +118,7 @@ PTP releases automatically.
 		<tr>
           <td>Windows</td>
           <td><div align="left">5.0.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/helios/rdt-server-windows-5.0.0.zip">rdt-server-windows-5.0.0.zip</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-windows-5.0.0.zip">rdt-server-windows-5.0.0.zip</a></div></td>
         </tr>
         
       </table>  
