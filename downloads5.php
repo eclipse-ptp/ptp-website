@@ -39,7 +39,7 @@
       release notes and installation instructions</a><font size=-1> for prerequisite information 
       and instructions on installing PTP Release 5.0 (both client and target machine parts).  
       <p><font size=+1>PTP 5.0</font> can be installed two ways:
-      <ul><li>Install the <b>Eclipse IDE for Parallel Application Developers</b> from the <a href="http://eclipse.org/downloads">Eclipse downloads</a> page.</li>
+      <ul><li>Install the <img src="images/ptp_logo_icon32.png"><b>Eclipse IDE for Parallel Application Developers</b> from the <a href="http://eclipse.org/downloads">Eclipse downloads</a> page.</li>
       <li>Install into an existing Eclipse - first download Eclipse, and then use the Eclipse "Help > Install New Software..." menu
       to install PTP and its pre-requisites from the Indigo update site: 
       <a href="http://download.eclipse.org/releases/indigo">http://download.eclipse.org/releases/indigo</a>.
