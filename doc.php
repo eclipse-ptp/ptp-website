@@ -34,11 +34,21 @@
 <h1>PTP Documentation</h1>
 <h2>Getting Started</h2>
 <ul>
-<li>For installation help, see the <a href="http://wiki.eclipse.org/PTP/release_notes/4.0">Release notes</a>
-<li>Read the <a href="http://help.eclipse.org/helios/topic/org.eclipse.ptp.help/html/toc.html">PTP Help</a>
+<li>For installation help, see the <a href="http://wiki.eclipse.org/PTP/release_notes/5.0">Release notes</a>
+<li>Read the <a href="http://help.eclipse.org/indigo/topic/org.eclipse.ptp.help/html/toc.html">PTP Help</a>
 <li>See the <a href="http://wiki.eclipse.org/PTP/tutorials">PTP Tutorials</a>
 <li>Read and ask questions on the <a href="http://dev.eclipse.org/mhonarc/lists/ptp-user/">ptp-users mailing list</a>
 <li>See more information on the <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> and at the links below.
+</ul>
+<h2>PTP 5.0  release information</h2>
+<p>The following links are available for the current release of PTP 5.0.  To see this within Eclipse, install PTP and select Help > Help Contents.
+<ul>
+<li><a href="http://wiki.eclipse.org/PTP/release_notes/5.0">PTP 5.0 Release Notes</a>
+<li><a href="http://wiki.eclipse.org/PTP/new_and_noteworthy/5.0.0">New and Noteworthy features in PTP 5.0</a>
+<li><a href="http://help.eclipse.org/indigo/topic/org.eclipse.ptp.doc.user/html/toc.html">Parallel Tools Platform User Guide (including PLDT and ETFw)</a>
+<li><a href="http://help.eclipse.org/indigo/topic/org.eclipse.ptp.doc.isv/html/toc.html">PTP Developer's Guide</a>
+<li><a href="http://help.eclipse.org/indigo/topic/org.eclipse.photran.doc.user/html/basic/GettingStarted.html">Photran User Guide</a> 
+<li><a href="http://help.eclipse.org/indigo/topic/org.eclipse.ptp.rdt.doc.user/html/toc.html">Remote Development Tools User Guide</a>
 </ul>
 
 <h2>PTP 4.0  release information</h2>
