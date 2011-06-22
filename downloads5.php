@@ -43,7 +43,8 @@
       <li>Install into an existing Eclipse - first download Eclipse, and then use the Eclipse "Help > Install New Software..." menu
       to install PTP and its pre-requisites from the Indigo update site: 
       <a href="http://download.eclipse.org/releases/indigo">http://download.eclipse.org/releases/indigo</a>.
-      The Indigo update site has PTP 5.0.0, the current release.
+      The Indigo update site has PTP 5.0.0, the initial 5.0 release.
+      </ul>
 </p>
 <p>In the future, subsequent PTP releases will be 
 <!-- This <b><font size=+1>PTP 5.0.1</font></b> release is  -->
