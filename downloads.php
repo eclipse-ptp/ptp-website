@@ -33,7 +33,7 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<p>Welcome to the downloads page for the Parallel Tools Platform (including Photran). 
-		<p>The latest release of PTP is <b><font size=+1>5.0.0</font></b>, released June 22, 2011 with <b>Eclipse Indigo (3.7)</b>.
+		<p>The latest release of PTP is <b><font size=+1>5.0.1</font></b>, released June 22, 2011 with <b>Eclipse Indigo (3.7)</b>.
 		</p>
     <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/5.0">
       release notes and installation instructions</a></font> for prerequisite information 
@@ -48,8 +48,8 @@
       See the <a href="http://wiki.eclipse.org/PTP/release_notes/5.0">release notes</a> for more details.
       </ul>
 </p>
-<p>In the future, subsequent PTP releases will be 
-<!-- This <b><font size=+1>PTP 5.0.1</font></b> release is  -->
+<!--    <p>In the future, subsequent PTP releases will be -->
+This <b><font size=+1>PTP 5.0.1</font></b> release is  
 available from the PTP-specific update site: 
 <a href="http://download.eclipse.org/tools/ptp/updates/indigo">http://download.eclipse.org/tools/ptp/updates/indigo</a>.
 
@@ -57,8 +57,10 @@ available from the PTP-specific update site:
 <li>Enable or add this site in your "Available Software Sites" then install from there initially, or update (Help > Check for Updates).
 <li>If you already have PTP 5.0.x installed <i>from the PTP-specific update site</i>, you should be able to do 
 Help > Check for Updates...  to get the new version.  </li>
-<li>If you initially installed the <b>Eclipse IDE for Parallel Application Developers</b>, then install PTP on top of that from
-the PTP-specific update site to get the first update (or re-install 5.0.0 from there) and then Help > Check for Updates will find subsequent
+<li>If you initially installed the <b>Eclipse IDE for Parallel Application Developers</b>, then 
+follow the instructions for <a href="http://wiki.eclipse.org/PTP/release_notes/5.0#Updating_from_5.0_to_5.0.1">Updating from 5.0 to 5.0.1</a>
+to install PTP on top of that from
+the PTP-specific update site; this gets the first update (or re-install 5.0.0 from there) and then Help > Check for Updates will find subsequent
 PTP releases automatically.
 </ul>
 </p>
