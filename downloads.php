@@ -74,7 +74,7 @@ PTP releases automatically.
   See the release notes for instructions on installing the 
   optional PTP server components.
   <ul>  
-  <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/ptp-proxy-5.0.0-I201106140904.zip">ptp-proxy-5.0.0-I201106140904.zip</a>
+  <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/ptp-proxy-5.0.1-I201107131351.zip">ptp-proxy-5.0.1-I201107131351.zip</a>
   </ul>
 </div>
 
@@ -93,37 +93,37 @@ PTP releases automatically.
          <tr>
           <td>AIX</td>
           <td><div align="left">5.0.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-aix-5.0.0.tar">rdt-server-aix-5.0.0.tar</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-aix-5.0.1.tar">rdt-server-aix-5.0.1.tar</a></div></td>
         </tr>
         <tr>
           <td>Linux (Generic)</td>
           <td><div align="left">5.0.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-linux-5.0.0.tar">rdt-server-linux-5.0.0.tar</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-linux-5.0.1.tar">rdt-server-linux-5.0.1.tar</a></div></td>
         </tr>
         <tr>
           <td>Linux (PPC)</td>
           <td><div align="left">5.0.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-linux.ppc-5.0.0.tar">rdt-server-linux.ppc-5.0.0.tar</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-linux.ppc-5.0.1.tar">rdt-server-linux.ppc-5.0.1.tar</a></div></td>
         </tr>
         <tr>
           <td>Linux (x86)</td>
           <td><div align="left">5.0.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-linux.x86-5.0.0.tar">rdt-server-linux.x86-5.0.0.tar</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-linux.x86-5.0.1.tar">rdt-server-linux.x86-5.0.1.tar</a></div></td>
         </tr>
         <tr>
           <td>Unix</td>
           <td><div align="left">5.0.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-unix-5.0.0.tar">rdt-server-unix-5.0.0.tar</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-unix-5.0.1.tar">rdt-server-unix-5.0.1.tar</a></div></td>
         </tr>
 		<tr>
           <td>MacOS X</td>
           <td><div align="left">5.0.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-macosx-5.0.0.tar">rdt-server-macosx-5.0.0.tar</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-macosx-5.0.1.tar">rdt-server-macosx-5.0.1.tar</a></div></td>
         </tr>
 		<tr>
           <td>Windows</td>
           <td><div align="left">5.0.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-windows-5.0.0.zip">rdt-server-windows-5.0.0.zip</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-windows-5.0.1.zip">rdt-server-windows-5.0.1.zip</a></div></td>
         </tr>
         
       </table>  
