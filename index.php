@@ -53,6 +53,9 @@
 		<h3>What&apos;s New</h3>
 		<p>Note: the <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> usually contains the most recent information. 
 		<ul>
+		<li>September 23, 2011: PTP 5.0.2 and Photran 7.0.2 are released.	
+		<br>Note that now the <b>Eclipse IDE for Parallel Application Developers</b> contains with PTP 5.0.2.
+		
 		<li>July 17, 2011: PTP 5.0.1 and Photran 7.0.1 are released.	
 		<br><b>Note:</b> See the instructions for
 		 <a href="http://wiki.eclipse.org/PTP/release_notes/5.0#Updating_from_5.0_to_5.0.1">Updating from 5.0 to 5.0.1</a>
