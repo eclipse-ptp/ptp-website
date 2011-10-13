@@ -37,7 +37,7 @@
 		</p>
     <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/5.0">
       release notes and installation instructions</a></font> for prerequisite information 
-      and instructions on installing PTP Release 5.0.x (both client and target machine parts).  
+      and instructions on installing PTP Release 5.0.x (both client and target machine (server) parts).  
       <p><font size=+1>PTP 5.0</font> can be installed two ways:
       <ul><li>Install the <img src="images/ptp_logo_icon32.png"><b>Eclipse IDE for Parallel Application Developers</b> from the <a href="http://eclipse.org/downloads">Eclipse downloads</a> page.</li>
       <li>Install into an existing Eclipse - first download Eclipse, and then use the Eclipse "Help > Install New Software..." menu
@@ -52,7 +52,8 @@
 contains the same PTP release as the PTP-specific update site.
 <p>
 <!--    <p>In the future, subsequent PTP releases will be -->
-This <b><font size=+1>PTP 5.0.2</font></b> release is  
+This <b><font size=+1>PTP 5.0.2</font></b> release is 
+<b> also </b> 
 available from the PTP-specific update site: 
 <a href="http://download.eclipse.org/tools/ptp/updates/indigo">http://download.eclipse.org/tools/ptp/updates/indigo</a>.
 
