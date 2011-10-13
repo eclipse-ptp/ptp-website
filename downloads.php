@@ -76,8 +76,8 @@ PTP releases automatically.
   The following download link will work for the 5.0   versions of PTP. 
   See the release notes for instructions on installing the 
   optional PTP server components.
-  <ul>  
-  <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/ptp-proxy-5.0.2-I201107131351.zip">ptp-proxy-5.0.2-I201107131351.zip</a>
+  <ul>     
+  <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/ptp-proxy-5.0.2-I201109141657.zip">ptp-proxy-5.0.2-I201109141657.zip</a>
   </ul>
 </div>
 
