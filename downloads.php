@@ -85,7 +85,7 @@ PTP releases automatically.
   See the release notes for instructions on installing the 
   optional PTP server components.
   <ul>     
-  <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/ptp-proxy-5.0.4-I201110141146.zip">ptp-proxy-5.0.4-I201110141146.zip</a>
+  <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/ptp-proxy-5.0.4-I201111121445.zip">ptp-proxy-5.0.4-I201111121445.zip</a>
   </ul>
 </div>
 
