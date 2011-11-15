@@ -80,7 +80,7 @@ PTP releases automatically.
 
 <div class="homeitem3col">
 <h3>Archived Update Site</h3>
-<p>Archived update site can be downloaded from:
+<p>Archived update site (You asked for it!) can be downloaded from:
   <ul>     
   <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/org.eclipse.ptp.repo.5.0.4.201111121445.zip">org.eclipse.ptp.repo.5.0.4.201111121445.zip</a>
   </ul>
