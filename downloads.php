@@ -71,7 +71,7 @@ Help > Check for Updates...  to get the new version.  </li>
 <li>If you initially installed the <b>Eclipse IDE for Parallel Application Developers</b>, then 
 follow the instructions for <a href="http://wiki.eclipse.org/PTP/release_notes/5.0#Updating_from_the_Parallel_Package_to_a_more_recent_release">Updating from from the Parallel Package to a more recent release</a>
 to install PTP on top of that from
-the PTP-specific update site; this gets the first update (or re-install 5.0.0 from there) and then Help > Check for Updates will find subsequent
+the PTP-specific update site; this gets the most recent update (or re-install the current release from there) and then Help > Check for Updates will find subsequent
 PTP releases automatically.
 </ul>
 </p>
