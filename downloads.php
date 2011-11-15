@@ -69,7 +69,7 @@ available from the PTP-specific update site:
 <li>If you already have PTP 5.0.x installed <i>from the PTP-specific update site</i>, you should be able to do 
 Help > Check for Updates...  to get the new version.  </li>
 <li>If you initially installed the <b>Eclipse IDE for Parallel Application Developers</b>, then 
-follow the instructions for <a href="http://wiki.eclipse.org/PTP/release_notes/5.0#Updating_from_5.0_to_5.0.1">Updating from 5.0 to a later release</a>
+follow the instructions for <a href="http://wiki.eclipse.org/PTP/release_notes/5.0#Updating_from_the_Parallel_Package_to_a_more_recent_release">Updating from from the Parallel Package to a more recent release</a>
 to install PTP on top of that from
 the PTP-specific update site; this gets the first update (or re-install 5.0.0 from there) and then Help > Check for Updates will find subsequent
 PTP releases automatically.
@@ -79,13 +79,18 @@ PTP releases automatically.
 <p>Other PTP builds are also available from the <a href="http://wiki.eclipse.org/PTP/builds">PTP builds page</a>.
 
 <div class="homeitem3col">
+<h3>Archived Update Site</h3>
+<p>Archived update site can be downloaded from:
+  <ul>     
+  <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/org.eclipse.ptp.repo.5.0.4.201111121445.zip">org.eclipse.ptp.repo.5.0.4.201111121445.zip</a>
+  </ul>
   <h3>Optional PTP Server Components</h3>
   <p>Server components for the IBM LoadLeveler, IBM PE, and SLURM resource managers, and the parallel debugger, need to be built and installed from source code. 
   The following download link will work for the 5.0   versions of PTP. 
   See the release notes for instructions on installing the 
   optional PTP server components.
   <ul>     
-  <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/ptp-proxy-5.0.4-I201111121445.zip">ptp-proxy-5.0.4-I201111121445.zip</a>
+  <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/ptp-proxy-5.0.4-201111121445.zip">ptp-proxy-5.0.4-I201111121445.zip</a>
   </ul>
 </div>
 
