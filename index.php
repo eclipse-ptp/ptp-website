@@ -61,7 +61,7 @@ This year's tutorial includes
 significant improvements to PTP including synchronized projects and new implementations of the configurable resource managers, 
 and the tutorial itself is improved from previous years with an increased emphasis on hands-on components for 
 <a href="http://eclipse.org/photran">Fortran</a>, TAU (performance tools) and 
-<href="http://help.eclipse.org/indigo/topic/org.eclipse.ptp.gem.help/html/toc.html">
+<a href="http://help.eclipse.org/indigo/topic/org.eclipse.ptp.gem.help/html/toc.html">
 GEM (Graphical Explorer for MPI Programs) </a> tool.
 		<li>November 14, 2011: PTP 5.0.4 and Photran 7.0.4 are released.
 		<li>October 18, 2011: PTP 5.0.3 and Photran 7.0.3 are released.
