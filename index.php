@@ -53,6 +53,16 @@
 		<h3>What&apos;s New</h3>
 		<p>Note: the <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> usually contains the most recent information. 
 		<ul>
+		<li>November 27, 2011: 
+<a href="http://sc11.supercomputing.org/schedule/event_detail.php?evid=tut138">PTP Tutorial at SC11</a>
+was delivered on 13 Nov 2011; 
+Slides available on the <a href="http://wiki.eclipse.org/PTP/tutorials/SC11">PTP wiki tutorial page</a>.
+This year's tutorial includes
+significant improvements to PTP including synchronized projects and new implementations of the configurable resource managers, 
+and the tutorial itself is improved from previous years with an increased emphasis on hands-on components for 
+<a href="http://eclipse.org/photran">Fortran</a>, TAU (performance tools) and 
+<href="http://help.eclipse.org/indigo/topic/org.eclipse.ptp.gem.help/html/toc.html">
+GEM (Graphical Explorer for MPI Programs) </a> tool.
 		<li>November 14, 2011: PTP 5.0.4 and Photran 7.0.4 are released.
 		<li>October 18, 2011: PTP 5.0.3 and Photran 7.0.3 are released.
 		<li>September 23, 2011: PTP 5.0.2 and Photran 7.0.2 are released.	
