@@ -166,9 +166,8 @@ GEM (Graphical Explorer for MPI Programs) </a> tool.
 			<h3>User Resources</h3>
 			<ul>
 			<li> <a href="downloads.php">Downloads</a> - Get the latest release
-			<li> <a href="builds.php">Builds</a> - Get the latest builds for testing
-        	<li> Read the  <a href="doc.php">The PTP User Guide</a> including several
-        	screen shots.
+			<li> <a href="http://wiki.eclipse.org/PTP/builds">Builds</a> - Get the latest builds for testing
+        	<li> Read the  <a href="doc.php">The PTP Documentation</a>
         	<li> <a href="http://dev.eclipse.org/mailman/listinfo/ptp-user">PTP user mailing list</a>
         	for questions about using PTP       	       
 			</ul>
@@ -177,20 +176,10 @@ GEM (Graphical Explorer for MPI Programs) </a> tool.
 		<div class="homeitem3col">
 			<h3>Developer Resources</h3>
 			<ul>
-				<li>The <a href="http://wiki.eclipse.org/PTP">Wiki</a>  is now the best place for the most recent
+				<li>The <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a>  is now the best place for the most recent
 				information, especially developer information</li>
-				<li><a href="http://wiki.eclipse.org/PTP/planning">Plans</a>   for upcoming PTP releases </li>
-				<li><a href="http://dev.eclipse.org/viewcvs/index.cgi?cvsroot=Tools_Project">CVS Repository</a> </td>
-                          - View PTP sources using the web interface  
-                <li><a href="http://dev.eclipse.org/mailman/listinfo/ptp-dev">Mailing List</a> -
-                       Email developers and get involved with PTP development
-                <li><a href="docs/design.html">Design</a>  - PTP design discussion and plans 
-                                 (Note: <a href="http://wiki.eclipse.org/PTP">Wiki may be more accurate))
-                <li><a href="html/work.html">Work tasks</a>  - Outstanding work items on the project 
-                                 (Note: <a href="http://wiki.eclipse.org/PTP">Wiki may be more accurate))
-                <li><a href="http://wiki.eclipse.org/PTP/meetings">Planning Meetings</a> 
-                               - Monthly conference call schedule, agendas and minutes 
-                <li><a href="contributors.php">Contributors</a> - List of contributors to the PTP project
+				<li> <a href="http://dev.eclipse.org/mailman/listinfo/ptp-dev">PTP developer mailing list</a>
+        	for questions about developing for and with PTP   
 			</ul>
 		</div>
 		
