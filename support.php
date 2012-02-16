@@ -20,14 +20,13 @@
 	Use the following mechanisms to reach that community.</p>
 
 <h3>Mailing Lists</h3>
-	<p>Two mailing lists are available for PTP users:
+	<p>Two mailing lists are available for PTP users:</p>
         <ul>
         <li><a href="http://dev.eclipse.org/mailman/listinfo/ptp-user">ptp-user</a>: 
           For questions or support information about using PTP.</li>
         <li><a href="http://dev.eclipse.org/mailman/listinfo/ptp-announce">ptp-announce</a>: 
           For announcements about forthcoming PTP releases and other significant events.</li>
         </ui>
-	</p>
 
 <h3>Bugzilla</h3>
 <p>Report defects and ask for enhancements in
