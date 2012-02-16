@@ -25,8 +25,6 @@
 	#
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "PTP - Eclipse Parallel Tools Platform";
-	$pageKeywords	= "Eclipse, Parallel Programming, Parallel debugger, Parallel Tools, MPI, OpenMP, OpenMPI, Fortran, C, C++";
-	$pageAuthor		= "Beth Tibbitts   tibbitts@us.ibm.com";
 	
 	# End: page-specific settings
 	#

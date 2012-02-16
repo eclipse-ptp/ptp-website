@@ -1,35 +1,58 @@
 <?php
 
-	# Set the theme for your project's web pages.
-	# See the Committer Tools "How Do I" for list of themes
-	# https://dev.eclipse.org/committers/
-	# Optional: defaults to system theme 
-	$theme = "";
+/*******************************************************************************
+ * Copyright (c) 2009-2010 Eclipse Foundation and others.
+ * All rights reserved. This program and the accompanying materials
+ * are made available under the terms of the Eclipse Public License v1.0
+ * which accompanies this distribution, and is available at
+ * http://www.eclipse.org/legal/epl-v10.html
+ *
+ * Contributors:
+ *    
+ *******************************************************************************/
 
-	require_once($_SERVER['DOCUMENT_ROOT'] . "/ptp/project-info/project-info.class.php");
-	$projectInfo = new ProjectInfo("tools.ptp");
+	# Set the theme for your project's web pages.
+	# See http://eclipse.org/phoenix/
+	$theme = "Nova";
 	
-	function add2users() {
-		global $Nav;
-		#$Nav->addCustomNav("Mailing Lists", "/mail/index_project.php", "_self", 2);
-		$Nav->addCustomNav("Documentation", "/ptp/doc.php", 		"_self", 2);
-		$Nav->addCustomNav("FAQ", 			"http://wiki.eclipse.org/PTP/FAQ", 		"_self", 2);
-		$Nav->addCustomNav("Mailing Lists",	"http://eclipse.org/ptp/mailing_lists.php", "_self", 2);
-	}   
-	function add2contributors() {
-		global $Nav;
-		$Nav->addCustomNav("Builds", "http://wiki.eclipse.org/PTP/builds", "_self", 2);
-		$Nav->addCustomNav("Source Code",	"http://dev.eclipse.org/viewsvn/index.cgi/org.eclipse.ptp/?root=Tools_Project", "_self", 2);
-		$Nav->addCustomNav("Wiki", "http://wiki.eclipse.org/PTP", "_self", 2);
-	}
-	
-	$projectInfo->generate_common_nav( $Nav, "add2users", NULL, "add2contributors");
-		
-	# Define your project-wide Nav bars here.
+
+	# Define your project-wide Navigation here
+	# This appears on the left of the page if you define a left nav
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
 	# these are optional
-	#$Nav->addNavSeparator("PTP Home", 	"/ptp/index.php");
-	#$Nav->addCustomNav("Builds", 		"http://wiki.eclipse.org/PTP/builds", 		"_self", 2);
-	#$Nav->addCustomNav("Wiki", 			"http://wiki.eclipse.org/PTP", "_self", 2);
+	
+	# If you want to override the eclipse.org navigation, uncomment below.
+	# $Nav->setLinkList(array());
+	
+	# Break the navigation into sections
+	$Nav->addNavSeparator("PTP", 	"/ptp");
+   	$Nav->addCustomNav("Download", "/ptp/downloads.php", "_self", 3);
+	$Nav->addCustomNav("Documentation", "/ptp/documentation.php", "_self", 3);
+	$Nav->addCustomNav("Support", "/ptp/support.php", "_self", 3);
+	$Nav->addCustomNav("Getting Involved", "/ptp/developers.php", "_self", 3);
+	#$Nav->addCustomNav("Project Stats", "/projects/project_summary.php?projectid=tools.ptp", "_self", 3);
 
+	# Define keywords, author and title here, or in each PHP page specifically
+	$pageKeywords	= "Eclipse, Parallel Programming, Parallel debugger, Parallel Tools, MPI, OpenMP, OpenMPI, Fortran, C, C++";
+	$pageAuthor		= "Beth Tibbitts   tibbitts@us.ibm.com";
+
+	# top navigation bar
+	# To override and replace the navigation with your own, uncomment the line below.
+	$Menu->setMenuItemList(array());
+	$Menu->addMenuItem("Eclipse", "/", "_self");
+	$Menu->addMenuItem("PTP", "/ptp", "_self");
+	$Menu->addMenuItem("Download", "/ptp/downloads.php", "_self");
+	$Menu->addMenuItem("Documentation", "/ptp/documentation.php", "_self");
+	$Menu->addMenuItem("Support", "/ptp/support.php", "_self");
+	$Menu->addMenuItem("Developers", "/ptp/developers.php", "_self");
+    $Menu->addMenuItem("About", "http://www.eclipse.org/projects/project_summary.php?projectid=tools.ptp", "_self");
+	
+	# To define additional CSS or other pre-body headers
+	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/cdt/style.css"/>');
+	
+	# To enable occasional Eclipse Foundation Promotion banners on your pages (EclipseCon, etc)
+	$App->Promotion = TRUE;
+	
+	# If you have Google Analytics code, use it here
+	# $App->SetGoogleAnalyticsTrackingCode("YOUR_CODE");
 ?>
