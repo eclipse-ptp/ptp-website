@@ -48,7 +48,7 @@
     $Menu->addMenuItem("About", "http://www.eclipse.org/projects/project_summary.php?projectid=tools.ptp", "_self");
 	
 	# To define additional CSS or other pre-body headers
-	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/cdt/style.css"/>');
+	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/ptp/style.css"/>');
 	
 	# To enable occasional Eclipse Foundation Promotion banners on your pages (EclipseCon, etc)
 	$App->Promotion = TRUE;
