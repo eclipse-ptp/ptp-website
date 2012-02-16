@@ -24,7 +24,7 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "PTP - Eclipse Parallel Tools Platform";
+	$pageTitle 		= "Eclipse Parallel Tools Platform (PTP)";
 	
 	# End: page-specific settings
 	#
@@ -36,7 +36,7 @@
 		<ul>
 		<li><a id="buttonDownload" href="downloads.php" title="Download">
 			Eclipse IDE for Parallel Application Developers, Software Install Site</a></li>
-		<li><a id="buttonDocumentation" href="documentation.php" title="Documentation">
+		<li><a id="buttonDocumentation" href="doc.php" title="Documentation">
 			Tutorials, Examples, Videos, Reference Documentation</a></li>
 		<li><a id="buttonSupport" href="support.php" title="Support">
 			Bug Tracker, Newsgroup</a></li>
@@ -46,16 +46,16 @@
 	</div>
 
 	<div id="midcolumn">
-		<h3>PTP - Parallel Tools Platform</h3>
+		<h3>Eclipse PTP</h3>
 		<div id="introText">
-			<p>The aim of the parallel tools platform project is to produce an open-source industry-strength platform that 
-			    provides a highly integrated environment specifically designed for parallel application development. 
-			    The project provides:
+			<p>The PTP project provides an integrated development environment to support the development of parallel applications written 
+			in C, C++, and Fortran. Eclipse PTP provides:
 	      	<ul>
-		        <li>a standard, portable parallel IDE that supports a wide range of parallel architectures and runtime systems</li>
-		        <li>a scalable parallel debugger</li>
-		        <li>support for  the integration of a wide range of parallel tools</li>
-		        <li>an environment that simplifies the end-user interaction with parallel systems </li>
+		        <li>Support for the MPI, OpenMP and UPC programming models</li>
+		        <li>Support for a wide range of batch systems and runtime systems, including PBS/Torque, LoadLeveler, GridEngine,
+		        Parallel Environment, Open MPI, and MPICH2</li>
+		        <li>A scalable parallel debugger</li>
+		        <li>Support for  the integration of a wide range of parallel tools</li>
 			</ul>
 			</p>
 			<h3>Fortran Development Tools (Photran)</h3>
