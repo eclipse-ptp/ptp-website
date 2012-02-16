@@ -27,7 +27,7 @@
 	# Break the navigation into sections
 	$Nav->addNavSeparator("PTP", 	"/ptp");
    	$Nav->addCustomNav("Download", "/ptp/downloads.php", "_self", 3);
-	$Nav->addCustomNav("Documentation", "/ptp/documentation.php", "_self", 3);
+	$Nav->addCustomNav("Documentation", "/ptp/doc.php", "_self", 3);
 	$Nav->addCustomNav("Support", "/ptp/support.php", "_self", 3);
 	$Nav->addCustomNav("Getting Involved", "/ptp/developers.php", "_self", 3);
 	#$Nav->addCustomNav("Project Stats", "/projects/project_summary.php?projectid=tools.ptp", "_self", 3);
@@ -42,7 +42,7 @@
 	$Menu->addMenuItem("Eclipse", "/", "_self");
 	$Menu->addMenuItem("PTP", "/ptp", "_self");
 	$Menu->addMenuItem("Download", "/ptp/downloads.php", "_self");
-	$Menu->addMenuItem("Documentation", "/ptp/documentation.php", "_self");
+	$Menu->addMenuItem("Documentation", "/ptp/doc.php", "_self");
 	$Menu->addMenuItem("Support", "/ptp/support.php", "_self");
 	$Menu->addMenuItem("Developers", "/ptp/developers.php", "_self");
     $Menu->addMenuItem("About", "http://www.eclipse.org/projects/project_summary.php?projectid=tools.ptp", "_self");
