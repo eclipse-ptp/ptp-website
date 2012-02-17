@@ -37,11 +37,11 @@
 		<li><a id="buttonDownload" href="downloads.php" title="Download">
 			Eclipse IDE for Parallel Application Developers, Software Install Site</a></li>
 		<li><a id="buttonDocumentation" href="doc.php" title="Documentation">
-			Tutorials, Examples, Videos, Reference Documentation</a></li>
+			Tutorials, Examples, Reference Documentation</a></li>
 		<li><a id="buttonSupport" href="support.php" title="Support">
-			Bug Tracker, Newsgroup</a></li>
+			Bug Tracker, Mailing Lists</a></li>
 		<li><a id="buttonInvolved" href="developers.php" title="Getting Involved">
-			CVS, Workspace Setup, Wiki, Committers</a></li>
+			Git, Workspace Setup, Wiki, Committers</a></li>
 		</ul>
 	</div>
 
