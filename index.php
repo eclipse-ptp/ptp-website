@@ -34,14 +34,10 @@
 	<div id="bigbuttons">
 		<h3>Primary Links</h3>
 		<ul>
-		<li><a id="buttonDownload" href="downloads.php" title="Download">
-			Eclipse IDE for Parallel Application Developers, Software Install Site</a></li>
-		<li><a id="buttonDocumentation" href="doc.php" title="Documentation">
-			Tutorials, Examples, Reference Documentation</a></li>
-		<li><a id="buttonSupport" href="support.php" title="Support">
-			Bug Tracker, Mailing Lists</a></li>
-		<li><a id="buttonInvolved" href="developers.php" title="Getting Involved">
-			Git, Workspace Setup, Wiki, Committers</a></li>
+		<li><a id="buttonDownload" href="downloads.php" title="Download"></a></li>
+		<li><a id="buttonDocumentation" href="doc.php" title="Documentation"></a></li>
+		<li><a id="buttonSupport" href="support.php" title="Support"></a></li>
+		<li><a id="buttonInvolved" href="developers.php" title="Getting Involved"></a></li>
 		</ul>
 	</div>
 
