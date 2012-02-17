@@ -26,7 +26,7 @@
           For questions or support information about using PTP.</li>
         <li><a href="http://dev.eclipse.org/mailman/listinfo/ptp-announce">ptp-announce</a>: 
           For announcements about forthcoming PTP releases and other significant events.</li>
-        </ui>
+        </ul>
 
 <h3>Bugzilla</h3>
 <p>Report defects and ask for enhancements in
