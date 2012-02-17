@@ -33,7 +33,8 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<p>Welcome to the downloads page for the Parallel Tools Platform (including Photran). 
-		<p>The latest release of PTP is <b><font size=+1>5.0.4</font></b>, released November 14, 2011 which works with <b>Eclipse Indigo (3.7.x)</b>.
+
+		<p>The latest release of PTP is <b><font size=+1>5.0.5</font></b>, released February 17, 2012 which works with <b>Eclipse Indigo (3.7.x)</b>.
 		</p>
     <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/5.0">
       release notes and installation instructions</a></font> for prerequisite information 
@@ -50,16 +51,16 @@
       <a href="http://download.eclipse.org/releases/indigo">http://download.eclipse.org/releases/indigo</a>. <b>Currently has PTP 5.0.2</b>
       <br>-or-
       <li>The PTP-specific update site:
-      <a href="http://download.eclipse.org/tools/ptp/updates/indigo">http://download.eclipse.org/tools/ptp/updates/indigo</a>. <b>Currently has PTP 5.0.4</b>
+      <a href="http://download.eclipse.org/tools/ptp/updates/indigo">http://download.eclipse.org/tools/ptp/updates/indigo</a>. <b>Currently has PTP 5.0.5</b>
       </ul>  
       See the <a href="http://wiki.eclipse.org/PTP/release_notes/5.0">release notes</a> for more details.
       </ol>
 </p>
-<p>Currently, as of PTP Release 5.0.4 (14 Nov 2011), the Eclipse IDE for Parallel Application Developers
-contains PTP 5.0.2, so if you have that installed you may wish to update to 5.0.4 via the PTP-specific update site listed above.
+<p>Currently, as of PTP Release 5.0.5 (17 Feb 2012), the Eclipse IDE for Parallel Application Developers
+contains PTP 5.0.2, so if you have that installed you may wish to update to 5.0.5 via the PTP-specific update site listed above.
 <p>
 <!--    <p>In the future, subsequent PTP releases will be -->
-This <b><font size=+1>PTP 5.0.4</font></b> release is 
+This <b><font size=+1>PTP 5.0.5</font></b> release is 
 <!-- <b> also </b> -->
 available from the PTP-specific update site: 
 <a href="http://download.eclipse.org/tools/ptp/updates/indigo">http://download.eclipse.org/tools/ptp/updates/indigo</a>.
@@ -82,7 +83,7 @@ PTP releases automatically.
 <h3>Archived Update Site</h3>
 <p>Archived update site (You asked for it!) can be downloaded from:
   <ul>     
-  <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/org.eclipse.ptp.repo.5.0.4.201111121445.zip">org.eclipse.ptp.repo.5.0.4.201111121445.zip</a>
+  <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo_505/ptp-master-5.0.5-201202152107.zip">ptp-master-5.0.5-201202152107.zip</a>
   </ul>
   <h3>Optional PTP Server Components</h3>
   <p>Server components for the IBM LoadLeveler, IBM PE, and SLURM resource managers, and the parallel debugger, need to be built and installed from source code. 
@@ -90,7 +91,7 @@ PTP releases automatically.
   See the release notes for instructions on installing the 
   optional PTP server components.
   <ul>     
-  <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/ptp-proxy-5.0.4-201111121445.zip">ptp-proxy-5.0.4-I201111121445.zip</a>
+  <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo_505/ptp-proxy-5.0.5.zip">ptp-proxy-5.0.5.zip</a>
   </ul>
 </div>
 
@@ -108,38 +109,38 @@ PTP releases automatically.
         </tr>
          <tr>
           <td>AIX</td>
-          <td><div align="left">5.0.4</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-aix-5.0.4.tar">rdt-server-aix-5.0.4.tar</a></div></td>
+          <td><div align="left">5.0.5</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo_505/rdt-server-aix-5.0.5.tar">rdt-server-aix-5.0.5.tar</a></div></td>
         </tr>
         <tr>
           <td>Linux (Generic)</td>
-          <td><div align="left">5.0.4</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-linux-5.0.4.tar">rdt-server-linux-5.0.4.tar</a></div></td>
+          <td><div align="left">5.0.5</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo_505/rdt-server-linux-5.0.5.tar">rdt-server-linux-5.0.5.tar</a></div></td>
         </tr>
         <tr>
           <td>Linux (PPC)</td>
-          <td><div align="left">5.0.4</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-linux.ppc-5.0.4.tar">rdt-server-linux.ppc-5.0.4.tar</a></div></td>
+          <td><div align="left">5.0.5</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo_505/rdt-server-linux.ppc-5.0.5.tar">rdt-server-linux.ppc-5.0.5.tar</a></div></td>
         </tr>
         <tr>
           <td>Linux (x86)</td>
-          <td><div align="left">5.0.4</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-linux.x86-5.0.4.tar">rdt-server-linux.x86-5.0.4.tar</a></div></td>
+          <td><div align="left">5.0.5</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo_505/rdt-server-linux.x86-5.0.5.tar">rdt-server-linux.x86-5.0.5.tar</a></div></td>
         </tr>
         <tr>
           <td>Unix</td>
-          <td><div align="left">5.0.4</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-unix-5.0.4.tar">rdt-server-unix-5.0.4.tar</a></div></td>
+          <td><div align="left">5.0.5</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo_505/rdt-server-unix-5.0.5.tar">rdt-server-unix-5.0.5.tar</a></div></td>
         </tr>
 		<tr>
           <td>MacOS X</td>
-          <td><div align="left">5.0.4</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-macosx-5.0.4.tar">rdt-server-macosx-5.0.4.tar</a></div></td>
+          <td><div align="left">5.0.5</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo_505/rdt-server-macosx-5.0.5.tar">rdt-server-macosx-5.0.5.tar</a></div></td>
         </tr>
 		<tr>
           <td>Windows</td>
-          <td><div align="left">5.0.4</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-windows-5.0.4.zip">rdt-server-windows-5.0.4.zip</a></div></td>
+          <td><div align="left">5.0.5</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo_505/rdt-server-windows-5.0.5.zip">rdt-server-windows-5.0.5.zip</a></div></td>
         </tr>
         
       </table>  

@@ -82,8 +82,8 @@
 		</div>
 		
 		<div id="headlines">
-			<h3>PTP 5.0.4 Now Available</h3>
-			<p><i>November 14, 2011 -</i> Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
+			<h3>PTP 5.0.5 Now Available</h3>
+			<p><i>February 17, 2012 -</i> Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
 		</div>
 		
 		<div id="headlines">
