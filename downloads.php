@@ -86,7 +86,7 @@ PTP releases automatically.
   <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/ptp-master-5.0.5-201202152107.zip">ptp-master-5.0.5-201202152107.zip</a>
   </ul>
   <h3>Optional PTP Server Components</h3>
-  <p>Server components for the IBM LoadLeveler, IBM PE, and SLURM resource managers, and the parallel debugger, need to be built and installed from source code. 
+  <p>Server components for the (original proxy-based) IBM LoadLeveler, IBM PE, and SLURM resource managers, and the parallel debugger, need to be built and installed from source code. 
   The following download link will work for the 5.0   versions of PTP. 
   See the release notes for instructions on installing the 
   optional PTP server components.
