@@ -78,11 +78,13 @@
 		</div>
 		
 		<div id="headlines">
+			<h3>Eclipse IDE for Parallel Application Developers has been updated in SR2</h3>
+			<p><i>February 24, 2012 -</i> PTP 5.0.5 is now part of the 
+			Eclipse Indigo SR2 release. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
+			
 			<h3>PTP 5.0.5 Now Available</h3>
 			<p><i>February 17, 2012 -</i> Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
-			<h3>Eclipse IDE for Parallel Application Developers has been updated in SR2</h3>
-			<p><i>February 24, 2012 -</i> Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
-			
+
 		</div>
 		
 		<div id="headlines">
