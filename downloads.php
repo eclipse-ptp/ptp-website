@@ -42,13 +42,13 @@
       <p><font size=+1>PTP 5.0</font> can be installed two ways:
       <ol><li>Install the <img src="images/ptp_logo_icon32.png"><b>Eclipse IDE for Parallel Application Developers</b> from the 
       <a href="http://eclipse.org/downloads">Eclipse downloads</a> page.
-       <b>Currently has PTP 5.0.2</b>
+       <b>Currently has PTP 5.0.5</b>
        </li>
       <li>Install into an existing Eclipse - first download Eclipse, and then use the Eclipse "Help > Install New Software..." menu
       to install PTP and its pre-requisites from:
       <ul>
       <li>The Eclipse Indigo update site: 
-      <a href="http://download.eclipse.org/releases/indigo">http://download.eclipse.org/releases/indigo</a>. <b>Currently has PTP 5.0.2</b>
+      <a href="http://download.eclipse.org/releases/indigo">http://download.eclipse.org/releases/indigo</a>. <b>Currently has PTP 5.0.5</b>
       <br>-or-
       <li>The PTP-specific update site:
       <a href="http://download.eclipse.org/tools/ptp/updates/indigo">http://download.eclipse.org/tools/ptp/updates/indigo</a>. <b>Currently has PTP 5.0.5</b>
@@ -56,19 +56,22 @@
       See the <a href="http://wiki.eclipse.org/PTP/release_notes/5.0">release notes</a> for more details.
       </ol>
 </p>
-<p>Currently, as of PTP Release 5.0.5 (17 Feb 2012), the Eclipse IDE for Parallel Application Developers
-contains PTP 5.0.2, so if you have that installed you may wish to update to 5.0.5 via the PTP-specific update site listed above.
+<p>Currently, as of PTP Release 5.0.5 and Eclipse Indigo SR2 (24 Feb 2012), the <b>Eclipse IDE for Parallel Application Developers</b>
+also contains PTP 5.0.5, 
+<!-- so if you have that installed you may wish to update to 5.0.5 via the PTP-specific update site listed above. -->
+so if you install that, or update a previous <b>Eclipse IDE for Parallel Application Developers</b>, everything will be up to date.
 <p>
 <!--    <p>In the future, subsequent PTP releases will be -->
 This <b><font size=+1>PTP 5.0.5</font></b> release is 
 <!-- <b> also </b> -->
+<b> also </b>
 available from the PTP-specific update site: 
 <a href="http://download.eclipse.org/tools/ptp/updates/indigo">http://download.eclipse.org/tools/ptp/updates/indigo</a>.
 
 <ul>
 <li>Enable or add this site in your "Available Software Sites" then install from there initially, or update (Help > Check for Updates).
 <li>If you already have PTP 5.0.x installed <i>from the PTP-specific update site</i>, you should be able to do 
-Help > Check for Updates...  to get the new version.  </li>
+Help > Check for Updates...  to get any updates to PTP <i>since</i> the latest <b>Eclipse IDE for Parallel Application Developers</b>, if any.  </li>
 <li>If you initially installed the <b>Eclipse IDE for Parallel Application Developers</b>, then 
 follow the instructions for <a href="http://wiki.eclipse.org/PTP/release_notes/5.0#Updating_from_the_Parallel_Package_to_a_more_recent_release">Updating from from the Parallel Package to a more recent release</a>
 to install PTP on top of that from

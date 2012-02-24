@@ -74,12 +74,15 @@
     <div id="rightcolumn">
 		<div>
 			<h3>Current Status</h3>
-			<p>PTP 5.0 has been released with Eclipse Indigo!</p>
+			<p>PTP 5.0.5 has been released with Eclipse Indigo SR2!</p>
 		</div>
 		
 		<div id="headlines">
 			<h3>PTP 5.0.5 Now Available</h3>
 			<p><i>February 17, 2012 -</i> Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
+			<h3>Eclipse IDE for Parallel Application Developers has been updated in SR2</h3>
+			<p><i>February 24, 2012 -</i> Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
+			
 		</div>
 		
 		<div id="headlines">
