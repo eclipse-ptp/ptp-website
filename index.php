@@ -93,11 +93,6 @@
 				Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
 		</div>
 	
-		<div id="headlines">
-			<h3>PTP 4.0.6 Now Available</h3>
-			<p><i>February 25, 2011 -</i> PTP 4.0.6 and Photran 6.0.6 are released with Helios Service Release 2 (Eclipse 3.6.2). 
-				Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
-		</div>
 	</div>
 	   
 
