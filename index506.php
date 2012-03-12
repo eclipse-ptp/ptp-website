@@ -76,7 +76,7 @@
     <div id="rightcolumn">
 		<div>
 			<h3>Current Status</h3>
-			<p>PTP 5.0 has been released with Eclipse Indigo!</p>
+			<p>PTP 5.0.6 is the latest release with Eclipse Indigo</p>
 		</div>
 		
 		<div id="headlines">
