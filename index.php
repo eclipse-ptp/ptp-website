@@ -59,7 +59,9 @@
 				Forming an integral part of the parallel tools platform, 
 				Fortran language support provided by Photran is an essential tool for the parallel development community. 
 				Please consult the <a href="http://wiki.eclipse.org/PTP/photran/documentation/photran5">Photran User's Guide</a>
-				for information on downloading and installing this plug-in.
+				for information on downloading and installing this plug-in. 
+				<a href="http://help.eclipse.org/indigo/topic/org.eclipse.photran.doc.user/html/toc.html">Online version of the Photran User's Guide</a> 
+				is also available as part of the plug-in installation.
 				Highlights include:
 			<ul>
 				<li>Support for IBM XLF, Intel Fortran, gfortran and other compilers</li>
@@ -74,24 +76,20 @@
     <div id="rightcolumn">
 		<div>
 			<h3>Current Status</h3>
-			<p>PTP 5.0 has been released with Eclipse Indigo!</p>
+			<p>PTP 5.0.6 is the latest release with Eclipse Indigo</p>
 		</div>
 		
 		<div id="headlines">
+			<h3>PTP 5.0.6 Now Available</h3>
+			<p><i>March 12, 2012 -</i> Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
+		
 			<h3>Eclipse IDE for Parallel Application Developers has been updated in SR2</h3>
 			<p><i>February 24, 2012 -</i> PTP 5.0.5 is now part of the 
 			Eclipse Indigo SR2 release. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
 			
-			<h3>PTP 5.0.5 Now Available</h3>
-			<p><i>February 17, 2012 -</i> Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
 
 		</div>
 		
-		<div id="headlines">
-			<h3>PTP 4.0.7 Now Available</h3>
-			<p><i>February 25, 2011 -</i> PTP 4.0.7 and Photran 6.0.7 are the latest and last release in the Eclipse Helios series. 
-				Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
-		</div>
 	
 	</div>
 	   

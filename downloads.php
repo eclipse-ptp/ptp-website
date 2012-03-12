@@ -34,7 +34,7 @@
 		<h1>$pageTitle</h1>
 		<p>Welcome to the downloads page for the Parallel Tools Platform (including Photran). 
 
-		<p>The latest release of PTP is <b><font size=+1>5.0.5</font></b>, released February 17, 2012 which works with <b>Eclipse Indigo (3.7.x)</b>.
+		<p>The latest release of PTP is <b><font size=+1>5.0.6</font></b>, released March 12, 2012 which works with <b>Eclipse Indigo (3.7.x)</b>.
 		</p>
     <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/5.0">
       release notes and installation instructions</a></font> for prerequisite information 
@@ -51,20 +51,20 @@
       <a href="http://download.eclipse.org/releases/indigo">http://download.eclipse.org/releases/indigo</a>. <b>Currently has PTP 5.0.5</b>
       <br>-or-
       <li>The PTP-specific update site:
-      <a href="http://download.eclipse.org/tools/ptp/updates/indigo">http://download.eclipse.org/tools/ptp/updates/indigo</a>. <b>Currently has PTP 5.0.5</b>
+      <a href="http://download.eclipse.org/tools/ptp/updates/indigo">http://download.eclipse.org/tools/ptp/updates/indigo</a>. <b>Currently has PTP 5.0.6</b>
       </ul>  
       See the <a href="http://wiki.eclipse.org/PTP/release_notes/5.0">release notes</a> for more details.
       </ol>
 </p>
-<p>Currently, as of PTP Release 5.0.5 and Eclipse Indigo SR2 (24 Feb 2012), the <b>Eclipse IDE for Parallel Application Developers</b>
-also contains PTP 5.0.5, 
-<!-- so if you have that installed you may wish to update to 5.0.5 via the PTP-specific update site listed above. -->
-so if you install that, or update a previous <b>Eclipse IDE for Parallel Application Developers</b>, everything will be up to date.
+<p>Currently, as of PTP Release 5.0.6 and Eclipse Indigo SR2 (24 Feb 2012), the <b>Eclipse IDE for Parallel Application Developers</b>
+<!-- also -->
+contains PTP 5.0.5, 
+so if you have that installed you may wish to update to 5.0.6 via the PTP-specific update site listed above. 
+<!-- so if you install that, or update a previous <b>Eclipse IDE for Parallel Application Developers</b>, everything will be up to date. -->
 <p>
 <!--    <p>In the future, subsequent PTP releases will be -->
-This <b><font size=+1>PTP 5.0.5</font></b> release is 
+This <b><font size=+1>PTP </font></b> release is 
 <!-- <b> also </b> -->
-<b> also </b>
 available from the PTP-specific update site: 
 <a href="http://download.eclipse.org/tools/ptp/updates/indigo">http://download.eclipse.org/tools/ptp/updates/indigo</a>.
 
