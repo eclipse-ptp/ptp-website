@@ -77,6 +77,7 @@
 		<div>
 			<h3>Current Status</h3>
 			<p>PTP 5.0.6 is the latest release with Eclipse Indigo</p>
+			<p>The <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> is often the best source of up-to-date information on PTP for Developers and Users.
 		</div>
 		
 		<div id="headlines">

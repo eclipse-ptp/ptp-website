@@ -45,6 +45,7 @@
 	$Menu->addMenuItem("Documentation", "/ptp/doc.php", "_self");
 	$Menu->addMenuItem("Support", "/ptp/support.php", "_self");
 	$Menu->addMenuItem("Developers", "/ptp/developers.php", "_self");
+	$Menu->addMenuItem("Wiki", "http://wiki.eclipse.org/PTP", "_self");
     $Menu->addMenuItem("About", "http://www.eclipse.org/projects/project_summary.php?projectid=tools.ptp", "_self");
 	
 	# To define additional CSS or other pre-body headers

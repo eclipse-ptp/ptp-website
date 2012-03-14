@@ -20,6 +20,10 @@
 	<a href="http://wiki.eclipse.org/PTP#Developer_Resources">
 	Resources for PTP developers</a>
 </li>
+<li>The 
+	<a href="http://wiki.eclipse.org/PTP">
+	PTP Wiki</a> usually has the latest information about PTP for Developers, as well as users.
+</li>
 <li>
     <a href="http://dev.eclipse.org/mailman/listinfo/ptp-dev">
     PTP Developers Mailing List</a><br>
