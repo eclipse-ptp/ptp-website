@@ -77,8 +77,7 @@
 		<div>
 			<h3>Current Status</h3>
 			<p>PTP 5.0.6 is the latest release with Eclipse Indigo</p>
-			<p>The <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> is often the best source of up-to-date information on PTP for Developers and Users.
-		</div>
+				</div>
 		
 		<div id="headlines">
 			<h3>PTP 5.0.6 Now Available</h3>
@@ -87,8 +86,11 @@
 			<h3>Eclipse IDE for Parallel Application Developers has been updated in SR2</h3>
 			<p><i>February 24, 2012 -</i> PTP 5.0.5 is now part of the 
 			Eclipse Indigo SR2 release. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
+		
 			
-
+			<h3>More Information</h3>
+			<p>The <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> is often the best source of up-to-date information on PTP for Developers and Users.
+	
 		</div>
 		
 	
