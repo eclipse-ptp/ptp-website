@@ -36,7 +36,12 @@
     <a href="https://bugs.eclipse.org/bugs/query.cgi?product=PTP">
    	Bugzilla</a><br>Search for PTP bugs.
 </li> 
+<li>
+    <a href="http://wiki.eclipse.org/PTP/environment_setup_60">
+   	Developer Environment</a><br> setup information includes how to access the Git repository at dev.eclipse.org.
+</li>
 </ul>
+
 </div>
 EOHTML;
 
