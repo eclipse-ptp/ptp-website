@@ -76,12 +76,12 @@
     <div id="rightcolumn">
 		<div>
 			<h3>Current Status</h3>
-			<p>PTP 5.0.6 is the latest release with Eclipse Indigo</p>
+			<p>PTP 5.0.7 is the latest release with Eclipse Indigo</p>
 				</div>
 		
 		<div id="headlines">
-			<h3>PTP 5.0.6 Now Available</h3>
-			<p><i>March 12, 2012 -</i> Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
+			<h3>PTP 5.0.7 Now Available</h3>
+			<p><i>April 3, 2012 -</i> Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
 		
 			<h3>Eclipse IDE for Parallel Application Developers has been updated in SR2</h3>
 			<p><i>February 24, 2012 -</i> PTP 5.0.5 is now part of the 
