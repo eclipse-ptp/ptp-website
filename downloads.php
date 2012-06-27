@@ -34,46 +34,47 @@
 		<h1>$pageTitle</h1>
 		<p>Welcome to the downloads page for the Parallel Tools Platform (including Photran). 
 
-		<p>The latest release of PTP is <b><font size=+1>5.0.7</font></b>, released April 3, 2012 which works with <b>Eclipse Indigo (3.7.x)</b>.
+		<p>The latest release of PTP is <b><font size=+1>6.0.0</font></b>, released June 27, 2012 which works with <b>Eclipse Juno (4.2)</b>.
 		</p>
-    <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/5.0">
+    <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/6.0">
       release notes and installation instructions</a></font> for prerequisite information 
-      and instructions on installing PTP Release 5.0.x (both client and target machine (server) parts).  
-      <p><font size=+1>PTP 5.0</font> can be installed two ways:
-      <ol><li>Install the <img src="images/ptp_logo_icon32.png"><b>Eclipse IDE for Parallel Application Developers</b> from the 
+      and instructions on installing PTP Release 6.0.x (both client and target machine (server) parts).  
+      <p><font size=+1>PTP 6.0</font> can be installed two ways:
+      <ol><li>Install the <img src="images/ptp_logo_icon32.png"><b>Eclipse for Parallel Application Developers</b> from the 
       <a href="http://eclipse.org/downloads">Eclipse downloads</a> page.
-       <b>Currently has PTP 5.0.5</b>
+       <b>Currently has PTP 6.0</b>
        </li>
       <li>Install into an existing Eclipse - first download Eclipse, and then use the Eclipse "Help > Install New Software..." menu
       to install PTP and its pre-requisites from:
       <ul>
-      <li>The Eclipse Indigo update site: 
-      <a href="http://download.eclipse.org/releases/indigo">http://download.eclipse.org/releases/indigo</a>. <b>Currently has PTP 5.0.5</b>
+      <li>The Eclipse Juno update site: 
+      <a href="http://download.eclipse.org/releases/juno">http://download.eclipse.org/releases/juno</a>. <b>Currently has PTP 6.0.0</b>
       <br>-or-
       <li>The PTP-specific update site:
-      <a href="http://download.eclipse.org/tools/ptp/updates/indigo">http://download.eclipse.org/tools/ptp/updates/indigo</a>. <b>Currently has PTP 5.0.7</b>
+      <a href="http://download.eclipse.org/tools/ptp/updates/juno">http://download.eclipse.org/tools/ptp/updates/juno</a>. 
+      <b>Currently has PTP 6.0.0</b> - but will contain updates more frequently.
       </ul>  
-      See the <a href="http://wiki.eclipse.org/PTP/release_notes/5.0">release notes</a> for more details.
+      See the <a href="http://wiki.eclipse.org/PTP/release_notes/6.0">release notes</a> for more details.
       </ol>
 </p>
-<p>Currently, as of PTP Release 5.0.7 and Eclipse Indigo SR2 (24 Feb 2012), the <b>Eclipse IDE for Parallel Application Developers</b>
+<p>Currently, as of PTP Release 6.0.0 and Eclipse Juno (27 June 2012), the <b>Eclipse for Parallel Application Developers</b>
 <!-- also -->
-contains PTP 5.0.5, 
-so if you have that installed you may wish to update to 5.0.7 via the PTP-specific update site listed above. 
-<!-- so if you install that, or update a previous <b>Eclipse IDE for Parallel Application Developers</b>, everything will be up to date. -->
+contains PTP 6.0.0, 
+<!-- so if you have that installed you may wish to update to 6.0.1 via the PTP-specific update site listed above. -->
+so if you install that, <!--or update a previous <b>Eclipse for Parallel Application Developers</b>, --> everything will be up to date. 
 <p>
-<!--    <p>In the future, subsequent PTP releases will be -->
-This <b><font size=+1>PTP </font></b> release is 
+ <p>In the future, subsequent PTP releases will be  
+<!--This <b><font size=+1>PTP </font></b> release is -->
 <!-- <b> also </b> -->
 available from the PTP-specific update site: 
-<a href="http://download.eclipse.org/tools/ptp/updates/indigo">http://download.eclipse.org/tools/ptp/updates/indigo</a>.
+<a href="http://download.eclipse.org/tools/ptp/updates/juno">http://download.eclipse.org/tools/ptp/updates/juno</a>.
 
 <ul>
 <li>Enable or add this site in your "Available Software Sites" then install from there initially, or update (Help > Check for Updates).
-<li>If you already have PTP 5.0.x installed <i>from the PTP-specific update site</i>, you should be able to do 
-Help > Check for Updates...  to get any updates to PTP <i>since</i> the latest <b>Eclipse IDE for Parallel Application Developers</b>, if any.  </li>
-<li>If you initially installed the <b>Eclipse IDE for Parallel Application Developers</b>, then 
-follow the instructions for <a href="http://wiki.eclipse.org/PTP/release_notes/5.0#Updating_from_the_Parallel_Package_to_a_more_recent_release">Updating from from the Parallel Package to a more recent release</a>
+<li>If you already have PTP 6.0.x installed <i>from the PTP-specific update site</i>, you should be able to do 
+Help > Check for Updates...  to get any updates to PTP <i>since</i> the latest <b>Eclipse for Parallel Application Developers</b>, if any.  </li>
+<li>If you initially installed the <b>Eclipse for Parallel Application Developers</b>, then 
+follow the instructions for <a href="http://wiki.eclipse.org/PTP/release_notes/6.0#Updating_from_the_Parallel_Package_to_a_more_recent_release">Updating from from the Parallel Package to a more recent release</a>
 to install PTP on top of that from
 the PTP-specific update site; this gets the most recent update (or re-install the current release from there) and then Help > Check for Updates will find subsequent
 PTP releases automatically.
@@ -86,15 +87,15 @@ PTP releases automatically.
 <h3>Archived Update Site</h3>
 <p>Archived update site (You asked for it!) can be downloaded from:
   <ul>     
-  <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/ptp-master-5.0.7-201203231413.zip">ptp-master-5.0.7-201203231413.zip</a>
+  <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/juno/ptp-master-6.0.0-201206130212.zip">ptp-master-6.0.0-201206130212.zip</a>
   </ul>
   <h3>Optional PTP Server Components</h3>
   <p>Server components for the (original proxy-based) IBM LoadLeveler, IBM PE, and SLURM resource managers, and the parallel debugger, need to be built and installed from source code. 
-  The following download link will work for the 5.0   versions of PTP. 
+  The following download link will work for the 6.0   versions of PTP. 
   See the release notes for instructions on installing the 
   optional PTP server components.
   <ul>     
-  <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/ptp-proxy-5.0.7.zip">ptp-proxy-5.0.7.zip</a>
+  <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/juno/ptp-proxy-6.0.0.zip">ptp-proxy-6.0.0.zip</a>
   </ul>
 </div>
 
@@ -112,38 +113,38 @@ PTP releases automatically.
         </tr>
          <tr>
           <td>AIX</td>
-          <td><div align="left">5.0.7</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-aix-5.0.7.tar">rdt-server-aix-5.0.7.tar</a></div></td>
+          <td><div align="left">6.0.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/juno/rdt-server-aix-6.0.0.tar">rdt-server-aix-6.0.0.tar</a></div></td>
         </tr>
         <tr>
           <td>Linux (Generic)</td>
-          <td><div align="left">5.0.7</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-linux-5.0.7.tar">rdt-server-linux-5.0.7.tar</a></div></td>
+          <td><div align="left">6.0.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/juno/rdt-server-linux-6.0.0.tar">rdt-server-linux-6.0.0.tar</a></div></td>
         </tr>
         <tr>
           <td>Linux (PPC)</td>
-          <td><div align="left">5.0.7</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-linux.ppc-5.0.7.tar">rdt-server-linux.ppc-5.0.7.tar</a></div></td>
+          <td><div align="left">6.0.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/juno/rdt-server-linux.ppc-6.0.0.tar">rdt-server-linux.ppc-6.0.0.tar</a></div></td>
         </tr>
         <tr>
           <td>Linux (x86)</td>
-          <td><div align="left">5.0.7</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-linux.x86-5.0.7.tar">rdt-server-linux.x86-5.0.7.tar</a></div></td>
+          <td><div align="left">6.0.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/juno/rdt-server-linux.x86-6.0.0.tar">rdt-server-linux.x86-6.0.0.tar</a></div></td>
         </tr>
         <tr>
           <td>Unix</td>
-          <td><div align="left">5.0.7</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-unix-5.0.7.tar">rdt-server-unix-5.0.7.tar</a></div></td>
+          <td><div align="left">6.0.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/juno/rdt-server-unix-6.0.0.tar">rdt-server-unix-6.0.0.tar</a></div></td>
         </tr>
 		<tr>
           <td>MacOS X</td>
-          <td><div align="left">5.0.7</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-macosx-5.0.7.tar">rdt-server-macosx-5.0.7.tar</a></div></td>
+          <td><div align="left">6.0.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/juno/rdt-server-macosx-6.0.0.tar">rdt-server-macosx-6.0.0.tar</a></div></td>
         </tr>
 		<tr>
           <td>Windows</td>
-          <td><div align="left">5.0.7</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/indigo/rdt-server-windows-5.0.7.zip">rdt-server-windows-5.0.7.zip</a></div></td>
+          <td><div align="left">6.0.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/juno/rdt-server-windows-6.0.0.zip">rdt-server-windows-6.0.0.zip</a></div></td>
         </tr>
         
       </table>  
@@ -152,9 +153,10 @@ PTP releases automatically.
   
 <div class="homeitem3col">
 <h3>Previous releases</h3>
-<p>Download information for <a href="downloads_4_0.php">PTP 4.0</a> for Eclipse 3.6 (Helios).
-<p>Download information for <a href="downloads_3_0.php">PTP 3.0</a> for Eclipse 3.5 (Galileo).
-<p>Download information for <a href="downloads_2_1.php">PTP 2.1</a> for Eclipse 3.4 (Ganymede).
+<p>Download information for <a href="downloads_5_0.php">PTP 5.0</a> for Eclipse 3.7 (Indigo).
+<p>PTP 4.0 was released for Eclipse 3.6 (Helios).
+<p>PTP 3.0 was released for Eclipse 3.5 (Galileo).
+<p>PTP 2.1 was released for Eclipse 3.4 (Ganymede).
 
 </div>
  

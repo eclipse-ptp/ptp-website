@@ -76,16 +76,16 @@
     <div id="rightcolumn">
 		<div>
 			<h3>Current Status</h3>
-			<p>PTP 5.0.7 is the latest release with Eclipse Indigo</p>
+			<p>PTP 6.0 is the latest release with Eclipse Juno</p>
 				</div>
 		
 		<div id="headlines">
-			<h3>PTP 5.0.7 Now Available</h3>
-			<p><i>April 3, 2012 -</i> Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
+		    <h3>PTP 6.0 Now Available with Eclipse Juno</h3>
+		    <p><i>June 27, 2012 -</i> Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
 		
-			<h3>Eclipse IDE for Parallel Application Developers has been updated in SR2</h3>
-			<p><i>February 24, 2012 -</i> PTP 5.0.5 is now part of the 
-			Eclipse Indigo SR2 release. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
+			<h3>Eclipse for Parallel Application Developers now is based on Eclipse Juno </h3>
+			<p><i>June 27, 2012 -</i> PTP 6.0 is now the basis of this package in the 
+			Eclipse Juno release. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
 		
 			
 			<h3>More Information</h3>
