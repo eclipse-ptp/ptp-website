@@ -152,9 +152,9 @@ PTP releases automatically.
   
 <div class="homeitem3col">
 <h3>Previous releases</h3>
-<p>Download information for <a href="downloads_4_0.php">PTP 4.0</a> for Eclipse 3.6 (Helios).
-<p>Download information for <a href="downloads_3_0.php">PTP 3.0</a> for Eclipse 3.5 (Galileo).
-<p>Download information for <a href="downloads_2_1.php">PTP 2.1</a> for Eclipse 3.4 (Ganymede).
+<p>PTP 4.0 was released for Eclipse 3.6 (Helios).
+<p>PTP 3.0 was released for Eclipse 3.5 (Galileo).
+<p>PTP 2.1 was released for Eclipse 3.4 (Ganymede).
 
 </div>
  
