@@ -57,11 +57,11 @@
       See the <a href="http://wiki.eclipse.org/PTP/release_notes/6.0">release notes</a> for more details.
       </ol>
 </p>
-<p>Currently, as of Eclipse Juno (27 June 2012), the <b>Eclipse for Parallel Application Developers</b>
-<!-- also -->
-contains PTP 6.0.0, 
-<!-- so if you have that installed you may wish to update to 6.0.1 via the PTP-specific update site listed above. -->
-so if you install that, please also update from the PTP-specific update site <a href="http://download.eclipse.org/tools/ptp/updates/juno">http://download.eclipse.org/tools/ptp/updates/juno</a> as follows:
+<p>
+Currently, as of Eclipse Juno (27 June 2012), the <b>Eclipse for Parallel Application Developers</b>
+contains PTP 6.0.0, so if you install that, please also update from the PTP-specific update site 
+<a href="http://download.eclipse.org/tools/ptp/updates/juno">http://download.eclipse.org/tools/ptp/updates/juno</a> 
+as follows:
 
 <ul>
 <li>Enable or add this site in your "Available Software Sites" then install from there initially, or update (Help > Check for Updates).
@@ -74,7 +74,6 @@ the PTP-specific update site; this gets the most recent update (or re-install th
 PTP releases automatically.
 </ul>
 </p>
-
 <p>Other PTP builds are also available from the <a href="http://wiki.eclipse.org/PTP/builds">PTP builds page</a>.
 
 <div class="homeitem3col">
@@ -143,8 +142,7 @@ PTP releases automatically.
         
       </table>  
 </div>
-      
-  
+   
 <div class="homeitem3col">
 <h3>Previous releases</h3>
 <p>Download information for <a href="downloads_5_0.php">PTP 5.0</a> for Eclipse 3.7 (Indigo).
