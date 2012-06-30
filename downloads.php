@@ -61,8 +61,7 @@
 <!-- also -->
 contains PTP 6.0.0, 
 <!-- so if you have that installed you may wish to update to 6.0.1 via the PTP-specific update site listed above. -->
-so if you install that, please also update from the PTP-specific update site: 
-<a href="http://download.eclipse.org/tools/ptp/updates/juno">http://download.eclipse.org/tools/ptp/updates/juno</a> as follows:
+so if you install that, please also update from the PTP-specific update site <a href="http://download.eclipse.org/tools/ptp/updates/juno">http://download.eclipse.org/tools/ptp/updates/juno</a> as follows:
 
 <ul>
 <li>Enable or add this site in your "Available Software Sites" then install from there initially, or update (Help > Check for Updates).
