@@ -117,7 +117,7 @@ PTP releases automatically.
         <tr>
           <td>Linux (PPC)</td>
           <td><div align="left">6.0.1</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/juno/rdt-server-linux.ppc-6.0.1.tar">rdt-server-linux.ppc-6.0.1.tar</a></div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/juno/rdt-server-linux.ppc64-6.0.1.tar">rdt-server-linux.ppc64-6.0.1.tar</a></div></td>
         </tr>
         <tr>
           <td>Linux (x86)</td>
