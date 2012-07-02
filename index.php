@@ -76,12 +76,17 @@
     <div id="rightcolumn">
 		<div>
 			<h3>Current Status</h3>
-			<p>PTP 6.0 is the latest release with Eclipse Juno</p>
+			<p>PTP 6.0.1 is the latest release with Eclipse Juno</p>
 				</div>
 		
 		<div id="headlines">
-		    <h3>PTP 6.0 Now Available with Eclipse Juno</h3>
-		    <p><i>June 27, 2012 -</i> Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
+		    <h3>PTP 6.0.1 Now Available with Eclipse Juno</h3>
+		    <p><i>June 29, 2012 -</i> Check the <a href="downloads.php">Download</a> 
+		    link on how to get yours. If you installed the 
+		    <b>Eclipse for Parallel Application Developers</b> package,
+		    please see <a href="http://wiki.eclipse.org/PTP/release_notes/6.0#Updating_from_the_Parallel_Package_to_a_more_recent_release">
+		    Updating from the parallel package to a more recent release</a> on the PTP wiki.
+		    </p>
 		
 			<h3>Eclipse for Parallel Application Developers now is based on Eclipse Juno </h3>
 			<p><i>June 27, 2012 -</i> PTP 6.0 is now the basis of this package in the 
