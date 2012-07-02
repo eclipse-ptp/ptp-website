@@ -59,7 +59,7 @@
 </p>
 <p>
 Currently, as of Eclipse Juno (27 June 2012), the <b>Eclipse for Parallel Application Developers</b>
-contains PTP 6.0.0, so if you install that, please also update from the PTP-specific update site 
+contains PTP 6.0.0, so if you install that, please also update for <b>6.0.1</b>from the PTP-specific update site 
 <a href="http://download.eclipse.org/tools/ptp/updates/juno">http://download.eclipse.org/tools/ptp/updates/juno</a> 
 as follows:
 
