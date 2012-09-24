@@ -49,7 +49,7 @@
 	      	<ul>
 		        <li>Support for the MPI, OpenMP and UPC programming models</li>
 		        <li>Support for a wide range of batch systems and runtime systems, including PBS/Torque, LoadLeveler, GridEngine,
-		        Parallel Environment, Open MPI, and MPICH2</li>
+		        IBM Parallel Environment, Open MPI, and MPICH2</li>
 		        <li>A scalable parallel debugger</li>
 		        <li>Support for  the integration of a wide range of parallel tools</li>
 			</ul>
