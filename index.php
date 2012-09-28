@@ -49,7 +49,7 @@
 	      	<ul>
 		        <li>Support for the MPI, OpenMP and UPC programming models</li>
 		        <li>Support for a wide range of batch systems and runtime systems, including PBS/Torque, LoadLeveler, GridEngine,
-		        IBM Parallel Environment, Open MPI, and MPICH2</li>
+		        Parallel Environment, Open MPI, and MPICH2</li>
 		        <li>A scalable parallel debugger</li>
 		        <li>Support for  the integration of a wide range of parallel tools</li>
 			</ul>
@@ -76,18 +76,22 @@
     <div id="rightcolumn">
 		<div>
 			<h3>Current Status</h3>
-			<p>PTP 6.0.1 is the latest release with Eclipse Juno</p>
+			<p>PTP 6.0.2 release with Eclipse Juno SR1 </p>
 				</div>
 		
 		<div id="headlines">
-		    <h3>PTP 6.0.1 Now Available with Eclipse Juno</h3>
-		    <p><i>June 29, 2012 -</i> Check the <a href="downloads.php">Download</a> 
-		    link on how to get yours. If you installed the 
+		    <h3>PTP 6.0.2 Now Available with Eclipse Juno SR1</h3>
+		    <p><i>September 28, 2012 -</i> Check the <a href="downloads.php">Download</a> 
+		    link for details on how to get yours. The <b>Help > Check for updates</b>
+		    menu item should work to update your Eclipse and PTP from a previous
+		    Juno-based release.
+		    <!--
+		    If you installed the 
 		    <b>Eclipse for Parallel Application Developers</b> package,
 		    please see <a href="http://wiki.eclipse.org/PTP/release_notes/6.0#Updating_from_the_Parallel_Package_to_a_more_recent_release">
 		    Updating from the parallel package to a more recent release</a> on the PTP wiki.
 		    </p>
-		
+		-->
 			<h3>Eclipse for Parallel Application Developers now is based on Eclipse Juno </h3>
 			<p><i>June 27, 2012 -</i> PTP 6.0 is now the basis of this package in the 
 			Eclipse Juno release. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
