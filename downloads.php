@@ -34,7 +34,7 @@
 		<h1>$pageTitle</h1>
 		<p>Welcome to the downloads page for the Parallel Tools Platform (including Photran). 
 
-		<p>The latest release of PTP is <b><font size=+1>6.0.2</font></b>, released June 29, 2012 which works with <b>Eclipse Juno (4.2)</b>.
+		<p>The latest release of PTP is <b><font size=+1>6.0.2</font></b>, released September 28, 2012 which works with <b>Eclipse Juno SR1 (4.2.1)</b>.
 		</p>
     <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/6.0">
       release notes and installation instructions</a></font> for prerequisite information 
