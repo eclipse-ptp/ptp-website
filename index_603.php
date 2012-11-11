@@ -47,7 +47,7 @@
 			<p>The PTP project provides an integrated development environment to support the development of parallel applications written 
 			in C, C++, and Fortran. Eclipse PTP provides:
 	      	<ul>
-		        <li>Support for the MPI, OpenMP and UPC programming models</li>
+		        <li>Support for the MPI, OpenMP and UPC programming models, as well as OpenSHMEM and OpenACC</li>
 		        <li>Support for a wide range of batch systems and runtime systems, including PBS/Torque, LoadLeveler, GridEngine,
 		        Parallel Environment, Open MPI, and MPICH2</li>
 		        <li>A scalable parallel debugger</li>
@@ -76,26 +76,24 @@
     <div id="rightcolumn">
 		<div>
 			<h3>Current Status</h3>
-			<p>PTP 6.0.2 release with Eclipse Juno SR1 </p>
-				</div> 
+			<p>PTP 6.0.3 released 11/11/12 </p>
+				</div>
 		
 		<div id="headlines">
-		    <h3>PTP 6.0.2 Now Available with Eclipse Juno SR1</h3>
-		    <p><i>September 28, 2012 -</i> Check the <a href="downloads.php">Download</a> 
-		    link for details on how to get yours. The <b>Help > Check for updates</b>
-		    menu item should work to update your Eclipse and PTP from a previous
-		    Juno-based release.
-		    <!--
+		<h3>PTP 6.0.3 Now Available </h3>
+		<p><i>November 11, 2012 -</i>Just in time for SC12 and our annual PTP tutorial,
+		update your PTP to get the latest features and fixes.
+		   <p>
 		    If you installed the 
 		    <b>Eclipse for Parallel Application Developers</b> package,
 		    please see <a href="http://wiki.eclipse.org/PTP/release_notes/6.0#Updating_from_the_Parallel_Package_to_a_more_recent_release">
 		    Updating from the parallel package to a more recent release</a> on the PTP wiki.
 		    </p>
-		-->
+		
 			<h3>Eclipse for Parallel Application Developers now is based on Eclipse Juno </h3>
 			<p><i>June 27, 2012 -</i> PTP 6.0 is now the basis of this package in the 
 			Eclipse Juno release. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
-		
+		    PTP was refreshed to 6.0.2 in the September SR1 release of the package.
 			
 			<h3>More Information</h3>
 			<p>The <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> is often the best source of up-to-date information on PTP for Developers and Users.
