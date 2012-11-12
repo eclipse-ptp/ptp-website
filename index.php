@@ -81,7 +81,7 @@
 		
 		<div id="headlines">
 		<h3>PTP 6.0.3 Now Available </h3>
-		<p><i>November 11, 2012 -</i>Just in time for SC12 and our annual PTP tutorial,
+		<p><i>November 11, 2012 -</i>Just in time for SC12 and our <a href="http://wiki.eclipse.org/PTP/tutorials/SC12">PTP tutorial</a>,
 		update your PTP to get the latest features and fixes.
 		   <p>
 		    If you installed the 
