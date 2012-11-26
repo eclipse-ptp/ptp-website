@@ -87,8 +87,11 @@ PTP releases automatically.
   <h3>Optional PTP Server Components</h3>
   <p>Server components for the (original proxy-based) IBM LoadLeveler, IBM PE, and SLURM resource managers, and the parallel debugger, need to be built and installed from source code. 
   The following download link will work for the 6.0.3   versions of PTP. 
-  See the release notes for instructions on installing the 
-  optional PTP server components.  Note this is ONLY required if you want to use the older legacy proxy-based run configurations.
+  See the <ahref="http://wiki.eclipse.org/PTP/release_notes/6.0">release notes</a> for instructions on installing the 
+  optional PTP server components.  Note this is ONLY required if you want to use the older legacy proxy-based run configurations,
+  or you want to use the PTP parallel debugger.  See 
+  <a href="http://wiki.eclipse.org/PTP/release_notes/6.0#Install_optional_PTP_debugger_component">
+  Instructions for building sdm for the parallel debugger</a> in the release notes.
   <ul>     
   <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/juno/ptp-proxy-6.0.3.zip">ptp-proxy-6.0.3.zip</a>
   </ul>
