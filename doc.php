@@ -35,7 +35,7 @@
 <h2>Getting Started</h2>
 <ul>
 <li>For installation help, see the <a href="http://wiki.eclipse.org/PTP/release_notes/6.0">Release notes</a>
-<li>Read the <a href="http://help.eclipse.org/indigo/topic/org.eclipse.ptp.doc.user/html/toc.html">PTP Help</a>
+<li>Read the <a href="http://help.eclipse.org/juno/topic/org.eclipse.ptp.doc.user/html/toc.html">PTP Help</a>
 <li>See the <a href="http://wiki.eclipse.org/PTP/tutorials">PTP Tutorials</a>
 <li>Read and ask questions on the <a href="http://dev.eclipse.org/mhonarc/lists/ptp-user/">ptp-users mailing list</a>
 <li>See more information on the <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> and at the links below.
