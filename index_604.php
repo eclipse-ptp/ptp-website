@@ -96,7 +96,7 @@
 			<p><i>June 27, 2012 -</i> PTP 6.0 is now the basis of this package in the 
 			Eclipse Juno release. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
 		    PTP was refreshed to 6.0.2 in the September SR1 release of the package.
-		    PTP 6.0.3 was available on November 11, 2012.
+		    PTP 6.0.3 was subsequently released on November 11, 2012.
 			
 			<h3>More Information</h3>
 			<p>The <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> is often the best source of up-to-date information on PTP for Developers and Users.
