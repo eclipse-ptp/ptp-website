@@ -43,6 +43,7 @@
       <ol><li>Install the <img src="images/ptp_logo_icon32.png"><b>Eclipse for Parallel Application Developers</b> from the 
       <a href="http://eclipse.org/downloads">Eclipse downloads</a> page.
        <b>Currently has PTP 6.0.4</b>. 
+       <br>If you have a previous version of a Juno-based <b>Eclipse for Parallel Application Developers</b>, then you should just use the "Help > Check for Updates..." menu
        </li>
       <li>Install into an existing Eclipse - first download Eclipse, and then use the Eclipse "Help > Install New Software..." menu
       to install PTP and its pre-requisites from:
