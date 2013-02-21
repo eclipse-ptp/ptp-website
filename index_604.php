@@ -77,6 +77,10 @@
 		<div>
 			<h3>Current Status</h3>
 			<p>PTP 6.0.4 released 22 Feb 2013 </p>
+			<p>Development is underway for the PTP 7.0, part of 
+			the next Eclipse simultaneous release, Kepler, due June 2013.
+</p>
+			
 				</div>
 		
 		<div id="headlines">
