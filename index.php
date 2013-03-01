@@ -76,24 +76,31 @@
     <div id="rightcolumn">
 		<div>
 			<h3>Current Status</h3>
-			<p>PTP 6.0.3 released 11/11/12 </p>
+			<p>PTP 6.0.4 released 22 Feb 2013 </p>
+			<p>Development is underway for the PTP 7.0, part of 
+			the next Eclipse simultaneous release, Kepler, due June 2013.
+</p>
+			
 				</div>
 		
 		<div id="headlines">
-		<h3>PTP 6.0.3 Now Available </h3>
-		<p><i>November 11, 2012 -</i>Just in time for SC12 and our <a href="http://wiki.eclipse.org/PTP/tutorials/SC12">PTP tutorial</a>,
-		update your PTP to get the latest features and fixes.
-		   <p>
+		<h3>PTP 6.0.4 Now Available with Eclipse Juno SR2</h3>
+		<p><i>February 22, 2013 -</i> Check the <a href="downloads.php">Download</a> 
+		    link for details on how to get yours. The <b>Help > Check for updates</b>
+		    menu item should work to update your Eclipse and PTP from a previous
+		    Juno-based release.
+		   <!--
 		    If you installed the 
 		    <b>Eclipse for Parallel Application Developers</b> package,
 		    please see <a href="http://wiki.eclipse.org/PTP/release_notes/6.0#Updating_from_the_Parallel_Package_to_a_more_recent_release">
 		    Updating from the parallel package to a more recent release</a> on the PTP wiki.
 		    </p>
-		
+		-->
 			<h3>Eclipse for Parallel Application Developers now is based on Eclipse Juno </h3>
 			<p><i>June 27, 2012 -</i> PTP 6.0 is now the basis of this package in the 
 			Eclipse Juno release. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
 		    PTP was refreshed to 6.0.2 in the September SR1 release of the package.
+		    PTP 6.0.3 was subsequently released on November 11, 2012.
 			
 			<h3>More Information</h3>
 			<p>The <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> is often the best source of up-to-date information on PTP for Developers and Users.
