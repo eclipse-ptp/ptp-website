@@ -76,7 +76,7 @@
     <div id="rightcolumn">
 		<div>
 			<h3>Current Status</h3>
-			<p>PTP 6.0.4 released 22 Feb 2013 </p>
+			<p>PTP 6.0.4 released 1 Mar 2013 </p>
 			<p>Development is underway for the PTP 7.0, part of 
 			the next Eclipse simultaneous release, Kepler, due June 2013.
 </p>
@@ -85,7 +85,7 @@
 		
 		<div id="headlines">
 		<h3>PTP 6.0.4 Now Available with Eclipse Juno SR2</h3>
-		<p><i>February 22, 2013 -</i> Check the <a href="downloads.php">Download</a> 
+		<p><i>March 1, 2013 -</i> Check the <a href="downloads.php">Download</a> 
 		    link for details on how to get yours. The <b>Help > Check for updates</b>
 		    menu item should work to update your Eclipse and PTP from a previous
 		    Juno-based release.
