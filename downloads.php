@@ -46,15 +46,15 @@
        </li>
       <li>Install into an existing Eclipse - first download Eclipse, and then use the Eclipse "Help > Install New Software..." menu
       to install PTP and its pre-requisites from:
-      <ol type="a">
-      <li>The Eclipse Juno update site: 
+      <ul type="a">
+      <li>(a) The Eclipse Juno update site: 
       <b>http://download.eclipse.org/releases/juno</b>. 
       <br><b>Currently has PTP 6.0.4</b>
       <br>-or-
-      <li> The PTP-specific update site:
+      <li>(b) The PTP-specific update site:
       <b>http://download.eclipse.org/tools/ptp/updates/juno</b>. 
       <br><b>Currently PTP 6.0.5</b>
-      </ol>  
+      </ul>  
       See the <a href="http://wiki.eclipse.org/PTP/release_notes/6.0">release notes</a> for more details.
       </ol>
 </p>
