@@ -37,7 +37,7 @@
    	Bugzilla</a><br>Search for PTP bugs.
 </li> 
 <li>
-    <a href="http://wiki.eclipse.org/PTP/environment_setup_60">
+    <a href="http://wiki.eclipse.org/PTP/environment_setup">
    	Developer Environment</a><br> setup information includes how to access the Git repository at dev.eclipse.org.
 </li>
 </ul>
