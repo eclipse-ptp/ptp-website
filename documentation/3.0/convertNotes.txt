@@ -1,1 +1,0 @@
-change all PLUGINS_ROOT to ../.. in html help files
