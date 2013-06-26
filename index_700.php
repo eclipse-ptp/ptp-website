@@ -60,7 +60,7 @@
 				Fortran language support provided by Photran is an essential tool for the parallel development community. 
 				Please consult the <a href="http://wiki.eclipse.org/PTP/photran/documentation/photran5">Photran User's Guide</a>
 				for information on downloading and installing this plug-in. 
-				<a href="http://help.eclipse.org/indigo/topic/org.eclipse.photran.doc.user/html/toc.html">Online version of the Photran User's Guide</a> 
+				<a href="http://help.eclipse.org/kepler/topic/org.eclipse.photran.doc.user/html/toc.html">Online version of the Photran User's Guide</a> 
 				is also available as part of the plug-in installation.
 				Highlights include:
 			<ul>
