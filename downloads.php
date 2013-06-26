@@ -83,6 +83,11 @@ PTP releases automatically.
 <p>Other PTP builds are also available from the <a href="http://wiki.eclipse.org/PTP/builds">PTP builds page</a>.
 
 <div class="homeitem3col">
+<h3>Sysmon Stand-alone System Monitoring</h3>
+<p>Archived update site (You asked for it!) can be downloaded from:
+  <ul>     
+   <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/7.0.0">Sysmon and other downloads</a>
+  </ul>
 <h3>Archived Update Site</h3>
 <p>Archived update site (You asked for it!) can be downloaded from:
   <ul>     
