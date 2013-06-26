@@ -84,7 +84,7 @@ PTP releases automatically.
 
 <div class="homeitem3col">
 <h3>Sysmon Stand-alone System Monitoring</h3>
-<p>Archived update site (You asked for it!) can be downloaded from:
+<p>Sysmon and other items can be downloaded from:
   <ul>     
    <li><a href="http://download.eclipse.org/tools/ptp/builds/7.0.0">Sysmon and other downloads</a>
   </ul>
