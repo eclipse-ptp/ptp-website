@@ -78,7 +78,7 @@
 			<h3>Current Status</h3>
 			<p>PTP 6.0.5 released 15 Mar 2013 </p>
 			<p>Development is underway for the PTP 7.0, part of 
-			the next Eclipse simultaneous release, Kepler, due June 2013.
+			the next Eclipse simultaneous release, Kepler,  June 26, 2013.
 </p>
 			
 				</div>
