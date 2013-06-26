@@ -34,36 +34,39 @@
 		<h1>$pageTitle</h1>
 		<p>Welcome to the downloads page for the Parallel Tools Platform (including Photran). 
 
-		<p>The latest release of PTP is <b><font size=+1>6.0.5</font></b>, released March 15, 2013 which works with <b>Eclipse Juno SR2 (4.2.2)</b>.
+		<p>The latest release of PTP is <b><font size=+1>7.0.0</font></b>, released June 26, 2013 which works with <b>Eclipse Kepler (4.3)</b>.
 		</p>
-    <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/6.0">
+    <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/7.0">
       release notes and installation instructions</a></font> for prerequisite information 
-      and instructions on installing PTP Release 6.0.x (both client and target machine (server) parts).  
-      <p><font size=+1>PTP 6.0.5</font> can be installed two ways:
+      and instructions on installing PTP Release 7.0.x (both client and target machine (server) parts).  
+      <p><font size=+1>PTP 7.0.0</font> can be installed two ways:
       <ol><li>Install the <img src="images/ptp_logo_icon32.png"><b>Eclipse for Parallel Application Developers</b> from the 
       <a href="http://eclipse.org/downloads">Eclipse downloads</a> page.
-       <b>Currently has PTP 6.0.4</b>. Then update to 6.0.5 (see below, but it's essentially step 2(b)).
+       <b>Currently has PTP 7.0.0</b>. 
+       <!--Then update to 7.0.1 (see below, but it's essentially step 2(b)).-->
        </li>
       <li>Install into an existing Eclipse - first download Eclipse, and then use the Eclipse "Help > Install New Software..." menu
       to install PTP and its pre-requisites from:
       <ul type="a">
-      <li>(a) The Eclipse Juno update site: 
-      <b>http://download.eclipse.org/releases/juno</b>. 
-      <br><b>Currently has PTP 6.0.4</b>
+      <li>(a) The Eclipse Kepler update site: 
+      <b>http://download.eclipse.org/releases/kepler</b>. 
+      <br><b>Currently has PTP 7.0.0</b>
       <br>-or-
       <li>(b) The PTP-specific update site:
-      <b>http://download.eclipse.org/tools/ptp/updates/juno</b>. 
-      <br><b>Currently PTP 6.0.5</b>
+      <b>http://download.eclipse.org/tools/ptp/updates/kepler</b>. 
+      <br><b>Currently PTP 7.0.0</b>
       </ul>  
-      See the <a href="http://wiki.eclipse.org/PTP/release_notes/6.0">release notes</a> for more details.
+      See the <a href="http://wiki.eclipse.org/PTP/release_notes/7.0">release notes</a> for more details.
       </ol>
 </p>
 <p>
-Currently, as of Eclipse Juno SR2 (1 March 2012), the <b>Eclipse for Parallel Application Developers</b>
-contains PTP 6.0.4. We suggest you install this and update from 
+<!--
+Currently, as of Eclipse Kepler (26 June 2013), the <b>Eclipse for Parallel Application Developers</b>
+contains PTP 7.0.0. We suggest you install this and update from 
 the PTP-specific update site 
-<a href="http://download.eclipse.org/tools/ptp/updates/juno">http://download.eclipse.org/tools/ptp/updates/juno</a> 
-will get you the latest PTP (6.0.5).
+<a href="http://download.eclipse.org/tools/ptp/updates/kepler">http://download.eclipse.org/tools/ptp/updates/kepler</a> 
+will get you the latest PTP (7.0.0).
+-->
 <!--
 <ul>
 <li>Enable or add this site in your "Available Software Sites" then install from there initially, or update (Help > Check for Updates).
@@ -83,18 +86,18 @@ PTP releases automatically.
 <h3>Archived Update Site</h3>
 <p>Archived update site (You asked for it!) can be downloaded from:
   <ul>     
-   <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/6.0.5/ptp-master-6.0.5-201303141511.zip">ptp-master-6.0.5-201303141511.zip</a>
+   <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/7.0.0/http://download.eclipse.org/tools/ptp/builds/7.0.0/ptp-master-7.0.0.201306121926.zip">http://download.eclipse.org/tools/ptp/builds/7.0.0/ptp-master-7.0.0.201306121926.zip</a>
   </ul>
   <h3>Optional PTP Server Components</h3>
   <p>Server components for the (original proxy-based) IBM LoadLeveler, IBM PE, and SLURM resource managers, and the parallel debugger, need to be built and installed from source code. 
-  The following download link will work for the 6.0.5   versions of PTP. 
-  See the <a href="http://wiki.eclipse.org/PTP/release_notes/6.0">release notes</a> for instructions on installing the 
+  The following download link will work for the 7.0.0   versions of PTP. 
+  See the <a href="http://wiki.eclipse.org/PTP/release_notes/7.0">release notes</a> for instructions on installing the 
   optional PTP server components.  Note this is ONLY required if you want to use the older legacy proxy-based run configurations,
   or you want to use the PTP parallel debugger.  See 
   <a href="http://wiki.eclipse.org/PTP/release_notes/6.0#Install_optional_PTP_debugger_component">
   Instructions for building sdm for the parallel debugger</a> in the release notes.
   <ul>     
-  <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/juno/ptp-proxy-6.0.5.zip">ptp-proxy-6.0.5.zip</a>
+  <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/kepler/ptp-proxy-7.0.0.zip">ptp-proxy-7.0.0.zip</a>
   </ul>
 </div>
 
@@ -112,38 +115,38 @@ PTP releases automatically.
         </tr>
          <tr>
           <td>AIX</td>
-          <td><div align="left">6.0.5</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/juno/rdt-server-aix-6.0.5.tar">rdt-server-aix-6.0.5.tar</a></div></td>
+          <td><div align="left">7.0.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/kepler/rdt-server-aix-7.0.0.tar">rdt-server-aix-7.0.0.tar</a></div></td>
         </tr>
         <tr>
           <td>Linux (Generic)</td>
-          <td><div align="left">6.0.5</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/juno/rdt-server-linux-6.0.5.tar">rdt-server-linux-6.0.5.tar</a></div></td>
+          <td><div align="left">7.0.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/kepler/rdt-server-linux-7.0.0.tar">rdt-server-linux-7.0.0.tar</a></div></td>
         </tr>
         <tr>
           <td>Linux (PPC)</td>
-          <td><div align="left">6.0.5</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/juno/rdt-server-linux.ppc64-6.0.5.tar">rdt-server-linux.ppc64-6.0.5.tar</a></div></td>
+          <td><div align="left">7.0.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/kepler/rdt-server-linux.ppc64-7.0.0.tar">rdt-server-linux.ppc64-7.0.0.tar</a></div></td>
         </tr>
         <tr>
           <td>Linux (x86)</td>
-          <td><div align="left">6.0.5</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/juno/rdt-server-linux.x86-6.0.5.tar">rdt-server-linux.x86-6.0.5.tar</a></div></td>
+          <td><div align="left">7.0.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/kepler/rdt-server-linux.x86-7.0.0.tar">rdt-server-linux.x86-7.0.0.tar</a></div></td>
         </tr>
         <tr>
           <td>Unix</td>
-          <td><div align="left">6.0.5</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/juno/rdt-server-unix-6.0.5.tar">rdt-server-unix-6.0.5.tar</a></div></td>
+          <td><div align="left">7.0.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/kepler/rdt-server-unix-7.0.0.tar">rdt-server-unix-7.0.0.tar</a></div></td>
         </tr>
 		<tr>
           <td>MacOS X</td>
-          <td><div align="left">6.0.5</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/juno/rdt-server-macosx-6.0.5.tar">rdt-server-macosx-6.0.5.tar</a></div></td>
+          <td><div align="left">7.0.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/kepler/rdt-server-macosx-7.0.0.tar">rdt-server-macosx-7.0.0.tar</a></div></td>
         </tr>
 		<tr>
           <td>Windows</td>
-          <td><div align="left">6.0.5</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/juno/rdt-server-windows-6.0.5.zip">rdt-server-windows-6.0.5.zip</a></div></td>
+          <td><div align="left">7.0.0</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/kepler/rdt-server-windows-7.0.0.zip">rdt-server-windows-7.0.0.zip</a></div></td>
         </tr>
         
       </table>  
@@ -151,6 +154,7 @@ PTP releases automatically.
    
 <div class="homeitem3col">
 <h3>Previous releases</h3>
+<p>Download information for <a href="downloads_605.php">PTP 6.0</a> for Eclipse 4.2 (Juno).
 <p>Download information for <a href="downloads_5_0.php">PTP 5.0</a> for Eclipse 3.7 (Indigo).
 <p>PTP 4.0 was released for Eclipse 3.6 (Helios).
 <p>PTP 3.0 was released for Eclipse 3.5 (Galileo).

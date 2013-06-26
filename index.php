@@ -60,7 +60,7 @@
 				Fortran language support provided by Photran is an essential tool for the parallel development community. 
 				Please consult the <a href="http://wiki.eclipse.org/PTP/photran/documentation/photran5">Photran User's Guide</a>
 				for information on downloading and installing this plug-in. 
-				<a href="http://help.eclipse.org/indigo/topic/org.eclipse.photran.doc.user/html/toc.html">Online version of the Photran User's Guide</a> 
+				<a href="http://help.eclipse.org/kepler/topic/org.eclipse.photran.doc.user/html/toc.html">Online version of the Photran User's Guide</a> 
 				is also available as part of the plug-in installation.
 				Highlights include:
 			<ul>
@@ -76,33 +76,34 @@
     <div id="rightcolumn">
 		<div>
 			<h3>Current Status</h3>
-			<p>PTP 6.0.5 released 15 Mar 2013 </p>
-			<p>Development is underway for the PTP 7.0, part of 
-			the next Eclipse simultaneous release, Kepler,  June 26, 2013.
+			<p>PTP 7.0 released 26 June 2013 </p>
+			<p>PTP 7.0 is part of
+			the Eclipse Kepler simultaneous release.
 </p>
 			
 				</div>
 		
 		<div id="headlines">
-		<h3>PTP 6.0.5 Now Available</h3>
-		<p><i>March 15, 2013 -</i> Check the <a href="downloads.php">Download</a> link.
-		<h3>PTP 6.0.4 Now Available with Eclipse Juno SR2</h3>
+		<h3>PTP 7.0.0 Now Available</h3>
+		<p><i>June 26, 2013 -</i> Check the <a href="downloads.php">Download</a> link.
+		<h3>PTP 7.0.0 Now Available with Eclipse Kepler</h3>
 		<p><i>March 1, 2013 -</i> Check the <a href="downloads.php">Download</a> 
-		    link for details on how to get yours. The <b>Help > Check for updates</b>
+		    link for details on how to get yours. 
+		    <!--The <b>Help > Check for updates</b>
 		    menu item should work to update your Eclipse and PTP from a previous
-		    Juno-based release.
+		    Kepler-based release.-->
 		   <!--
 		    If you installed the 
 		    <b>Eclipse for Parallel Application Developers</b> package,
-		    please see <a href="http://wiki.eclipse.org/PTP/release_notes/6.0#Updating_from_the_Parallel_Package_to_a_more_recent_release">
+		    please see <a href="http://wiki.eclipse.org/PTP/release_notes/7.0#Updating_from_the_Parallel_Package_to_a_more_recent_release">
 		    Updating from the parallel package to a more recent release</a> on the PTP wiki.
 		    </p>
 		-->
-			<h3>Eclipse for Parallel Application Developers now is based on Eclipse Juno </h3>
-			<p><i>June 27, 2012 -</i> PTP 6.0 is now the basis of this package in the 
-			Eclipse Juno release. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
-		    PTP was refreshed to 6.0.2 in the September SR1 release of the package.
-		    PTP 6.0.3 was subsequently released on November 11, 2012.
+			<h3>Eclipse for Parallel Application Developers now is based on Eclipse Kepler </h3>
+			<p><i>June 26, 2013 -</i> PTP 7.0 is now the basis of this package in the 
+			Eclipse Kepler release. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
+		    <!--PTP was refreshed to 6.0.2 in the September SR1 release of the package.
+		    PTP 6.0.3 was subsequently released on November 11, 2012.-->
 			
 			<h3>More Information</h3>
 			<p>The <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> is often the best source of up-to-date information on PTP for Developers and Users.
