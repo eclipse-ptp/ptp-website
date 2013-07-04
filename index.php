@@ -76,32 +76,31 @@
     <div id="rightcolumn">
 		<div>
 			<h3>Current Status</h3>
-			<p>PTP 7.0 released 26 June 2013 </p>
-			<p>PTP 7.0 is part of
-			the Eclipse Kepler simultaneous release.
+			<p>PTP 7.0.1 released 2 July 2013 </p>
+
 </p>
 			
 				</div>
 		
 		<div id="headlines">
-		<h3>PTP 7.0.0 Now Available</h3>
-		<p><i>June 26, 2013 -</i> Check the <a href="downloads.php">Download</a> link.
-		<h3>PTP 7.0.0 Now Available with Eclipse Kepler</h3>
-		<p><i>March 1, 2013 -</i> Check the <a href="downloads.php">Download</a> 
+		<h3>PTP 7.0.1  Available July 2, 2013</h3>
+		<h3>PTP 7.0.0  Available June 26, 2013 with Eclipse Kepler</h3>
+		<p></i> Check the <a href="downloads.php">Download</a> 
 		    link for details on how to get yours. 
 		    <!--The <b>Help > Check for updates</b>
 		    menu item should work to update your Eclipse and PTP from a previous
 		    Kepler-based release.-->
-		   <!--
+		   
 		    If you installed the 
 		    <b>Eclipse for Parallel Application Developers</b> package,
 		    please see <a href="http://wiki.eclipse.org/PTP/release_notes/7.0#Updating_from_the_Parallel_Package_to_a_more_recent_release">
 		    Updating from the parallel package to a more recent release</a> on the PTP wiki.
 		    </p>
-		-->
+		<!--
 			<h3>Eclipse for Parallel Application Developers now is based on Eclipse Kepler </h3>
 			<p><i>June 26, 2013 -</i> PTP 7.0 is now the basis of this package in the 
 			Eclipse Kepler release. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
+		    -->
 		    <!--PTP was refreshed to 6.0.2 in the September SR1 release of the package.
 		    PTP 6.0.3 was subsequently released on November 11, 2012.-->
 			
