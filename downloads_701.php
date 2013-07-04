@@ -84,23 +84,14 @@ PTP releases automatically.
 
 <div class="homeitem3col">
 <h3>Archived Update Site, Sysmon Stand-alone System Monitoring, and RDT server components</h3>
-<p>PTP file downloads contain:
+<p><a href="http://download.eclipse.org/tools/ptp/builds/7.0.1">PTP 7.0.1 file downloads</a> contain:
 <ul>
 <li>Archived update site (ptp-master)
 <li>Sysmon, Stand-alone System Monitoring for PTP
-<li>RDT server components 
-<li>...and other items can be downloaded from:
-  <ul>     
-   <li><a href="http://download.eclipse.org/tools/ptp/builds/7.0.1">PTP 7.0.1 file downloads</a>
-  </ul>
-</ul>
-<div class="homeitem3col">
-  <h3>Optional Remote Development Tools (RDT) Server Components</h3>
-  <p>The RDT server components are required if you are using the Remote System Explorer (RSE) as a remote service provider for RDT. If you are using Remote Tools
+<li>RDT server components - required if you are using the Remote System Explorer (RSE) as a remote service provider for RDT. If you are using Remote Tools
   (installed as part of PTP) the server components are installed automatically. See the release notes for more details on using RSE with RDT.
-  <p><ul><li><b>Downloads available from above link</b></ul>
- 
-</div>
+<li>...and other items
+</ul>
    
 <div class="homeitem3col">
 <h3>Previous releases</h3>
