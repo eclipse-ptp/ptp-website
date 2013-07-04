@@ -83,68 +83,18 @@ PTP releases automatically.
 <p>Other PTP builds are also available from the <a href="http://wiki.eclipse.org/PTP/builds">PTP builds page</a>.
 
 <div class="homeitem3col">
-<h3>Archived Update Site and Sysmon Stand-alone System Monitoring</h3>
-<p>Archived update site (ptp-master), as well as Sysmon and other items can be downloaded from:
+<h3>Archived Update Site, Sysmon Stand-alone System Monitoring, and RDT server components</h3>
+<p>Archived update site (ptp-master), as well as Sysmon, RDT server components and other items can be downloaded from:
   <ul>     
-   <li><a href="http://download.eclipse.org/tools/ptp/builds/7.0.1">Archive, Sysmon and other downloads</a>
+   <li><a href="http://download.eclipse.org/tools/ptp/builds/7.0.1">PTP 7.0.1 file downloads</a>
   </ul>
-  <!--
-<h3>Archived Update Site</h3>
-<p>Archived update site (You asked for it!) can be downloaded from:
-  <ul>     
-   <li><a href="http://download.eclipse.org/tools/ptp/builds/7.0.1/ptp-master-7.0.1.201307022343.zip">http://download.eclipse.org/tools/ptp/builds/7.0.1/ptp-master-7.0.0.201307022343.zip</a>
-  </ul>
--->
-</div>
 
 <div class="homeitem3col">
   <h3>Optional Remote Development Tools (RDT) Server Components</h3>
   <p>The RDT server components are required if you are using the Remote System Explorer (RSE) as a remote service provider for RDT. If you are using Remote Tools
   (installed as part of PTP) the server components are installed automatically. See the release notes for more details on using RSE with RDT.
-  <table>
-  <tr>
-    <td align=left valign=top >
-        <tr bgcolor="#CCCCCC">
-          <th width="34%"  scope="col"><div align="left">Platform</div></th>
-          <th width="10%"  scope="col"><div align="left">Version</div></th>
-          <th width="56%"  scope="col"><div align="left">Download</div></th>
-        </tr>
-          <td>AIX</td>
-          <td><div align="left">7.0.1</div></td>
-          <td><div align="left"><a href="http://download.eclipse.org/tools/ptp/builds/7.0.1/rdt-server-aix-7.0.1.tar">rdt-server-aix-7.0.1.tar</a></div></td>
-        </tr>
-        <tr>
-          <td>Linux (Generic)</td>
-          <td><div align="left">7.0.1</div></td>
-          <td><div align="left"><a href="http://download.eclipse.org/tools/ptp/builds/7.0.1/rdt-server-linux-7.0.1.tar">rdt-server-linux-7.0.1.tar</a></div></td>
-        </tr>
-        <tr>
-          <td>Linux (PPC)</td>
-          <td><div align="left">7.0.1</div></td>
-          <td><div align="left"><a href="http://download.eclipse.org/tools/ptp/builds/7.0.1/rdt-server-linux.ppc64-7.0.1.tar">rdt-server-linux.ppc64-7.0.1.tar</a></div></td>
-        </tr>
-        <tr>
-          <td>Linux (x86)</td>
-          <td><div align="left">7.0.1</div></td>
-          <td><div align="left"><a href="http://download.eclipse.org/tools/ptp/builds/7.0.1/rdt-server-linux.x86-7.0.1.tar">rdt-server-linux.x86-7.0.1.tar</a></div></td>
-        </tr>
-        <tr>
-          <td>Unix</td>
-          <td><div align="left">7.0.1</div></td>
-          <td><div align="left"><a href="http://download.eclipse.org/tools/ptp/builds/7.0.1/rdt-server-unix-7.0.1.tar">rdt-server-unix-7.0.1.tar</a></div></td>
-        </tr>
-		<tr>
-          <td>MacOS X</td>
-          <td><div align="left">7.0.1</div></td>
-          <td><div align="left"><a href="http://download.eclipse.org/tools/ptp/builds/7.0.1/rdt-server-macosx-7.0.1.tar">rdt-server-macosx-7.0.1.tar</a></div></td>
-        </tr>
-		<tr>
-          <td>Windows</td>
-          <td><div align="left">7.0.1</div></td>
-          <td><div align="left"><a href="http://download.eclipse.org/tools/ptp/builds/7.0.1/rdt-server-windows-7.0.1.zip">rdt-server-windows-7.0.1.zip</a></div></td>
-        </tr>
-        
-      </table>  
+  <p><b>Downloads available from above link</b>
+ 
 </div>
    
 <div class="homeitem3col">
