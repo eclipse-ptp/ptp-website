@@ -38,7 +38,7 @@
 		</p>
     <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/7.0">
       release notes and installation instructions</a></font> for prerequisite information 
-      and instructions on installing PTP Release 7.0.x (both client and target machine (server) parts).  
+      and instructions on installing PTP Release 7.0.x.  
       <p><font size=+1>PTP 7.0.1</font> can be installed two ways:
       <ol><li>Install the <img src="images/ptp_logo_icon32.png"><b>Eclipse for Parallel Application Developers</b> from the 
       <a href="http://eclipse.org/downloads">Eclipse downloads</a> page.
@@ -54,7 +54,7 @@
       <br>-or-
       <li>(b) The PTP-specific update site:
       <b>http://download.eclipse.org/tools/ptp/updates/kepler</b>. 
-      <br><b>Currently PTP 7.0.1</b>
+      <br><b>Currently has PTP 7.0.1</b>
       </ul>  
       See the <a href="http://wiki.eclipse.org/PTP/release_notes/7.0">release notes</a> for more details.
       </ol>
@@ -111,37 +111,37 @@ PTP releases automatically.
         </tr>
           <td>AIX</td>
           <td><div align="left">7.0.1</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/download.php?file=/tools/ptp/updates/kepler/rdt-server-aix-7.0.1.tar">rdt-server-aix-7.0.1.tar</a></div></td>
+          <td><div align="left"><a href="http://download.eclipse.org/tools/ptp/builds/7.0.1/rdt-server-aix-7.0.1.tar">rdt-server-aix-7.0.1.tar</a></div></td>
         </tr>
         <tr>
           <td>Linux (Generic)</td>
           <td><div align="left">7.0.1</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/download.php?file=/tools/ptp/updates/kepler/rdt-server-linux-7.0.1.tar">rdt-server-linux-7.0.1.tar</a></div></td>
+          <td><div align="left"><a href="http://download.eclipse.org/tools/ptp/builds/7.0.1/rdt-server-linux-7.0.1.tar">rdt-server-linux-7.0.1.tar</a></div></td>
         </tr>
         <tr>
           <td>Linux (PPC)</td>
           <td><div align="left">7.0.1</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/download.php?file=/tools/ptp/updates/kepler/rdt-server-linux.ppc64-7.0.1.tar">rdt-server-linux.ppc64-7.0.1.tar</a></div></td>
+          <td><div align="left"><a href="http://download.eclipse.org/tools/ptp/builds/7.0.1/rdt-server-linux.ppc64-7.0.1.tar">rdt-server-linux.ppc64-7.0.1.tar</a></div></td>
         </tr>
         <tr>
           <td>Linux (x86)</td>
           <td><div align="left">7.0.1</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/download.php?file=/tools/ptp/updates/kepler/rdt-server-linux.x86-7.0.1.tar">rdt-server-linux.x86-7.0.1.tar</a></div></td>
+          <td><div align="left"><a href="http://download.eclipse.org/tools/ptp/builds/7.0.1/rdt-server-linux.x86-7.0.1.tar">rdt-server-linux.x86-7.0.1.tar</a></div></td>
         </tr>
         <tr>
           <td>Unix</td>
           <td><div align="left">7.0.1</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/download.php?file=/tools/ptp/updates/kepler/rdt-server-unix-7.0.1.tar">rdt-server-unix-7.0.1.tar</a></div></td>
+          <td><div align="left"><a href="http://download.eclipse.org/tools/ptp/builds/7.0.1/rdt-server-unix-7.0.1.tar">rdt-server-unix-7.0.1.tar</a></div></td>
         </tr>
 		<tr>
           <td>MacOS X</td>
           <td><div align="left">7.0.1</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/download.php?file=/tools/ptp/updates/kepler/rdt-server-macosx-7.0.1.tar">rdt-server-macosx-7.0.1.tar</a></div></td>
+          <td><div align="left"><a href="http://download.eclipse.org/tools/ptp/builds/7.0.1/rdt-server-macosx-7.0.1.tar">rdt-server-macosx-7.0.1.tar</a></div></td>
         </tr>
 		<tr>
           <td>Windows</td>
           <td><div align="left">7.0.1</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/kepler/rdt-server-windows-7.0.1.zip">rdt-server-windows-7.0.1.zip</a></div></td>
+          <td><div align="left"><a href="http://download.eclipse.org/tools/ptp/builds/7.0.1/rdt-server-windows-7.0.1.zip">rdt-server-windows-7.0.1.zip</a></div></td>
         </tr>
         
       </table>  
