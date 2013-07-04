@@ -83,7 +83,7 @@
 				</div>
 		
 		<div id="headlines">
-		<h3>PTP 7.0.1  Available July 2, 2013</h3>
+		<h3>PTP 7.0.1  Available July 3, 2013</h3>
 		<h3>PTP 7.0.0  Available June 26, 2013 with Eclipse Kepler</h3>
 		<p></i> Check the <a href="downloads.php">Download</a> 
 		    link for details on how to get yours. 
