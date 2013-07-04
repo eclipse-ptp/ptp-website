@@ -34,12 +34,12 @@
 		<h1>$pageTitle</h1>
 		<p>Welcome to the downloads page for the Parallel Tools Platform (including Photran). 
 
-		<p>The latest release of PTP is <b><font size=+1>7.0.1</font></b>, released June 26, 2013 which works with <b>Eclipse Kepler (4.3)</b>.
+		<p>The latest release of PTP is <b><font size=+1>7.0.1</font></b>, released July 2, 2013 which works with <b>Eclipse Kepler (4.3)</b>.
 		</p>
     <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/7.0">
       release notes and installation instructions</a></font> for prerequisite information 
       and instructions on installing PTP Release 7.0.x (both client and target machine (server) parts).  
-      <p><font size=+1>PTP 7.0.0</font> can be installed two ways:
+      <p><font size=+1>PTP 7.0.1</font> can be installed two ways:
       <ol><li>Install the <img src="images/ptp_logo_icon32.png"><b>Eclipse for Parallel Application Developers</b> from the 
       <a href="http://eclipse.org/downloads">Eclipse downloads</a> page.
        <b>Currently has PTP 7.0.0</b>. 
@@ -65,7 +65,7 @@ Currently, as of Eclipse Kepler (26 June 2013), the <b>Eclipse for Parallel Appl
 contains PTP 7.0.0. We suggest you install this and update from 
 the PTP-specific update site 
 <a href="http://download.eclipse.org/tools/ptp/updates/kepler">http://download.eclipse.org/tools/ptp/updates/kepler</a> 
-will get you the latest PTP (7.0.0).
+will get you the latest PTP (7.0.1).
 
 <!--
 <ul>
@@ -83,17 +83,18 @@ PTP releases automatically.
 <p>Other PTP builds are also available from the <a href="http://wiki.eclipse.org/PTP/builds">PTP builds page</a>.
 
 <div class="homeitem3col">
-<h3>Sysmon Stand-alone System Monitoring</h3>
-<p>Sysmon and other items can be downloaded from:
+<h3>Archived Update Site and Sysmon Stand-alone System Monitoring</h3>
+<p>Archived update site (ptp-master), as well as Sysmon and other items can be downloaded from:
   <ul>     
-   <li><a href="http://download.eclipse.org/tools/ptp/builds/7.0.0">Sysmon and other downloads</a>
+   <li><a href="http://download.eclipse.org/tools/ptp/builds/7.0.1">Archive, Sysmon and other downloads</a>
   </ul>
+  <!--
 <h3>Archived Update Site</h3>
 <p>Archived update site (You asked for it!) can be downloaded from:
   <ul>     
-   <li><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/builds/7.0.0/http://download.eclipse.org/tools/ptp/builds/7.0.0/ptp-master-7.0.0.201306121926.zip">http://download.eclipse.org/tools/ptp/builds/7.0.0/ptp-master-7.0.0.201306121926.zip</a>
+   <li><a href="http://download.eclipse.org/tools/ptp/builds/7.0.1/ptp-master-7.0.1.201307022343.zip">http://download.eclipse.org/tools/ptp/builds/7.0.1/ptp-master-7.0.0.201307022343.zip</a>
   </ul>
-
+-->
 </div>
 
 <div class="homeitem3col">
@@ -108,40 +109,39 @@ PTP releases automatically.
           <th width="10%"  scope="col"><div align="left">Version</div></th>
           <th width="56%"  scope="col"><div align="left">Download</div></th>
         </tr>
-         <tr>
           <td>AIX</td>
-          <td><div align="left">7.0.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/kepler/rdt-server-aix-7.0.0.tar">rdt-server-aix-7.0.0.tar</a></div></td>
+          <td><div align="left">7.0.1</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/download.php?file=/tools/ptp/updates/kepler/rdt-server-aix-7.0.1.tar">rdt-server-aix-7.0.1.tar</a></div></td>
         </tr>
         <tr>
           <td>Linux (Generic)</td>
-          <td><div align="left">7.0.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/kepler/rdt-server-linux-7.0.0.tar">rdt-server-linux-7.0.0.tar</a></div></td>
+          <td><div align="left">7.0.1</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/download.php?file=/tools/ptp/updates/kepler/rdt-server-linux-7.0.1.tar">rdt-server-linux-7.0.1.tar</a></div></td>
         </tr>
         <tr>
           <td>Linux (PPC)</td>
-          <td><div align="left">7.0.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/kepler/rdt-server-linux.ppc64-7.0.0.tar">rdt-server-linux.ppc64-7.0.0.tar</a></div></td>
+          <td><div align="left">7.0.1</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/download.php?file=/tools/ptp/updates/kepler/rdt-server-linux.ppc64-7.0.1.tar">rdt-server-linux.ppc64-7.0.1.tar</a></div></td>
         </tr>
         <tr>
           <td>Linux (x86)</td>
-          <td><div align="left">7.0.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/kepler/rdt-server-linux.x86-7.0.0.tar">rdt-server-linux.x86-7.0.0.tar</a></div></td>
+          <td><div align="left">7.0.1</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/download.php?file=/tools/ptp/updates/kepler/rdt-server-linux.x86-7.0.1.tar">rdt-server-linux.x86-7.0.1.tar</a></div></td>
         </tr>
         <tr>
           <td>Unix</td>
-          <td><div align="left">7.0.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/kepler/rdt-server-unix-7.0.0.tar">rdt-server-unix-7.0.0.tar</a></div></td>
+          <td><div align="left">7.0.1</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/download.php?file=/tools/ptp/updates/kepler/rdt-server-unix-7.0.1.tar">rdt-server-unix-7.0.1.tar</a></div></td>
         </tr>
 		<tr>
           <td>MacOS X</td>
-          <td><div align="left">7.0.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/kepler/rdt-server-macosx-7.0.0.tar">rdt-server-macosx-7.0.0.tar</a></div></td>
+          <td><div align="left">7.0.1</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/download.php?file=/tools/ptp/updates/kepler/rdt-server-macosx-7.0.1.tar">rdt-server-macosx-7.0.1.tar</a></div></td>
         </tr>
 		<tr>
           <td>Windows</td>
-          <td><div align="left">7.0.0</div></td>
-          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/kepler/rdt-server-windows-7.0.0.zip">rdt-server-windows-7.0.0.zip</a></div></td>
+          <td><div align="left">7.0.1</div></td>
+          <td><div align="left"><a href="http://www.eclipse.org/downloads/download.php?file=/tools/ptp/updates/kepler/rdt-server-windows-7.0.1.zip">rdt-server-windows-7.0.1.zip</a></div></td>
         </tr>
         
       </table>  
