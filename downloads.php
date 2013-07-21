@@ -83,11 +83,13 @@ PTP releases automatically.
 <p>Other PTP builds are also available from the <a href="http://wiki.eclipse.org/PTP/builds">PTP builds page</a>.
 
 <div class="homeitem3col">
-<h3>Archived Update Site, Sysmon Stand-alone System Monitoring, and RDT server components</h3>
+<h3>File Downloads</h2>
+<p><b>Archived Update Site, Sysmon Stand-alone System Monitoring, Updated Parallel Package builds, and RDT server components<b>
 <p>Available from <a href="http://download.eclipse.org/tools/ptp/builds/7.0.2">PTP 7.0.2 file downloads</a>:
 <ul>
 <li>Archived update site (ptp-master)
 <li>Sysmon, Stand-alone System Monitoring for PTP
+<li>Updated all-in-one <b>Parallel Package</b> builds with the latest release of PTP pre-installed
 <li>RDT server components - required if you are using the Remote System Explorer (RSE) as a remote service provider for RDT. If you are using Remote Tools
   (installed as part of PTP) the server components are installed automatically. See the release notes for more details on using RSE with RDT.
 <li>...and other items
