@@ -44,8 +44,9 @@
      	and instructions on installing PTP Release 7.0.x.
      	</p>
       	<p>
-      	There are no packages containing<font size=+1>PTP 7.0.3</font>, so it must be installed into an existing Eclipse package. This can be either
-      	the <img src="images/ptp_logo_icon32.png"><b>Eclipse for Parallel Application Developers</b> package or one of the other packages from the main
+      	There are no packages containing <font size=+1>PTP 7.0.3</font>, so it must be installed into an existing Eclipse package. This can be either
+      	the <a href="http://www.eclipse.org/downloads/packages/eclipse-parallel-application-developers/keplerr">Eclipse for Parallel Application Developers</a> 
+      	package or one of the other packages from the main
       	<a href="http://eclipse.org/downloads">Eclipse downloads</a> page. If you already have an Eclipse Kepler package installed, PTP can be installed
       	into it.
       	</p>
