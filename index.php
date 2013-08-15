@@ -76,13 +76,14 @@
     <div id="rightcolumn">
 		<div>
 			<h3>Current Status</h3>
-			<p>PTP 7.0.2 released 21 July 2013 </p>
+			<p>PTP 7.0.3 released 15 August 2013 </p>
 
 </p>
 			
 				</div>
 		
 		<div id="headlines">
+		<h3>PTP 7.0.3  Available August 15, 2013</h3>
 		<h3>PTP 7.0.2  Available July 21, 2013</h3>
 		<h3>PTP 7.0.1  Available July 3, 2013</h3>
 		<h3>PTP 7.0.0  Available June 26, 2013 with Eclipse Kepler</h3>

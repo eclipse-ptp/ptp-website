@@ -34,16 +34,16 @@
 		<h1>$pageTitle</h1>
 		<p>Welcome to the downloads page for the Parallel Tools Platform (including Photran). 
 
-		<p>The latest release of PTP is <b><font size=+1>7.0.2</font></b>, released July 21, 2013 which works with <b>Eclipse Kepler (4.3)</b>.
+		<p>The latest release of PTP is <b><font size=+1>7.0.3</font></b>, released July 21, 2013 which works with <b>Eclipse Kepler (4.3)</b>.
 		</p>
     <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/7.0">
       release notes and installation instructions</a></font> for prerequisite information 
       and instructions on installing PTP Release 7.0.x.  
-      <p><font size=+1>PTP 7.0.2</font> can be installed two ways:
+      <p><font size=+1>PTP 7.0.3</font> can be installed two ways:
       <ol><li>Install the <img src="images/ptp_logo_icon32.png"><b>Eclipse for Parallel Application Developers</b> from the 
       <a href="http://eclipse.org/downloads">Eclipse downloads</a> page.
        <b>Currently has PTP 7.0.0</b>. 
-       Then update to 7.0.2 (see below, but it's essentially step 2(b)).
+       Then update to 7.0.3 (see below, but it's essentially step 2(b)).
        </li>
       <li>Install into an existing Eclipse - first download Eclipse, and then use the Eclipse "Help > Install New Software..." menu
       to install PTP and its pre-requisites from:
@@ -54,7 +54,7 @@
       <br>-or-
       <li>(b) The PTP-specific update site:
       <b>http://download.eclipse.org/tools/ptp/updates/kepler</b>. 
-      <br><b>Currently has PTP 7.0.2</b>
+      <br><b>Currently has PTP 7.0.3</b>
       </ul>  
       See the <a href="http://wiki.eclipse.org/PTP/release_notes/7.0">release notes</a> for more details.
       </ol>
@@ -65,7 +65,7 @@ Currently, as of Eclipse Kepler (26 June 2013), the <b>Eclipse for Parallel Appl
 contains PTP 7.0.0. We suggest you install this and update from 
 the PTP-specific update site 
 <a href="http://download.eclipse.org/tools/ptp/updates/kepler">http://download.eclipse.org/tools/ptp/updates/kepler</a> 
-will get you the latest PTP (7.0.2).
+will get you the latest PTP (7.0.3).
 
 <!--
 <ul>
@@ -85,7 +85,7 @@ PTP releases automatically.
 <div class="homeitem3col">
 <h3>File Downloads</h2>
 <p><b>Archived Update Site, Sysmon Stand-alone System Monitoring, Updated Parallel Package builds, and RDT server components</b>
-<p>Available from <a href="http://download.eclipse.org/tools/ptp/builds/7.0.2">PTP 7.0.2 file downloads</a>:
+<p>Available from <a href="http://download.eclipse.org/tools/ptp/updates/kepler">PTP 7.0.3 file downloads</a>:
 <ul>
 <li>Archived update site (ptp-master)
 <li>Sysmon, Stand-alone System Monitoring for PTP
