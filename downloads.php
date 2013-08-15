@@ -32,40 +32,28 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>Welcome to the downloads page for the Parallel Tools Platform (including Photran). 
-
-		<p>The latest release of PTP is <b><font size=+1>7.0.3</font></b>, released July 21, 2013 which works with <b>Eclipse Kepler (4.3)</b>.
+		<p>
+		Welcome to the downloads page for the Parallel Tools Platform (including Photran).
 		</p>
-    <p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/7.0">
-      release notes and installation instructions</a></font> for prerequisite information 
-      and instructions on installing PTP Release 7.0.x.  
-      <p><font size=+1>PTP 7.0.3</font> can be installed two ways:
-      <ol><li>Install the <img src="images/ptp_logo_icon32.png"><b>Eclipse for Parallel Application Developers</b> from the 
-      <a href="http://eclipse.org/downloads">Eclipse downloads</a> page.
-       <b>Currently has PTP 7.0.0</b>. 
-       Then update to 7.0.3 (see below, but it's essentially step 2(b)).
-       </li>
-      <li>Install into an existing Eclipse - first download Eclipse, and then use the Eclipse "Help > Install New Software..." menu
-      to install PTP and its pre-requisites from:
-      <ul type="a">
-      <li>(a) The Eclipse Kepler update site: 
-      <b>http://download.eclipse.org/releases/kepler</b>. 
-      <br><b>Currently has PTP 7.0.0</b>
-      <br>-or-
-      <li>(b) The PTP-specific update site:
-      <b>http://download.eclipse.org/tools/ptp/updates/kepler</b>. 
-      <br><b>Currently has PTP 7.0.3</b>
-      </ul>  
-      See the <a href="http://wiki.eclipse.org/PTP/release_notes/7.0">release notes</a> for more details.
-      </ol>
-</p>
-<p>
-
-Currently, as of Eclipse Kepler (26 June 2013), the <b>Eclipse for Parallel Application Developers</b>
-contains PTP 7.0.0. We suggest you install this and update from 
-the PTP-specific update site 
-<a href="http://download.eclipse.org/tools/ptp/updates/kepler">http://download.eclipse.org/tools/ptp/updates/kepler</a> 
-will get you the latest PTP (7.0.3).
+		<p>
+		The latest release of PTP is <b><font size=+1>7.0.3</font></b>, released August 15, 2013 which works with <b>Eclipse Kepler (4.3)</b>.
+		</p>
+    	<p>
+    	Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/7.0">
+      	release notes and installation instructions</a></font> for prerequisite information 
+     	and instructions on installing PTP Release 7.0.x.
+     	</p>
+      	<p>
+      	There are no packages containing<font size=+1>PTP 7.0.3</font>, so it must be installed into an existing Eclipse package. This can be either
+      	the <img src="images/ptp_logo_icon32.png"><b>Eclipse for Parallel Application Developers</b> package or one of the other packages from the main
+      	<a href="http://eclipse.org/downloads">Eclipse downloads</a> page. If you already have an Eclipse Kepler package installed, PTP can be installed
+      	into it.
+      	</p>
+      	<p>
+      	Once you have an Eclipse Kepler package, use the "Help > Install New Software..." menu
+      	to install PTP and its pre-requisites from the PTP update site:
+		<a href="http://download.eclipse.org/tools/ptp/updates/kepler">http://download.eclipse.org/tools/ptp/updates/kepler</a> 
+		</p>
 
 <!--
 <ul>
@@ -79,7 +67,6 @@ the PTP-specific update site; this gets the most recent update (or re-install th
 PTP releases automatically.
 </ul>
 -->
-</p>
 <p>Other PTP builds are also available from the <a href="http://wiki.eclipse.org/PTP/builds">PTP builds page</a>.
 
 <div class="homeitem3col">
