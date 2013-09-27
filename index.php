@@ -83,6 +83,8 @@
 				</div>
 		
 		<div id="headlines">
+		<h3>Eclipse Kepler SR1 available September 27, 2013 - with previously released PTP 7.0.3</h3>
+		<p>PTP 7.0.3 was available on August 15, but you can update the rest of your Eclipse workbench with the Eclipse Kepler SR1 release.
 		<h3>PTP 7.0.3  Available August 15, 2013</h3>
 		<h3>PTP 7.0.2  Available July 21, 2013</h3>
 		<h3>PTP 7.0.1  Available July 3, 2013</h3>

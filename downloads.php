@@ -35,8 +35,13 @@
 		<p>
 		Welcome to the downloads page for the Parallel Tools Platform (including Photran).
 		</p>
+		<p><b>Note: September 27, 2013:</b> Eclipse Kepler 4.3 SR1 is now available. Even if you already have PTP 7.0.3,
+		you may want to update the rest of your Eclipse workbench.  Read on...</p>
 		<p>
-		The latest release of PTP is <b><font size=+1>7.0.3</font></b>, released August 15, 2013 which works with <b>Eclipse Kepler (4.3)</b>.
+		The latest release of PTP is <b><font size=+1>7.0.3</font></b>, released August 15, 2013 which works with <b>Eclipse Kepler (4.3) including the Eclipse Kepler SR1 (Service Release 1) Release</b>.
+		Whether you have just the parallel package from the Kepler June release, or have already upgraded
+		it to PTP 7.0.3 from the PTP-specific update site, <b>Help > Check for Updates</b>
+		should update everything for you!
 		</p>
     	<p>
     	Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/7.0">
@@ -44,16 +49,17 @@
      	and instructions on installing PTP Release 7.0.x.
      	</p>
       	<p>
-      	There are no packages containing <font size=+1>PTP 7.0.3</font>, so it must be installed into an existing Eclipse package. This can be either
-      	the <a href="http://www.eclipse.org/downloads/packages/eclipse-parallel-application-developers/keplerr">Eclipse for Parallel Application Developers</a> 
-      	package or one of the other packages from the main
-      	<a href="http://eclipse.org/downloads">Eclipse downloads</a> page. If you already have an Eclipse Kepler package installed, PTP can be installed
-      	into it.
+      	The <b>Eclipse for Parallel Application Developers</b> now contains  <font size=+1>PTP 7.0.3</font>
+      	in the Kepler SR1 release. 
+        This is now available from the 
+      	<a href="http://eclipse.org/downloads">Eclipse downloads</a> page. 
+      	If you already have an Eclipse Kepler package installed, <b>Help > Check for Updates</b> should update anything that's down-level.
       	</p>
-      	<p>
-      	Once you have an Eclipse Kepler package, use the "Help > Install New Software..." menu
-      	to install PTP and its pre-requisites from the PTP update site:
-		<a href="http://download.eclipse.org/tools/ptp/updates/kepler">http://download.eclipse.org/tools/ptp/updates/kepler</a> 
+      	<p>As always, once you have an Eclipse Kepler package, you can use the "Help > Install New Software..." menu
+      	to install the latest PTP and its pre-requisites from the PTP-specific update site:
+		<b>http://download.eclipse.org/tools/ptp/updates/kepler</b>.
+		But at the moment (September 27, Eclipse Kepler SR1 release), the main eclipse sites and the PTP-specific update site contain
+		the same release of PTP (7.0.3) and Photran (8.3.1)
 		</p>
 
 <!--
