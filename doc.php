@@ -46,8 +46,8 @@
 <li><a href="http://wiki.eclipse.org/PTP/release_notes/7.0">PTP 7.0 Release Notes</a>
 <li><a href="http://wiki.eclipse.org/PTP/new_and_noteworthy/7.0.0">New and Noteworthy features in PTP 7.0</a>
 <li><a href="http://help.eclipse.org/kepler/topic/org.eclipse.ptp.doc.user/html/toc.html">Parallel Tools Platform User Guide </a>.  To see this within Eclipse, install PTP and select Help > Help Contents.
-<li><a href="http://help.eclipse.org/kepler/topic/org.eclipse.ptp.doc.isv/provisional_api.html">PTP Developer's Guide</a>
-<!--  need a toc.html or something to link to in developer's guide -->
+<li><a href="http://help.eclipse.org/kepler/index.jsp?nav=%2F44">PTP Developer's Guide</a>
+<!--  need a toc.html or something to link to in developer's guide - update the above link after Kepler SR2 release if i have a good toc.html to link to-->
 <li><a href="http://help.eclipse.org/kepler/topic/org.eclipse.photran.doc.user/html/toc.html">Photran User Guide</a> 
 <li><a href="http://help.eclipse.org/kepler/topic/org.eclipse.ptp.rdt.doc.user/html/toc.html">Remote Development Tools User Guide</a>
 </ul>
