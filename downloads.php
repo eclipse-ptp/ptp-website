@@ -77,7 +77,7 @@ PTP releases automatically.
 <div class="homeitem3col">
 <h3>File Downloads</h2>
 <p><b>Archived Update Site, Sysmon Stand-alone System Monitoring, Updated Parallel Package builds, and RDT server components</b>
-<p>Available from <a href="http://download.eclipse.org/tools/ptp/updates/kepler">PTP 7.0.4 file downloads</a>:
+<p>Available from <a href="http://download.eclipse.org/tools/ptp/builds/7.0.4">PTP 7.0.4 file downloads</a>:
 <ul>
 <li>Archived update site (ptp-master)
 <li>Sysmon, Stand-alone System Monitoring for PTP
