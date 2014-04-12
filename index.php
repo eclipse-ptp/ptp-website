@@ -76,7 +76,7 @@
     <div id="rightcolumn">
 		<div>
 			<h3>Current Status</h3>
-			<p>PTP 7.0.4 released 28 February 2014 </p>
+			<p>PTP 7.0.5 released 28 April 11, 2014 </p>
 
 </p>
 			

@@ -5,10 +5,7 @@
 	# downloads.php
 	#
 	# Author: 		Beth Tibbitts
-	# Date:			2007-09-06
-	#
-	# Description: Type your page comments here - these are not sent to the browser
-	#
+	# Date:			2007-09-06, updated 4/12/14
 	#
 	#****************************************************************************
 	
@@ -32,22 +29,16 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>
-		Welcome to the downloads page for the Parallel Tools Platform (including Photran).
+		<p>Welcome to the downloads page for the Parallel Tools Platform (including Photran). 
+
+		<p>The latest release of PTP is <b><font size=+1>7.0.5</font></b>, released April 11, 2014 which works with <b>Eclipse Kepler (4.3) including the Eclipse Kepler SR2 (Service Release 2) Release</b>.
 		</p>
-		<p><b>February 28, 2014:</b> Eclipse Kepler 4.3 SR2 is now available. It includes PTP 7.0.4.
-		</p>
-		<p>
-		The latest release of PTP is <b><font size=+1>7.0.4</font></b>, released February 28, 2014 which works with <b>Eclipse Kepler (4.3) including the Eclipse Kepler SR2 (Service Release 2) Release</b>.
-		<b>Help > Check for Updates</b> should update everything for you!
-		</p>
-    	<p>
-    	Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/7.0">
+    	<p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/7.0">
       	release notes and installation instructions</a></font> for prerequisite information 
      	and instructions on installing PTP Release 7.0.x.
      	</p>
       	<p>
-      	The <b>Eclipse for Parallel Application Developers</b> now contains  <font size=+1>PTP 7.0.4</font>
+      	The <b>Eclipse for Parallel Application Developers</b> still contains  <font size=+1>PTP 7.0.4</font>
       	in the Kepler SR2 release. 
         This is now available from the 
       	<a href="http://eclipse.org/downloads">Eclipse downloads</a> page. 
