@@ -83,10 +83,12 @@
 				</div>
 		
 		<div id="headlines">
+		<h3>PTP 7.0.5  Available April 11, 2013</h3>
+		<p>Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
+			
 		<h3>Eclipse Kepler SR2 and PTP 7.0.4 available February 28, 2014</h3>
 		<p>You can update PTP and the rest of your Eclipse workbench with the Eclipse Kepler SR2 release.
 		 
-		<h3>PTP 7.0.3  Available August 15, 2013</h3>
 		<h3>PTP 7.0.3  Available August 15, 2013</h3>
 		<h3>PTP 7.0.2  Available July 21, 2013</h3>
 		<h3>PTP 7.0.1  Available July 3, 2013</h3>
