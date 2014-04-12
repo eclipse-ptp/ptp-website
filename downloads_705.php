@@ -43,7 +43,7 @@
         This is  available from the 
       	<a href="http://eclipse.org/downloads">Eclipse downloads</a> page. 
       	</p>
-      	<p>As always, once you have an Eclipse Kepler package, you can use the "Help > Install New Software..." menu
+      	<p>As always, once you have the <b>Eclipse for Parallel Application Developers</b> package, you can use the "Help > Install New Software..." menu
       	to install the latest PTP and its pre-requisites from the PTP-specific update site:
 		<b>http://download.eclipse.org/tools/ptp/updates</b>.
 		</p>
