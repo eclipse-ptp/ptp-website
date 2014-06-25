@@ -31,24 +31,17 @@
 		<h1>$pageTitle</h1>
 		<p>Welcome to the downloads page for the Parallel Tools Platform (including Photran). 
 
-		<p>The latest release of PTP is <b><font size=+1>7.0.5</font></b>, released April 11, 2014 which works with <b>Eclipse Kepler (4.3) including the Eclipse Kepler SR2 (Service Release 2) Release</b>.
+		<p>The latest release of PTP is <b><font size=+1>8.0.0</font></b>, released June 25, 2014 which works with <b>Eclipse Luna (4.4)</b>.
 		</p>
-    	<p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/7.0">
+    	<p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/8.0">
       	release notes and installation instructions</a></font> for prerequisite information 
-     	and instructions on installing PTP Release 7.0.x.
+     	and instructions on installing PTP Release 8.0.x.
      	</p>
       	<p>
-      	The <b>Eclipse for Parallel Application Developers</b> still contains  <font size=+1>PTP 7.0.4</font>
-      	in the Kepler SR2 release. 
+      	The <b>Eclipse for Parallel Application Developers</b> now contains  <font size=+1>PTP 8.0</font>
+      	and is the Luna-based  release. 
         This is now available from the 
       	<a href="http://eclipse.org/downloads">Eclipse downloads</a> page. 
-      	If you already have an Eclipse Kepler package installed, <b>Help > Check for Updates</b> should update anything that's down-level.
-      	</p>
-      	<p>As always, once you have an Eclipse Kepler package, you can use the "Help > Install New Software..." menu
-      	to install the latest PTP and its pre-requisites from the PTP-specific update site:
-		<b>http://download.eclipse.org/tools/ptp/updates/kepler/</b>.
-		But at the moment (April 2014), the main eclipse sites and the PTP-specific update site still contain
-		PTP (7.0.4) and Photran (8.1.4)
 		</p>
 
 <!--
@@ -68,7 +61,7 @@ PTP releases automatically.
 <div class="homeitem3col">
 <h3>File Downloads</h2>
 <p><b>Archived Update Site, Sysmon Stand-alone System Monitoring, Updated Parallel Package builds, and RDT server components</b>
-<p>Available from <a href="http://download.eclipse.org/tools/ptp/builds/7.0.5">PTP 7.0.5 file downloads</a>:
+<p>Available from <a href="http://download.eclipse.org/tools/ptp/builds/8.0.0">PTP 8.0.0 file downloads</a>:
 <ul>
 <li>Archived update site (ptp-master)
 <li>Sysmon, Stand-alone System Monitoring for PTP
@@ -80,6 +73,7 @@ PTP releases automatically.
    
 <div class="homeitem3col">
 <h3>Previous releases</h3>
+<p>Download information for <a href="downloads_705.php">PTP 7.0</a> for Eclipse 4.3 (Kepler).
 <p>Download information for <a href="downloads_605.php">PTP 6.0</a> for Eclipse 4.2 (Juno).
 <p>Download information for <a href="downloads_5_0.php">PTP 5.0</a> for Eclipse 3.7 (Indigo).
 <p>PTP 4.0 was released for Eclipse 3.6 (Helios).
@@ -90,7 +84,7 @@ PTP releases automatically.
  
     <div class="homeitem3col">
   <h3>Fortran Development Tools (Photran)</h3>
-<p>Photran is now part of PTP and can be installed using the PTP update site.</p>
+<p>Photran is  part of PTP and can be installed using the PTP update site.</p>
 </div>
  
 
