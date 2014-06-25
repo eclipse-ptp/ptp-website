@@ -85,8 +85,7 @@
 		<div id="headlines">
 		<h3>PTP 8.0.0  Available June 25, 2013</h3>
 		<p>Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
-		<p></i> Check the <a href="downloads.php">Download</a> 
-		    link for details on how to get yours. 
+
 			<h3>Eclipse for Parallel Application Developers now is based on Eclipse Luna </h3>
 			<p><i>June 25, 2014 -</i> PTP 8.0 is now the basis of this package in the 
 			Eclipse Luna release. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
