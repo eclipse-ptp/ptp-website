@@ -29,19 +29,23 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
+		<!--
 		<p>Welcome to the downloads page for the Parallel Tools Platform (including Photran). 
+		-->
 
-		<p>The latest release of PTP is <b><font size=+1>7.0.5</font></b>, released April 11, 2014 which works with <b>Eclipse Kepler (4.3) including the Eclipse Kepler SR2 (Service Release 2) Release</b>.
+		<p>This is the downloads page for the (older) PTP is <b><font size=+1>7.0.5</font></b>, released April 11, 2014 which works with <b>Eclipse Kepler (4.3) including the Eclipse Kepler SR2 (Service Release 2) Release</b>.
 		</p>
     	<p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/7.0">
       	release notes and installation instructions</a></font> for prerequisite information 
      	and instructions on installing PTP Release 7.0.x.
      	</p>
       	<p>
-      	The <b>Eclipse for Parallel Application Developers</b> still contains  <font size=+1>PTP 7.0.4</font>
+      	The older Kepler-based version of <b>Eclipse for Parallel Application Developers</b> still contains  <font size=+1>PTP 7.0.4</font>
       	in the Kepler SR2 release. 
+      	<!--
         This is now available from the 
       	<a href="http://eclipse.org/downloads">Eclipse downloads</a> page. 
+      	-->
       	If you already have an Eclipse Kepler package installed, <b>Help > Check for Updates</b> should update anything that's down-level.
       	</p>
       	<p>As always, once you have an Eclipse Kepler package, you can use the "Help > Install New Software..." menu
@@ -68,7 +72,7 @@ PTP releases automatically.
 <div class="homeitem3col">
 <h3>File Downloads</h2>
 <p><b>Archived Update Site, Sysmon Stand-alone System Monitoring, Updated Parallel Package builds, and RDT server components</b>
-<p>Available from <a href="http://download.eclipse.org/tools/ptp/builds/7.0.4">PTP 7.0.4 file downloads</a>:
+<p>Available from <a href="http://download.eclipse.org/tools/ptp/builds/7.0.5">PTP 7.0.5 file downloads</a>:
 <ul>
 <li>Archived update site (ptp-master)
 <li>Sysmon, Stand-alone System Monitoring for PTP

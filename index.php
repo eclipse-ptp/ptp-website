@@ -90,7 +90,7 @@
 			<h3>Eclipse for Parallel Application Developers now is based on Eclipse Luna </h3>
 			<p><i>June 25, 2014 -</i> PTP 8.0 is now the basis of this package in the 
 			Eclipse Luna release. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
-		    -->
+		   
 		<h3>PTP 7.0.5  Available April 11, 2013</h3>
 			
 		<h3>Eclipse Kepler SR2 and PTP 7.0.4 available February 28, 2014</h3>
