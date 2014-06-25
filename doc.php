@@ -34,14 +34,25 @@
 <h1>PTP Documentation</h1>
 <h2>Getting Started</h2>
 <ul>
-<li>For installation help, see the <a href="http://wiki.eclipse.org/PTP/release_notes/7.0">Release notes</a>
-<li>Read the <a href="http://help.eclipse.org/kepler/topic/org.eclipse.ptp.doc.user/html/toc.html">PTP Help</a>
+<li>For installation help, see the <a href="http://wiki.eclipse.org/PTP/release_notes/8.0">Release notes</a>
+<li>Read the <a href="http://help.eclipse.org/luna/topic/org.eclipse.ptp.doc.user/html/toc.html">PTP Help</a>
 <li>See the <a href="http://wiki.eclipse.org/PTP/tutorials">PTP Tutorials</a>
 <li>Read and ask questions on the <a href="http://dev.eclipse.org/mhonarc/lists/ptp-user/">ptp-users mailing list</a>
 <li>See more information on the <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> and at the links below.
 </ul>
+<h2>PTP 8.0  release information</h2>
+<p>The following links are available for the current release of PTP 8.0 - based on Eclipse Luna (4.4)
+<ul>
+<li><a href="http://wiki.eclipse.org/PTP/release_notes/8.0">PTP 8.0 Release Notes</a>
+<li><a href="http://wiki.eclipse.org/PTP/new_and_noteworthy/8.0.0">New and Noteworthy features in PTP 8.0</a>
+<li><a href="http://help.eclipse.org/kepler/topic/org.eclipse.ptp.doc.user/html/toc.html">Parallel Tools Platform User Guide </a>.  To see this within Eclipse, install PTP and select Help > Help Contents.
+<li><a href="http://help.eclipse.org/kepler/index.jsp?nav=%2F44">PTP Developer's Guide</a>
+<!--  need a toc.html or something to link to in developer's guide - update the above link after Kepler SR2 release if i have a good toc.html to link to-->
+<li><a href="http://help.eclipse.org/kepler/topic/org.eclipse.photran.doc.user/html/toc.html">Photran User Guide</a> 
+<li><a href="http://help.eclipse.org/kepler/topic/org.eclipse.ptp.rdt.doc.user/html/toc.html">Remote Development Tools User Guide</a>
+</ul>
 <h2>PTP 7.0  release information</h2>
-<p>The following links are available for the current release of PTP 7.0. 
+<p>The following links are available for  PTP 7.0 - based on Eclipse Kepler (4.3)
 <ul>
 <li><a href="http://wiki.eclipse.org/PTP/release_notes/7.0">PTP 7.0 Release Notes</a>
 <li><a href="http://wiki.eclipse.org/PTP/new_and_noteworthy/7.0.0">New and Noteworthy features in PTP 7.0</a>
@@ -52,7 +63,7 @@
 <li><a href="http://help.eclipse.org/kepler/topic/org.eclipse.ptp.rdt.doc.user/html/toc.html">Remote Development Tools User Guide</a>
 </ul>
 <h2>PTP 6.0  release information</h2>
-<p>The following links are available for the current release of PTP 6.0. 
+<p>The following links are available for  PTP 6.0 - based on Eclipse Juno (4.2)
 <ul>
 <li><a href="http://wiki.eclipse.org/PTP/release_notes/6.0">PTP 6.0 Release Notes</a>
 <li><a href="http://wiki.eclipse.org/PTP/new_and_noteworthy/6.0.0">New and Noteworthy features in PTP 6.0</a>
