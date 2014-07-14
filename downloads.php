@@ -31,26 +31,28 @@
 		<h1>$pageTitle</h1>
 		<p>Welcome to the downloads page for the Parallel Tools Platform (including Photran). 
 
-		<p>The latest release of PTP is <b><font size=+1>8.0.0</font></b>, released June 25, 2014 which works with <b>Eclipse Luna (4.4)</b>.
+		<p>The latest release of PTP is <b><font size=+1>8.0.1</font></b>, released July 13, 2014 which works with <b>Eclipse Luna (4.4)</b>.
 		</p>
     	<p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/8.0">
       	release notes and installation instructions</a></font> for prerequisite information 
      	and instructions on installing PTP Release 8.0.x.
      	</p>
       	<p>
-      	The <b>Eclipse for Parallel Application Developers</b> now contains  <font size=+1>PTP 8.0</font>
+      	The <b>Eclipse for Parallel Application Developers</b> on the 
+      	<a href="http://eclipse.org/downloads">Eclipse downloads</a> page contains  <font size=+1>PTP 8.0</font>
       	and is the Luna-based  release. 
-        This is now available from the 
-      	<a href="http://eclipse.org/downloads">Eclipse downloads</a> page. 
+      	To update to PTP 8.0.1, update from the PTP-specific site. 
+        This is now available from <a href="http://download.eclipse.org/tools/ptp/updates/luna">
+        http://download.eclipse.org/tools/ptp/updates/luna</a>
 		</p>
 
 <!--
 <ul>
 <li>Enable or add this site in your "Available Software Sites" then install from there initially, or update (Help > Check for Updates).
-<li>If you already have PTP 7.0.x installed <i>from the PTP-specific update site</i>, you should be able to do 
+<li>If you already have PTP 8.0.x installed <i>from the PTP-specific update site</i>, you should be able to do 
 Help > Check for Updates...  to get any updates to PTP <i>since</i> the latest <b>Eclipse for Parallel Application Developers</b>, if any.  </li>
 <li>If you initially installed the <b>Eclipse for Parallel Application Developers</b>, then 
-follow the instructions for <a href="http://wiki.eclipse.org/PTP/release_notes/6.0#Updating_from_the_Parallel_Package_to_a_more_recent_release">Updating from from the Parallel Package to a more recent release</a>
+follow the instructions for <a href="http://wiki.eclipse.org/PTP/release_notes/8.0#Updating_from_the_Parallel_Package_to_a_more_recent_release">Updating from from the Parallel Package to a more recent release</a>
 to install PTP on top of that from
 the PTP-specific update site; this gets the most recent update (or re-install the current release from there) and then Help > Check for Updates will find subsequent
 PTP releases automatically.
@@ -61,7 +63,7 @@ PTP releases automatically.
 <div class="homeitem3col">
 <h3>File Downloads</h2>
 <p><b>Archived Update Site, Sysmon Stand-alone System Monitoring, Updated Parallel Package builds, and RDT server components</b>
-<p>Available from the same URL as the update site: <a href="http://download.eclipse.org/tools/ptp/updates/luna/">PTP 8.0.0 file downloads</a>:
+<p>Available from the same URL as the update site: <a href="http://download.eclipse.org/tools/ptp/updates/luna/">PTP 8.0.1 file downloads</a>:
 <ul>
 <li>Archived update site (ptp-master)
 <li>Sysmon, Stand-alone System Monitoring for PTP

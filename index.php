@@ -76,13 +76,15 @@
     <div id="rightcolumn">
 		<div>
 			<h3>Current Status</h3>
-			<p>PTP 8.0.0 released 25 June, 2014 </p>
+			<p>PTP 8.0.1 released 13 July, 2014 </p>
 
 </p>
 			
 				</div>
 		
 		<div id="headlines">
+		<h3>PTP 8.0.1  Available July 13, 2013</h3>
+		
 		<h3>PTP 8.0.0  Available June 25, 2013</h3>
 		<p>Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
 
