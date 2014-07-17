@@ -20,34 +20,7 @@
 	# This appears on the left of the page if you define a left nav
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
 	# these are optional
-	
-	# If you want to override the eclipse.org navigation, uncomment below.
-	# $Nav->setLinkList(array());
-	
-	# Break the navigation into sections
-	$Nav->addNavSeparator("PTP", 	"/ptp");
-   	$Nav->addCustomNav("Download", "/ptp/downloads.php", "_self", 3);
-	$Nav->addCustomNav("Documentation", "/ptp/doc.php", "_self", 3);
-	$Nav->addCustomNav("Support", "/ptp/support.php", "_self", 3);
-	$Nav->addCustomNav("Getting Involved", "/ptp/developers.php", "_self", 3);
-	#$Nav->addCustomNav("Project Stats", "/projects/project_summary.php?projectid=tools.ptp", "_self", 3);
-
-	# Define keywords, author and title here, or in each PHP page specifically
-	$pageKeywords	= "Eclipse, Parallel Programming, Parallel debugger, Parallel Tools, MPI, OpenMP, OpenMPI, Fortran, C, C++";
-	$pageAuthor		= "Beth Tibbitts   tibbitts@us.ibm.com";
-
-	# top navigation bar
-	# To override and replace the navigation with your own, uncomment the line below.
-	$Menu->setMenuItemList(array());
-	$Menu->addMenuItem("Eclipse", "/", "_self");
-	$Menu->addMenuItem("PTP", "/ptp", "_self");
-	$Menu->addMenuItem("Download", "/ptp/downloads.php", "_self");
-	$Menu->addMenuItem("Documentation", "/ptp/doc.php", "_self");
-	$Menu->addMenuItem("Support", "/ptp/support.php", "_self");
-	$Menu->addMenuItem("Developers", "/ptp/developers.php", "_self");
-	$Menu->addMenuItem("Wiki", "http://wiki.eclipse.org/PTP", "_self");
-    $Menu->addMenuItem("About", "http://www.eclipse.org/projects/project_summary.php?projectid=tools.ptp", "_self");
-	
+		
 	# To define additional CSS or other pre-body headers
 	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/ptp/style.css"/>');
 	
@@ -56,4 +29,28 @@
 	
 	# If you have Google Analytics code, use it here
 	# $App->SetGoogleAnalyticsTrackingCode("YOUR_CODE");
+	
+	# If you want to override the eclipse.org navigation, uncomment below.
+	# $Nav->setLinkList(array());
+	
+	# Break the navigation into sections
+	$Nav->addNavSeparator("PTP", 	"/ptp");
+	$Nav->addCustomNav("About PTP", "http://www.eclipse.org/projects/project_summary.php?projectid=tools.ptp", "_self", 2);
+	
+	$Nav->addNavSeparator("Resources", null);
+	$Nav->addCustomNav("Documentation", "/ptp/doc.php", "_self", 2);
+   	$Nav->addCustomNav("Downloads", "/ptp/downloads.php", "_self", 2);
+	$Nav->addCustomNav("Support", "/ptp/support.php", "_self", 2);
+	
+	$Nav->addNavSeparator("Project", null);
+	$Menu->addCustomNav("Developers", "/ptp/developers.php", "_self", 2);
+	$Nav->addCustomNav("Contributing", "/ptp/developers.php", "_self", 2);
+	$Nav->addCustomNav("Project Plan", "http://www.eclipse.org/projects/project-plan.php?projectid=tools.ptp", "_self", 2);
+    $Nav->addCustomNav("IP Log", "http://www.eclipse.org/projects/ip_log.php?projectid=tools.ptp", "_self", 2);
+    $Nav->addCustomNav("Source", "http://git.eclipse.org/c/ptp", "_self", 2);
+	#$Nav->addCustomNav("Project Stats", "/projects/project_summary.php?projectid=tools.ptp", "_self", 2);
+
+	# Define keywords, author and title here, or in each PHP page specifically
+	$pageKeywords	= "Eclipse, Parallel Programming, Parallel debugger, Parallel Tools, MPI, OpenMP, OpenMPI, Fortran, C, C++";
+	$pageAuthor		= "Beth Tibbitts   tibbitts@us.ibm.com";
 ?>
