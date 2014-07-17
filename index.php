@@ -92,25 +92,25 @@
 		</div>
 		
 		<div class="sideitem">
-		<h3>PTP 8.0.1  Available July 13, 2013</h3>
+		  <h3>PTP 8.0.1  Available July 13, 2013</h3>
 		
-		<h3>PTP 8.0.0  Available June 25, 2013</h3>
-		<p>Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
+		  <h3>PTP 8.0.0  Available June 25, 2013</h3>
+		  <p>Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
 
 			<h3>Eclipse for Parallel Application Developers now is based on Eclipse Luna </h3>
 			<p><i>June 25, 2014 -</i> PTP 8.0 is now the basis of this package in the 
 			Eclipse Luna release. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
 		   
-		<h3>PTP 7.0.5  Available April 11, 2013</h3>
+		  <h3>PTP 7.0.5  Available April 11, 2013</h3>
 			
-		<h3>Eclipse Kepler SR2 and PTP 7.0.4 available February 28, 2014</h3>
-		<p>You can update PTP and the rest of your Eclipse workbench with the Eclipse Kepler SR2 release.
+		  <h3>Eclipse Kepler SR2 and PTP 7.0.4 available February 28, 2014</h3>
+		  <p>You can update PTP and the rest of your Eclipse workbench with the Eclipse Kepler SR2 release.
 		 
-		<h3>PTP 7.0.3  Available August 15, 2013</h3>
-		<h3>PTP 7.0.2  Available July 21, 2013</h3>
-		<h3>PTP 7.0.1  Available July 3, 2013</h3>
-		<h3>PTP 7.0.0  Available June 26, 2013 with Eclipse Kepler</h3>
-		<p></i> Check the <a href="downloads.php">Download</a> 
+		  <h3>PTP 7.0.3  Available August 15, 2013</h3>
+		  <h3>PTP 7.0.2  Available July 21, 2013</h3>
+		  <h3>PTP 7.0.1  Available July 3, 2013</h3>
+		  <h3>PTP 7.0.0  Available June 26, 2013 with Eclipse Kepler</h3>
+		  <p></i> Check the <a href="downloads.php">Download</a> 
 		    link for details on how to get yours. 
 		    <!--The <b>Help > Check for updates</b>
 		    menu item should work to update your Eclipse and PTP from a previous
@@ -121,7 +121,7 @@
 		    please see <a href="http://wiki.eclipse.org/PTP/release_notes/7.0#Updating_from_the_Parallel_Package_to_a_more_recent_release">
 		    Updating from the parallel package to a more recent release</a> on the PTP wiki.
 		    </p>
-		<!--
+			<!--
 			<h3>Eclipse for Parallel Application Developers now is based on Eclipse Kepler </h3>
 			<p><i>June 26, 2013 -</i> PTP 7.0 is now the basis of this package in the 
 			Eclipse Kepler release. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
@@ -133,8 +133,6 @@
 			<p>The <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> is often the best source of up-to-date information on PTP for Developers and Users.
 	
 		</div>
-		
-	
 	</div>
 	   
 
@@ -142,5 +140,5 @@ EOHTML;
 
 
 	# Generate the web page
-	$App->generatePage($theme, $Menu, null, $pageAuthor, $pageKeywords, $pageTitle, $html);
+	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
 ?>

@@ -25,7 +25,7 @@
 	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/ptp/style.css"/>' . "\n");
 	
 	# To enable occasional Eclipse Foundation Promotion banners on your pages (EclipseCon, etc)
-	$App->Promotion = TRUE;
+	#$App->Promotion = TRUE;
 	
 	# If you have Google Analytics code, use it here
 	# $App->SetGoogleAnalyticsTrackingCode("YOUR_CODE");
@@ -34,7 +34,7 @@
 	# $Nav->setLinkList(array());
 	
 	# Break the navigation into sections
-	$Nav->addNavSeparator("PTP", 	"/ptp");
+	$Nav->addNavSeparator("PTP", "/ptp/");
 	$Nav->addCustomNav("About PTP", "http://www.eclipse.org/projects/project_summary.php?projectid=tools.ptp", "_self", 2);
 	
 	$Nav->addNavSeparator("Resources", null);
