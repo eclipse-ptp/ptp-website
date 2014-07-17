@@ -51,7 +51,7 @@
 			</p>
 			  </td>
 			  <td align="right">
-			    <img alt="PTP" src="/ptp/images/ptp_logo_icon128.png"/>
+			    <img alt="PTP" src="/ptp/images/ptp_logo_icon256.png"/>
 			  </td>
 			</tr>
           </table>
