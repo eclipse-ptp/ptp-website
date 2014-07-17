@@ -1,5 +1,4 @@
-<?php  																														require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/app.class.php");	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/nav.class.php"); 	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/menu.class.php"); 	$App 	= new App();	$Nav	= new Nav();	$Menu 	= new Menu();		include($App->getProjectCommon());    # All on the same line to unclutter the user's desktop'
-
+<?php
 	#*****************************************************************************
 	#
 	# index.php
@@ -20,11 +19,13 @@
 	$Menu 	= new Menu();		
 	include($App->getProjectCommon());
 	
-	$localVersion = false;
+	#$localVersion = false;
 	
 	#
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "Eclipse Parallel Tools Platform (PTP)";
+	$pageKeywords	= "Eclipse, Parallel Programming, Parallel debugger, Parallel Tools, MPI, OpenMP, OpenMPI, Fortran, C, C++";
+	$pageAuthor		= "Beth Tibbitts   tibbitts@us.ibm.com";
 	
 	# End: page-specific settings
 	#
@@ -59,7 +60,7 @@
 			</p>
 			  </td>
 			  <td align="right">
-			    <img alt="PTP" src="/ptp/images/ptp_logo_icon64.png"/>
+			    <img alt="PTP" src="/ptp/images/ptp_logo_icon256.png"/>
 			  </td>
 			</tr>
           </table>
@@ -82,13 +83,15 @@
 	</div>
 	</div>
     
-    <div id="s">
-		<div>
+    <div id="rightcolumn">
+    	$sidebar
+    	
+		<div class="sideitem">
 			<h3>Current Status</h3>
 			<p>PTP 8.0.1 released 13 July, 2014 </p>
 		</div>
 		
-		<div id="headlines">
+		<div class="sideitem">
 		<h3>PTP 8.0.1  Available July 13, 2013</h3>
 		
 		<h3>PTP 8.0.0  Available June 25, 2013</h3>

@@ -22,7 +22,7 @@
 	# these are optional
 		
 	# To define additional CSS or other pre-body headers
-	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/ptp/style.css"/>');
+	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/ptp/style.css"/>' . "\n");
 	
 	# To enable occasional Eclipse Foundation Promotion banners on your pages (EclipseCon, etc)
 	$App->Promotion = TRUE;
@@ -49,8 +49,4 @@
     $Nav->addCustomNav("IP Log", "http://www.eclipse.org/projects/ip_log.php?projectid=tools.ptp", "_self", 2);
     $Nav->addCustomNav("Source", "http://git.eclipse.org/c/ptp", "_self", 2);
 	#$Nav->addCustomNav("Project Stats", "/projects/project_summary.php?projectid=tools.ptp", "_self", 2);
-
-	# Define keywords, author and title here, or in each PHP page specifically
-	$pageKeywords	= "Eclipse, Parallel Programming, Parallel debugger, Parallel Tools, MPI, OpenMP, OpenMPI, Fortran, C, C++";
-	$pageAuthor		= "Beth Tibbitts   tibbitts@us.ibm.com";
 ?>
