@@ -43,7 +43,7 @@
 	$Nav->addCustomNav("Support", "/ptp/support.php", "_self", 2);
 	
 	$Nav->addNavSeparator("Project", null);
-	$Menu->addCustomNav("Developers", "/ptp/developers.php", "_self", 2);
+	$Nav->addCustomNav("Developers", "/ptp/developers.php", "_self", 2);
 	$Nav->addCustomNav("Contributing", "/ptp/developers.php", "_self", 2);
 	$Nav->addCustomNav("Project Plan", "http://www.eclipse.org/projects/project-plan.php?projectid=tools.ptp", "_self", 2);
     $Nav->addCustomNav("IP Log", "http://www.eclipse.org/projects/ip_log.php?projectid=tools.ptp", "_self", 2);
