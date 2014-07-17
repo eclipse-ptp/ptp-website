@@ -51,7 +51,7 @@
 			</p>
 			  </td>
 			  <td align="right">
-			    <img alt="PTP" src="/ptp/images/ptp_logo_icon256.png"/>
+			    <img alt="PTP" src="/ptp/images/ptp_logo_icon128.png"/>
 			  </td>
 			</tr>
           </table>
@@ -78,31 +78,21 @@
     	$sidebar
     	
 		<div class="sideitem">
-			<h3>Current Status</h3>
+			<h6>Current Status</h6>
 			<p>PTP 8.0.1 released 13 July, 2014 </p>
 		</div>
 		
 		<div class="sideitem">
-		  <h3>PTP 8.0.1  Available July 13, 2013</h3>
-		
-		  <h3>PTP 8.0.0  Available June 25, 2013</h3>
-		  <p>Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
+		  <h6>Recent News</h6>
+		  <p><i>July 13, 2014</i> - PTP 8.0.1 Available. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
+		  <p><i>June 25, 2014</i> - PTP 8.0.0 Available. The <a href="https://www.eclipse.org/downloads/packages/eclipse-parallel-application-developers/lunar">Eclipse for Parallel Application Developers package</a> now is based on Eclipse Luna</p>
+		  <p><i>April 11, 2014</i> - PTP 7.0.5 Available</p>
+		  <p><i>February 28, 2014</i> - Eclipse Kepler SR2 and PTP 7.0.4 Available. You can update PTP and the rest of your Eclipse workbench with the Eclipse Kepler SR2 release.</p>
+		  <p><i>August 15, 2013</i> - PTP 7.0.3 Available</p>
+		  <p><i>July 21, 2013</i> - PTP 7.0.2 Available</p>
+		  <p><i>July 3, 2013</i> - PTP 7.0.1 Available</p>
+		  <p><i>June 26, 2013</i> - PTP 7.0.0 Available with Eclipse Kepler.</p>
 
-			<h3>Eclipse for Parallel Application Developers now is based on Eclipse Luna </h3>
-			<p><i>June 25, 2014 -</i> PTP 8.0 is now the basis of this package in the 
-			Eclipse Luna release. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
-		   
-		  <h3>PTP 7.0.5  Available April 11, 2013</h3>
-			
-		  <h3>Eclipse Kepler SR2 and PTP 7.0.4 available February 28, 2014</h3>
-		  <p>You can update PTP and the rest of your Eclipse workbench with the Eclipse Kepler SR2 release.
-		 
-		  <h3>PTP 7.0.3  Available August 15, 2013</h3>
-		  <h3>PTP 7.0.2  Available July 21, 2013</h3>
-		  <h3>PTP 7.0.1  Available July 3, 2013</h3>
-		  <h3>PTP 7.0.0  Available June 26, 2013 with Eclipse Kepler</h3>
-		  <p></i> Check the <a href="downloads.php">Download</a> 
-		    link for details on how to get yours. 
 		    <!--The <b>Help > Check for updates</b>
 		    menu item should work to update your Eclipse and PTP from a previous
 		    Kepler-based release.-->
@@ -119,10 +109,11 @@
 		    -->
 		    <!--PTP was refreshed to 6.0.2 in the September SR1 release of the package.
 		    PTP 6.0.3 was subsequently released on November 11, 2012.-->
-			
-			<h3>More Information</h3>
+		</div>
+
+		<div class="sideitem">
+			<h6>More Information</h6>
 			<p>The <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> is often the best source of up-to-date information on PTP for Developers and Users.
-	
 		</div>
 	</div>
 	   
