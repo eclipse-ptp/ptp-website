@@ -80,12 +80,17 @@
 		<div class="sideitem">
 			<h6>Current Status</h6>
 			<p>PTP 8.0.1 released 13 July, 2014 </p>
+			<p>If you installed the 
+		    <a href="https://www.eclipse.org/downloads/packages/eclipse-parallel-application-developers/lunar">Eclipse for Parallel Application Developers</a>
+		    package please see <a href="https://wiki.eclipse.org/PTP/release_notes/8.0#Updating_from_a_previous_release">
+		    Updating from a previous release</a> on the PTP wiki.
+		    </p>
 		</div>
 		
 		<div class="sideitem">
 		  <h6>Recent News</h6>
 		  <p><i>July 13, 2014</i> - PTP 8.0.1 Available. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
-		  <p><i>June 25, 2014</i> - PTP 8.0.0 Available. The <a href="https://www.eclipse.org/downloads/packages/eclipse-parallel-application-developers/lunar">Eclipse for Parallel Application Developers package</a> now is based on Eclipse Luna</p>
+		  <p><i>June 25, 2014</i> - PTP 8.0.0 Available. The <a href="https://www.eclipse.org/downloads/packages/eclipse-parallel-application-developers/lunar">Eclipse for Parallel Application Developers</a> package now is based on Eclipse Luna</p>
 		  <p><i>April 11, 2014</i> - PTP 7.0.5 Available</p>
 		  <p><i>February 28, 2014</i> - Eclipse Kepler SR2 and PTP 7.0.4 Available. You can update PTP and the rest of your Eclipse workbench with the Eclipse Kepler SR2 release.</p>
 		  <p><i>August 15, 2013</i> - PTP 7.0.3 Available</p>
@@ -97,11 +102,6 @@
 		    menu item should work to update your Eclipse and PTP from a previous
 		    Kepler-based release.-->
 		   
-		    If you installed the 
-		    <b>Eclipse for Parallel Application Developers</b> package,
-		    please see <a href="http://wiki.eclipse.org/PTP/release_notes/7.0#Updating_from_the_Parallel_Package_to_a_more_recent_release">
-		    Updating from the parallel package to a more recent release</a> on the PTP wiki.
-		    </p>
 			<!--
 			<h3>Eclipse for Parallel Application Developers now is based on Eclipse Kepler </h3>
 			<p><i>June 26, 2013 -</i> PTP 7.0 is now the basis of this package in the 
