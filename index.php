@@ -31,19 +31,22 @@
 		
 	# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
-	<div id="bigbuttons">
-		<h3>Primary Links</h3>
-		<ul>
-		<li><a id="buttonDownload" href="downloads.php" title="Download"></a></li>
-		<li><a id="buttonDocumentation" href="doc.php" title="Documentation"></a></li>
-		<li><a id="buttonSupport" href="support.php" title="Support"></a></li>
-		<li><a id="buttonInvolved" href="developers.php" title="Getting Involved"></a></li>
-		</ul>
-	</div>
+	#<div id="bigbuttons">
+	#	<h3>Primary Links</h3>
+	#	<ul>
+	#	<li><a id="buttonDownload" href="downloads.php" title="Download"></a></li>
+	#	<li><a id="buttonDocumentation" href="doc.php" title="Documentation"></a></li>
+	#	<li><a id="buttonSupport" href="support.php" title="Support"></a></li>
+	#	<li><a id="buttonInvolved" href="developers.php" title="Getting Involved"></a></li>
+	#	</ul>
+	#</div>
 
+	<div id="maincontent">
 	<div id="midcolumn">
-		<h3>Eclipse PTP</h3>
-		<div id="introText">
+		<h1>Eclipse PTP</h1>
+		  <table>
+		    <tr>
+		      <td>
 			<p>The PTP project provides an integrated development environment to support the development of parallel applications written 
 			in C, C++, and Fortran. Eclipse PTP provides:
 	      	<ul>
@@ -54,7 +57,13 @@
 		        <li>Support for  the integration of a wide range of parallel tools</li>
 			</ul>
 			</p>
-			<h3>Fortran Development Tools (Photran)</h3>
+			  </td>
+			  <td align="right">
+			    <img alt="PTP" src="/ptp/images/ptp_logo_icon64.png"/>
+			  </td>
+			</tr>
+          </table>
+			<h2>Fortran Development Tools (Photran)</h2>
 			<p>The <a href="http://eclipse.org/photran">Photran</a> project is now part of PTP. 
 				Forming an integral part of the parallel tools platform, 
 				Fortran language support provided by Photran is an essential tool for the parallel development community. 
@@ -70,17 +79,14 @@
 				<li>Managed build support</li>
 			</ul>
 			</p>
-		</div>
+	</div>
 	</div>
     
-    <div id="rightcolumn">
+    <div id="s">
 		<div>
 			<h3>Current Status</h3>
 			<p>PTP 8.0.1 released 13 July, 2014 </p>
-
-</p>
-			
-				</div>
+		</div>
 		
 		<div id="headlines">
 		<h3>PTP 8.0.1  Available July 13, 2013</h3>
