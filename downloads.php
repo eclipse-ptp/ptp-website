@@ -31,19 +31,24 @@
 		<h1>$pageTitle</h1>
 		<p>Welcome to the downloads page for the Parallel Tools Platform (including Photran). 
 
-		<p>The latest release of PTP is <b><font size=+1>8.0.1</font></b>, released July 13, 2014 which works with <b>Eclipse Luna (4.4)</b>.
+		<p>The latest release of PTP is <b><font size=+1>8.1</font></b>, released September 26, 2014 which works with <b>Eclipse Luna (4.4)</b>.
 		</p>
     	<p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/8.0">
       	release notes and installation instructions</a></font> for prerequisite information 
-     	and instructions on installing PTP Release 8.0.x.
+     	and instructions on installing PTP Release 8.x.
      	</p>
       	<p>
       	The <b>Eclipse for Parallel Application Developers</b> on the 
-      	<a href="http://eclipse.org/downloads">Eclipse downloads</a> page contains  <font size=+1>PTP 8.0</font>
+      	<a href="http://eclipse.org/downloads">Eclipse downloads</a> page contains  <font size=+1>PTP 8.1</font>
       	and is the Luna-based  release. 
-      	To update to PTP 8.0.1, update from the PTP-specific site. 
-        This is now available from <a href="http://download.eclipse.org/tools/ptp/updates/luna">
+      	To update to PTP 8.1, You can do <b>Help > Check for Updates </b> or to get just the PTP/Photran
+      	changes, you can install from 
+      	<!--update from the PTP-specific site. 
+        This is now available from 
+         -->
+        <a href="http://download.eclipse.org/tools/ptp/updates/luna">
         http://download.eclipse.org/tools/ptp/updates/luna</a>
+       
 		</p>
 
 <!--
