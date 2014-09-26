@@ -68,7 +68,7 @@ PTP releases automatically.
 <div class="homeitem3col">
 <h3>File Downloads</h2>
 <p><b>Archived Update Site, Sysmon Stand-alone System Monitoring, Updated Parallel Package builds, and RDT server components</b>
-<p>Available from the same URL as the update site: <a href="http://download.eclipse.org/tools/ptp/updates/luna/">PTP 8.0.1 file downloads</a>:
+<p>Available from the same URL as the update site: <a href="http://download.eclipse.org/tools/ptp/updates/luna/">PTP 8.1 file downloads</a>:
 <ul>
 <li>Archived update site (ptp-master)
 <li>Sysmon, Stand-alone System Monitoring for PTP
