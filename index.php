@@ -82,8 +82,10 @@
 			<p>PTP 8.1 released 26 September, 2014 </p>
 			<p>If you installed the 
 		    <a href="https://www.eclipse.org/downloads/packages/eclipse-parallel-application-developers/lunar">Eclipse for Parallel Application Developers</a>
-		    package please see <a href="https://wiki.eclipse.org/PTP/release_notes/8.0#Updating_from_a_previous_release">
-		    Updating from a previous release</a> on the PTP wiki.
+		    package you can do <b>Help > Check for Updates</b>.
+		    
+		    You can also see <a href="https://wiki.eclipse.org/PTP/release_notes/8.0#Updating_from_a_previous_release">
+		    Updating from a previous release</a> on the PTP wiki for details about updating from and to different releases.
 		    </p>
 		</div>
 		
