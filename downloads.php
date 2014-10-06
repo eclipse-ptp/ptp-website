@@ -37,6 +37,7 @@
       	release notes and installation instructions</a></font> for prerequisite information 
      	and instructions on installing PTP Release 8.x.
      	</p>
+     	<h3>Stand-alone Installation</h2>
       	<p>
       	The easiest way to  install PTP is the <b>Eclipse for Parallel Application Developers</b> on the 
       	<a href="http://eclipse.org/downloads">Eclipse downloads</a> this now contains  <font size=+1>PTP 8.1</font>
@@ -68,7 +69,7 @@ PTP releases automatically.
 
 <div class="homeitem3col">
 <h3>File Downloads</h2>
-<p><b>Archived Update Site, Sysmon Stand-alone System Monitoring, Updated Parallel Package builds, and RDT server components</b>
+<p><b>Update your existing Eclipse via Archived Update Site, Install Sysmon Stand-alone System Monitoring, Updated Parallel Package builds, and RDT server components</b>
 <p>Available from the same URL as the update site: <a href="http://download.eclipse.org/tools/ptp/updates/luna/">PTP 8.1 file downloads</a>:
 <ul>
 <li>Archived update site (ptp-master)
