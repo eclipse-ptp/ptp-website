@@ -38,7 +38,7 @@
      	and instructions on installing PTP Release 8.x.
      	</p>
       	<p>
-      	The easier way to  install PTP is the <b>Eclipse for Parallel Application Developers</b> on the 
+      	The easiest way to  install PTP is the <b>Eclipse for Parallel Application Developers</b> on the 
       	<a href="http://eclipse.org/downloads">Eclipse downloads</a> this now contains  <font size=+1>PTP 8.1</font>
       	and is the Luna-based  release. 
       	If you have an earlier version of <b>Eclipse for Parallel Application Developers</b>, you can update to PTP 8.1 via <b>Help > Check for Updates</b>. 
