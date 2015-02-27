@@ -79,7 +79,7 @@
     	
 		<div class="sideitem">
 			<h6>Current Status</h6>
-			<p>PTP 8.1 released 26 September, 2014 </p>
+			<p>PTP 8.1.1 released 27 February, 2015 </p>
 			<p>If you installed the 
 		    <a href="https://www.eclipse.org/downloads/packages/eclipse-parallel-application-developers/lunar">Eclipse for Parallel Application Developers</a>
 		    package you can do <b>Help > Check for Updates</b>.
@@ -91,6 +91,7 @@
 		
 		<div class="sideitem">
 		  <h6>Recent News</h6>
+		  <p><i>February 27, 2015</i> - PTP 8.1.1 Available. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>	  
 		  <p><i>September 26, 2014</i> - PTP 8.1 Available. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>	  
 		  <p><i>July 13, 2014</i> - PTP 8.0.1 Available. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
 		  <p><i>June 25, 2014</i> - PTP 8.0.0 Available. The <a href="https://www.eclipse.org/downloads/packages/eclipse-parallel-application-developers/lunar">Eclipse for Parallel Application Developers</a> package now is based on Eclipse Luna</p>

@@ -31,7 +31,7 @@
 		<h1>$pageTitle</h1>
 		<p>Welcome to the downloads page for the Parallel Tools Platform (including Photran). 
 
-		<p>The latest release of PTP is <b><font size=+1>8.1</font></b>, released September 26, 2014 which works with <b>Eclipse Luna (4.4)</b>.
+		<p>The latest release of PTP is <b><font size=+1>8.1.1</font></b>, released September 26, 2014 which works with <b>Eclipse Luna (4.4)</b>.
 		</p>
     	<p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/8.0">
       	release notes and installation instructions</a></font> for prerequisite information 
@@ -40,9 +40,9 @@
      	<h3>Stand-alone Installation</h2>
       	<p>
       	The easiest way to  install PTP is the <b>Eclipse for Parallel Application Developers</b> on the 
-      	<a href="http://eclipse.org/downloads">Eclipse downloads</a> this now contains  <font size=+1>PTP 8.1</font>
+      	<a href="http://eclipse.org/downloads">Eclipse downloads</a> this now contains  <font size=+1>PTP 8.1.1</font>
       	and is the Luna-based  release. 
-      	If you have an earlier version of <b>Eclipse for Parallel Application Developers</b>, you can update to PTP 8.1 via <b>Help > Check for Updates</b>. 
+      	If you have an earlier version of <b>Eclipse for Parallel Application Developers</b>, you can update to PTP 8.1.1 via <b>Help > Check for Updates</b>. 
       	Or to get just the PTP/Photran
       	changes, you can install from 
       	<!--update from the PTP-specific site. 
@@ -93,7 +93,7 @@ PTP releases automatically.
  
     <div class="homeitem3col">
   <h3>Fortran Development Tools (Photran)</h3>
-<p>Photran is  part of PTP and can be installed using the PTP update site.</p>
+<p>Photran is  part of PTP, is included in the  <b>Eclipse for Parallel Application Developers</b> package,  and  can be installed using the PTP update site.</p>
 </div>
  
 
