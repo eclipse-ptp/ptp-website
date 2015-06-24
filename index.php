@@ -59,7 +59,7 @@
 			<p>The <a href="http://eclipse.org/photran">Photran</a> project is now part of PTP. 
 				Forming an integral part of the parallel tools platform, 
 				Fortran language support provided by Photran is an essential tool for the parallel development community. 
-				Please consult the <a href="http://help.eclipse.org/luna/index.jsp?topic=%2Forg.eclipse.photran.doc.user%2Fhtml%2Ftoc.html">Photran User's Guide</a>
+				Please consult the <a href="http://help.eclipse.org/mars/index.jsp?topic=%2Forg.eclipse.photran.doc.user%2Fhtml%2Ftoc.html">Photran User's Guide</a>
 				for information on downloading and installing this plug-in. 
 				<a href="http://help.eclipse.org/luna/topic/org.eclipse.photran.doc.user/html/toc.html">Online version of the Photran User's Guide</a> 
 				is also available as part of the plug-in installation.
