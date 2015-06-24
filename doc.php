@@ -40,6 +40,17 @@
 <li>Read and ask questions on the <a href="http://dev.eclipse.org/mhonarc/lists/ptp-user/">ptp-users mailing list</a>
 <li>See more information on the <a href="http://wiki.eclipse.org/PTP">PTP Wiki</a> and at the links below.
 </ul>
+<h2>PTP 9.0  release information</h2>
+<p>The following links are available for the current release of PTP 9.0 - based on Eclipse Mars (4.5)
+<ul>
+<li><a href="http://wiki.eclipse.org/PTP/release_notes/9.0">PTP 9.0 Release Notes</a>
+<li><a href="http://wiki.eclipse.org/PTP/new_and_noteworthy/9.0.0">New and Noteworthy features in PTP 9.0</a>
+<li><a href="http://help.eclipse.org/mars/topic/org.eclipse.ptp.doc.user/html/toc.html">Parallel Tools Platform User Guide </a>.  To see this within Eclipse, install PTP and select Help > Help Contents.
+<li><a href="http://help.eclipse.org/mars/index.jsp?nav=%2F44">PTP Developer's Guide</a>
+<!--  need a toc.html or something to link to in developer's guide - update the above link after Kepler SR2 release if i have a good toc.html to link to-->
+<li><a href="http://help.eclipse.org/mars/topic/org.eclipse.photran.doc.user/html/toc.html">Photran User Guide</a> 
+</ul>
+<!--
 <h2>PTP 8.0  release information</h2>
 <p>The following links are available for the current release of PTP 8.0 - based on Eclipse Luna (4.4)
 <ul>
@@ -126,7 +137,7 @@ and <a href="http://wiki.eclipse.org/PTP/new_and_noteworthy/3.0.0">New and Notew
 <ul>
 <li>For tutorial materials see the <a href="http://wiki.eclipse.org/PTP/tutorials">Tutorial Materials page on the PTP wiki</a>
 </ul>
-
+-->
 <h2>Presentations</h2>
 <ul>
 <li>For more recent materials see the <a href="http://wiki.eclipse.org/PTP/articles">Articles page on the PTP wiki</a>
