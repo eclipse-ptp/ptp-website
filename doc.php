@@ -188,7 +188,8 @@ and <a href="http://wiki.eclipse.org/PTP/new_and_noteworthy/3.0.0">New and Notew
  </ul>
  <p>&nbsp;
   <p>&nbsp;
-  
+
+<!--  
 <h2>Previous Release (1.1)</h2>	
 <p>The previous release (1.1) of the PTP User Guide (also available from the help plug-ins in the PTP installation) is available here.
 <p><a href="documentation/org.eclipse.ptp.help/html/newNoteworthy.html">New and Noteworthy</a>:
@@ -217,20 +218,12 @@ PTP 1.1 Help</a></font>
 <td><font size="+2"><a href="documentation/org.eclipse.ptp.pldt.help/html/toc.html">PLDT 1.1 help</a></font>
 <br>PTP PLDT (Parallel Language Development Tools) 
 
-<table>
-<tr><td>MPI and OpenMP Development Tools<br>
-Screen shots: <br>
-<a href="documentation/images/ptp-mpi-help2.gif">
-<img src="documentation/images/ptp-mpi-help2_small.gif">
-</a>
-</td>
-</table>
-
 </td>
 </tr>
 </table>
-  
-	</div>
+-->
+
+</div>
 
 
 
