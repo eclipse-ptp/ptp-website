@@ -79,40 +79,33 @@
     	
 		<div class="sideitem">
 			<h6>Current Status</h6>
-			<p>PTP 8.1.1 released 27 February, 2015 </p>
+			<p>PTP 9.0.0 released 24 June, 2015 </p>
 			<p>If you installed the 
-		    <a href="https://www.eclipse.org/downloads/packages/eclipse-parallel-application-developers/lunar">Eclipse for Parallel Application Developers</a>
+		    <a href="https://www.eclipse.org/downloads/packages/eclipse-parallel-application-developers/marsr">Eclipse for Parallel Application Developers</a>
 		    package you can do <b>Help > Check for Updates</b>.
 		    
-		    You can also see <a href="https://wiki.eclipse.org/PTP/release_notes/8.0#Updating_from_a_previous_release">
+		    You can also see <a href="https://wiki.eclipse.org/PTP/release_notes/9.0#Updating_from_a_previous_release">
 		    Updating from a previous release</a> on the PTP wiki for details about updating from and to different releases.
 		    </p>
 		</div>
 		
 		<div class="sideitem">
 		  <h6>Recent News</h6>
-		  <p><i>February 27, 2015</i> - PTP 8.1.1 Available. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>	  
-		  <p><i>September 26, 2014</i> - PTP 8.1 Available. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>	  
-		  <p><i>July 13, 2014</i> - PTP 8.0.1 Available. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
-		  <p><i>June 25, 2014</i> - PTP 8.0.0 Available. The <a href="https://www.eclipse.org/downloads/packages/eclipse-parallel-application-developers/lunar">Eclipse for Parallel Application Developers</a> package now is based on Eclipse Luna</p>
-		  <p><i>April 11, 2014</i> - PTP 7.0.5 Available</p>
-		  <p><i>February 28, 2014</i> - Eclipse Kepler SR2 and PTP 7.0.4 Available. You can update PTP and the rest of your Eclipse workbench with the Eclipse Kepler SR2 release.</p>
-		  <p><i>August 15, 2013</i> - PTP 7.0.3 Available</p>
-		  <p><i>July 21, 2013</i> - PTP 7.0.2 Available</p>
-		  <p><i>July 3, 2013</i> - PTP 7.0.1 Available</p>
-		  <p><i>June 26, 2013</i> - PTP 7.0.0 Available with Eclipse Kepler.</p>
+		  <p><i>June 24, 2015</i> - Eclipse Mars and PTP 9.0.0 released. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>	  
+		  <p><i>February 27, 2015</i> - Eclipse Luna SR1 and PTP 8.1.1 released.	  
+		  <p><i>September 26, 2014</i> - Eclipse Luna SR1 and PTP 8.1 released.  
+		  <p><i>July 13, 2014</i> - PTP 8.0.1 released.
+		  <p><i>June 25, 2014</i> - Eclipse Luna and PTP 8.0.0 released.
+		  <p><i>April 11, 2014</i> - PTP 7.0.5 released</p>
+		  <p><i>February 28, 2014</i> - Eclipse Kepler SR2 and PTP 7.0.4 released.
+		  <p><i>August 15, 2013</i> - PTP 7.0.3 released</p>
+		  <p><i>July 21, 2013</i> - PTP 7.0.2 released</p>
+		  <p><i>July 3, 2013</i> - PTP 7.0.1 released</p>
+		  <p><i>June 26, 2013</i> - Eclipse Kepler and PTP 7.0.0 released.</p>
 
 		    The <b>Help > Check for updates</b>
 		    menu item should work to update your Eclipse and PTP from a previous
 		    Luna-based (PTP 8.x) release.
-		   
-			<!--
-			<h3>Eclipse for Parallel Application Developers now is based on Eclipse Kepler </h3>
-			<p><i>June 26, 2013 -</i> PTP 7.0 is now the basis of this package in the 
-			Eclipse Kepler release. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>
-		    -->
-		    <!--PTP was refreshed to 6.0.2 in the September SR1 release of the package.
-		    PTP 6.0.3 was subsequently released on November 11, 2012.-->
 		</div>
 
 		<div class="sideitem">
