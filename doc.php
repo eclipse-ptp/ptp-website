@@ -58,7 +58,6 @@
 <li><a href="http://wiki.eclipse.org/PTP/new_and_noteworthy/8.0.0">New and Noteworthy features in PTP 8.0</a>
 <li><a href="http://help.eclipse.org/kepler/topic/org.eclipse.ptp.doc.user/html/toc.html">Parallel Tools Platform User Guide </a>.  To see this within Eclipse, install PTP and select Help > Help Contents.
 <li><a href="http://help.eclipse.org/kepler/index.jsp?nav=%2F44">PTP Developer's Guide</a>
-<!--  need a toc.html or something to link to in developer's guide - update the above link after Kepler SR2 release if i have a good toc.html to link to-->
 <li><a href="http://help.eclipse.org/kepler/topic/org.eclipse.photran.doc.user/html/toc.html">Photran User Guide</a> 
 <li><a href="http://help.eclipse.org/kepler/topic/org.eclipse.ptp.rdt.doc.user/html/toc.html">Remote Development Tools User Guide</a>
 </ul>
@@ -69,7 +68,6 @@
 <li><a href="http://wiki.eclipse.org/PTP/new_and_noteworthy/7.0.0">New and Noteworthy features in PTP 7.0</a>
 <li><a href="http://help.eclipse.org/kepler/topic/org.eclipse.ptp.doc.user/html/toc.html">Parallel Tools Platform User Guide </a>.  To see this within Eclipse, install PTP and select Help > Help Contents.
 <li><a href="http://help.eclipse.org/kepler/index.jsp?nav=%2F44">PTP Developer's Guide</a>
-<!--  need a toc.html or something to link to in developer's guide - update the above link after Kepler SR2 release if i have a good toc.html to link to-->
 <li><a href="http://help.eclipse.org/kepler/topic/org.eclipse.photran.doc.user/html/toc.html">Photran User Guide</a> 
 <li><a href="http://help.eclipse.org/kepler/topic/org.eclipse.ptp.rdt.doc.user/html/toc.html">Remote Development Tools User Guide</a>
 </ul>
@@ -80,7 +78,6 @@
 <li><a href="http://wiki.eclipse.org/PTP/new_and_noteworthy/6.0.0">New and Noteworthy features in PTP 6.0</a>
 <li><a href="http://help.eclipse.org/juno/topic/org.eclipse.ptp.doc.user/html/toc.html">Parallel Tools Platform User Guide (including PLDT and ETFw)</a>.  To see this within Eclipse, install PTP and select Help > Help Contents.
 <li><a href="http://help.eclipse.org/juno/topic/org.eclipse.ptp.doc.isv/provisional_api.html">PTP Developer's Guide</a>
-<!--  need a toc.html or something to link to in developer's guide -->
 <li><a href="http://help.eclipse.org/juno/topic/org.eclipse.photran.doc.user/html/basic/GettingStarted.html">Photran User Guide</a> 
 <li><a href="http://help.eclipse.org/juno/topic/org.eclipse.ptp.rdt.doc.user/html/toc.html">Remote Development Tools User Guide</a>
 </ul>
@@ -91,7 +88,6 @@
 <li><a href="http://wiki.eclipse.org/PTP/new_and_noteworthy/5.0.0">New and Noteworthy features in PTP 5.0</a>
 <li><a href="http://help.eclipse.org/indigo/topic/org.eclipse.ptp.doc.user/html/toc.html">Parallel Tools Platform User Guide (including PLDT and ETFw)</a>.  To see this within Eclipse, install PTP and select Help > Help Contents.
 <li><a href="http://help.eclipse.org/indigo/topic/org.eclipse.ptp.doc.isv/provisional_api.html">PTP Developer's Guide</a>
-<!--  need a toc.html or something to link to in developer's guide -->
 <li><a href="http://help.eclipse.org/indigo/topic/org.eclipse.photran.doc.user/html/basic/GettingStarted.html">Photran User Guide</a> 
 <li><a href="http://help.eclipse.org/indigo/topic/org.eclipse.ptp.rdt.doc.user/html/toc.html">Remote Development Tools User Guide</a>
 </ul>
@@ -132,12 +128,14 @@ and <a href="http://wiki.eclipse.org/PTP/new_and_noteworthy/3.0.0">New and Notew
 <ul>
 <li><a href="http://wiki.eclipse.org/PTP/release_notes/2.1">PTP 2.1 release notes</a> including installation directions
 </ul>
+-->
+
 <h1>Tutorials, Presentations, and other papers</h1>
 <h2>Tutorials</h2>
 <ul>
 <li>For tutorial materials see the <a href="http://wiki.eclipse.org/PTP/tutorials">Tutorial Materials page on the PTP wiki</a>
 </ul>
--->
+
 <h2>Presentations</h2>
 <ul>
 <li>For more recent materials see the <a href="http://wiki.eclipse.org/PTP/articles">Articles page on the PTP wiki</a>
