@@ -5,7 +5,7 @@
 	# downloads.php
 	#
 	# Author: 		Beth Tibbitts
-	# Date:			2007-09-06, updated 4/12/14
+	# Date:			2007-09-06, updated 2016-08-19
 	#
 	#****************************************************************************
 	
@@ -13,7 +13,7 @@
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "PTP Downloads";
 	$pageKeywords	= "Type, page, keywords, here";
-	$pageAuthor		= "Beth Tibbitts";
+	$pageAuthor		= "Greg Watson";
 	
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
@@ -31,22 +31,22 @@
 		<h1>$pageTitle</h1>
 		<p>Welcome to the downloads page for the Parallel Tools Platform (including Photran). 
 
-		<p>The latest release of PTP is <b><font size=+1>9.0.0</font></b>, released June 24, 2015 which works with <b>Eclipse Mars (4.5)</b>.
+		<p>The latest release of PTP is <b><font size=+1>9.1.0</font></b>, released June 22, 2016 which works with <b>Eclipse Neon (4.6)</b>.
 		</p>
-    	<p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes/9.0">
+    	<p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes">
       	release notes and installation instructions</a></font> for prerequisite information 
-     	and instructions on installing PTP Release 9.x.
+     	and instructions on installing PTP Release 9.1.
      	</p>
      	<h3>Stand-alone Installation</h2>
       	<p>
       	The easiest way to  install PTP is the <b>Eclipse for Parallel Application Developers</b> on the 
-      	<a href="http://eclipse.org/downloads">Eclipse downloads</a> this now contains  <font size=+1>PTP 9.0</font>
-      	and is the Luna-based  release. 
-      	If you have an earlier version of <b>Eclipse for Parallel Application Developers</b>, you can update to PTP 9.0 via <b>Help > Check for Updates</b>. 
+      	<a href="http://eclipse.org/downloads">Eclipse downloads</a> this now contains  <font size=+1>PTP 9.1</font>
+      	and is the Neon-based  release. 
+      	If you have an earlier version of <b>Eclipse for Parallel Application Developers</b>, you can update to PTP 9.1 via <b>Help > Check for Updates</b>. 
       	Or to get just the PTP/Photran
       	changes, you can install from 
-        <a href="http://download.eclipse.org/tools/ptp/updates/mars">
-        http://download.eclipse.org/tools/ptp/updates/mars</a>
+        <a href="http://download.eclipse.org/tools/ptp/updates/neon">
+        http://download.eclipse.org/tools/ptp/updates/neon</a>
        
 		</p>
 
@@ -55,23 +55,13 @@
 
 <div class="homeitem3col">
 <h3>File Downloads</h2>
-<p>Available from the same URL as the update site: <a href="http://download.eclipse.org/tools/ptp/updates/9.0.0/">PTP 9.0 file downloads</a>:
+<p>Available from the same URL as the update site: <a href="http://download.eclipse.org/tools/ptp/updates/9.1.0/">PTP 9.1 file downloads</a>:
 <ul>
 <li>Archived update site (ptp-master)
 <li>Sysmon, Stand-alone System Monitoring for PTP
 <li>Updated all-in-one <b>Parallel Package</b> builds with the latest release of PTP pre-installed
 <li>...and other items
 </ul>
-   
-<div class="homeitem3col">
-<h3>Previous releases</h3>
-<p>Download information for <a href="downloads_811.php">PTP 8.1</a> for Eclipse 4.4 (Luna).
-<p>Download information for <a href="downloads_705.php">PTP 7.0</a> for Eclipse 4.3 (Kepler).
-<p>Download information for <a href="downloads_605.php">PTP 6.0</a> for Eclipse 4.2 (Juno).
-<p>Download information for <a href="downloads_5_0.php">PTP 5.0</a> for Eclipse 3.7 (Indigo).
-<p>PTP 4.0 was released for Eclipse 3.6 (Helios).
-<p>PTP 3.0 was released for Eclipse 3.5 (Galileo).
-<p>PTP 2.1 was released for Eclipse 3.4 (Ganymede).
 
 </div>
  
