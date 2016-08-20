@@ -39,9 +39,8 @@
      	</p>
      	<h3>Stand-alone Installation</h2>
       	<p>
-      	The easiest way to  install PTP is the <b>Eclipse for Parallel Application Developers</b> on the 
-      	<a href="http://eclipse.org/downloads">Eclipse downloads</a> this now contains  <font size=+1>PTP 9.1</font>
-      	and is the Neon-based  release. 
+      	The easiest way to download and install PTP is to use the 
+      	<a href="http://www.eclipse.org/downloads/packages/eclipse-parallel-application-developers/neonr">Eclipse for Parallel Application Developers</b> package</a>. 
       	If you have an earlier version of <b>Eclipse for Parallel Application Developers</b>, you can update to PTP 9.1 via <b>Help > Check for Updates</b>. 
       	Or to get just the PTP/Photran
       	changes, you can install from 
