@@ -79,19 +79,20 @@
     	
 		<div class="sideitem">
 			<h6>Current Status</h6>
-			<p>PTP 9.0.0 released 24 June, 2015 </p>
+			<p>PTP 9.1.0 released 22 June, 2016 </p>
 			<p>If you installed the 
-		    <a href="https://www.eclipse.org/downloads/packages/eclipse-parallel-application-developers/marsr">Eclipse for Parallel Application Developers</a>
+		    <a href="https://www.eclipse.org/downloads/packages/eclipse-parallel-application-developers/neonr">Eclipse for Parallel Application Developers</a>
 		    package you can do <b>Help > Check for Updates</b>.
 		    
-		    You can also see <a href="https://wiki.eclipse.org/PTP/release_notes/9.0#Updating_from_a_previous_release">
+		    You can also see <a href="https://wiki.eclipse.org/PTP/release_notes#Updating_from_a_previous_release">
 		    Updating from a previous release</a> on the PTP wiki for details about updating from and to different releases.
 		    </p>
 		</div>
 		
 		<div class="sideitem">
 		  <h6>Recent News</h6>
-		  <p><i>June 24, 2015</i> - Eclipse Mars and PTP 9.0.0 released. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>	  
+		  <p><i>June 22, 2016</i> - Eclipse Neon and PTP 9.1.0 released. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>	  
+		  <p><i>June 24, 2015</i> - Eclipse Mars and PTP 9.0.0 released.  
 		  <p><i>February 27, 2015</i> - Eclipse Luna SR1 and PTP 8.1.1 released.	  
 		  <p><i>September 26, 2014</i> - Eclipse Luna SR1 and PTP 8.1 released.  
 		  <p><i>July 13, 2014</i> - PTP 8.0.1 released.
@@ -102,10 +103,6 @@
 		  <p><i>July 21, 2013</i> - PTP 7.0.2 released</p>
 		  <p><i>July 3, 2013</i> - PTP 7.0.1 released</p>
 		  <p><i>June 26, 2013</i> - Eclipse Kepler and PTP 7.0.0 released.</p>
-
-		    The <b>Help > Check for updates</b>
-		    menu item should work to update your Eclipse and PTP from a previous
-		    Luna-based (PTP 8.x) release.
 		</div>
 
 		<div class="sideitem">
