@@ -93,17 +93,10 @@
 		  <h6>Recent News</h6>
 		  <p><i>December 21, 2016</i> - Eclipse Neon.2 released. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>	  
 		  <p><i>September 28, 2016</i> - Eclipse Neon.1 and PTP 9.1.1 released.</p>	  
+    	  <p><i>June 24, 2016</i> - Eclipse Neon and PTP 9.1.0 released.  
+    	  <p><i>February 26, 2016</i> - Eclipse Mars.2 released.  
+    	  <p><i>September 25, 2015</i> - Eclipse Mars.1 and PTP 9.0.1 released.  
     	  <p><i>June 24, 2015</i> - Eclipse Mars and PTP 9.0.0 released.  
-		  <p><i>February 27, 2015</i> - Eclipse Luna SR1 and PTP 8.1.1 released.	  
-		  <p><i>September 26, 2014</i> - Eclipse Luna SR1 and PTP 8.1 released.  
-		  <p><i>July 13, 2014</i> - PTP 8.0.1 released.
-		  <p><i>June 25, 2014</i> - Eclipse Luna and PTP 8.0.0 released.
-		  <p><i>April 11, 2014</i> - PTP 7.0.5 released</p>
-		  <p><i>February 28, 2014</i> - Eclipse Kepler SR2 and PTP 7.0.4 released.
-		  <p><i>August 15, 2013</i> - PTP 7.0.3 released</p>
-		  <p><i>July 21, 2013</i> - PTP 7.0.2 released</p>
-		  <p><i>July 3, 2013</i> - PTP 7.0.1 released</p>
-		  <p><i>June 26, 2013</i> - Eclipse Kepler and PTP 7.0.0 released.</p>
 		</div>
 
 		<div class="sideitem">
