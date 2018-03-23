@@ -31,21 +31,21 @@
 		<h1>$pageTitle</h1>
 		<p>Welcome to the downloads page for the Parallel Tools Platform (including Photran). 
 
-		<p>The latest release of PTP is <b><font size=+1>9.1.2</font></b>, released March 23, 2017 which works with <b>Eclipse Neon.3 (4.6.3)</b>.
+		<p>The latest release of PTP is <b><font size=+1>9.1.4</font></b>, released March 21, 2018 which works with <b>Eclipse Oxygen.3 (4.7.3)</b>.
 		</p>
     	<p>Please see the <font size=+1><a href="http://wiki.eclipse.org/PTP/release_notes">
       	release notes and installation instructions</a></font> for prerequisite information 
-     	and instructions on installing PTP Release 9.1.2.
+     	and instructions on installing PTP Release 9.1.4.
      	</p>
      	<h3>Stand-alone Installation</h2>
       	<p>
       	The easiest way to download and install PTP is to use the 
-      	<a href="http://www.eclipse.org/downloads/packages/eclipse-parallel-application-developers/neonr">Eclipse for Parallel Application Developers</b> package</a>. 
-      	If you have an earlier version of <b>Eclipse for Parallel Application Developers</b>, you can update to PTP 9.1.2 via <b>Help > Check for Updates</b>. 
+      	<a href="http://www.eclipse.org/downloads/packages/eclipse-parallel-application-developers/oxygen3">Eclipse for Parallel Application Developers</b> package</a>. 
+      	If you have an earlier version of <b>Eclipse for Parallel Application Developers</b>, you can update to PTP 9.1.4 via <b>Help > Check for Updates</b>. 
       	Or to get just the PTP/Photran
       	changes, you can install from 
-        <a href="http://download.eclipse.org/tools/ptp/updates/neon">
-        http://download.eclipse.org/tools/ptp/updates/neon</a>
+        <a href="http://download.eclipse.org/tools/ptp/updates/oxygen">
+        http://download.eclipse.org/tools/ptp/updates/oxygen</a>
        
 		</p>
 
@@ -54,7 +54,7 @@
 
 <div class="homeitem3col">
 <h3>File Downloads</h2>
-<p>Available from the same URL as the update site: <a href="http://download.eclipse.org/tools/ptp/updates/9.1.2/">PTP 9.1.2 file downloads</a>:
+<p>Available from the same URL as the update site: <a href="http://download.eclipse.org/tools/ptp/updates/9.1.4/">PTP 9.1.4 file downloads</a>:
 <ul>
 <li>Archived update site (ptp-master)
 <li>Sysmon, Stand-alone System Monitoring for PTP

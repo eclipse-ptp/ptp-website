@@ -79,9 +79,9 @@
     	
 		<div class="sideitem">
 			<h6>Current Status</h6>
-			<p>PTP Neon.3 released March 23, 2017 </p>
+			<p>PTP Oxygen.3 released March 21, 2018 </p>
 			<p>If you installed the 
-		    <a href="https://www.eclipse.org/downloads/packages/eclipse-parallel-application-developers/neon3">Eclipse for Parallel Application Developers</a>
+		    <a href="https://www.eclipse.org/downloads/packages/eclipse-parallel-application-developers/oxygen3">Eclipse for Parallel Application Developers</a>
 		    package you can do <b>Help > Check for Updates</b>.
 		    
 		    You can also see <a href="https://wiki.eclipse.org/PTP/release_notes#Updating_from_a_previous_release">
@@ -91,13 +91,11 @@
 		
 		<div class="sideitem">
 		  <h6>Recent News</h6>
-		  <p><i>March 23, 2017</i> - Eclipse Neon.3 released. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>	  
-		  <p><i>December 21, 2016</i> - Eclipse Neon.2 released.</p>	  
-    	  <p><i>September 28, 2016</i> - Eclipse Neon.1 and PTP 9.1.1 released.</p>	  
-    	  <p><i>June 24, 2016</i> - Eclipse Neon and PTP 9.1.0 released.  
-    	  <p><i>February 26, 2016</i> - Eclipse Mars.2 released.  
-    	  <p><i>September 25, 2015</i> - Eclipse Mars.1 and PTP 9.0.1 released.  
-    	  <p><i>June 24, 2015</i> - Eclipse Mars and PTP 9.0.0 released.  
+		  <p><i>March 21, 2018</i> - Eclipse Oxygen.3 released. Check the <a href="downloads.php">Download</a> link on how to get yours.</p>	  
+		  <p><i>December 20, 2017</i> - Eclipse Oxygen.2 released.</p>	  
+		  <p><i>September 27, 2017</i> - Eclipse Oxygen.1 released.</p>	  
+		  <p><i>June 28, 2017</i> - Eclipse Oxygen released.</p>	  
+		  <p><i>March 23, 2017</i> - Eclipse Neon.3 released.</p>	  
 		</div>
 
 		<div class="sideitem">
